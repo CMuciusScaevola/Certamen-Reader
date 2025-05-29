@@ -1,6 +1,8 @@
 # Certamen-Reader
 Reads Certamen questions and allows buzzing
 
+Relevant files for playing are in the file Download.zip
+
 Currently only contains Advanced level rounds
 
 Flashcard feature is not as good as online ones such as Anki, but it mostly functions and does basic spaced repetition. 
