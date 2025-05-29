@@ -15,7 +15,8 @@ bonus1answers=[]
 bonus2s=[]
 bonus2answers=[]
 replacementct=0
-with open("Rounds/" +args[0]+"_Parsed.txt",'w') as output:
+
+with open("Download/Rounds/" +args[0]+"_Parsed.txt",'w') as output:
     for match in matches:
         match=match.replace("1.","").replace("2.","").replace("\n"," ")
         match=match.split("BONUS:")

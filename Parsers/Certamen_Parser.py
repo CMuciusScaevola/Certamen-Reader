@@ -17,7 +17,7 @@ bonus2s=[]
 bonus2answers=[]
 replacementct=0
 lens = []
-with open("Rounds/" +args[0]+"_Parsed.txt",'w') as output:
+with open("Download/Rounds/" +args[0]+"_Parsed.txt",'w') as output:
     print(len(matches))
     for match in matches:
         lens.append((len(match),match))
