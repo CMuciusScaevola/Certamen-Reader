@@ -31,7 +31,7 @@ for rnd in rnds:
         for itm in newQs:ALLQUESTIONS.add(itm+f" (from {rnd[:-11]})")
 
 DCTENG={*open("CSW19.txt").read().splitlines()} #to make reading speed better
-SORTING=[False]
+SORTING=[True]
 QUESTIONS=[]
 QUESTION,ANSWER,BONUS1,BONUS1ANS,BONUS2,BONUS2ANS=[""],[""],[""],[""],[""],[""]
 LASTEXTRACTED=[0]
