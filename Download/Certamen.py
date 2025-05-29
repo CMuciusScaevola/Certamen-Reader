@@ -11,17 +11,16 @@ ROUNDNAMES=["Harvard","Yale","Princeton","VAFinals","Keartamen","VAKickoff","NJC
 LEVELS=["Novice","Intermediate","Advanced"]
 CATEGORIES=["History","Literature","Language","Mythology"]
 DCTYEARS={}
-SHOWINGCATS=[False]
-SELECTEDLEVELRDOPTION=[0]
-DIFFICULTY=[0]
+
+SELECTEDLEVELRDOPTION=[0] #Novice, Intermediate, or Advanced
 HASSKIPPED=[False,0]
-LASTSKIPP=[time.time()]
+LASTSKIPP=[time.time()] #To ensure repeated skips don't come too often
 RD2PLAY=[""]
 ALLQUESTIONS=set()
-rnds = os.listdir("Rounds")
+rnds = os.listdir("Download/Rounds")
 for rnd in rnds:
     if not "Language.txt" in rnd and not "History.txt" in rnd and not "Literature.txt" in rnd and not "Mythology.txt" in rnd:
-        qs=open("Rounds/"+rnd).read()
+        qs=open("Download/Rounds/"+rnd).read()
         rnd=rnd.replace("_"," ")
         while "  " in qs:
             qs=qs.replace("  "," ")
@@ -30,15 +29,17 @@ for rnd in rnds:
         for itm in qs:newQs+=itm.split("BONUS:")
         for itm in newQs:ALLQUESTIONS.add(itm+f" (from {rnd[:-11]})")
 
-DCTENG={*open("CSW19.txt").read().splitlines()} #to make reading speed better
-SORTING=[True]
-QUESTIONS=[]
-QUESTION,ANSWER,BONUS1,BONUS1ANS,BONUS2,BONUS2ANS=[""],[""],[""],[""],[""],[""]
-LASTEXTRACTED=[0]
-CURPOINT=["Tossup"]
-EXPANS=[0]
-CURQ=[]
-CURQLABEL=[]
+DCTENG={*open("Download/CSW19.txt").read().splitlines()} #to make reading speed better
+SORTING=[False] #If true allows sorting of questions into new categories
+SHOWINGCATS=[False] #Controls whether the option buttens for sorting are visible
+
+QUESTIONS=[] #Will be populated with questions from the selected round
+QUESTION,ANSWER,BONUS1,BONUS1ANS,BONUS2,BONUS2ANS=[""],[""],[""],[""],[""],[""] #For reading the question
+LASTEXTRACTED=[0] #For saving, reporting faulty, etc
+CURPOINT=["Tossup"] #To progress through tossup bonus bonus sequence correctly
+EXPANS=[0] #The expected answer to the current question
+CURQ=[] #The current question
+CURQLABEL=[] #The words from the current question that are currently being displayed as it is read
 BUZZ=[False]
 CURSCREEN=['Homescreen']
 
@@ -102,8 +103,8 @@ def displayAns(*args):
     root.bind("f",selectSaveFact)
 
 def saveToHist(*args):
-    a={*open('Rounds/Advanced_History.txt').read().splitlines()}
-    with open("Rounds/Advanced_History.txt","a") as output:
+    a={*open('Download/Rounds/Advanced_History.txt').read().splitlines()}
+    with open("Download/Rounds/Advanced_History.txt","a") as output:
         q2write=LASTEXTRACTED[0]
         if not q2write[:-1] in a:
             output.write(q2write)
@@ -115,8 +116,8 @@ def saveToHist(*args):
     root.unbind("m")
     SHOWINGCATS[0]=False
 def saveToLit(*args):
-    a={*open('Rounds/Advanced_Literature.txt').read().splitlines()}
-    with open("Rounds/Advanced_Literature.txt","a") as output:
+    a={*open('Download/Rounds/Advanced_Literature.txt').read().splitlines()}
+    with open("Download/Rounds/Advanced_Literature.txt","a") as output:
         q2write=LASTEXTRACTED[0]
         if not q2write[:-1] in a:
             output.write(q2write)
@@ -128,8 +129,8 @@ def saveToLit(*args):
     root.unbind("m")
     SHOWINGCATS[0]=False
 def saveToLang(*args):
-    a={*open('Rounds/Advanced_Language.txt').read().splitlines()}
-    with open("Rounds/Advanced_Language.txt","a") as output:
+    a={*open('Download/Rounds/Advanced_Language.txt').read().splitlines()}
+    with open("Download/Rounds/Advanced_Language.txt","a") as output:
         q2write=LASTEXTRACTED[0]
         if not q2write[:-1] in a:
             output.write(q2write)
@@ -141,8 +142,8 @@ def saveToLang(*args):
     root.unbind("m")
     SHOWINGCATS[0]=False
 def saveToMyth(*args):
-    a={*open('Rounds/Advanced_Mythology.txt').read().splitlines()}
-    with open("Rounds/Advanced_Mythology.txt","a") as output:
+    a={*open('Download/Rounds/Advanced_Mythology.txt').read().splitlines()}
+    with open("Download/Rounds/Advanced_Mythology.txt","a") as output:
         q2write=LASTEXTRACTED[0]
         if not q2write[:-1] in a:
             output.write(q2write)
@@ -394,16 +395,16 @@ def back2Year():
         for yr in DCTYEARS[RD2PLAY[0]]:yr.grid()
 def loadSelectedFile():
     CURPOINT[0]="Tossup"
-    qs=open("Rounds/"+RD2PLAY[0]).read()
+    qs=open("Download/Rounds/"+RD2PLAY[0]).read()
     while "  " in qs:
         qs=qs.replace("  "," ")
     qs=qs.splitlines()
     if "History" in RD2PLAY[0] or "Literature" in RD2PLAY[0] or "Language" in RD2PLAY[0] or "Mythology" in RD2PLAY[0]:
         SORTING[0]=False
     if SORTING[0]:
-        seen={*open('Rounds/Faulty_Questions.txt').read().splitlines()}|{*open('Rounds/Advanced_History.txt').read().splitlines()}|{*open('Rounds/Advanced_Language.txt').read().splitlines()}|{*open('Rounds/Advanced_Literature.txt').read().splitlines()}|{*open('Rounds/Advanced_Mythology.txt').read().splitlines()}
+        seen={*open('Download/Rounds/Faulty_Questions.txt').read().splitlines()}|{*open('Download/Rounds/Advanced_History.txt').read().splitlines()}|{*open('Download/Rounds/Advanced_Language.txt').read().splitlines()}|{*open('Download/Rounds/Advanced_Literature.txt').read().splitlines()}|{*open('Download/Rounds/Advanced_Mythology.txt').read().splitlines()}
     else:
-        seen={*open('Rounds/Faulty_Questions.txt').read().splitlines()}
+        seen={*open('Download/Rounds/Faulty_Questions.txt').read().splitlines()}
     qs={*qs}
     toRemove=set()
     for question in qs:
@@ -425,8 +426,8 @@ def loadSelectedFile():
     questionScreen()
 
 def recordFaultyQuestion():
-    a={*open('Rounds/Faulty_Questions.txt').read().splitlines()}
-    with open("Rounds/Faulty_Questions.txt","a") as output:
+    a={*open('Download/Rounds/Faulty_Questions.txt').read().splitlines()}
+    with open("Download/Rounds/Faulty_Questions.txt","a") as output:
         toW=f"{RD2PLAY[0]} {LASTEXTRACTED[0]}"
         if not toW[:-1] in a:
             output.write(toW)

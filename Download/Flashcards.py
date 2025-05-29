@@ -16,7 +16,7 @@ GONEXT=[False]
 LBLS=[]
 
 def getDecks():
-    a= os.listdir("Flashcard Decks")
+    a= os.listdir("Download/Flashcard Decks")
     for i,itm in enumerate(a):
         a[i]=itm[:-4]
     return a
@@ -28,7 +28,7 @@ def makeCard(frontText,backText,selectedDeck,frontEntry,backEntry,errorLabel,car
         errorLabel.grid_remove()
         frontText.delete(0,'end')
         backText.delete(0,'end')
-        with open("Flashcard Decks/"+deck+".txt","a") as output:
+        with open("Download/Flashcard Decks/"+deck+".txt","a") as output:
             date=datetime.datetime.now()
             string=front.replace("\n"," ")+"**REVERSE**"+back.replace("\n"," ")+"**LASTREVIEW**"+f"{date.year}-{date.month}-{date.day}-{date.hour}-{date.minute}"+"**LEARNINGSTAGE**0"+"\n"
             output.write(string)
@@ -41,7 +41,7 @@ def makeCard(frontText,backText,selectedDeck,frontEntry,backEntry,errorLabel,car
 
 def createDeck(deck,entryToClear,mfcMenu,selectedDeck):
     if deck and not deck in getDecks():
-        with open("Flashcard Decks/"+deck+".txt","a") as output:
+        with open("Download/Flashcard Decks/"+deck+".txt","a") as output:
             entryToClear.delete(0,'end')
         print("Created!")
         DECKOPTIONS=sorted(getDecks())
@@ -176,7 +176,7 @@ def reviewDeck(deckfile,relevantFrames):
     relevantFrames[7].grid()
 
 def saveDeck(toReview,dormant,deck):
-    with open("Flashcard Decks/"+deck+".txt","w") as output:
+    with open("Download/Flashcard Decks/"+deck+".txt","w") as output:
         for itm in dormant:output.write(itm+"\n")
         for itm in toReview:output.write(itm[1]+"**LASTREVIEW**"+itm[3]+"**LEARNINGSTAGE**"+f"{itm[2]}"+"\n")
 
