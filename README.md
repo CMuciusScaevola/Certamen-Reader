@@ -16,8 +16,14 @@ Facts are saved to a text file; I will later implement a way to look over them w
 Once answer is submitted, the correct answer will be displayed; the reader does not grade answers.
 
 Keybindings:
+
 Read next question/bonus: "n"
+
 Skip current question (only works whilst reading, not after answering): "s"
+
 Save fact: "f" once question is finished
+
 Buzz: spacebar
+
 Submit answer: enter
+
