@@ -1,7 +1,7 @@
 # Certamen-Reader
 Reads Certamen questions and allows buzzing
 
-Relevant files for playing are in the file Download.zip
+Relevant files for playing are in the folder Download
 
 Currently only contains Advanced level rounds
 
