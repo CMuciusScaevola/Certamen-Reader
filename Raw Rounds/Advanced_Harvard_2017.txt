@@ -1,9 +1,14 @@
-1. Translate the following sentence into English: Pȳthia dixit se fata nescire sed oraculis
-credere?
-THE PYTHIA SAID THAT SHE DID NOT KNOW FATE/DESTINY BUT BELIEVED THE ORACLES.
-B1: Now try this one: Puella vult scire num heroa venturum esset.
+1
+HARVARD CERTAMEN 2017
+ADVANCED DIVISION
+ROUND I
+1. Translate the following sentence into English: Pȳthia dīxit sē fāta nēscīre sed orācūlis
+crēdere?
+THE PYTHIA SAID THAT SHE DID NOT KNOW
+FATE/DESTINY BUT BELIEVED THE ORACLES.
+B1: Now try this one: Puella vult scīre num heroa ventūrum esset.
  THE GIRL WANTS TO KNOW WHETHER THE HERO WILL RETURN.
-B2: Now try this one: Speramus nos victuros esse, sed sola Pȳthia scit.
+B2: Now try this one: Spēramus nōs victurōs esse, sed sōla Pȳthia scit.
  I HOPE THAT WE WILL WIN, BUT ONLY THE PYTHIA/ORACLE KNOWS.
 2. What sisters had many defining features, such as huge boar-like tusks, hands of bronze, gold
 wings, and heads entwined with snakes?
@@ -17,19 +22,20 @@ distaste for everything Greek, solidified his literary reputation with historica
 prowess, and immortalized his name with the phrase Ceterum, censeo Carthaginem esse
 delendam, which is popularly abridged to Carthago delenda est!
 CATO THE ELDER
-B1: What was Cato's full name?
+B1: What was Cato’s full name?
 MARCUS PORCIUS CATO MAIOR/CENSOR(IUS)/SAPIENS/PRISCUS
-B2: Cato's De Agri Cultura prominently features what vegetable, which is the modern genus of
+B2: Cato’s De Agri Cultura prominently features what vegetable, which is the modern genus of
 cabbage, broccoli, cauliflower, choy sum, rutabaga, turnips, mustard, and wild mustard?
 BRASSICA
-4. From what Latin noun with what meaning do we derive "jaunty," "genie," and, "genteel"?
- GENUS-KIND
-B1: From what Latin noun with what meaning do we derive "frond"?
- FRONS-LEAF
-B2: From what Latin noun with what meaning do we derive "lettuce"?
-LAC-MILK
-5. What kind of conditional is found in the following sentence: Si non tam temere egisset,
-vicissemus.
+4. From what Latin noun with what meaning do we derive “jaunty,” “genie,” and, “genteel”?
+ GENUS—KIND
+B1: From what Latin noun with what meaning do we derive “frond”?
+ FRONS—LEAF
+B2: From what Latin noun with what meaning do we derive “lettuce”?
+LAC—MILK
+5. What kind of conditional is found in the following sentence: Sī nōn tam temerē ēgisset,
+vicissēmus.
+2
 PAST CONTRARY TO FACT
 B1: Now translate that sentence.
 IF HE HAD NOT ACTED SO RASHLY, WE WOULD HAVE WON.
@@ -43,7 +49,7 @@ FRONTINUS
 B2: What emperor recalled Agricola in 85 allegedly because he was jealous of Agricola's
 successes?
 DOMITIAN
-7. We all know our chickpea-faced pal, Cicero. We all know that Cicero's full 3-word name is
+7. We all know our chickpea-faced pal, Cicero. We all know that Cicero’s full 3-word name is
 Marcus Tullius Cicero. The cognomen, Cicero, is derived from cicer, referring to what type
 vegetable?
 CHICKPEA (or GARBANZO BEAN)
@@ -51,26 +57,27 @@ B1: Plutarch informs us that he was called this because one of his ancestors had
 grew chickpeas as a profession. Sadly Cicero, Illinois does not grow chickpeas. However, the
 town of Cicero does encompass the Corey Steel Company in its jurisdiction. With that in mind,
 in which specific speech of Cicero, does Cicero ask his opponent Catiline if there was not one
-Roman youth to whom he "has not handed out steel for audacious crime?"
+Roman youth to whom he “has not handed out steel for audacious crime?”
 IN CATILINAM I
 B2: On what day was this speech given?
 NOVEMBER 8
 8. Who, according to early Roman accounts, consented to marry the Libyan king Iarbas but
 secretly ordered a funeral pyre to be built and killed herself upon it?
 DIDO
-B1: Dido's first husband was Sychaeus, who was also related to her in what way?
+B1: Dido’s first husband was Sychaeus, who was also related to her in what way?
 HE WAS HER UNCLE
-B2: In Vergil's Aeneid, what action of Iarbas causes Jupiter to have Mercury urge Aeneas to
+B2: In Vergil’s Aeneid, what action of Iarbas causes Jupiter to have Mercury urge Aeneas to
 leave Dido?
 HE PRAYS TO (HIS FATHER) JUPITER
-9. In boarding schools, students are often provided for by the school staff due to the students'
+9. In boarding schools, students are often provided for by the school staff due to the students’
 distance from home. What Latin phrase describes the legal responsibility bestowed upon these
 schools to act on behalf of parents?
 IN LOCO PARENTIS
-B1: What similar Latin phrase meaning "parent of the country" describes the power of the state
+B1: What similar Latin phrase meaning “parent of the country” describes the power of the state
 to intervene to protect children, under circumstances of abuse or negligence of the child?
+3
 PARENS PATRIAE
-B2: What Latin phrase, literally meaning "holding the place" describes one temporarily fulfilling
+B2: What Latin phrase, literally meaning “holding the place” describes one temporarily fulfilling
 the duties of another, such as a substitute teacher?
 LOCUM TENENS
 10. What emperor was appointed by the Senate in 96 CE, promised to never execute a Senator
@@ -78,24 +85,24 @@ without a trial, but nevertheless failed to control the army?
 NERVA
 B1: Whom did Nerva indifferently exile early in his reign for conspiring for the throne?
 (GAIUS) CALPURNIUS CRASSUS
-B2: What Praetorian Prefect induced the guards to lay siege to Nerva's palace to execute
+B2: What Praetorian Prefect induced the guards to lay siege to Nerva’s palace to execute
 Petronius Secundus, the lead conspirator against Domitian?
 CASPERIUS AELIANUS
-11. Complete this analogy: faceres is to facis as ______ is to vis.
-VELLES
-B1: Complete this analogy: volo is to velle as patior is to ______.
-PATI
-B2: Complete this analogy: tollo is to sustuli as affero is to ______.
- ATTULI
+11. Complete this analogy: facerēs is to facis as ______ is to vīs.
+VELLĒS
+B1: Complete this analogy: volō is to velle as patior is to ______.
+PATĪ
+B2: Complete this analogy: tollō is to sustulī as afferō is to ______.
+ ATTULĪ
 12. What young relative of Odysseus pretended to have earned the enmity of Odysseus by
-speaking out against his treacherous murder of Palamedes, and thus won the Trojans' trust?
+speaking out against his treacherous murder of Palamedes, and thus won the Trojans’ trust?
 SINON
-B1: Aeneas remarks that Sinon's cunning and false tears had overcome the men who had not
+B1: Aeneas remarks that Sinon’s cunning and false tears had overcome the men who had not
 been subdued what two much stronger Greek warriors?
  ACHILLES and DIOMEDES
-B2: Aeneas' recounts later in his story that whose mighty trunk lay on the shores of Pergamum,
+B2: Aeneas’ recounts later in his story that whose mighty trunk lay on the shores of Pergamum,
 a headless corpse without a name?
-PRIAM'S
+PRIAM’S
 13. What battle of the early Roman Republic was commemorated by a parade of horses and a
 temple to Castor and Pollux, despite the fact that it was a draw between Rome and the Latin
 League in 496 BC?
@@ -106,32 +113,33 @@ CARTHAGE
 B2: What early Plebeian leader negotiated the treaty that followed this battle so skillfully that
 Rome gained equal status to the Latin League?
 SPURIUS CASSIUS
-14. What Latin word can mean "hero," "husband," or "man"?
+4
+14. What Latin word can mean “hero,” “husband,” or “man”?
 VIR
-B1: What less common definition of the Latin word amicus is a derivative of the Latin verb
-disco?
+B1: What less common definition of the Latin word amīcus is a derivative of the Latin verb
+discō?
 DISCIPLE
 B2: What less common definition of the Latin word exuviae is a future active imperative?
  MEMENTO
-15. Identify the correct form of the word "ribbon" if the following English sentence were to be
+15. Identify the correct form of the word “ribbon” if the following English sentence were to be
 translated into Latin: The girls understood that on Saturnalia, their hair should be fastened with
 ribbons.
-VITTIS
+VITTĪS
 B1: Vittae, since they relate to the human body, can often also be found with a passive verb and
 what type of accusative?
 SYNECHDOCHICAL/RESPECT/SPECIFICATION
-B2: What Latin word meaning "thigh" notably takes this accusative in a dramatic scene in Book
-V of Caesar's De Bello Gallico?
-FEMUR
+B2: What Latin word meaning “thigh” notably takes this accusative in a dramatic scene in Book
+V of Caesar’s De Bello Gallico?
+FĒMUR
 16. What office was made sacrosanct after the second secession of the Plebeians in 449 BCE?
 TRIBUNE
 B1: What did it mean in ancient Roman for a group of people to be sacrosanct?
 ARMS COULD NOT BE USED AGAINST THEM WITHIN THE CITY
 B2: What Plebeian-favoring consuls of 449 BCE passed the legislation that enacted this?
 VALERIUS POTITUS AND HORATIUS BARBATUS
-17. Whose physical features-that is, his uncut hairs, fiery eyes, and dirty mantle-complement
+17. Whose physical features—that is, his uncut hairs, fiery eyes, and dirty mantle—complement
 the ferruginea cumba by which he would convey passengers to the Underworld?
-CHARON'S
+CHARON’S
 B1: What two primordial deities were the parents of Charon?
 EREBUS AND NYX
 B2: Across what two rivers did Charon bring his passengers?
@@ -142,20 +150,21 @@ LIVIUS ANDRONICUS
 B1: What two plays from those listed in the toss up share their name with plays written by
 Gnaeus Naevius?
 DANAE, EQUUS TROIANUS
-B2: What work in Saturnian Meter is Andronicus's magnum opus?
+B2: What work in Saturnian Meter is Andronicus’s magnum opus?
 ODYSSIA
+5
 19. Listen carefully to the following passage, which I will read twice, and answer in Latin
-the questions that follow: Eheu, amice! Hesterna gaudia brevi tempore me e negotio
-rapuerunt. Hesterna gaudia meam errabundam mentem quae de morte uxoris Quintiliae
-lacrimat eduxerunt. Hesterna gaudia meum calamum, perfixum in meis carminibus, in
-mensam depulerunt, dum levitate cerae cum te ludebam.
-The question: Quis in mensam depulsus est?
+the questions that follow: Eheu, amice! Hesterna gaudia brevī tempōre mē ē negotiō
+rapuerunt. Hesterna gaudia meam errābundam mentem quae dē morte uxoris Quintiliae
+lacrimat edūxērunt. Hesterna gaudia meum calamum, perfixum in meīs carminibus, in
+mensam depulerunt, dum levitāte cerae cum tē ludēbam.
+The question: Quis in mensam dēpulsus est?
 (MEUS) CALAMUS
-B1: Quam diu hesterna gaudia narratorem rapuerunt?
-BREVI TEMPORE
-B2: Qualem mentem hesterna gaudia eduxerunt?
-ERRABUNDAM
-20. Who am I? I'm popularly considered the father of Church song, I was elected to be bishop of
+B1: Quam diū hesterna gaudia narratorem rapuerunt?
+BREVĪ TEMPŌRE
+B2: Qualem mentem hesterna gaudia edūxērunt?
+ERRĀBUNDAM
+20. Who am I? I’m popularly considered the father of Church song, I was elected to be bishop of
 Milan without having been baptized, and I wrote a lot of treatises on virgins, widows, and
 Christian faith?
 SAINT AMBROSE
@@ -164,11 +173,15 @@ earlier author?
 CICERO
 B2: While I was the father of Church song, what other author invented the Latin hymn?
 ST. HILARY OF POITIERS
+6
+HARVARD CERTAMEN 2017
+ADVANCED DIVISION
+ROUND II
 1. Pothinus and Achillas were ordered by Ptolemy to kill what man that stumbled on to the
 shores of Egypt after losing the battle of Pharsalus?
 POMPEY
-B1: What general's second and third lines of defense armed with stabbing spears won the day
-against Pompey's larger army at Pharsalus?
+B1: What general’s second and third lines of defense armed with stabbing spears won the day
+against Pompey’s larger army at Pharsalus?
 CAESAR
 B2: What famous two-word Latin phrase did Caesar utter after this battle?
 HOC VOLUERUNT
@@ -184,35 +197,36 @@ otiose, malice, odoriferous, odious?
 3. Who was killed either because he was married when he should have been celibate, because he
 made love before a sanctuary of Apollo, or because he struck a wooden object that was sacred to
 Neptune?
-LAOCOON
-B1: Some accounts, like the one by Quintus Smyrnaeus, state that Laocoon met his downfall
+LAOCOÖN
+B1: Some accounts, like the one by Quintus Smyrnaeus, state that Laocoön met his downfall
 not because he struck the Trojan Horse, but because he wanted the Trojans to do what with it?
 BURN IT
-B2: Aeneas is told by his mother that which deity sent the serpents to kill Laocoon?
+B2: Aeneas is told by his mother that which deity sent the serpents to kill Laocoön?
 MINERVA
-4. Though originally used for the dative of purpose, the ending -u became the ablative ending of
-what verbal abstract of the fourth declension that is commonly introduced by fas, nefas, and
+4. Though originally used for the dative of purpose, the ending -ū became the ablative ending of
+what verbal abstract of the fourth declension that is commonly introduced by fās, nefās, and
 opus?
 SUPINE
 B1: Opus est is an impersonal verb that introduces what type of subjunctive?
 RESULT CLAUSE
 B2: Many impersonal verbs often introduce what type of infinitive, such as the one in the
-sentence "Licetne mihi ad latrinam ire?"
+sentence “Licetne mihi ad latrīnam īre?”
+7
 SUBJECTIVE INFINITIVE
 5. What author neglected to mention his puella for the first 55 lines of his first poem, even
 mentioning his patron Messalla before his lover, Delia, in his elegiac tribute to rusticity?
 TIBULLUS
-B1: Tibullus's mistress was named Delia in his poems. According to Apuleius, what is Delia's
+B1: Tibullus’s mistress was named Delia in his poems. According to Apuleius, what is Delia’s
 real name?
 PLANIA
-B2: In his elegies, Tibullus also mentions having relations with a puer delicatus - a term
+B2: In his elegies, Tibullus also mentions having relations with a puer delicatus – a term
 referring to a young boy bought for the sexual satisfaction of his master. The 12-year-old boy toy
-featured in Tibullus's work is known by what name?
+featured in Tibullus’s work is known by what name?
 MARATHUS
 6. What two Titans did not participate in the Titanomachy, and thus continued their original
 functions under the rule of Zeus?
 OCEANUS and HELIUS
-B1: Oceanus' wife Tethys and what other Titaness were particularly revered by the
+B1: Oceanus’ wife Tethys and what other Titaness were particularly revered by the
 Olympians?
 THEMIS
 B2: Themis was an earth-goddess, as was what other Titaness?
@@ -237,8 +251,9 @@ SEVERUS
 B2: While Maxentius was trying to one-by-one defeat members of the tetrarchy, what future
 emperor was training the army of his father Constantius Chlorus in Britain for battle?
 CONSTANTINE I
-9. According to the Lexicon Recentis Latinitatis what in modern times would be called an
-aleatorium?
+8
+9. According to the Lexicon Rēcentis Latinitātis what in modern times would be called an
+aleātorium?
 CASINO
 B1: What famous structure would be called Aedes Alba?
 WHITE HOUSE
@@ -249,31 +264,32 @@ similar style to his prodigious pile of papyrus scrolls, totaling some 12,200 li
 deemed collectively as the worst poem of all Latin literature?
 SILIUS ITALICUS
 B1: Other authors are known for writing a lot of rubbish. One of these trash writers, Volusius, is
-viciously attacked by what eloquent author who deems Volusius' works as cacata carta?
+viciously attacked by what eloquent author who deems Volusius’ works as cacata carta?
 CATULLUS
 B2: Some writers wrote intentionally simplistic and trite books. What author was commissioned
 by the emperor Valens to compose one such simplistic work, the Breviarium Ab Urbe Condita,
-an abridgement of Livy's history of Rome?
+an abridgement of Livy’s history of Rome?
 EUTROPIUS
 11. What king of Pontus send his general Archelaus to Greece in 88 BCE to fight Sulla besieging
 Athens?
 MITHRIDATES VI (THE GREAT)
 B1: At what battle in 86 BCE did scythe chariots not help Archelaus in defeating Sulla?
 CHAERONEA
-B2: At what battle in 86 BCE did Sulla build trenches and drive Archelaus's chariots back into
+B2: At what battle in 86 BCE did Sulla build trenches and drive Archelaus’s chariots back into
 his phalanx?
 ORCHOMENUS
 12. What Latin phrase, a precept that must be applied intelligently, advises us to generalize from
 one example?
-AB UNO DISCE OMNES
-B1: What Latin phrase cautions us that it is easy to fall, but once fallen, difficult to make one's
+AB ŪNŌ DISCE OMNĒS
+B1: What Latin phrase cautions us that it is easy to fall, but once fallen, difficult to make one’s
 way back up?
-FACILE DESCENSUS AVERNO
+FACILE DĒSCENSUS AVERNŌ
 B2: What Latin phrase attributed to Suetonius describes the oxymoronic yet necessary balance
 between caution and action?
-FESTINA LENTE
+FESTĪNĀ LENTE
 13. Who, perhaps in league with the demagogue Menestheus, because he privately feared that
 the famous king might induce the Scyrians to offer him their country, treacherously murdered
+9
 Theseus by pushing him off a cliff?
 LYCOMEDES
 B1: Theseus had gone to Scyrus because he inherited estates there from what grandfather of
@@ -292,19 +308,19 @@ Poetis chapter of what major work by Suetonius?
 DE VIRIS ILLUSTRIBUS
 15. Identify a declinable Latin word that has the same form in only the accusative and ablative
 cases.
- EGO/TU/SUI
+ EGŌ/TŪ/SUI
 B1: Identify a declinable Latin word that has the same form in the nominative and ablative
 singular.
-GENU/GELU/CORNU/VERU/PECU
+GENŪ/GELŪ/CORNŪ/VERŪ/PECŪ
 B2: Identify the Latin monoptote that describes a time of day.
-MANE
+MANĒ
 16. Whose younger brother Promachus and father would meet their deaths in a gruesome
-fashion, the first through plotted murder, and the second by drinking bull's blood, all because of
+fashion, the first through plotted murder, and the second by drinking bull’s blood, all because of
 the enmity of Pelias?
 JASON
-B1: What did Jason's mother do upon hearing witnessing these injustices?
+B1: What did Jason’s mother do upon hearing witnessing these injustices?
 SHE KILLED HERSELF WITH A SWORD
-B2: Upon hearing what rumor had Pelias dared to murder Jason's father and younger brother?
+B2: Upon hearing what rumor had Pelias dared to murder Jason’s father and younger brother?
 THE SHIP HAD GONE DOWN WITH ALL ITS CREW
 17. What Roman general, although more famous for his son Pompey Magnus, is credited with
 ending the Social War by taking the Italian strongholds at Corfinium and Asculum?
@@ -313,11 +329,12 @@ B1: What two political enemies of 63 BCE served together under Strabo in the Soc
 CICERO AND CATILINE
 B2: In what year immediately following the social war did Strabo serve as consul with Sulla?
 88 BCE
-18. Translate the following sentence into English: Quare esse amici nequimus?
- WHY CAN'T WE BE FRIENDS?
-B1: Now try this one: Utinam mea amica esse velit!
+10
+18. Translate the following sentence into English: Quāre esse amīcī nēquimus?
+ WHY CAN’T WE BE FRIENDS?
+B1: Now try this one: Ūtīnam mea amīca esse vēlit!
 IF ONLY SHE WOULD WISH TO BE MY FRIEND!
-B2: Now try this one: Eheu! Sunt qui esse me boni amici non cupiant.
+B2: Now try this one: Eheu! Sunt quī esse me bonī amicī non cupiant.
  ALAS, THERE ARE THOSE WHO DO NOT WISH TO BE MY GOOD FRIENDS!
 19. What Greek writer serves as the obvious influence for Vergil when he was writing the
 Aeneid?
@@ -330,20 +347,25 @@ Georgics?
 HESIOD
 20. Translate the following sentence into Latin: The moderators did not know where they were
 going.
-MODERATORES NESCIVERUNT QUO IRENT.
+MODERĀTŌRĒS NĒSCĪVĒRUNT QUŌ ĪRENT.
 B1: Translate the following sentence into Latin: The moderators whom we choose might also be
 teachers.
-MODERATORES, QUOS LEGIMUS, MAGISTRI SINT.
+MODERĀTORĒS, QUŌS LEGIMUS, MAGISTRĪ SINT.
 B2: Translate the following sentence into Latin: The moderators must be lauded by us for their
 efforts.
- MODERATORES NOBIS PRO OPERIBUS/LABORIBUS LAUDANDI SUNT.
-1. According to Hyginus, who was less faithful at her daughter's death than anger at Oeax's
-advance report that his daughter was bringing home Priam's daughter Cassandra as a concubine?
+ MODERATŌRĒS NOBĪS PRŌ OPERIBUS/LABŌRIBUS LAUDANDĪ
+SUNT.
+11
+HARVARD CERTAMEN 2017
+ADVANCED DIVISION
+ROUND III
+1. According to Hyginus, who was less faithful at her daughter’s death than anger at Oeax’s
+advance report that his daughter was bringing home Priam’s daughter Cassandra as a concubine?
 CLYTEMNESTRA
 B1: It is for this reason that Hyginus remarks that Oeax thus avenged what unjust action of
 Agamemnon?
-AGAMEMNON'S CONDEMNATION OF (HIS BROTHER) PALAMEDES
-B2: Though she bore such great resentment towards him for his role in their daughter's death,
+AGAMEMNON’S CONDEMNATION OF (HIS BROTHER) PALAMEDES
+B2: Though she bore such great resentment towards him for his role in their daughter’s death,
 Clytemnestra seemed to have had no such hatred for Agamemnon when he violently killed what
 man, her first husband?
 TANTALUS
@@ -352,38 +374,42 @@ eating, introduced an early and rough version of hexameter to Latin literature, 
 of Euhemerus, according to Cicero?
 ENNIUS
 B1: When Fulvius Nobilior took Ennius with him on his military campaign to Ambracia, what
-former patron of Ennius was like "oh no you didn't?"
+former patron of Ennius was like “oh no you didn’t?”
 CATO THE ELDER
 B2: What work of Ennius technically began the tradition of Roman satire, although official
 credit for beginning the genre is given to a later author?
  SOTA (or SATURAE)
 3. Translate the following sentence from Latin into English: Cornelius ab amplissimo
-senatore portare aquam usque ad flumen Tiberim iussus est.
-CORNELIUS WAS ORDERED BY THE VERY DISTINGUISHED SENATOR TO CARRY WATER ALL THE WAY TO THE TIBER RIVER
-B1: Now translate this sentence from Latin into English: Non est dubium quin nemo sciat cur
-Cornelius tam pavidus sit.
- THERE IS NO DOUBT THAT NO ONE KNOWS WHY CORNELIUS IS SO AFRAID.
+senātōre portāre aquam usque ad flumen Tiberim iussus est.
+CORNELIUS WAS ORDERED BY THE VERY DISTINGUISHED
+SENATOR TO CARRY WATER ALL THE WAY TO THE TIBER RIVER
+B1: Now translate this sentence from Latin into English: Non est dubium quin nemo sciat cūr
+Cornēlius tam pavidus sit.
+ THERE IS NO DOUBT THAT NO ONE
+KNOWS WHY CORNELIUS IS SO AFRAID.
 B2: Translate the following sentence from English into Latin: Cornelius is afraid because he
 thinks that he will fall into the Tiber River.
-CORNELIUS PAVIDUS/TIMIDUS EST QUOD SE CASURUM ESSE IN FLUMEN TIBERIM PUTAT.
+CORNĒLIUS PAVIDUS/TIMIDUS EST QUOD
+SĒ CASŪRUM ESSE IN FLŪMEN TIBERIM PUTAT.
 4. Whose apparent willingness to provide information to his captors may have been due in
 part to disgruntlement over the fact that his brother Deiphobus had won their quarrel over
-the right to marry Helen after Paris' death?
-HELENUS'
+the right to marry Helen after Paris’ death?
+HELENUS’
+12
 B1: After the fall of Troy, Helenus traveled with Neoptolemus, and provided him with what
 useful piece of advice?
 TO RETURN HOME BY LAND (AND NOT SEA)
 B2: Where did Neoptolemus and Helenus settle upon leaving Troy?
 EPEIRUS
 5. Used when describing Aeneas and Rumor in the Aeneid, what third conjugation Latin
-verb can mean "to hide" or to "sheath one's sword" though it also has the more common
-meaning "to found"?
-CONDO
-B1: Another such verb with a less common meaning is claudo. Beside "to close," what else
-can claudo mean?
+verb can mean “to hide” or to “sheath one’s sword” though it also has the more common
+meaning “to found”?
+CONDŌ
+B1: Another such verb with a less common meaning is claudō. Beside “to close,” what else
+can claudō mean?
 TO LIMP, STUMBLE, FALTER
-B2: The adverb multo means "by much" and is a common ablative of degree of difference.
-What, however, does the verb multo mean? TO PUNISH
+B2: The adverb multō means “by much” and is a common ablative of degree of difference.
+What, however, does the verb multō mean? TO PUNISH
 6. Fans of the HBO series, Game of Thrones, are curious to find out if Danaerys Targaryen and
 Jon Snow will finally cross paths in the upcoming season. While a potential relationship between
 the mother of dragons and her nephew should seem weird to most, Roman historians know to
@@ -396,22 +422,24 @@ NIECE
 B2. What commander of the upper Rhine conspired to place the widower of Drusilla, Marcus
 Aemilius Lepidus, on the throne in 39 AD?
 (GNAEUS CORNELIUS) LENTULUS GAETULICUS
-7. What author, "the great protege of Aurunca" drove his steeds of satire to pen 30 poems of
+7. What author, “the great protégé of Aurunca” drove his steeds of satire to pen 30 poems of
 satire, thus establishing the genre with which Ennius had flirted?
 LUCILIUS
-B1: What two contemporary tragedians were lumped in Lucilius's laundry list of lampooneries?
+B1: What two contemporary tragedians were lumped in Lucilius’s laundry list of lampooneries?
 ACCIUS and PACUVIUS
-B2: Who was Lucilius's mistress?
+B2: Who was Lucilius’s mistress?
 COLLYRA
-8. What use of the subjunctive is found in the following sentence: Timet ne mox
-mendax esse ducatur. 
+8. What use of the subjunctive is found in the following sentence: Timet nē mox
+mendax esse ducātur. 
 FEARING
-B1: What use of the subjunctive is found in this sentence: Dico ei hominem qui semel mendax
-esset semper mendacem esse cogitum iri.
+B1: What use of the subjunctive is found in this sentence: Dīcō eī hominem quī semel mendax
+esset semper mendācem esse cogitum īrī.
  RELATIVE CLAUSE OF CHARACTERISTIC
-B2: What use of the subjunctive is found in this sentence: Tam stultus est ut vero mea verba
-non credat. RESULT
-9. Defeats near Cyzicus and Nicaea preceded what Emperor's final defeat at Issus in 194 AD?
+B2: What use of the subjunctive is found in this sentence: Tam stultus est ut verō mea verba
+non crēdat. 
+RESULT
+13
+9. Defeats near Cyzicus and Nicaea preceded what Emperor’s final defeat at Issus in 194 AD?
 PESCENNIUS NIGER
 B1. After he had won the support of Asia and Egypt, Pescennius Niger seized what territory,
 making it the base from which he would attack Severus?
@@ -419,14 +447,14 @@ BYZANTIUM
 B2. According to the Historia Augusta, Pescennius earned the cognomen, Niger, because of
 which of his body parts?
 HIS NECK (IT WAS BLACK)
-10. What author in his quotation "possunt quia posse videntur" tells that that the
+10. What author in his quotation “possunt quia posse videntur” tells that that the
 appearance of power bestows power itself?
 VIRGIL
-B1: What author ominously writes "post equitem sedet atra cura," telling us that nobody is
+B1: What author ominously writes “post equitem sedet atra cūra,” telling us that nobody is
 free of anxiety?
 HORACE
-B2: What author calls to attention the irreversible results of time in his quotation "tempus, edax
-rerum"?
+B2: What author calls to attention the irreversible results of time in his quotation “tempus, edax
+rērum”?
 OVID
 11. It was no doubt that the presence of what sexual force enabled Erebus and Nyx, fellow
 offspring of Chaos, to unite and bring forth the beings Aether and Hemera?
@@ -437,19 +465,20 @@ B2: Later Greek accounts denoted Eros not as an offspring of Chaos but rather as
 son of Aphrodite. The poet Olen, however, claimed that what deity was the mother of Eros?
 EILEITHYIA
 12. What use of the dative is found in the following sentence: Quamquam non credendum est,
-gladatori se gratificari putant?
+gladatōri se grātificarī putant?
 SPECIAL VERBS
 B1: What use of the accusative is often used loosely by authors as in this sentence from Horace:
-Huic errori simile errorem insanire?
+Huic errōri simile errōrem insanīre?
 COGNATE
-B2: What use of the dative, used by poets, is found in the following sentence: Placitone etiam
-pugnabis amori?
+B2: What use of the dative, used by poets, is found in the following sentence: Placitōne etiam
+pugnābis amōrī?
 WITH VERBS OF CONTENDING
-13. What capable military commander was known as the, "the last of the Romans", for his
+13. What capable military commander was known as the, “the last of the Romans”, for his
 victory at the Catalaunian Plains?
 AETIUS
 B1. Aetius was able to defeat Attila the Hun with the help of what king of the Visigoths?
 THEODORIC I
+14
 B2. The death of Aetius sadly also meant that any hope for the Roman Empire was lost. What
 wealthy senator and aristocrat successfully enlisted Valentinian III in a scheme to assassinate
 Aetius?
@@ -468,39 +497,40 @@ defendente vicem modo rhetoris atque poetae, interdum urbani, parcentis viribus 
 extenuantis eas consulto?
 SERMONES
 15. Listen carefully to following passage, which I will read twice, and answer in English the
-question that follows: Sollemne est mihi, domine, omnia de quibus dubito ad te
-referre. Quis enim potest melius vel cunctationem meam regere vel ignorantium
-instruere? Cognitionibus de Christianis interfui numquam: ideo nescio quid et quatenus
-aut puniri soleat aut quaeri.
-The question: Why doesn't the speaker know how to punish Christians?
+question that follows: Sōllemne est mihi, dōmine, omnia dē quibus dubitō ad tē
+rēferre. Quis enim potest melius vel cunctātiōnem meam regere vel ignorantium
+instruere? Cognitiōnibus dē Christianīs interfuī numquam: ideō nesciō quid et quātenus
+aut punīrī soleat aut quaerī.
+The question: Why doesn’t the speaker know how to punish Christians?
  HE NEVER ATTENDED TRIALS
 B1: To whom is it customary that all questions be addressed?
 THE MASTER/RULER
 B2: Why does speaker write to the ruler?
  THE RULER IS MOST CAPABLE OF ADDRESSING ISSUES
-16. Before he saw Pallas' belt vaunting from Turnus' waist, Achilles would have granted
-Turnus' request to die at the house of what man?
+16. Before he saw Pallas’ belt vaunting from Turnus’ waist, Achilles would have granted
+Turnus’ request to die at the house of what man?
 DAUNUS
 B1: What object, bestowed upon him by Vulcan, did Daunus pass on to Turnus?
 AN UNBREAKABLE SWORD
 B2: How were Daunus and Perseus related?
 THEY WERE HALF BROTHERS
-17. What English word derived from the Latin word meaning "to bear" means "slow to act"
-or "tardy"?
+17. What English word derived from the Latin word meaning “to bear” means “slow to act”
+or “tardy”?
 DILATORY
-B1: What English word derived from the Latin word meaning "to measure" means
-"corresponding in size, extent, amount, or degree"?
+B1: What English word derived from the Latin word meaning “to measure” means
+15
+“corresponding in size, extent, amount, or degree”?
  COMMENSURATE
-B2: What English word derived from a Latin word for a type of vehicle means "exaggeration by
-means of often ludicrous distortion of parts or characteristics"?
+B2: What English word derived from a Latin word for a type of vehicle means “exaggeration by
+means of often ludicrous distortion of parts or characteristics”?
 CARICATURE
-18. Satura Tota Nostra Est declares satire to be of wholly Roman origin - a bold, dubiously
+18. Satura Tota Nostra Est declares satire to be of wholly Roman origin – a bold, dubiously
 patriotic assertion for what author to make in Book 10 of his Institutio Oratoria?
 QUINTILIAN
-B1: Quintilian served as what satirist's tutor?
+B1: Quintilian served as what satirist’s tutor?
 PERSIUS
-B2: The Harvard Lampoon, founded in 1876, is Harvard's principal satirical magazine. Their
-motto, Vanitas, both puns Harvard University's motto, Veritas, and harkens back to the phrase
+B2: The Harvard Lampoon, founded in 1876, is Harvard’s principal satirical magazine. Their
+motto, Vanitas, both puns Harvard University’s motto, Veritas, and harkens back to the phrase
 vanitas vanitatum omnia vanitas found in what work by Jerome?
 VULGATE
 19. The Triumviri Rei Publicae Constituendae Consulari Potestate were legally recognized
@@ -516,9 +546,13 @@ B1: What does the Latin phrase ne…quidem mean?
 NOT EVEN
 B2: What does the Latin phrase quin etiam mean?
 MOREOVER/FURTHERMORE
+16
+HARVARD CERTAMEN 2017
+ADVANCED DIVISION
+SEMIFINALS
 1. What Latin term, deemed a necessity to convict many criminal cases, denotes the
-knowledge and intent of wrongdoing by a guilty party, and literally means "a guilty
-mind"?
+knowledge and intent of wrongdoing by a guilty party, and literally means “a guilty
+mind”?
 MENS REA
 B1: What Latin legal term denotes that ignorance of the law is not a viable plea of
 innocence?
@@ -527,8 +561,8 @@ IGNORANTIA LEGIS NEMINEM EXCUSAT
 B2: What Latin legal term describes the subjective state of mind of the guilty party?
 ANIMUS NOCENDI
 2. In Books XI and XXIV of the Odyssey, what place is described respectively as the place
-which clean-heeled Achilles marched away from with great strides, and as "the
-abode of souls whose work is done"?
+which clean-heeled Achilles marched away from with great strides, and as “the
+abode of souls whose work is done”?
 THE FIELDS OF ASPHODEL (prompt on UNDERWORLD)
 B1: What semi-legendary place believed to be in the Atlantic was the residence of those who
 were reincarnated thrice, and judged to be pure enough to be in Elysium all three times?
@@ -540,7 +574,7 @@ MEDEA
 Tiberius as harsh and repulsive in his old age as he covers the period from the death of
 Augustus?
 TACITUS
-B1: This work was, of course, Tacitus' Annales, and was left unfinished due to his untimely
+B1: This work was, of course, Tacitus’ Annales, and was left unfinished due to his untimely
 death. Which fourth century AD pagan historian continued this work later on?
 AMMIANUS MARCELLINUS
 B2: Which work of Tacitus, which utilized an earlier work by Pliny the Elder, is a short
@@ -553,7 +587,8 @@ B1. Servius Tullius expanded the Roman city to include what three additional hil
 QUIRINAL, VIMINAL, AND ESQUILINE
 B2. Servius Tullius arranged the marriage of both his daughters to the sons of his
 predecessor, Tarquinius Priscus. Name both couples.
-TULLIA MINOR - ARRUNS / TULLIA MAJOR - LUCIUS
+TULLIA MINOR – ARRUNS / TULLIA MAJOR - LUCIUS
+17
 5. What Latin noun commonly used by Cicero as a pejorative prescribed to the Catilinarian
 Conspirators is also often used by philosophical authors when describing the state of
 humanity or when trying to denote the difference between men, animal, and deus, which
@@ -578,7 +613,7 @@ Senate at the Temple of Bellona in 82 BC?
 SULLA
 B1: What law enabled Sulla to be dictator for life and gave him almost unlimited power?
 LEX VALERIA
-B2: Sulla's epitaph, "I have always rewarded my friends with good, my enemies with evil"
+B2: Sulla’s epitaph, “I have always rewarded my friends with good, my enemies with evil”
 well summarizes his reign after assuming the dictatorship of Rome. An example of this
 policy in full effect was when Sulla executed what legate of his for running for the
 consulship against his orders?
@@ -598,10 +633,13 @@ THIRD
 9. Using two semi-deponent verbs, translate the following sentence into Latin: I was
 informed that the soldiers, who were accustomed to carry baggage, would arrive a little
 before dawn.
-CERTIOREM FIEBAM MILITES, QUI IMPEDIMENTA FERRE SOLERENT, PAULO ANTE PRIMA LUCE PERVENTUROS ESSE
+CERTIOREM FIEBAM MILITES, QUI IMPEDIMENTA FERRE
+18
+SOLERENT, PAULO ANTE PRIMA LUCE PERVENTUROS ESSE
 B1: Now translate this sentence into Latin: Who was there that dared to stop them from
 crossing the narrow river?
-QUIS ERAT QUI PROHIBERE EOS TRANSIRE ANGUSTA FLUMEN AUDERET?
+QUIS ERAT QUI PROHIBERE EOS TRANSIRE
+ANGUSTA FLUMEN AUDERET?
 B2: Using a deponent verb, translate this sentence into Latin: If the troops should not arrive in
 the evening, whom are we to trust?
 SI COPIAE VESPERI NON PERVENIANT, QUO/QUIBUS FIDAMUS?
@@ -609,7 +647,7 @@ SI COPIAE VESPERI NON PERVENIANT, QUO/QUIBUS FIDAMUS?
 confined to expressions of number, what rather infrequent use of the genitive is much less
 common than its counterpart in the ablative case?
 GENITIVE OF DESCRIPTION
-B1: Why would the expression "a king of wit," when translated into Latin not be considered
+B1: Why would the expression “a king of wit,” when translated into Latin not be considered
 a genitive of description?
 IT LACKS AN ADJECTIVE
 B2: Unlike the genitive of description, the ablative of description does not necessarily need
@@ -638,6 +676,7 @@ VALERIUS LAEVINUS
 answer the questions that follow in English:
 Quae fueram magnis olim patefacta triumphis,
 ianua Patriciae vota Pudicitiae,
+19
 cuius inaurati celebrarunt limina currus,
 captorum lacrimis umida supplicibus,
 nunc ego, nocturnis potorum saucia rixis,
@@ -646,14 +685,15 @@ et mihi non desunt turpes pendere corollae
 semper et exclusi signa iacere faces.
 The question: Give two reasons why the door is now complaining.
 (accept two from list of four):
-IT IS WOUNDED BY NIGHT QUARRELS OF DRINKERS//PUSHED BY UNWORTHY HANDS//HAS UGLY GARLANDS ON ITSELF//HAS TORCHES ON ITSELF
+IT IS WOUNDED BY NIGHT QUARRELS OF DRINKERS//PUSHED BY UNWORTHY
+HANDS//HAS UGLY GARLANDS ON ITSELF//HAS TORCHES ON ITSELF
 B1: What was the door once used for?
 TRIUMPHS
 B2: What opposing values has the door experience in its existence?
 CHASTITY AND LUST
 14. Complete this analogy: rosus eras is to rodes as _______ is to vesceris.
 NO FORM
-B1: Complete this analogy: habeam is to habiti sint as liquem is to ________.
+B1: Complete this analogy: habēam is to habitī sint as liquem is to ________.
 LIQUATI SIT
 B2: Complete this analogy: queri is to questas essetis as quire is to _______.
 QUIVISSETIS
@@ -667,58 +707,60 @@ Achilles killed him on the spot. This murder led to a dispute among the Greeks, 
 Achilles had to sacrifice to Apollo, Artemis, and Leto on what island before he could
 return to battle?
  LESBOS
-16. Quid Anglice significat: reticeo?
+16. Quid Anglicē significat: reticeo?
 BE SILENT
-B1: Quid Anglice significat: vadimonia?
+B1: Quid Anglicē significat: vadimonia?
 BAIL/SECURITY
-B2: Quid Anglice significat: ganeo?
+B2: Quid Anglicē significat: ganeo?
 GLUTTON
 17. What author, during the persecutions of Diocletian, was forced to abandon his teaching
 post in Bithynia, but was later chosen by Constantine to tutor his son Crispus in Gaul?
 LACTANTIUS
 B1: In which 7 book work of Lactantius, dedicated to Constantine, does he discuss the
 Christian theology, the final judgement, as well as anti-paganism and philosophy?
+20
 DIVINE INSTITUTIONS/DIVINAE INSTITUTIONES
 B2: Lactantius was the pupil of what earlier Christian poet who sought to refuse claims of
 Christians bringing calamity onto the Roman Empire in his Adversus Nationes?
 ARNOBIUS (OF SICCA)
 18. Achilles was able to wound the Mysian king Telephus because what son of Iphiclus had
-snatched away Telephus' shield?
+snatched away Telephus’ shield?
 PROTESILAUS
 B1: Telephus later begged Achilles to heal him of his wound, which Achilles willingly did in
-exchange for Telephus' aid in guiding the Greeks to Troy. Afterwards, the Greeks
+exchange for Telephus’ aid in guiding the Greeks to Troy. Afterwards, the Greeks
 asked Telephus to join them in fighting against the Trojans, but he refused, citing what
 reason?
-HE WAS PRIAM'S SON-IN-LAW
+HE WAS PRIAM’S SON-IN-LAW
 B2: What son of Telephus would fight on the Trojan side?
  EURYPYLUS
 19. Which of the following, if any, does not belong due to derivation: conserve, deserve,
 observe, preserve, reserve?
 DESERVE
-B1: From what Latin verb with what meaning is the English word "lawsuit" derived?
+B1: From what Latin verb with what meaning is the English word “lawsuit” derived?
 SEQUOR-FOLLOW
-B2: From what Latin noun with what meaning is the English word "surly" derived?
+B2: From what Latin noun with what meaning is the English word “surly” derived?
 SENEX-OLD MAN
 20. Julius Saturninus, Proculus, and Bonosus were all put down in 280 AD by what Emperor,
 who had earlier distinguished himself as a competent lieutenant under Aurelian?
 PROBUS
-B1. Probus wasn't well liked by his soldiers and so his reign didn't last very long. Before
-Probus' troops assassinated him, news came that what Praetorian Prefect had been
+B1. Probus wasn’t well liked by his soldiers and so his reign didn’t last very long. Before
+Probus’ troops assassinated him, news came that what Praetorian Prefect had been
 proclaimed Emperor in Rhaetia?
 CARUS
 B2. Letting his son, Carinus, rule the West, Carus, with his other son, Numerian crossed the
 Euphrates and marched against what Persian king?
 BAHRAM II
+21
+HARVARD CERTAMEN 2017
+ADVANCED DIVISION
+FINALS
 1. What scholar of the Late Republic, a praetor of 58 BC and friend of Cicero, was
 portrayed in medieval times as a magician, diviner, and occultist, perhaps because of
-Jerome's comment that he was a "Pythagoricus et magus"? 
-NIGIDIUS FIGULUS
+Jerome’s comment that he was a “Pythagoricus et magus”? NIGIDIUS FIGULUS
 B1: Even in Roman times, his skills as a diviner were well known. Figulus is said to have
-foretold the greatness of what emperor on the day of his birth? 
-AUGUSTUS
+foretold the greatness of what emperor on the day of his birth? AUGUSTUS
 B2: What Silver Age author would include a portrayal of Figulus uttering dire prophecies,
-based in part on astrological readings? 
-LUCAN
+based in part on astrological readings? LUCAN
 2. Translate the following sentence into Latin: The women certainly told you what they
 would have done.
 FEMINAE CERTE TIBI DIXERUNT QUID FACTURAE FUISSENT.
@@ -728,7 +770,8 @@ DIXIT SE AB VIRO QUI ADESSET QUID ACCIDISSET ROGAVISSE.
 B2: Using a compound of eo, translate the following sentence into Latin: Had the Romans
 been defeated by the Gauls, we would have been unable to behold a triumph wonderful to
 see.
-SI ROMANI A GALLIS VICTI ESSENT, TRIUMPHUM MIRABILEM VISU ASPICERE NEQUIVISSEMUS
+SI ROMANI A GALLIS VICTI ESSENT, TRIUMPHUM
+MIRABILEM VISU ASPICERE NEQUIVISSEMUS
 3. During the Third Macedonian War, what Illyrian chieftain made the unwise decision to
 abandon the Roman side and ally himself with Perseus?
 GENTHIUS
@@ -745,6 +788,7 @@ B1: In what case is the subject of the infinitive of a rhetorical question?
 ACCUSATIVE
 B2: What type of infinitive has its subject in the nominative case?
 HISTORICAL INFINITIVE
+22
 5. Differentiate in meaning between ferveo and foveo.
 TO GLOW & TO CHERISH
 B1: Differentiate in meaning between premo and promo.
@@ -786,8 +830,9 @@ an imperative in their Latin mottoes?
 KENTUCKY AND NORTH CAROLINA
 B1: Of Vermont, Colorado, Virginia, District of Columbia, and Kentucky, which, if any,
 contain a verb in their Latin mottoes?
+23
 VERMONT
-B2: Among Connecticut, Alabama, Michigan, New Mexico, and both of South Carolina's
+B2: Among Connecticut, Alabama, Michigan, New Mexico, and both of South Carolina’s
 mottoes, how many verb forms, including participals and infinitives, are there in total?
 TEN
 10. Who fathered by his wife Enarete several of the most powerful rulers of their time,
@@ -810,21 +855,23 @@ SHAPUR II
 12. Which of the following English words, if any, is derived from the same Latin word as
 mauve: meager, taupe, marshmallow, mallet, manger?
 MARSHMALLOW
-B1: From what Latin verb is "manger" derived?
-MANDO, MANDERE
-B2: What derivative of the Latin verb mando, mandare means "to give a compliment"?
+B1: From what Latin verb is “manger” derived?
+MANDŌ, MANDERE
+B2: What derivative of the Latin verb mandō, mandāre means “to give a compliment”?
 COMMEND
 13. Translate the following sentence into English: Quamvis scelerati illi fuissent, sunt vere
 tui parentes.
 HOWEVER WICKED THEY MIGHT HAVE BEEN,
 THEY ARE INDEED YOUR PARENTS
-B1: Now translate this sentence into English: Etsi caret maturitate, tamen hic discipulus,
-alacer multa discere, non est malum.
+B1: Now translate this sentence into English: Etsī caret mātūritāte, tamen hic discipulus,
+alacer multa discere, nōn est malum.
 ALTHOUGH HE LACKS MATURITY, THIS STUDENT,
 EAGER TO LEARN MANY THINGS, IS NOT BAD.
-B2: Now translate this sentence into English: Licet omnes tibi terrores periculaque
+B2: Now translate this sentence into English: Licet omnēs tibi terrōrēs perīculaque
 impendeant, ne pertimueris!
-ALTHOUGH ALL TERRORS AND DANGERS HANG OVER YOU, DO NOT BE VERY AFRAID.
+ALTHOUGH ALL TERRORS AND DANGERS
+HANG OVER YOU, DO NOT BE VERY AFRAID.
+24
 14. In the face of the unhaulting spread of vice, what author refuses to conform to the
 rationalistic tradition of satire by adopting the use of indignation to convey the fury of his
 disgust within his 16 satires?
@@ -833,14 +880,14 @@ B1: Juvenal often makes note of his disgust of the widespread moral corruption a
 that in his third Satire, Juvenal tells the story of what friend of his who abandons Rome,
 for life there has become too dangerous for honest men?
 UMBRICIUS
-B2: There was no doubt that Juvenal's works may have offended many, but the final straw
-came for him when he offended the emperor's favorite and was sent to spend his final
+B2: There was no doubt that Juvenal’s works may have offended many, but the final straw
+came for him when he offended the emperor’s favorite and was sent to spend his final
 place in what land?
 EGYPT
 15. That she was called, at her shrine at Athens, the eldest of the Fates, and that she taught
-the workings of the planets to Hermes are traces in the Greek tradition of what deity's
+the workings of the planets to Hermes are traces in the Greek tradition of what deity’s
 Asiatic role as an all-knowing queen of heaven?
-APHRODITE'S
+APHRODITE’S
 B1: What minor goddess has no myth beyond being called one of the Fates or a daughter of
 Zeus?
 TYCHE
@@ -854,11 +901,11 @@ MENAECHMI
 B1: In which play by Plautus does the eponymous character swindle Periphanes so that his
 master Strippocles can purchase the two girls he loves?
 EPIDICUS
-B2: According to stock character names in Atellan Farce, what does Plautus' nomen connote
+B2: According to stock character names in Atellan Farce, what does Plautus’ nomen connote
 about his appearance?
 FLAT FOOTED/BIG EARED (MACCUS IS HIS NOMEN)
 17. The Latin motto of Harvard is, of course, veritas, the third declension noun that means
-"truth." Give the definition of the other Latin word that has also has a form "veritas."
+“truth.” Give the definition of the other Latin word that has also has a form “veritas.”
 TO FEAR/RESPECT/REVERE (VEREOR)
 B1: What two meanings can the Latin word flet have?
 IT WEEPS, LET IT BLOW
@@ -867,6 +914,7 @@ GROVE, LET US SWIM, & WE WEAVE
 18. Listen carefully to the following poetic passage, which I will read twice in prose, and
 answer the question that follows in English:
 Abstineas, Mors atra, precor: non hic mihi mater
+25
 Quae legat in maestos ossa perusta sinus,
 Non soror, Assyrios cineri quae dedat odores
 Et fleat effusis ante sepulcra comis,
@@ -890,7 +938,7 @@ MARCUS VALERIUS CORVUS
 B1. Defeating that man in single combat was a serious act of strength and courage. My raven
 friend may have had some role in this victory... What did the raven do to help me beat
 this giant?
-FLYING IN FRONT OF GAUL'S FACE/EYES / OBSTRUCTING HIS VIEW)
+FLYING IN FRONT OF GAUL’S FACE/EYES / OBSTRUCTING HIS VIEW)
 B2: What emperor later erected a statue of Corvus in his Forum?
 AUGUSTUS
 20. Shortly after the Greeks first disembarked from their ships, Achilles battled against and

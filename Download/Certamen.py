@@ -17,10 +17,10 @@ HASSKIPPED=[False,0]
 LASTSKIPP=[time.time()] #To ensure repeated skips don't come too often
 RD2PLAY=[""]
 ALLQUESTIONS=set()
-rnds = os.listdir("Download/Rounds")
+rnds = os.listdir("Rounds")
 for rnd in rnds:
     if not "Language.txt" in rnd and not "History.txt" in rnd and not "Literature.txt" in rnd and not "Mythology.txt" in rnd:
-        qs=open("Download/Rounds/"+rnd).read()
+        qs=open("Rounds/"+rnd).read()
         rnd=rnd.replace("_"," ")
         while "  " in qs:
             qs=qs.replace("  "," ")
@@ -29,7 +29,7 @@ for rnd in rnds:
         for itm in qs:newQs+=itm.split("BONUS:")
         for itm in newQs:ALLQUESTIONS.add(itm+f" (from {rnd[:-11]})")
 
-DCTENG={*open("Download/CSW19.txt").read().splitlines()} #to make reading speed better
+DCTENG={*open("CSW19.txt").read().splitlines()} #to make reading speed better
 SORTING=[False] #If true allows sorting of questions into new categories
 SHOWINGCATS=[False] #Controls whether the option buttens for sorting are visible
 
@@ -90,8 +90,10 @@ def displayAns(*args):
             ANSWER[0]=BONUS2ANS[0]
             CURPOINT[0]="B2"
         else:
+            qb1.config(text=" ".join(QUESTION[0])+"\nANS: "+ANSWER[0])
             CURPOINT[0]="Tossup"
     else:
+        qb2.config(text=" ".join(QUESTION[0])+"\nANS: "+ANSWER[0])
         CURPOINT[0]="Tossup"
     factSaveFrame.grid()
     qb="Bonus"if not CURPOINT[0]=="Tossup" else "Question"
@@ -103,8 +105,8 @@ def displayAns(*args):
     root.bind("f",selectSaveFact)
 
 def saveToHist(*args):
-    a={*open('Download/Rounds/Advanced_History.txt').read().splitlines()}
-    with open("Download/Rounds/Advanced_History.txt","a") as output:
+    a={*open('Rounds/Advanced_History.txt').read().splitlines()}
+    with open("Rounds/Advanced_History.txt","a") as output:
         q2write=LASTEXTRACTED[0]
         if not q2write[:-1] in a:
             output.write(q2write)
@@ -116,8 +118,8 @@ def saveToHist(*args):
     root.unbind("m")
     SHOWINGCATS[0]=False
 def saveToLit(*args):
-    a={*open('Download/Rounds/Advanced_Literature.txt').read().splitlines()}
-    with open("Download/Rounds/Advanced_Literature.txt","a") as output:
+    a={*open('Rounds/Advanced_Literature.txt').read().splitlines()}
+    with open("Rounds/Advanced_Literature.txt","a") as output:
         q2write=LASTEXTRACTED[0]
         if not q2write[:-1] in a:
             output.write(q2write)
@@ -129,8 +131,8 @@ def saveToLit(*args):
     root.unbind("m")
     SHOWINGCATS[0]=False
 def saveToLang(*args):
-    a={*open('Download/Rounds/Advanced_Language.txt').read().splitlines()}
-    with open("Download/Rounds/Advanced_Language.txt","a") as output:
+    a={*open('Rounds/Advanced_Language.txt').read().splitlines()}
+    with open("Rounds/Advanced_Language.txt","a") as output:
         q2write=LASTEXTRACTED[0]
         if not q2write[:-1] in a:
             output.write(q2write)
@@ -142,8 +144,8 @@ def saveToLang(*args):
     root.unbind("m")
     SHOWINGCATS[0]=False
 def saveToMyth(*args):
-    a={*open('Download/Rounds/Advanced_Mythology.txt').read().splitlines()}
-    with open("Download/Rounds/Advanced_Mythology.txt","a") as output:
+    a={*open('Rounds/Advanced_Mythology.txt').read().splitlines()}
+    with open("Rounds/Advanced_Mythology.txt","a") as output:
         q2write=LASTEXTRACTED[0]
         if not q2write[:-1] in a:
             output.write(q2write)
@@ -279,7 +281,6 @@ def reset(*args):
                 b2Frame.grid()
                 qb2.config(text="\n"+" ".join(CURQ))
             saved.grid_remove()
-            expAns.configure(text=f"Expected: {ANSWER[0]}")
 
             readNext.config(text="Buzz",command=buzzFx)
             mainframe.focus()
@@ -365,7 +366,7 @@ def setRoundName(n):
             confirmLbl.config(font=("Courier",15))
             RD2PLAY[0]+=".txt"
             confirmFrm.grid()
-        else:
+        else: #Selects the year and prepares to load round
             for yr in DCTYEARS[RD2PLAY[0]]:yr.grid_remove()
             RD2PLAY[0]+=n
             txtConfirmLbl=RD2PLAY[0].replace("_"," ")
@@ -395,16 +396,16 @@ def back2Year():
         for yr in DCTYEARS[RD2PLAY[0]]:yr.grid()
 def loadSelectedFile():
     CURPOINT[0]="Tossup"
-    qs=open("Download/Rounds/"+RD2PLAY[0]).read()
+    qs=open("Rounds/"+RD2PLAY[0]).read()
     while "  " in qs:
         qs=qs.replace("  "," ")
     qs=qs.splitlines()
     if "History" in RD2PLAY[0] or "Literature" in RD2PLAY[0] or "Language" in RD2PLAY[0] or "Mythology" in RD2PLAY[0]:
         SORTING[0]=False
     if SORTING[0]:
-        seen={*open('Download/Rounds/Faulty_Questions.txt').read().splitlines()}|{*open('Download/Rounds/Advanced_History.txt').read().splitlines()}|{*open('Download/Rounds/Advanced_Language.txt').read().splitlines()}|{*open('Download/Rounds/Advanced_Literature.txt').read().splitlines()}|{*open('Download/Rounds/Advanced_Mythology.txt').read().splitlines()}
+        seen={*open('Rounds/Faulty_Questions.txt').read().splitlines()}|{*open('Rounds/Advanced_History.txt').read().splitlines()}|{*open('Rounds/Advanced_Language.txt').read().splitlines()}|{*open('Rounds/Advanced_Literature.txt').read().splitlines()}|{*open('Rounds/Advanced_Mythology.txt').read().splitlines()}
     else:
-        seen={*open('Download/Rounds/Faulty_Questions.txt').read().splitlines()}
+        seen={*open('Rounds/Faulty_Questions.txt').read().splitlines()}
     qs={*qs}
     toRemove=set()
     for question in qs:
@@ -426,8 +427,8 @@ def loadSelectedFile():
     questionScreen()
 
 def recordFaultyQuestion():
-    a={*open('Download/Rounds/Faulty_Questions.txt').read().splitlines()}
-    with open("Download/Rounds/Faulty_Questions.txt","a") as output:
+    a={*open('Rounds/Faulty_Questions.txt').read().splitlines()}
+    with open("Rounds/Faulty_Questions.txt","a") as output:
         toW=f"{RD2PLAY[0]} {LASTEXTRACTED[0]}"
         if not toW[:-1] in a:
             output.write(toW)
@@ -489,10 +490,8 @@ ansFrame.grid_remove()
 
 #Revealing Answer
 ansRevFrame=ttk.Frame(mainframe)
-expAns=ttk.Label(ansRevFrame,text=f"Expected: {ANSWER[0]}")
 gvAns=ttk.Label(ansRevFrame,text="")
 gvAns.grid(row=0,column=0,sticky=(EW))
-expAns.grid(row=1,column=0,sticky=(EW))
 ansRevFrame.grid(row=4,column=0,sticky=W)
 ansRevFrame.grid_remove()
 
@@ -595,7 +594,7 @@ rounds=[ttk.Button(roundOptionsAdvanced,text="Harvard",command=lambda:setRoundNa
         ttk.Button(roundOptionsAdvanced,text="Yale",command=lambda:setRoundName("Yale")),
         ttk.Button(roundOptionsAdvanced,text="Princeton",command=lambda:setRoundName("Princeton")),
         ttk.Button(roundOptionsAdvanced,text="VA State Finals",command=lambda:setRoundName("VAFinals")),
-        ttk.Button(roundOptionsAdvanced,text="VA Kickoff",command=lambda:setRoundName("VAKickoff")),
+        #ttk.Button(roundOptionsAdvanced,text="VA Kickoff",command=lambda:setRoundName("VAKickoff")),
         ttk.Button(roundOptionsAdvanced,text="Keartamen",command=lambda:setRoundName("Keartamen")),
         ttk.Button(roundOptionsAdvanced,text="NJCL Nats",command=lambda:setRoundName("NJCL")),
         ttk.Button(roundOptionsAdvanced,text="Longhorn",command=lambda:setRoundName("Longhorn"))]
@@ -647,7 +646,8 @@ roundOptionsNovice.grid_remove()
 selectYear=ttk.Frame(mainframe)
 backButton3=ttk.Button(selectYear,text="Back",command=back2School)
 backButton3.grid(row=2,column=0,sticky=W)
-harvardYearsAdvanced=[ttk.Button(selectYear,text="2024",command=lambda:setRoundName("2024")),
+harvardYearsAdvanced=[ttk.Button(selectYear,text="2025",command=lambda:setRoundName("2025")),
+                    ttk.Button(selectYear,text="2024",command=lambda:setRoundName("2024")),
                     ttk.Button(selectYear,text="2023",command=lambda:setRoundName("2023")),
                     ttk.Button(selectYear,text="2022",command=lambda:setRoundName("2022")),
                     ttk.Button(selectYear,text="2021",command=lambda:setRoundName("2021")),
@@ -668,7 +668,10 @@ yaleYearsAdvanced=  [ttk.Button(selectYear,text="2024",command=lambda:setRoundNa
                     ttk.Button(selectYear,text="2018",command=lambda:setRoundName("2018")),
                     ttk.Button(selectYear,text="2017",command=lambda:setRoundName("2017")),
                     ttk.Button(selectYear,text="2016",command=lambda:setRoundName("2016")),
-                    ttk.Button(selectYear,text="2015",command=lambda:setRoundName("2015"))]
+                    ttk.Button(selectYear,text="2015",command=lambda:setRoundName("2015")),
+                    ttk.Button(selectYear,text="2014",command=lambda:setRoundName("2014")),
+                    ttk.Button(selectYear,text="2013",command=lambda:setRoundName("2013")),
+                    ttk.Button(selectYear,text="2012",command=lambda:setRoundName("2012")),]
 princetonYearsAdvanced=[ttk.Button(selectYear,text="2025",command=lambda:setRoundName("2025")),
                         ttk.Button(selectYear,text="2022",command=lambda:setRoundName("2022")),
                         ttk.Button(selectYear,text="2021",command=lambda:setRoundName("2021")),
@@ -678,7 +681,9 @@ vaFinalsYearsAdvanced=[ttk.Button(selectYear,text="2023",command=lambda:setRound
                        ttk.Button(selectYear,text="2021",command=lambda:setRoundName("2021")),
                        ttk.Button(selectYear,text="2019",command=lambda:setRoundName("2019")),
                        ttk.Button(selectYear,text="2018",command=lambda:setRoundName("2018")),
-                       ttk.Button(selectYear,text="2016",command=lambda:setRoundName("2016"))]
+                       ttk.Button(selectYear,text="2017",command=lambda:setRoundName("2017")),
+                       ttk.Button(selectYear,text="2017_Lvl3",command=lambda:setRoundName("2017_Lvl3"))]
+                       #ttk.Button(selectYear,text="2016",command=lambda:setRoundName("2016"))]
 vaKickoffYearsAdvanced=[ttk.Button(selectYear,text="2023",command=lambda:setRoundName("2023"))]
 keartamenYearsAdvanced=[ttk.Button(selectYear,text="2024",command=lambda:setRoundName("2024")),
                         ttk.Button(selectYear,text="2023",command=lambda:setRoundName("2023")),
@@ -692,7 +697,8 @@ NJCLYearsAdvanced=[ttk.Button(selectYear,text="2024",command=lambda:setRoundName
                     ttk.Button(selectYear,text="2020",command=lambda:setRoundName("2020")),
                     ttk.Button(selectYear,text="2019",command=lambda:setRoundName("2019"))]
 longhornYearsAdvanced=[ttk.Button(selectYear,text="2024",command=lambda:setRoundName("2024")),
-                       ttk.Button(selectYear,text="2022",command=lambda:setRoundName("2022"))]
+                       ttk.Button(selectYear,text="2022",command=lambda:setRoundName("2022")),
+                       ttk.Button(selectYear,text="2021",command=lambda:setRoundName("2021"))]
 
 
 DCTYEARS["Advanced_Yale_"]=yaleYearsAdvanced

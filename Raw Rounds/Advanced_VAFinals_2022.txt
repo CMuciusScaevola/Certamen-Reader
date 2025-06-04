@@ -1,441 +1,836 @@
 2022 Virginia Junior Classical League State Finals Certamen
+
 Advanced Level
 
-
 PRELIMINARY ROUND ONE
+1. TOSSUP: Welcome to the 2022 VJCL State Finals Certamen! The Odyssey (and later the
+Aeneid) were used by what teachers as training texts while teaching the students
+literature, a primary piece of the secondary-school education? ANS:
+GRAMMATICUS
+a. BONUS: What teacher taught Roman boys to read? ANS: LITTERĀRIUS /
+LITTERĀTOR
 
+2. TOSSUP: For the Latin verb from which the English word “inscription” is derived, give
+the third person singular imperfect passive indicative. ANS: SCRĪBĒBATUR
+a. BONUS: Keeping all else the same, make scrībēbatur subjunctive. ANS:
+SCRĪBERETUR
 
-1. TOSSUP: Welcome to the 2022 VJCL State Finals Certamen! The Odyssey (and later the Aeneid) were used by what teachers as training texts while teaching the students literature, a primary piece of the secondary-school education?   ANS:  GRAMMATICUS
-1. BONUS: What teacher taught Roman boys to read?          ANS:  LITTERARIUS / LITTERATOR
+3. TOSSUP: What author, born in 284 B.C., composed tragedies and comedies including
+the attested titles Gladiolus and Ludius, but is best known for his translation of the
+Odyssey into Latin? ANS: (LUCIUS LIVIUS) ANDRONICUS
+a. BONUS: I bet you’re expecting a bonus question about saturnian meter, no? You
+probably feel real silly now. What author pioneered the use of dactylic hexameter
+in Latin literature, rather than Andronicus’ saturnian?
+ANS: (QUINTUS) ENNIUS
 
+4. TOSSUP: According to Hesiod’s Theogony, what goddess, the only child of Asteria and
+Perses, is called upon “whenever anyone of men on earth offers rich sacrifices and prays
+for favor according to custom,” because this goddess of the crossroads brings great honor
+to anyone, from king to peasant, whom she deems worthy? ANS: HECATE
+a. BONUS: Hesiod also describes what aunt of Hecate, and mother of Apollo and
+Artemis as the “gentlest in all of Olympus?” ANS: LETO
 
-2. TOSSUP: For the Latin verb from which the English word "inscription" is derived, give the third person singular imperfect passive indicative.   ANS:  SCRIBEBATUR
-1. BONUS: Keeping all else the same, make scribebatur subjunctive.          ANS:  SCRIBERETUR
+5. TOSSUP: Translate the following sentence from Latin into idiomatic English: Fēmina
+dēfessa ex urbe discessit ut domum redīret. ANS: THE TIRED WOMAN LEFT
+(FROM / OUT OF) THE CITY (SO / IN ORDER) THAT SHE MIGHT GO BACK /
+RETURN HOME. [or other acceptable purpose translation]
+a. BONUS: Express only the purpose clause in that sentence using a GERUND.
+ANS: AD (DOMUM) REDEUNDUM / (DOMUM) REDEUNDĪ CAUSĀ /
+GRĀTIĀ.
+**SCORE CHECK**
 
+Page 1
 
-3. TOSSUP: What author, born in 284 B.C., composed tragedies and comedies including the attested titles Gladiolus and Ludius, but is best known for his translation of the Odyssey into Latin?   ANS:  (LUCIUS LIVIUS) ANDRONICUS
-1. BONUS: I bet you’re expecting a bonus question about saturnian meter, no? You probably feel real silly now. What author pioneered the use of dactylic hexameter in Latin literature, rather than Andronicus’ saturnian?          
-ANS:  (QUINTUS) ENNIUS
+2022 Virginia Junior Classical League State Finals Certamen
 
+Advanced Level
 
-4. TOSSUP: According to Hesiod’s Theogony, what goddess, the only child of Asteria and Perses, is called upon "whenever anyone of men on earth offers rich sacrifices and prays for favor according to custom," because this goddess of the crossroads brings great honor to anyone, from king to peasant, whom she deems worthy?        ANS: HECATE
-1. BONUS: Hesiod also describes what aunt of Hecate, and mother of Apollo and Artemis as the "gentlest in all of Olympus?"           ANS:  LETO
+6. TOSSUP: What 12-book Latin epic, in which mythological celebrities such as Camilla,
+Aeolus, and countless Olympians make an appearance, gives a backstory for the founding
+of the Rome people following the Trojan War? ANS: AENEID
+a. BONUS: The Aeneid concludes with a duel between the titular Aeneas and which
+enemy king of the Rutulians? ANS: TURNUS
 
+7. TOSSUP: The Lēx Gabīnia, issued in 67 BC, gave what Roman commander, famed for
+his success against Spartacus’ rebellion, authority to clear the Mediterranean Sea of
+pirates, which he accomplished in a span of just three months? ANS: POMPEY (THE
+GREAT) / CN. POMPEIUS
+a. BONUS: Pompey was also the subject of what other law, issued a year later,
+which gave him command against Mithridates VI? ANS: LĒX MĀNĪLIA
+8. TOSSUP: Who tells a disguised Odysseus that he was brought up alongside the Ithacan
+princess Ctimene until he was sent into the fields to care for the royal family’s livestock
+and swine? ANS: EUMAEUS
+a. BONUS: Ctimene was sent to Same and married off to which of Odysseus’ men,
+the only one to have escaped Circe’s lair without undergoing a metamorphosis
+into the form of a pig? ANS: EURYLOCHUS
 
-5. TOSSUP:  Translate the following sentence from Latin into idiomatic English: Femina defessa ex urbe discessit ut domum rediret.   ANS: THE TIRED WOMAN LEFT (FROM / OUT OF) THE CITY (SO / IN ORDER) THAT SHE MIGHT GO BACK / RETURN HOME. [or other acceptable purpose translation]
-1. BONUS: Express only the purpose clause in that sentence using a GERUND.   ANS:  AD (DOMUM) REDEUNDUM / (DOMUM) REDEUNDI CAUSA / GRATIA.
+9. TOSSUP: What emperor, sometimes referred to as “Graeculus” as a result of his strong
+affinity for Greek culture, was best known for re-building the Pantheon and for ordering
+the construction of a wall that stretched from the River Tyne to the Solway Firth in
+Britain? ANS: HADRIAN / PUBLIUS AELIUS TRAIANUS HADRIANUS
+a. BONUS: What governor of Britain did Hadrian charge with the oversight and
+upkeep of this wall? ANS: PLATORIUS NEPOS
 
+10. TOSSUP: Using the verb praeficiō, translate the following sentence from English into
+Latin: The soldiers put the poet in charge of their army. ANS: MĪLITĒS POĒTAM
+(SUO / EŌRUM / EĀRUM) EXERCITUĪ PRAEFĒCĒRUNT / PRAEFICIĒBANT.
+a. BONUS: If you used a word to say “their” in Latin, you may have used the
+adjective suō. However, you could have instead used eōrum or eārum. In
+context, what is the difference in meaning between suō and eōrum/eārum?
+ANS: SUŌ REFERS BACK TO THE SOLDIERS, WHILE EŌRUM/EĀRUM
+REFERS TO ANOTHER PARTY (or similar)
 
 **SCORE CHECK**
 
+Page 2
 
-6. TOSSUP: What 12-book Latin epic, in which mythological celebrities such as Camilla, Aeolus, and countless Olympians make an appearance, gives a backstory for the founding of the Rome people following the Trojan War?   ANS:  AENEID
-1. BONUS: The Aeneid concludes with a duel between the titular Aeneas and which enemy king of the Rutulians?          ANS:  TURNUS
+2022 Virginia Junior Classical League State Finals Certamen
 
+Advanced Level
 
-7. TOSSUP: The Lex Gabinia, issued in 67 BC, gave what Roman commander, famed for his success against Spartacus’ rebellion, authority to clear the Mediterranean Sea of pirates, which he accomplished in a span of just three months?   ANS:  POMPEY (THE GREAT) / CN. POMPEIUS
-1. BONUS: Pompey was also the subject of what other law, issued a year later, which gave him command against Mithridates VI?   ANS:  LEX MANILIA
+11. TOSSUP: What beautiful youth was taken by Mysian water nymphs, prompting the
+distraught Heracles to search for him and be left behind by the rest of the Argonauts?
+ANS: HYLAS
+a. BONUS: What sons of Boreas, who had encouraged the rest of the Argonauts to
+move on and leave Heracles behind in Mysia, did the hero later encounter and kill
+on the island of Tenos? ANS: ZETES & CALAIS
 
+12. TOSSUP: Identify the use of the ablative found in the following sentence: Verba quae
+sussurāvistī erant difficilia intellectū. ANS: SPECIFICATION / RESPECT
+a. BONUS: Which of the following words could not be a supine: portātum, nātū,
+mōtūs, dictū? ANS: MŌTŪS
 
-8. TOSSUP: Who tells a disguised Odysseus that he was brought up alongside the Ithacan princess Ctimene until he was sent into the fields to care for the royal family’s livestock and swine?        ANS:  EUMAEUS
-1. BONUS: Ctimene was sent to Same and married off to which of Odysseus’ men, the only one to have escaped Circe’s lair without undergoing a metamorphosis into the form of a pig?          ANS:  EURYLOCHUS 
+13. TOSSUP: What author, a governor of Bithynia and consul suffectus in 100 A.D.,
+addressed both Taticus and Trajan in his 10 books of letters? ANS: PLINY THE
+YOUNGER / (C.) PLINIUS (CAECILIUS) SECUNDUS
+a. BONUS: In what city in Spain was Pliny the Younger born?
+ANS: COMUM (aka COMO)
 
-
-9. TOSSUP: What emperor, sometimes referred to as "Graeculus" as a result of his strong affinity for Greek culture, was best known for re-building the Pantheon and for ordering the construction of a wall that stretched from the River Tyne to the Solway Firth in Britain?   ANS:  HADRIAN / PUBLIUS AELIUS TRAIANUS HADRIANUS
-1. BONUS: What governor of Britain did Hadrian charge with the oversight and upkeep of this wall?          ANS:  PLATORIUS NEPOS
-
-
-10. TOSSUP: Using the verb praeficio, translate the following sentence from English into Latin: The soldiers put the poet in charge of their army.   ANS:  MILITES POETAM (SUO / EORUM / EARUM) EXERCITUI PRAEFECERUNT / PRAEFICIEBANT.
-1. BONUS: If you used a word to say "their" in Latin, you may have used the adjective suo. However, you could have instead used eorum or earum. In context, what is the difference in meaning between suo and eorum/earum?          ANS:  SUO REFERS BACK TO THE SOLDIERS, WHILE EORUM/EARUM REFERS TO ANOTHER PARTY (or similar)
-
-
-**SCORE CHECK**
-
-
-11. TOSSUP: What beautiful youth was taken by Mysian water nymphs, prompting the distraught Heracles to search for him and be left behind by the rest of the Argonauts? ANS:  HYLAS
-1. BONUS: What sons of Boreas, who had encouraged the rest of the Argonauts to move on and leave Heracles behind in Mysia, did the hero later encounter and kill on the island of Tenos?        ANS:  ZETES & CALAIS  
-
-
-12. TOSSUP: Identify the use of the ablative found in the following sentence: Verba quae sussuravisti erant difficilia intellectu.   ANS:  SPECIFICATION / RESPECT
-1. BONUS: Which of the following words could not be a supine: portatum, natu, motus, dictu?          ANS:  MOTUS
-
-
-13. TOSSUP: What author, a governor of Bithynia and consul suffectus in 100 A.D., addressed both Taticus and Trajan in his 10 books of letters?   ANS:  PLINY THE YOUNGER / (C.) PLINIUS (CAECILIUS) SECUNDUS
-1. BONUS: In what city in Spain was Pliny the Younger born?          
-ANS:  COMUM (aka COMO)
-
-
-14. TOSSUP: Differentiate in meaning between the adjectives celer and creber.  ANS: CELER – SWIFT/FAST/QUICK, CREBER – DENSE/CROWDED/FREQUENT/THICK
-1. BONUS: Now, differentiate in meaning between the words later and lacer.        ANS: LATER – BRICK/TILE, LACER – MANGLED/LACERATED/TORN
-
-
-15. TOSSUP: What lovesick lad, who honestly could have had an incredible career as a Soundcloud rapper, hailed from Verona and wrote 116 poems on varying topics, such as his tumultuous love affair with a woman whom he called Lesbia?   ANS:  (GAIUS VALERIUS) CATULLUS
-1. BONUS: Catullus’ lover was not actually named Lesbia. What was her real name?          ANS:  CLODIA (METELLI)
-
+14. TOSSUP: Differentiate in meaning between the adjectives celer and creber. ANS:
+CELER – SWIFT/FAST/QUICK, CREBER –
+DENSE/CROWDED/FREQUENT/THICK
+a. BONUS: Now, differentiate in meaning between the words later and lacer.
+ANS: LATER – BRICK/TILE, LACER – MANGLED/LACERATED/TORN
+15. TOSSUP: What lovesick lad, who honestly could have had an incredible career as a
+Soundcloud rapper, hailed from Verona and wrote 116 poems on varying topics, such as
+his tumultuous love affair with a woman whom he called Lesbia? ANS: (GAIUS
+VALERIUS) CATULLUS
+a. BONUS: Catullus’ lover was not actually named Lesbia. What was her real
+name? ANS: CLODIA (METELLI)
 
 **SCORE CHECK**
+16. TOSSUP: Listen carefully to the following passage from Catullus, which I will read
+twice as prose, and answer the question that follows in Latin.
+Iūcundum, mea vīta, mihi prōpōnis amōrem hunc nōstrum inter nōs perpetuumque
+fore. Dī magnī, facite ut verē prōmittere possit, atque id sincērē dīcat et ex animō, ut
+liceat nōbīs tōta perdūcere vīta aeternum hoc sanctae foedus amicitiae. (repeat)
 
+Page 3
 
-16. TOSSUP: Listen carefully to the following passage from Catullus, which I will read twice as prose, and answer the question that follows in Latin.
-Iucundum, mea vita, mihi proponis amorem hunc nostrum inter nos perpetuumque fore. Di magni, facite ut vere promittere possit, atque id sincere dicat et ex animo, ut liceat nobis tota perducere vita aeternum hoc sanctae foedus amicitiae. (repeat)
-The question: Qualis est amor?        ANS: (one of) IUCUNDUS / NOSTER / PERPETUUM
-1. BONUS: Quamdiu vult Catullus foedus amicitiae perducere?         ANS: TOTAM VITAM
+2022 Virginia Junior Classical League State Finals Certamen
 
+Advanced Level
 
-17. TOSSUP: What Roman figure is described by the following excerpt from an English translation of Book I of Livy’s Ab Urbe Condita? "[He was] the son of the king's sister, Tarquinia, a young man of a very different character from that which he had assumed. When he heard of the massacre of the chiefs of the State…he would seek safety in obscurity and neglect. Accordingly, he carefully kept up the appearance and conduct of an idiot…and did not even protest against his nickname…for under the protection of that nickname the soul which was one day to liberate Rome was awaiting its destined hour."        ANS: (L. JUNIUS) BRUTUS
-1. BONUS: According to Livy, what did Brutus do when an oracle prophesized that "whichever of you, young men, shall be the first to kiss his mother, he shall hold supreme sway in Rome?"           ANS:  INTENTIONALLY TRIPPED AND KISSED THE GROUND
+The question: Quālis est amor? ANS: (one of) IŪCUNDUS / NOSTER /
+PERPETUUM
+a. BONUS: Quamdiu vult Catullus foedus amicitiae perdūcere? ANS:
+TŌTAM VĪTAM
 
+17. TOSSUP: What Roman figure is described by the following excerpt from an English
+translation of Book I of Livy’s Ab Urbe Condita? “[He was] the son of the king's sister,
+Tarquinia, a young man of a very different character from that which he had assumed.
+When he heard of the massacre of the chiefs of the State...he would seek safety in
+obscurity and neglect. Accordingly, he carefully kept up the appearance and conduct of
+an idiot...and did not even protest against his nickname...for under the protection of that
+nickname the soul which was one day to liberate Rome was awaiting its destined hour.”
+ANS: (L. JUNIUS) BRUTUS
+a. BONUS: According to Livy, what did Brutus do when an oracle prophesized that
+“whichever of you, young men, shall be the first to kiss his mother, he shall hold
+supreme sway in Rome?” ANS: INTENTIONALLY TRIPPED AND
+KISSED THE GROUND
 
-18. TOSSUP: Of the words—lava, lavish, laundry, and lotion—which, if any, is not derived from the same Latin root as the others?                ANS: ALL FROM THE SAME ROOT / LAVO
-1. BONUS: What other derivative of lavo is defined as "a cleansing with water or other liquid" and often occurs in the context of religion or ritual?        ANS: ABLUTION
+18. TOSSUP: Of the words—lava, lavish, laundry, and lotion—which, if any, is not derived
+from the same Latin root as the others? ANS: ALL FROM THE SAME
+ROOT / LAVO
+a. BONUS: What other derivative of lavo is defined as “a cleansing with water or
+other liquid” and often occurs in the context of religion or ritual? ANS:
+ABLUTION
 
-
-19. TOSSUP: Pelorus, Udaeus, Hyperenor, Chthonius, and Echion are known by what collective name, which translates from Greek to mean "sown men"?  ANS:  SPARTOI
-1. BONUS: Which of the Spartoi married the princess of Thebes, Agave, who bore the future king Pentheus?          ANS:  ECHION
-
+19. TOSSUP: Pelorus, Udaeus, Hyperenor, Chthonius, and Echion are known by what
+collective name, which translates from Greek to mean “sown men”? ANS: SPARTOI
+a. BONUS: Which of the Spartoi married the princess of Thebes, Agave, who bore
+the future king Pentheus? ANS: ECHION
 
 **SCORE CHECK**
+20. TOSSUP: After 2 years of virtual State Finals certāmen tournaments, we have returned
+to an in-person, three-dimensional world, so it’s time for a command question! When
+recognized by the moderator, please perform the following commands: Surge, tē
+amplectere, et semel tē verte. ANS: STUDENT SHOULD STAND, HUG
+THEMSELF, AND TURN AROUND ONCE
+a. BONUS: If you thought that was fun, get ready for the next one. Perform the
+following commands: Surgite et, simulāntēs vōs esse avēs, volāre per caelōs
 
+Page 4
 
-20. TOSSUP: After 2 years of virtual State Finals certamen tournaments, we have returned to an in-person, three-dimensional world, so it’s time for a command question! When recognized by the moderator, please perform the following commands: Surge, te amplectere, et semel te verte.        ANS: STUDENT SHOULD STAND, HUG THEMSELF, AND TURN AROUND ONCE
-1. BONUS: If you thought that was fun, get ready for the next one. Perform the following commands: Surgite et, simulantes vos esse aves, volare per caelos alis extensis.         ANS: ENTIRE TEAM SHOULD STAND AND PRETEND TO BE BIRDS, FLYING WITH EXTENDED/OUTSTRETCHED WINGS
+2022 Virginia Junior Classical League State Finals Certamen
 
+Advanced Level
+
+alīs extensīs. ANS: ENTIRE TEAM SHOULD STAND AND PRETEND TO
+BE BIRDS, FLYING WITH EXTENDED/OUTSTRETCHED WINGS
 
 **ANNOUNCE FINAL SCORE**
-
-**ENSURE THAT THE SCORESHEET IS MARKED WITH LEVEL, SCHOOLS (INCLUDING A, B, OR C, IF APPLICABLE), AND PITTING LETTER**
-
+**ENSURE THAT THE SCORESHEET IS MARKED WITH LEVEL, SCHOOLS
+(INCLUDING A, B, OR C, IF APPLICABLE), AND PITTING LETTER**
 **HAVE THE SCORESHEET RETURNED TO MODERATOR HEADQUARTERS**
-________________
 
+Page 5
 
+2022 Virginia Junior Classical League State Finals Certamen
 
+Advanced Level
 
 PRELIMINARY ROUND TWO
+1. TOSSUP: Who, in Book IV of the Aeneid, is sent by Juno to cut a lock of hair from
+Dido’s head to release her soul to the Underworld? ANS: IRIS
+a. BONUS: Iris also appears in Book V disguised as a Trojan woman to stir up
+trouble and keep the Trojans from leaving what island? ANS: SICILY
+2. TOSSUP: What novus homo and Latin author crafted the first ever history of Rome
+written in Latin, which he called the Orīginēs, though he earned his spot as an icon in
+Latin classrooms everywhere for his obsessive repetition of the phrase “Carthāgō
+dēlenda est”? ANS: CATO THE ELDER
+a. BONUS: Cato was a wacky man who gave wacky advice. In what work of his
+does he prescribe the recitation of wacky chants to keep crops healthy? ANS:
+DĒ AGRĪ CULTŪRA
 
+3. TOSSUP: The homophones, “manner,” spelled with an E-R, and “manor,” spelled with
+an O-R, are derived from different Latin words. What are the Latin roots and their
+meanings of these two words? ANS: MANNER, MANUS – HAND and MANOR,
+MANEO – TO STAY/WAIT/REMAIN
+a. BONUS: What other derivative of maneō is defined as “a collection of unusual
+animals” and appears in the title of a play by Tennessee Williams? ANS:
+MENAGERIE
 
-1. TOSSUP: Who, in Book IV of the Aeneid, is sent by Juno to cut a lock of hair from Dido’s head to release her soul to the Underworld?        ANS:  IRIS
-1. BONUS: Iris also appears in Book V disguised as a Trojan woman to stir up trouble and keep the Trojans from leaving what island?          ANS:  SICILY
+4. TOSSUP: What Roman, who was granted the first of his five dictatorships in 396 BC,
+successfully stormed the Etruscan city of Veii in that same year, and ultimately became
+known as the “Second Founder of Rome” thanks to his efforts in rebuilding the Roman
+capital after it had been ravaged by Brennus? ANS: (M. FURIUS) CAMILLUS
+a. BONUS: Brennus was allowed to run roughshod over Rome after securing a
+victory at what battle, which was remembered as an āter diēs? ANS:
+ALLIA RIVER
 
+5. TOSSUP: Translate the following sentence from Latin into English: Rūfus est canis quī
+bene loquī possit. ANS: RUFUS (RUFF) IS THE SORT OF DOG WHO IS /
+WOULD BE ABLE TO SPEAK WELL.
+a. BONUS: Now, taking opus to mean “task,” translate this sentence into English:
+Rūfus semper liberōs mittēbat quī multa opera cōnficerent. ANS:
+RUFUS (RUFF) ALWAYS SENT / USED TO SEND / WAS SENDING
+CHILDREN / KIDS TO ACCOMPLISH MANY TASKS.
 
-2. TOSSUP: What novus homo and Latin author crafted the first ever history of Rome written in Latin, which he called the Origines, though he earned his spot as an icon in Latin classrooms everywhere for his obsessive repetition of the phrase "Carthago delenda est"?        ANS:  CATO THE ELDER
-1. BONUS: Cato was a wacky man who gave wacky advice. In what work of his does he prescribe the recitation of wacky chants to keep crops healthy?          ANS:  DE AGRI CULTURA
+Page 6
 
+2022 Virginia Junior Classical League State Finals Certamen
 
-3. TOSSUP: The homophones, "manner," spelled with an E-R, and "manor," spelled with an O-R, are derived from different Latin words. What are the Latin roots and their meanings of these two words?        ANS: MANNER, MANUS – HAND and MANOR, MANEO – TO STAY/WAIT/REMAIN
-1. BONUS: What other derivative of maneo is defined as "a collection of unusual animals" and appears in the title of a play by Tennessee Williams?        ANS: MENAGERIE
+Advanced Level
 
+**SCORE CHECK**
+6. TOSSUP: Make the phrase duō animālia fērōcia genitive plural. ANS: DUŌRUM
+ANIMĀLIUM FĒRŌCIUM
+a. BONUS: Keeping all else the same, make that phrase, duōrum animālium
+fērōcium, singular. ANS: ŪNIUS ANIMĀLIS FĒRŌCIS
 
-4. TOSSUP: What Roman, who was granted the first of his five dictatorships in 396 BC, successfully stormed the Etruscan city of Veii in that same year, and ultimately became known as the "Second Founder of Rome" thanks to his efforts in rebuilding the Roman capital after it had been ravaged by Brennus?   ANS:  (M. FURIUS) CAMILLUS
-1. BONUS: Brennus was allowed to run roughshod over Rome after securing a victory at what battle, which was remembered as an ater dies?          ANS:  ALLIA RIVER
+7. TOSSUP: “I’m not singing this to no one, it’s not the case that no one cares!” This quote
+taken from Spongebob Squarepants: The Musical exemplifies what rhetorical device, in
+which an affirmative statement is expressed through the use of a double negative? ANS:
+LITOTES
+a. BONUS: The pithy phrase“live laugh love,” found on countless craft and home
+decor items, may be considered an example of what literary device, in which
+conjunctions such as “and” are omitted? ANS: ASYNDETON
 
+8. TOSSUP: Who refuses to help Odysseus a second time when members of the Ithacan
+crew, believing that Odysseus was hiding treasure, recklessly open a bag of winds which
+he had given them to help them on their journey? ANS: AEOLUS
+a. BONUS: What group of giants do Odysseus and his men encounter immediately
+after sailing from Aeolia? ANS: LAESTRYGONIANS
 
-5. TOSSUP: Translate the following sentence from Latin into English: Rufus est canis qui bene loqui possit.    ANS:  RUFUS (RUFF) IS THE SORT OF DOG WHO IS / WOULD BE ABLE TO SPEAK WELL.
-1. BONUS: Now, taking opus to mean "task," translate this sentence into English: Rufus semper liberos mittebat qui multa opera conficerent.          ANS:  RUFUS (RUFF) ALWAYS SENT / USED TO SEND / WAS SENDING CHILDREN / KIDS TO ACCOMPLISH MANY TASKS. 
+9. TOSSUP: Differentiate in meaning among paulō, paulisper, and paulātim. ANS:
+PAULŌ – (BY) A LITTLE, PAULISPER – (FOR) A LITTLE WHILE, PAULĀTIM –
+LITTLE BY LITTLE
+a. BONUS: Differentiate in meaning between the verbs rōrō and forō. ANS:
+RŌRŌ – (TO) HAIL / IT HAILS, FORŌ – (TO) PIERCE
 
+10. TOSSUP: The mythological characters of Caenis, Iphis, and Tiresias all share what
+common element in their stories? ANS: (THEY ALL LIVED FOR SOMETIME AS)
+BOTH GENDERS/BOTH AS A MAN AND AS A WOMAN (OR SIMILAR)
+a. BONUS: Once Caenis was transformed into a man named Caeneus by Neptune,
+what special ability did he gain that made him a difficult foe in battle? ANS:
+HE WAS IMPERMEABLE TO WEAPONS
+
+**SCORE CHECK**
+11. TOSSUP: Listen carefully to the following passage, adapted from Cicero’s Prō Caeliō,
+which I will read twice, and answer in English the question that follows.
+
+Page 7
+
+2022 Virginia Junior Classical League State Finals Certamen
+
+Advanced Level
+
+Dātur enim, concessū omnium, aliquid lūdī huic aetātī, et ipsa natūra prōfundit
+cūpiditātēs adulescentiae. Sī haec itā ērumpunt ut nūllius vītam labēfactent, ut
+nūllius domum ēvertant, solent habērī facilēs et tolerābilēs. (repeat)
+The question: Who pours out desires for the youth? ANS: NATURE (HERSELF)
+a. BONUS: What conditions must be met for youths who escape these desires to be
+considered easy and tolerable? ANS: THEY MUST NEITHER
+TOPPLE/RUIN ANYONE’S LIFE NOR TURN OVER/RUIN ANYONE’S
+HOUSE
+
+12. TOSSUP: Palūdāmentum, sagum, paenula, and lacerna all refer to what type of
+clothing, worn over the shoulders? ANS: CLOAK
+a. BONUS: What was the cucullus, an accessory on some cloaks? ANS:
+HOOD/COWL
+
+13. TOSSUP: What silver-age author’s witty writing was put on display in 80 A.D. when the
+emperor Titus opened the Colosseum, though most of his fame came from his talent for
+writing witty epigrams? ANS: (MARCUS VALERIUS) MARTIAL(IS)
+a. BONUS: What was the title of Martial’s commemorative work?
+ANS: LIBER SPECTĀCULŌRUM
+
+14. TOSSUP: Using the adjective prasīnus-a-um to mean “green,” translate the following
+sentence from English into Latin: The students saw that the river was green. ANS:
+DISCIPULĪ(-AE) VIDĒBANT / VĪDĒRUNT RĪVUM / FLŪMEN PRASĪNUM
+ESSE.
+a. BONUS: Again using prasīnus-a-um to mean “green,” translate this sentence –
+inspired by real events – from English into Latin: All the citizens were wondering
+how the river had become green. ANS: OMNĒS CĪVĒS MĪRĀBANTUR
+QUŌMODO RĪVUS / FLŪMEN PRASĪNUS/-UM FACTUS/-UM ESSET.
+15. TOSSUP: What man, who conspired to eliminate the entire family of Agrippina the
+Elder, was only exposed when Antonia Minor contacted Tiberius, and convinced him to
+take action against his treacherous Praetorian Prefect? ANS: (AELIUS) SEJANUS
+a. BONUS: What man, who delivered a letter from Tiberius ordering the execution
+of Sejanus, succeeded him as Praetorian Prefect? ANS: (NAEVIUS
+SUTORIUS) MACRO
 
 **SCORE CHECK**
 
+Page 8
 
-6. TOSSUP: Make the phrase duo animalia ferocia genitive plural.   ANS:  DUORUM ANIMALIUM FEROCIUM
-1. BONUS: Keeping all else the same, make that phrase, duorum animalium ferocium, singular.           ANS:  UNIUS ANIMALIS FEROCIS
+2022 Virginia Junior Classical League State Finals Certamen
 
+Advanced Level
 
-7. TOSSUP: "I’m not singing this to no one, it’s not the case that no one cares!" This quote taken from Spongebob Squarepants: The Musical exemplifies what rhetorical device, in which an affirmative statement is expressed through the use of a double negative?        ANS: LITOTES
-1. BONUS: The pithy phrase"live laugh love," found on countless craft and home decor items, may be considered an example of what literary device, in which conjunctions such as "and" are omitted?   ANS:  ASYNDETON
+16. TOSSUP: [Note to moderator: Do not read the full answer to the students until the end of
+this tossup-bonus pair.] Give one participle of the verb iaciō that could appear in a
+periphrastic construction. ANS: One of: IACIENDUS(-A-UM), IACTŪRUS(-A-UM)
+a. BONUS: Give another. ANS: SEE ABOVE
+17. TOSSUP: What seer of the Greeks identifies Agamemnon as the ultimate cause of the
+plague that befell the Greek forces at the opening of the Iliad? ANS: CALCHAS
+a. BONUS: What concubine, the daughter of a priest of Apollo, is Agamemnon told
+to return in order to lift the plague? ANS: CHRYSEIS
 
+18. TOSSUP: What woman, who gained control of the Palmyrene Empire when her husband
+Odaenathus died in 267 AD, ruled via her son Vabalathus and rose up against Rome, but
+was defeated by forces under the command of the emperor Aurelian? ANS: ZENOBIA
+a. BONUS: What title was conferred upon Aurelian for his conquest of Palmyra?
+ANS: RESTITŪTOR ORIENTIS
 
-8. TOSSUP: Who refuses to help Odysseus a second time when members of the Ithacan crew, believing that Odysseus was hiding treasure, recklessly open a bag of winds which he had given them to help them on their journey?        ANS:  AEOLUS 
-1. BONUS: What group of giants do Odysseus and his men encounter immediately after sailing from Aeolia?  ANS: LAESTRYGONIANS
-
-
-9. TOSSUP: Differentiate in meaning among paulo, paulisper, and paulatim.        ANS: PAULO – (BY) A LITTLE, PAULISPER – (FOR) A LITTLE WHILE, PAULATIM – LITTLE BY LITTLE
-1. BONUS: Differentiate in meaning between the verbs roro and foro.        ANS: RORO – (TO) HAIL / IT HAILS, FORO – (TO) PIERCE
-
-
-10. TOSSUP: The mythological characters of Caenis, Iphis, and Tiresias all share what common element in their stories?        ANS:  (THEY ALL LIVED FOR SOMETIME AS) BOTH GENDERS/BOTH AS A MAN AND AS A WOMAN (OR SIMILAR)
-1. BONUS: Once Caenis was transformed into a man named Caeneus by Neptune, what special ability did he gain that made him a difficult foe in battle?          ANS:  HE WAS IMPERMEABLE TO WEAPONS
-
-
-**SCORE CHECK**
-
-
-11. TOSSUP: Listen carefully to the following passage, adapted from Cicero’s Pro Caelio, which I will read twice, and answer in English the question that follows.
-Datur enim, concessu omnium, aliquid ludi huic aetati, et ipsa natura profundit cupiditates adulescentiae. Si haec ita erumpunt ut nullius vitam labefactent, ut nullius domum evertant, solent haberi faciles et tolerabiles. (repeat)
-The question: Who pours out desires for the youth?        ANS: NATURE (HERSELF)
-1. BONUS: What conditions must be met for youths who escape these desires to be considered easy and tolerable?        ANS: THEY MUST NEITHER TOPPLE/RUIN ANYONE’S LIFE NOR TURN OVER/RUIN ANYONE’S HOUSE
-
-
-12. TOSSUP: Paludamentum, sagum, paenula, and lacerna all refer to what type of clothing, worn over the shoulders?   ANS:  CLOAK
-1. BONUS: What was the cucullus, an accessory on some cloaks?          ANS:  HOOD/COWL
-
-
-13. TOSSUP: What silver-age author’s witty writing was put on display in 80 A.D. when the emperor Titus opened the Colosseum, though most of his fame came from his talent for writing witty epigrams?   ANS:  (MARCUS VALERIUS) MARTIAL(IS)
-1. BONUS: What was the title of Martial’s commemorative work?          
-ANS:  LIBER SPECTACULORUM
-
-
-14. TOSSUP: Using the adjective prasinus-a-um to mean "green," translate the following sentence from English into Latin: The students saw that the river was green.  ANS:  DISCIPULI(-AE) VIDEBANT / VIDERUNT RIVUM / FLUMEN PRASINUM ESSE.
-1. BONUS: Again using prasinus-a-um to mean "green," translate this sentence – inspired by real events – from English into Latin: All the citizens were wondering how the river had become green.          ANS:  OMNES CIVES MIRABANTUR QUOMODO RIVUS / FLUMEN PRASINUS/-UM FACTUS/-UM ESSET.
-
-
-15. TOSSUP: What man, who conspired to eliminate the entire family of Agrippina the Elder, was only exposed when Antonia Minor contacted Tiberius, and convinced him to take action against his treacherous Praetorian Prefect?   ANS:  (AELIUS) SEJANUS
-1. BONUS: What man, who delivered a letter from Tiberius ordering the execution of Sejanus, succeeded him as Praetorian Prefect?          ANS:  (NAEVIUS SUTORIUS) MACRO
-
+19. TOSSUP: Children’s content on YouTube has always been weird. One especially weird
+trend was a few years ago, when the new hot thing was drinking potions at 3AM. What
+Latin author would honestly have gotten down with this trend, as he supposedly drove
+himself mad by drinking a love potion? ANS: (TITUS) LUCRETIUS
+a. BONUS: Lucretius was most notable for his authorship of the Dē Rērum Nātūra,
+which he dedicated to what patron of his? ANS: (GAIUS) MEMMIUS
 
 **SCORE CHECK**
-
-
-16. TOSSUP: [Note to moderator: Do not read the full answer to the students until the end of this tossup-bonus pair.] Give one participle of the verb iacio that could appear in a periphrastic construction.   ANS:  One of: IACIENDUS(-A-UM), IACTURUS(-A-UM)
-1. BONUS: Give another.          ANS:  SEE ABOVE
-
-
-17. TOSSUP: What seer of the Greeks identifies Agamemnon as the ultimate cause of the plague that befell the Greek forces at the opening of the Iliad?        ANS:  CALCHAS
-1. BONUS: What concubine, the daughter of a priest of Apollo, is Agamemnon told to return in order to lift the plague?          ANS:  CHRYSEIS 
-
-
-18. TOSSUP: What woman, who gained control of the Palmyrene Empire when her husband Odaenathus died in 267 AD, ruled via her son Vabalathus and rose up against Rome, but was defeated by forces under the command of the emperor Aurelian?   ANS:  ZENOBIA
-1. BONUS: What title was conferred upon Aurelian for his conquest of Palmyra?          ANS:  RESTITUTOR ORIENTIS
-
-
-19. TOSSUP: Children’s content on YouTube has always been weird. One especially weird trend was a few years ago, when the new hot thing was drinking potions at 3AM. What Latin author would honestly have gotten down with this trend, as he supposedly drove himself mad by drinking a love potion?   ANS:  (TITUS) LUCRETIUS
-1. BONUS: Lucretius was most notable for his authorship of the De Rerum Natura, which he dedicated to what patron of his?          ANS:  (GAIUS) MEMMIUS
-
-
-**SCORE CHECK**
-
-
-20. TOSSUP: Commands, again? Absolutely! When recognized by the moderator, perform or describe the following command: Sedens, monstra digitis tuis quot sint tempora verborum Latinorum.         ANS: STUDENT SHOULD REMAIN SEATED AND SHOW 6 FINGERS (or give an equivalent description)
-1. BONUS: Grammar math and commands? How fun! Let’s do it one more time. Perform or describe the following command: Sedentes, monstrate digitis vestris quot sint voces verborum et declensiones nominum.          ANS: ENTIRE TEAM SHOULD REMAIN SEATED AND SHOW 7 FINGERS (or give an equivalent description)
-
-
+20. TOSSUP: Commands, again? Absolutely! When recognized by the moderator, perform
+or describe the following command: Sedēns, mōnstrā digitīs tuīs quot sint tempora
+verbōrum Latīnōrum. ANS: STUDENT SHOULD REMAIN SEATED AND
+SHOW 6 FINGERS (or give an equivalent description)
+a. BONUS: Grammar math and commands? How fun! Let’s do it one more time.
+Perform or describe the following command: Sedēntēs, mōnstrāte digitīs vestrīs
+quot sint vocēs verbōrum et declensiōnēs nominum. ANS: ENTIRE
+TEAM SHOULD REMAIN SEATED AND SHOW 7 FINGERS (or give an
+equivalent description)
 **ANNOUNCE FINAL SCORE**
+**ENSURE THAT THE SCORESHEET IS MARKED WITH LEVEL, SCHOOLS
+(INCLUDING A, B, OR C, IF APPLICABLE), AND PITTING LETTER**
 
-**ENSURE THAT THE SCORESHEET IS MARKED WITH LEVEL, SCHOOLS (INCLUDING A, B, OR C, IF APPLICABLE), AND PITTING LETTER**
+Page 9
+
+2022 Virginia Junior Classical League State Finals Certamen
+
+Advanced Level
 
 **HAVE THE SCORESHEET RETURNED TO MODERATOR HEADQUARTERS**
-________________
 
+Page 10
+
+2022 Virginia Junior Classical League State Finals Certamen
+
+Advanced Level
 
 PRELIMINARY ROUND THREE
+1. TOSSUP: What is the modern name of the city the Romans called Lutetia? ANS:
+PARIS
+a. BONUS: What is the modern name of the city the Romans called Vindobona?
+ANS: VIENNA
 
+2. TOSSUP: Identify the grammatical construction exemplified in the following Latin
+sentence: Lac optimō gaudiō est fēlibus. ANS: DOUBLE DATIVE [prompt on
+“dative of reference” or “dative of purpose”]
+a. BONUS: What grammatical construction is commonly found with verbs like cēlō
+and postulō? ANS: DOUBLE ACCUSATIVE [prompt on “accusative of direct
+object” or “accusative of secondary object”]
 
-1. TOSSUP: What is the modern name of the city the Romans called Lutetia?   ANS:  PARIS
-1. BONUS: What is the modern name of the city the Romans called Vindobona?          ANS:  VIENNA
+3. TOSSUP: "Galliā est omnīs dīvīsa in partēs trēs" begins what eight-book work by
+Julius Caesar, in which he details his campaigns in Gaul? ANS: DĒ BELLŌ GALLICŌ
+a. BONUS: Give the Laint title of the three-book political pamphlet Caesar also
+wrote about his historic clash with Pompey. ANS: (COMMENTARIĪ) DĒ
+BELLŌ CĪVĪLĪ
 
+4. TOSSUP: Who traded the throne of Argos for Tiryns with his cousin Megapenthes
+because he was too ashamed to inherit Argos, whose kind he had accidentally killed with
+a discus throw? ANS: PERSEUS
+a. BONUS: What twins were respectively the grandfather of Perseus and the father
+of Megapenthes, who battled throughout their lives even from the time when they
+were still in their mother’s womb? ANS: ACRISIUS & PROETUS
 
-2. TOSSUP: Identify the grammatical construction exemplified in the following Latin sentence: Lac optimo gaudio est felibus.    ANS:  DOUBLE DATIVE [prompt on "dative of reference" or "dative of purpose"]
-1. BONUS: What grammatical construction is commonly found with verbs like celo and postulo?          ANS:  DOUBLE ACCUSATIVE [prompt on "accusative of direct object" or "accusative of secondary object"]
-
-
-3. TOSSUP: "Gallia est omnis divisa in partes tres" begins what eight-book work by Julius Caesar, in which he details his campaigns in Gaul?   ANS:  DE BELLO GALLICO
-1. BONUS: Give the Laint title of the three-book political pamphlet Caesar also wrote about his historic clash with Pompey.          ANS: (COMMENTARII) DE BELLO CIVILI
-
-
-4. TOSSUP: Who traded the throne of Argos for Tiryns with his cousin Megapenthes because he was too ashamed to inherit Argos, whose kind he had accidentally killed with a discus throw?        ANS:  PERSEUS
-1. BONUS: What twins were respectively the grandfather of Perseus and the father of Megapenthes, who battled throughout their lives even from the time when they were still in their mother’s womb?  ANS:  ACRISIUS & PROETUS 
-
-
-5. TOSSUP: Campi Magni, Dertosa, Ager Falernus, Baecula, Metaurus River, Ilipa, and Lake Trasimene were all the sites of battles in what war?   ANS:  SECOND PUNIC WAR
-1. BONUS: The Second Punic War was started when the Carthaginians under Hannibal captured what Spanish city, despite explicit orders from Rome not to do so?          ANS:  SAGUNTUM
-
-
-**SCORE CHECK**
-
-
-6. TOSSUP: Taking tempus to mean "season," translate the following sentence into English: Mora temporis tam longa erat ut aeterna mihi videretur.    ANS:  THE DELAY OF THE SEASON WAS SO LONG THAT IT SEEMED ETERNAL TO ME.
-1. BONUS: Now, translate this sentence into English: Eheu! Accidit ut athleta quem multi ament nunc non ludat.          ANS:  ALAS! IT HAPPENS THAT THE ATHLETE WHOM MANY LOVE DOES NOT PLAY / IS NOT PLAYING NOW.
-
-
-7. TOSSUP: What "contemptor divum" or "despiser of the gods," although gravely injured by Aeneas, was at the last moment saved by his son, who blocked the final blow and was himself killed in the process?        ANS:  MEZENTIUS 
-1. BONUS: Mezentius returns to battle and eventually becomes trapped under his horse.  Before Aeneas kills Mezentius, the Etruscan king asks to be buried beside his son. Who was this son of Mezentius?        ANS:  LAUSUS
-
-
-8. TOSSUP: In Ovid’s Metamorphoses, who says the following while entertaining guests?  "Indeed, young man, I have often changed shape myself, though the number of shapes I can achieve is limited. Sometimes I am seen as I am now: sometimes I become a snake: or, again, the lead bull of the herd, my power in my horns – horns, when I still had two. Now one side of my brow has lost its weapon, as you can see for yourself."  This character then goes on to explain how he lost one of his horns in a wrestling match with Hercules. ANS:  (THE) ACHELOUS (RIVER)
-1. BONUS: For whose hand in marriage had Achelous wrestled unsuccessfully against Hercules?  ANS:  DEIANIRA’S
-
-
-9. TOSSUP: By the end of this question, you’ll be able to connect a Latin author to legendary singer/songwriter Bruce Springsteen. One of the outtakes of Bruce’s Born in the USA was a song entitled "Cynthia." What Latin love poet also wrote to a certain Cynthia in 4 books of elegies?   ANS:  (SEXTUS) PROPERTIUS
-1. BONUS: What prolific patron of Rome’s literary golden age sponsored Propertius?          ANS:  MAECENAS
-
-
-10. TOSSUP: Give the unsyncopated form of the Latin word portarim.   ANS:  PORTAVERIM
-1. BONUS: Give the unsyncopated form of the Latin word nosti.          ANS:  NOVISTI
-
+5. TOSSUP: Campi Magni, Dertosa, Ager Falernus, Baecula, Metaurus River, Ilipa, and
+Lake Trasimene were all the sites of battles in what war? ANS: SECOND PUNIC WAR
+a. BONUS: The Second Punic War was started when the Carthaginians under
+Hannibal captured what Spanish city, despite explicit orders from Rome not to do
+so? ANS: SAGUNTUM
 
 **SCORE CHECK**
+6. TOSSUP: Taking tempus to mean “season,” translate the following sentence into
+English: Mōra temporis tam longa erat ut aeterna mihi vidērētur. ANS: THE
+DELAY OF THE SEASON WAS SO LONG THAT IT SEEMED ETERNAL TO ME.
 
+Page 11
 
-11. TOSSUP: Give the form of the verb utor that would be used to render the following sentence in Latin: The teacher fears that you and your friends may use the tetherball as a wrecking ball.   ANS:  UTAMINI
-1. BONUS: Now give the form of the verb utor that would be used to render this sentence in Latin: Although all three had never used the tetherball pole before, the teacher nevertheless did not trust them with it.          ANS:  USI(-AE-A) ESSENT
+2022 Virginia Junior Classical League State Finals Certamen
 
+Advanced Level
 
-12. TOSSUP: From what Latin root with what meaning are the English nouns—segment, insect, and secant—ultimately derived?        ANS: SECO – TO CUT/CLEAVE
-1. BONUS: There is another derivative of seco that appears frequently in Shakespeare’s Sonnets. In the Sonnets, it is an instrument, often used for cutting grass, with which Time reaps the lives of people as they age. What is this other derivative of seco?        ANS: SICKLE
+a. BONUS: Now, translate this sentence into English: Ēheu! Accidit ut athlēta
+quem multī ament nunc nōn lūdat. ANS: ALAS! IT HAPPENS THAT THE
+ATHLETE WHOM MANY LOVE DOES NOT PLAY / IS NOT PLAYING
+NOW.
 
+7. TOSSUP: What “contemptor divum” or “despiser of the gods,” although gravely
+injured by Aeneas, was at the last moment saved by his son, who blocked the final blow
+and was himself killed in the process? ANS: MEZENTIUS
+a. BONUS: Mezentius returns to battle and eventually becomes trapped under his
+horse. Before Aeneas kills Mezentius, the Etruscan king asks to be buried beside
+his son. Who was this son of Mezentius? ANS: LAUSUS
 
-13. TOSSUP: What emperor, who insisted that he die on his feet, is reported to have exclaimed "Vae, puto deus fio" with his last breath, and ultimately got his wish when the Senate deified him at the urging of his son and successor Titus?   ANS:  (TITUS FLAVIUS) VESPASIAN(US)
-1. BONUS: Although Titus was generally viewed favorably by his contemporaries, he was roundly criticized for his association with what Jewish princess?          ANS:  BERENICE
+8. TOSSUP: In Ovid’s Metamorphoses, who says the following while entertaining guests?
+“Indeed, young man, I have often changed shape myself, though the number of shapes I
+can achieve is limited. Sometimes I am seen as I am now: sometimes I become a snake:
+or, again, the lead bull of the herd, my power in my horns – horns, when I still had two.
+Now one side of my brow has lost its weapon, as you can see for yourself.” This
+character then goes on to explain how he lost one of his horns in a wrestling match with
+Hercules. ANS: (THE) ACHELOUS (RIVER)
+a. BONUS: For whose hand in marriage had Achelous wrestled unsuccessfully
+against Hercules? ANS: DEIANIRA’S
 
+9. TOSSUP: By the end of this question, you’ll be able to connect a Latin author to
+legendary singer/songwriter Bruce Springsteen. One of the outtakes of Bruce’s Born in
+the USA was a song entitled “Cynthia.” What Latin love poet also wrote to a certain
+Cynthia in 4 books of elegies? ANS: (SEXTUS) PROPERTIUS
+a. BONUS: What prolific patron of Rome’s literary golden age sponsored
+Propertius? ANS: MAECENAS
 
-14. TOSSUP: Of the words—cetus, pelagus, vorago, and litus—which is being described in the following Latin sentence? Si Argonauti procul a Scylla navigavissent, navigavissent in has insidias Charybdis.        ANS: VORAGO
-1. BONUS: Of the same words—cetus, pelagus, vorago, and litus—which is being described in the following Latin sentence? Quondam, sub summis undis, hoc vixit, terribile visu dictuque.        ANS: CETUS
+10. TOSSUP: Give the unsyncopated form of the Latin word portārim. ANS:
+PORTĀVERIM
+a. BONUS: Give the unsyncopated form of the Latin word nōstī. ANS:
+NŌVISTĪ
+**SCORE CHECK**
+11. TOSSUP: Give the form of the verb ūtor that would be used to render the following
+sentence in Latin: The teacher fears that you and your friends may use the tetherball as a
+wrecking ball. ANS: ŪTĀMINĪ
 
+Page 12
 
-15. TOSSUP: Tales of shepherds such as Corydon and Tityrus fill the pages of what Vergilian work, which was split into 10 books and, according to some, foresaw the coming of Jesus Christ?   ANS:  ECLOGUES / BUCOLICS
-1. BONUS: What other Vergilian work, inspired by a similarly-themed didactic poem of Hesiod, explored the world of agriculture?          ANS:  GEORGICS
+2022 Virginia Junior Classical League State Finals Certamen
 
+Advanced Level
+
+a. BONUS: Now give the form of the verb ūtor that would be used to render this
+sentence in Latin: Although all three had never used the tetherball pole before, the
+teacher nevertheless did not trust them with it. ANS: ŪSĪ(-AE-A)
+ESSENT
+
+12. TOSSUP: From what Latin root with what meaning are the English nouns—segment,
+insect, and secant—ultimately derived? ANS: SECO – TO CUT/CLEAVE
+a. BONUS: There is another derivative of secō that appears frequently in
+Shakespeare’s Sonnets. In the Sonnets, it is an instrument, often used for cutting
+grass, with which Time reaps the lives of people as they age. What is this other
+derivative of secō? ANS: SICKLE
+
+13. TOSSUP: What emperor, who insisted that he die on his feet, is reported to have
+exclaimed “Vae, putō deus fīō” with his last breath, and ultimately got his wish when the
+Senate deified him at the urging of his son and successor Titus? ANS: (TITUS
+FLAVIUS) VESPASIAN(US)
+a. BONUS: Although Titus was generally viewed favorably by his contemporaries,
+he was roundly criticized for his association with what Jewish princess? ANS:
+BERENICE
+
+14. TOSSUP: Of the words—cetus, pelāgus, vorāgō, and litus—which is being described in
+the following Latin sentence? Sī Argonautī procul ā Scyllā nāvigāvissent,
+nāvigāvissent in hās insidiās Charybdis. ANS: VORAGO
+a. BONUS: Of the same words—cetus, pelāgus, vorāgō, and litus—which is being
+described in the following Latin sentence? Quondam, sub summīs undīs, hoc
+vixit, terrībile vīsū dictūque. ANS: CETUS
+
+15. TOSSUP: Tales of shepherds such as Corydon and Tityrus fill the pages of what
+Vergilian work, which was split into 10 books and, according to some, foresaw the
+coming of Jesus Christ? ANS: ECLOGUES / BUCOLICS
+a. BONUS: What other Vergilian work, inspired by a similarly-themed didactic
+poem of Hesiod, explored the world of agriculture? ANS: GEORGICS
 
 **SCORE CHECK**
+16. TOSSUP: Listen carefully to the following passage about Orpheus, adapted from Vergil’s
+Georgics, which I will read twice as prose, and answer the question that follows in
+English.
+Septem mensēs tōtōs ex ordine dīcitur illum sibi flesse sub rupe aëria ad undam
 
+Page 13
 
-16. TOSSUP: Listen carefully to the following passage about Orpheus, adapted from Vergil’s Georgics, which I will read twice as prose, and answer the question that follows in English.
-Septem menses totos ex ordine dicitur illum sibi flesse sub rupe aeria ad undam Strymonis deserti et haec evolvisse sub antris gelidis, mulcentem tigres et agentem quercus carmine. (repeat)
-The question: Ubi dicitur Orpheum sibi flesse?        ANS: SUB RUPE AERIA / AD UNDAM STRYMONIS (DESERTI)
-1. BONUS: Qualis dicitur ille Orpheus?        ANS: MULCENS (TIGRES) ET AGENS (QUERCUS CARMINE)
+2022 Virginia Junior Classical League State Finals Certamen
 
+Advanced Level
 
-17. TOSSUP: In Book VII of the Iliad, when Hector challenges the Greek heroes to a single combat, no one is willing to face him.  What leader finally shames them into stepping up by telling the story of his own victory against Ereuthalion during the Pylian Wars and stating that, if he were not so aged now, he would face Hector himself? ANS:  NESTOR  
-1. BONUS: Name either of the two sons that accompanied Nestor from Pylos and fought with him at Troy?  ANS: (ONE OF) ANTILOCHUS, THRASYMEDES
+Strymōnis desertī et haec evolvisse sub antrīs gelidīs, mulcentem tigrēs et agentem
+quercus carmine. (repeat)
+The question: Ubi dīcitur Orpheum sibi flesse? ANS: SUB RŪPE AERIA / AD
+UNDAM STRYMŌNIS (DESERTĪ)
+a. BONUS: Quālis dīcitur ille Orpheus? ANS: MULCĒNS (TIGRĒS) ET
+AGENS (QUERCUS CARMINE)
 
+17. TOSSUP: In Book VII of the Iliad, when Hector challenges the Greek heroes to a single
+combat, no one is willing to face him. What leader finally shames them into stepping up
+by telling the story of his own victory against Ereuthalion during the Pylian Wars and
+stating that, if he were not so aged now, he would face Hector himself? ANS: NESTOR
+a. BONUS: Name either of the two sons that accompanied Nestor from Pylos and
+fought with him at Troy? ANS: (ONE OF) ANTILOCHUS, THRASYMEDES
+18. TOSSUP: What literary device, excluding alliteration, can be found in the following
+quote from the Aeneid: “ūnā Eurusque Notusque ruunt crēberque procellīs Āfricus,”
+in which conjunctions are used excessively? ANS: POLYSYNDETON
+a. BONUS: What literary device, excluding alliteration, can be found in the
+following quote from the Aeneid: “quōs ego— sed mōtōs praestat compōnere
+flūctūs”? ANS: APOSIOPESIS
 
-18. TOSSUP: What literary device, excluding alliteration, can be found in the following quote from the Aeneid: "una Eurusque Notusque ruunt creberque procellis Africus," in which conjunctions are used excessively?   ANS:  POLYSYNDETON
-1. BONUS: What literary device, excluding alliteration, can be found in the following quote from the Aeneid: "quos ego— sed motos praestat componere fluctus"?        ANS: APOSIOPESIS 
-
-
-19. TOSSUP: What general, known as the "last of the Romans," defeated Atilla the Hun at the Battle of the Catalaunian Plains in 451 AD, but was put to death in 454 AD when Valentinian III acted upon bad advice from his counselors?   ANS:  FLAVIUS AETIUS
-1. BONUS: The reign of Valentinian III came to an end just one year after Aetius’ death, when Rome was sacked by what Vandal king?          ANS:  GAISERIC
-
+19. TOSSUP: What general, known as the “last of the Romans,” defeated Atilla the Hun at
+the Battle of the Catalaunian Plains in 451 AD, but was put to death in 454 AD when
+Valentinian III acted upon bad advice from his counselors? ANS: FLAVIUS AETIUS
+a. BONUS: The reign of Valentinian III came to an end just one year after Aetius’
+death, when Rome was sacked by what Vandal king? ANS: GAISERIC
 
 **SCORE CHECK**
+20. TOSSUP: Hooray! The iPod Rōmāna is making a comeback. This album, released two
+months after last year’s State Finals Certamen, is Billie Eilish’s sophomore album. The
+English title of this album is Happier Than Ever. Translate that title into Latin. ANS:
+FĒLĪCIOR/FĒLĪCIUS QUAM UMQUAM
+a. BONUS: The thirteenth song on Eilish’s Happier Than Ever is “NDA,” a
+meditation on some of the strings attached to fame. In English, the first line of the
+chorus of “NDA” is the following: “You couldn’t save me, but you can’t let me
+go.” Translate that line into Latin. ANS: MĒ SERVĀRE NŌN POTUISTĪ
+SED MĒ SINERE ĪRE / ĀMITTERE NON POTES
 
+Page 14
 
-20. TOSSUP: Hooray! The iPod Romana is making a comeback. This album, released two months after last year’s State Finals Certamen, is Billie Eilish’s sophomore album. The English title of this album is Happier Than Ever. Translate that title into Latin.         ANS: FELICIOR/FELICIUS QUAM UMQUAM
-1. BONUS: The thirteenth song on Eilish’s Happier Than Ever is "NDA," a meditation on some of the strings attached to fame. In English, the first line of the chorus of "NDA" is the following: "You couldn’t save me, but you can’t let me go." Translate that line into Latin.        ANS: ME SERVARE NON POTUISTI SED ME SINERE IRE / AMITTERE NON POTES
+2022 Virginia Junior Classical League State Finals Certamen
 
+Advanced Level
 
 **ANNOUNCE FINAL SCORE**
-
-**ENSURE THAT THE SCORESHEET IS MARKED WITH LEVEL, SCHOOLS (INCLUDING A, B, OR C, IF APPLICABLE), AND PITTING LETTER**
-
+**ENSURE THAT THE SCORESHEET IS MARKED WITH LEVEL, SCHOOLS
+(INCLUDING A, B, OR C, IF APPLICABLE), AND PITTING LETTER**
 **HAVE THE SCORESHEET RETURNED TO MODERATOR HEADQUARTERS**
-________________
+
+Page 15
+
+2022 Virginia Junior Classical League State Finals Certamen
+
+Advanced Level
+
 FINAL ROUND
+1. TOSSUP: In Book X of the Aeneid, listed among the Italic leaders sailing with Aeneas
+against Mezentius, is Ocnus, the son of what prophetic daughter of Tiresias who was
+herself the inspiration for the name of Vergil’s hometown? ANS: MANTO
+a. BONUS: Also among these leaders is Cupavo, the son of what friend of Phaethon
+who mourned Phaethon’s loss with the poplar trees until white plumage covered
+him in old age and he left seeking the stars in song? ANS: CYCNUS
+b. BONUS: After this list of allies is presented, a group of water nymphs approach
+Aeneas’ ship. What leader of these nymphs gives Aeneas a battle update, and his
+ship a power boost? ANS: CYMODOCEA
 
+2. TOSSUP: By 142 BC, the consul Quintus Caecilius Metellus had brought all of the lands
+held by the Celtiberians under Roman rule, save for what Lusitanian city, which, thanks
+in no small part to the efforts of a shepherd named Viriathus, managed to resist Roman
+forces for ten whole years, before being taken in 133 BC? ANS: NUMANTIA
+a. BONUS: What general was in command of the Roman forces when Numantia
+finally fell? ANS: (P. CORNELIUS) SCIPIO AEMILIANUS
+b. BONUS: Viriathus was murdered in 140 BC, after what Roman consul managed
+to convince some of Viriathus’ own troops to turn on him? ANS: SERVILIUS
+CAEPIO
 
-1. TOSSUP: In Book X of the Aeneid, listed among the Italic leaders sailing with Aeneas against Mezentius, is Ocnus, the son of what prophetic daughter of Tiresias who was herself the inspiration for the name of Vergil’s hometown?        ANS:  MANTO  
-1. BONUS: Also among these leaders is Cupavo, the son of what friend of Phaethon who mourned Phaethon’s loss with the poplar trees until white plumage covered him in old age and he left seeking the stars in song?          ANS:  CYCNUS
-2. BONUS: After this list of allies is presented, a group of water nymphs approach Aeneas’ ship. What leader of these nymphs gives Aeneas a battle update, and his ship a power boost?          ANS:  CYMODOCEA 
+3. TOSSUP: What work of Cicero, which he addressed to his brother Quintus, discusses in
+three books the topics of inventiō, dispositiō, and ēlocūtiō, and bears a title that directly
+translates to “on the orator”? ANS: DĒ ŌRĀTŌRE
+a. BONUS: What 2-book work of Cicero covered the parts of a speech, and is often
+considered to be an offshoot of Dē Ōrātōre? The title of this one roughly
+translates to “on discovery.” ANS: DĒ INVENTIŌNE
+b. BONUS: Cicero, in fulfilling his role as the most obnoxious author for an
+aspiring certamen superstar to study, wrote yet another work on oration and
+speech. What is the Latin title of this 3-section work, which directly translates to
+“parts of oratory” or “oratorical subdivisions”? ANS: PARTĪTIŌNĒS
+ŌRĀTŌRIAE
 
+4. TOSSUP: Dēscrībāmus nunc proprietātēs dictiōnis in hāc sententiā: Ignorātur enim
+quae sit nātūra animāī. Quō cāsū est “animāī”? ANS: GENITĪVŌ
+a. BONUS: Respondē aut Anglicē aut Latīnē: Quālis quaestiō est in illā
+sententiā? ANS: INDIRECT / OBLĪQUA
 
-2. TOSSUP: By 142 BC, the consul Quintus Caecilius Metellus had brought all of the lands held by the Celtiberians under Roman rule, save for what Lusitanian city, which, thanks in no small part to the efforts of a shepherd named Viriathus, managed to resist Roman forces for ten whole years, before being taken in 133 BC?   ANS:  NUMANTIA
-1. BONUS: What general was in command of the Roman forces when Numantia finally fell?          ANS:  (P. CORNELIUS) SCIPIO AEMILIANUS
-2. BONUS: Viriathus was murdered in 140 BC, after what Roman consul managed to convince some of Viriathus’ own troops to turn on him?          ANS:  SERVILIUS CAEPIO
+Page 16
 
+2022 Virginia Junior Classical League State Finals Certamen
 
-3. TOSSUP: What work of Cicero, which he addressed to his brother Quintus, discusses in three books the topics of inventio, dispositio, and elocutio, and bears a title that directly translates to "on the orator"?   ANS:  DE ORATORE
-1. BONUS: What 2-book work of Cicero covered the parts of a speech, and is often considered to be an offshoot of De Oratore? The title of this one roughly translates to "on discovery."          ANS:  DE INVENTIONE
-2. BONUS: Cicero, in fulfilling his role as the most obnoxious author for an aspiring certamen superstar to study, wrote yet another work on oration and speech. What is the Latin title of this 3-section work, which directly translates to "parts of oratory" or "oratorical subdivisions"?          ANS:  PARTITIONES ORATORIAE
+Advanced Level
 
+b. BONUS: Dēscrībāmus nunc proprietātēs dictiōnis in hāc sententiā:
+Aenēādum genetrīx, hominum dīvomque voluptās. Quot nōmina genitīva
+sunt in hōc versū? ANS: TRIA
 
-4. TOSSUP: Describamus nunc proprietates dictionis in hac sententia: Ignoratur enim quae sit natura animai. Quo casu est "animai"?   ANS:  GENITIVO
-1. BONUS: Responde aut Anglice aut Latine: Qualis quaestio est in illa sententia?          ANS:  INDIRECT / OBLIQUA
-2. BONUS: Describamus nunc proprietates dictionis in hac sententia: Aeneadum genetrix, hominum divomque voluptas. Quot nomina genitiva sunt in hoc versu?          ANS:  TRIA
-
-
-5. TOSSUP: The phrase submersas obrue puppis, from Aeneid I.69, is an example of what literary device  in which the description submersas is used even before it is logically appropriate to do so? ANS: PROLEPSIS (ANTICIPATION)  
-1. BONUS: The word puppis itself is an example of what specific type of metonymy? ANS: SYNECDOCHE
-2. BONUS: What Latin word for a "keel" is also used, like puppis, to signify a ship? ANS: CARINA
-
-
-**SCORE CHECK**
-
-
-6. TOSSUP: The numeral quattuor has a number of interesting derivatives. We have all become familiar with "quarantine" as one, but there are others. What word, defined as "a place where stone is obtained by cutting or blasting," is also derived from quattuor?         ANS: QUARRY
-1. BONUS: The fact that "quarry" is derived from quattuor could be puzzling if one does not know that a quarry gets its name from what happens to the stones there. What other derivative of quattuor describes the shape into which stones are cut at a quarry?        ANS: SQUARE
-2. BONUS: A relative of quattuor, the adverb quater, also has an interesting derivative. What derivative of quater is "a section of printed pages in proper sequence" and often appears in discussion of manuscripts?        ANS: QUIRE (pronounced like CHOIR)
-
-
-7. TOSSUP: What ruler, in an effort to end a nine-year famine in his land, brought in a foreign seer who advised the annual sacrifice of a foreigner to Zeus?  Upon hearing this remedy, the king immediately sacrificed the seer as his first victim and continued to sacrifice strangers passing through his lands until a disguised Heracles dragged him to the same altar and killed him with a dagger.         ANS:  BUSIRIS
-1. BONUS: Before killing Bursis in Egypt, Heracles killed what king of Arabia, son of Eos and Tithonus?          ANS:  EMATHION 
-2. BONUS: During which of his labors did Heracles encounter and kill Busiris and Emathion?        ANS:  THE GOLDEN APPLES OF THE HESPERIDES 
-
-
-8. TOSSUP: For the verb facio, give all infinitive forms.   ANS:  FACERE, FECISSE, FACTURUS ESSE, FIERI, FACTUS ESSE, FACTUM IRI
-1. BONUS: For the verb facio, give all present imperative forms.           ANS: FAC, FACITE, FI, FITE 
-2. BONUS: Consider the following sentence, adapted from Livy: Si ita faxitis, Romani, vestrae res meliores facilioresque erunt. Parse faxitis.          ANS:  SECOND PERSON PLURAL FUTURE PERFECT ACTIVE INDICATIVE (OF FACIO)
-
-
-9. TOSSUP: Which of the following cities is the furthest east: Athens, Alexandria, Byzantium, Tarsus?   ANS:  TARSUS
-1. BONUS: Which of the following cities is the furthest north: Augusta Treverorum, Aquincum, Segovia, Zela?          ANS:  AUGUSTA TREVERORUM
-2. BONUS: Which of the following cities is the furthest west: Utica, Brundisium, Burdigala, Mediolanum?          ANS:  BURDIGALA
-
-
-10. TOSSUP: The death of Drusus the elder is the final event in what work of Latin literature, which were later abridged in the fourth century A.D. into abstracts known as periochae, though even these digestible bits didn’t make its 142-book run time any less daunting?   ANS:  AB URBE CONDITA
-1. BONUS: Livy was a supposed sympathizer with the old Roman Republic, and as such, was termed a "Pompeian" by what emperor?          ANS:  AUGUSTUS
-2. BONUS: Livy was a true scholar, and as such had a pupil of his own. What emperor was encouraged in his historical studies by Livy?          ANS:  CLAUDIUS
-
-
-**SCORE CHECK**
-
-
-11. TOSSUP: Translate the following sentence from English into Latin: There is no doubt that my sister broke the statue’s nose.   ANS:  NON EST DUBIUM QUIN SOROR MEA NASUM STATUAE FREGERIT.
-1. BONUS: Translate the following sentence from English into Latin: Would that the statue could be repaired before my parents saw it!          ANS:  UTINAM STATUA REPARARI POSSET ANTEQUAM / PRIUSQUAM MEI PARENTES EAM / ILLAM VIDERENT!
-2. BONUS: Translate the following sentence from English into Latin: Trust me, if she had thrown the spear with greater care, the statue would not have been broken into two pieces.          ANS:  CREDE / CREDITE MIHI, SI (EA / ILLA) HASTAM / PILUM MAIORE CUM CURA IECISSET, STATUA IN DUAS PARTES NON FRACTA ESSET.
-
-
-12. TOSSUP: Unlike most Italian cities, which were forced to settle for civitas sine suffragio, Tusculum, Aricia, and Lanuvium were all granted full Roman citizenship at the end of what conflict, which pitted Rome against an alliance of many of its surrounding states, and was ultimately decided when the consul Gaius Maenius captured the Volscian city of Antium?   ANS:  GREAT LATIN WAR
-1. BONUS: What battle of the Great Latin War saw the first known instance of devotio by a Publius Decius Mus?          ANS:  MT. VESUVIUS
-2. BONUS: The battle of Mt. Vesuvius also saw what three-time consul order the execution of his own son for insubordination?          ANS:  (T. MANLIUS) TORQUATUS
-
-
-13. TOSSUP: What pupil of Cornutus received praise at the Neronian games for his writing in 60 AD, though Nero would eventually force him to commit suicide for alleged involvement in the Pisonian conspiracy, leaving unfinished his most well-known work, the Pharsalia?   ANS:  (MARCUS ANNAEUS) LUCAN(US)
-1. BONUS: What was Lucan’s full name?          ANS:  MARCUS ANNAEUS LUCANUS 
-2. BONUS: Lucan was related to both Seneca the Elder and Seneca the Younger, and all three were born in what city in Spain?          
-ANS:  CORDOBA/CORDUBA (aka CORDOVA)
-
-
-14. TOSSUP: What King of Delos and priest of Apollo had three daughters to whom Bacchus had given the power to turn anything they touched into wine, grain, and olives and whom Agamemnon seized to feed his Greek troops? ANS:  ANIUS
-1. BONUS: The girls managed to escape but were betrayed by their brother and taken by the Greeks as prisoners a second time. Into what did Bacchus transform the girls so that they could escape the Greeks for good?  ANS: (WHITE) DOVES
-2. BONUS: Anius was the son of Apollo and Rhoeo, whose father had been so angry about her pregnancy that he locked her in a chest and threw her into the sea.  On what island did the pregnant Rhoeo eventually wash up and bear her son Anius? ANS: DELOS
-
-
-15. TOSSUP: Taking laeto, laetare to mean "cheer," translate the following line from the Aeneid, which I will read as prose, into English: Aspice bis senos laetantes agmine cygnos.    ANS:  LOOK AT / BEHOLD THE TWELVE / TWICE SIX (EACH) SWANS CHEERING IN A FLOCK / LINE / COLUMN.
-1. BONUS: Keeping in mind that gressus is a fourth declension noun related to the verb gradior, translate this line from the Aeneid, which I will read as prose, into English: Perge modo, et, qua te ducit via, dirige gressum.          ANS:  JUST / SIMPLY PRESS ON AND, (TO) WHERE THE ROAD LEADS YOU, STEER / DIRECT (YOUR) STEP.
-2. BONUS: Given that the adjective ambrosius is synonymous with immortalis and the noun vertex is synonymous with caput, translate this excerpt from the Aeneid, which I will read as prose, into English: Ambrosiaeque comae divinum vertice odorem spiravere.          ANS:  (AND) THE IMMORTAL HAIR(S) BREATHED A DIVINE SMELL / ODOR / FRAGRANCE FROM THE HEAD.
-
+5. TOSSUP: The phrase submersās obrue puppīs, from Aeneid I.69, is an example of
+what literary device in which the description submersās is used even before it is
+logically appropriate to do so? ANS: PROLEPSIS (ANTICIPATION)
+a. BONUS: The word puppīs itself is an example of what specific type of
+metonymy? ANS: SYNECDOCHE
+b. BONUS: What Latin word for a “keel” is also used, like puppis, to signify a
+ship? ANS: CARĪNA
 
 **SCORE CHECK**
+6. TOSSUP: The numeral quattuor has a number of interesting derivatives. We have all
+become familiar with “quarantine” as one, but there are others. What word, defined as “a
+place where stone is obtained by cutting or blasting,” is also derived from quattuor?
+ANS: QUARRY
+a. BONUS: The fact that “quarry” is derived from quattuor could be puzzling if
+one does not know that a quarry gets its name from what happens to the stones
+there. What other derivative of quattuor describes the shape into which stones
+are cut at a quarry? ANS: SQUARE
+b. BONUS: A relative of quattuor, the adverb quater, also has an interesting
+derivative. What derivative of quater is “a section of printed pages in proper
+sequence” and often appears in discussion of manuscripts? ANS: QUIRE
+(pronounced like CHOIR)
 
+7. TOSSUP: What ruler, in an effort to end a nine-year famine in his land, brought in a
+foreign seer who advised the annual sacrifice of a foreigner to Zeus? Upon hearing this
+remedy, the king immediately sacrificed the seer as his first victim and continued to
+sacrifice strangers passing through his lands until a disguised Heracles dragged him to the
+same altar and killed him with a dagger. ANS: BUSIRIS
+a. BONUS: Before killing Bursis in Egypt, Heracles killed what king of Arabia, son
+of Eos and Tithonus? ANS: EMATHION
+b. BONUS: During which of his labors did Heracles encounter and kill Busiris and
+Emathion? ANS: THE GOLDEN APPLES OF THE HESPERIDES
+8. TOSSUP: For the verb faciō, give all infinitive forms. ANS: FACERE, FĒCISSE,
+FACTŪRUS ESSE, FIERĪ, FACTUS ESSE, FACTUM ĪRĪ
 
-16. TOSSUP: Listen carefully to the following passage in the voice of Cynthia, adapted from Propertius, which I will read twice as prose, and answer the question that follows in English.
-Pelle hederam tumulo, quae alligat mea mollia ossa contortis comis. Ubi pomifer Anio incubat ramosis arvis et ubi ebur numquam pallet numine Herculeo, hic scribe mihi, media columna, carmen dignum sed breve quod currens vector ab urbe legat. (repeat)
-The question: Give one of the two descriptions of the place Cynthia describes.         ANS: WHERE THE (APPLE-BEARING) ANIO LIES (ON BRANCHING FIELDS) / WHERE IVORY NEVER PALES (BY THE DIVINITY OF HERCULES)
-3. BONUS: Why does Cynthia ask Propertius to strike the ivy from her tomb?        ANS: BECAUSE IT IS BINDING/TYING HER (SOFT) BONES (WITH TWISTED HAIR/FOLIAGE)
-4. BONUS: What does Cynthia want from Propertius’s worthy but brief poem?        ANS: (THAT) IT (MAY) BE READ BY A (RUNNING) TRAVELER (FROM THE CITY)
+Page 17
 
+2022 Virginia Junior Classical League State Finals Certamen
 
-17. TOSSUP: During the funeral games of Patroclus, what son of Panopeus lands a winning         blow to the jaw of Euryalus in the boxing match?  This Greek led thirty ships from the 
-Cyclades and is best known as the architect of the Trojan horse?   ANS: EPEIUS/EPEUS
-5. BONUS: What son of Pirithous and Hippodamia bests Epeius and Telamonian Ajax in the throwing contest?          ANS:  POLYPOETES
-6. BONUS: What two heroes reach a stalemate in the wrestling contest?  ANS:  (TELAMONIAN) AJAX THE GREATER & ODYSSEUS
+Advanced Level
 
+a. BONUS: For the verb faciō, give all present imperative forms. ANS: FAC,
+FACITE, FĪ, FITE
+b. BONUS: Consider the following sentence, adapted from Livy: Sī ita faxitis,
+Rōmānī, vestrae rēs meliōrēs faciliōrēsque erunt. Parse faxitis. ANS:
+SECOND PERSON PLURAL FUTURE PERFECT ACTIVE INDICATIVE (OF
+FACIŌ)
 
-18. TOSSUP: Differentiate in meaning between the nouns cauda and cardo.        ANS: CAUDA – TAIL, CARDO – HINGE
-1. BONUS: Differentiate in meaning among tener, tenuis, and tenax.        ANS: TENER – TENDER/SOFT/DELICATE, TENUIS – THIN, TENAX – TENACIOUS/PERSISTENT/FIRM
-2. BONUS: Differentiate in meaning between the nouns ciris and cinis.        ANS: CIRIS – EGRET, CINIS – ASH(ES)
+9. TOSSUP: Which of the following cities is the furthest east: Athens, Alexandria,
+Byzantium, Tarsus? ANS: TARSUS
+a. BONUS: Which of the following cities is the furthest north: Augusta Treverorum,
+Aquincum, Segovia, Zela? ANS: AUGUSTA TREVERORUM
+b. BONUS: Which of the following cities is the furthest west: Utica, Brundisium,
+Burdigala, Mediolanum? ANS: BURDIGALA
 
-
-19. TOSSUP: What man, who was said to have been capable of hitting an ostrich in the neck at a distance of 50 paces, fought in the arena as a left-handed secutor in his free time until the freedman Electus, the concubine Marcia, and the Praetorian Prefect Quintus Aemilius Laetus conspired to murder him on December 31, 192 AD?   ANS:  (L. AURELIUS) COMMODUS
-1. BONUS: 192 AD was not the first time that Commodus was conspired against. What wife of Commodus was executed in 182 AD after being suspected of involvement in his sister Lucilla’s plot against his life?          ANS:  BRUTTIA CRISPINA
-2. BONUS: Though he was not involved in the conspiracy of 182 AD, what husband of Lucilla thereafter withdrew from public life in order to avoid suspicion?          ANS:  (T.) CLAUDIUS POMPEIANUS
-
+10. TOSSUP: The death of Drusus the elder is the final event in what work of Latin
+literature, which were later abridged in the fourth century A.D. into abstracts known as
+periochae, though even these digestible bits didn’t make its 142-book run time any less
+daunting? ANS: AB URBE CONDITĀ
+a. BONUS: Livy was a supposed sympathizer with the old Roman Republic, and as
+such, was termed a “Pompeian” by what emperor? ANS: AUGUSTUS
+b. BONUS: Livy was a true scholar, and as such had a pupil of his own. What
+emperor was encouraged in his historical studies by Livy? ANS: CLAUDIUS
 
 **SCORE CHECK**
+11. TOSSUP: Translate the following sentence from English into Latin: There is no doubt
+that my sister broke the statue’s nose. ANS: NŌN EST DUBIUM QUĪN SOROR
+MEA NĀSUM STATUAE FRĒGERIT.
+a. BONUS: Translate the following sentence from English into Latin: Would that
+the statue could be repaired before my parents saw it! ANS: UTINAM
+STATUA REPARĀRĪ POSSET ANTEQUAM / PRIUSQUAM MEĪ
+PARENTĒS EAM / ILLAM VIDĒRENT!
+b. BONUS: Translate the following sentence from English into Latin: Trust me, if
+she had thrown the spear with greater care, the statue would not have been broken
+into two pieces. ANS: CRĒDE / CRĒDITE MIHI, SĪ (EA / ILLA)
+HASTAM / PĪLUM MAIŌRE CUM CŪRĀ IĒCISSET, STATUA IN DUĀS
+PARTĒS NŌN FRACTA ESSET.
 
+Page 18
 
-20. TOSSUP: Pull out your iPod Romana. We are going back to August 2021, when Halsey released their fourth album. The title of this album, if rendered into Latin, would be the following: Si amorem habere non possum, potestatem desidero. What is its English title?        ANS: IF I CAN’T HAVE LOVE, I WANT POWER (or equivalent literal translation)
-1. BONUS: The third song on the album, "Easier Than Lying," contains the following rather convoluted line in its bridge: "Losing you is easier than lying to myself that you love me." Translate that line into Latin.        ANS: TE AMITTERE EST FACILIUS QUAM MENTIRI MIHI TE ME AMARE
-2. BONUS: The following song, "Lilith," explores a complicated philosophical idea in its outro, repeating the following line over and over again: "The more that you give away, the more that you have." Translate that line into Latin.        ANS: QUANTO MAIUS DAS, TANTO MAIUS HABES.
+2022 Virginia Junior Classical League State Finals Certamen
 
+Advanced Level
 
+12. TOSSUP: Unlike most Italian cities, which were forced to settle for cīvitās sine
+suffrāgiō, Tusculum, Aricia, and Lanuvium were all granted full Roman citizenship at
+the end of what conflict, which pitted Rome against an alliance of many of its
+surrounding states, and was ultimately decided when the consul Gaius Maenius captured
+the Volscian city of Antium? ANS: GREAT LATIN WAR
+a. BONUS: What battle of the Great Latin War saw the first known instance of
+dēvōtiō by a Publius Decius Mus? ANS: MT. VESUVIUS
+b. BONUS: The battle of Mt. Vesuvius also saw what three-time consul order the
+execution of his own son for insubordination? ANS: (T. MANLIUS)
+TORQUATUS
+
+13. TOSSUP: What pupil of Cornutus received praise at the Neronian games for his writing
+in 60 AD, though Nero would eventually force him to commit suicide for alleged
+involvement in the Pisonian conspiracy, leaving unfinished his most well-known work,
+the Pharsālia? ANS: (MARCUS ANNAEUS) LUCAN(US)
+a. BONUS: What was Lucan’s full name? ANS: MARCUS ANNAEUS
+LUCANUS
+b. BONUS: Lucan was related to both Seneca the Elder and Seneca the Younger,
+and all three were born in what city in Spain?
+ANS: CORDOBA/CORDUBA (aka CORDOVA)
+
+14. TOSSUP: What King of Delos and priest of Apollo had three daughters to whom
+Bacchus had given the power to turn anything they touched into wine, grain, and olives
+and whom Agamemnon seized to feed his Greek troops? ANS: ANIUS
+a. BONUS: The girls managed to escape but were betrayed by their brother and
+taken by the Greeks as prisoners a second time. Into what did Bacchus transform
+the girls so that they could escape the Greeks for good? ANS: (WHITE) DOVES
+b. BONUS: Anius was the son of Apollo and Rhoeo, whose father had been so
+angry about her pregnancy that he locked her in a chest and threw her into the sea.
+On what island did the pregnant Rhoeo eventually wash up and bear her son
+Anius? ANS: DELOS
+
+15. TOSSUP: Taking laetō, laetāre to mean “cheer,” translate the following line from the
+Aeneid, which I will read as prose, into English: Aspice bis sēnōs laetantēs agmine
+cygnōs. ANS: LOOK AT / BEHOLD THE TWELVE / TWICE SIX (EACH) SWANS
+CHEERING IN A FLOCK / LINE / COLUMN.
+a. BONUS: Keeping in mind that gressus is a fourth declension noun related to the
+verb gradior, translate this line from the Aeneid, which I will read as prose, into
+English: Perge modo, et, quā tē dūcit via, dīrige gressum. ANS: JUST
+
+Page 19
+
+2022 Virginia Junior Classical League State Finals Certamen
+
+Advanced Level
+
+/ SIMPLY PRESS ON AND, (TO) WHERE THE ROAD LEADS YOU, STEER /
+DIRECT (YOUR) STEP.
+b. BONUS: Given that the adjective ambrosius is synonymous with immortālis
+and the noun vertex is synonymous with caput, translate this excerpt from the
+Aeneid, which I will read as prose, into English: Ambrosiaeque comae dīvinum
+vertice odōrem spīrāvēre. ANS: (AND) THE IMMORTAL HAIR(S)
+BREATHED A DIVINE SMELL / ODOR / FRAGRANCE FROM THE HEAD.
+
+**SCORE CHECK**
+16. TOSSUP: Listen carefully to the following passage in the voice of Cynthia, adapted from
+Propertius, which I will read twice as prose, and answer the question that follows in
+English.
+Pelle hederam tumulo, quae alligat mea mollia ossa contortis comis. Ubi pomifer
+Anio incubat ramosis arvis et ubi ebur numquam pallet numine Herculeo, hic scribe
+mihi, media columna, carmen dignum sed breve quod currens vector ab urbe legat.
+(repeat)
+The question: Give one of the two descriptions of the place Cynthia describes. ANS:
+WHERE THE (APPLE-BEARING) ANIO LIES (ON BRANCHING FIELDS) / WHERE
+IVORY NEVER PALES (BY THE DIVINITY OF HERCULES)
+a. BONUS: Why does Cynthia ask Propertius to strike the ivy from her tomb?
+ANS: BECAUSE IT IS BINDING/TYING HER (SOFT) BONES (WITH
+TWISTED HAIR/FOLIAGE)
+b. BONUS: What does Cynthia want from Propertius’s worthy but brief poem?
+ANS: (THAT) IT (MAY) BE READ BY A (RUNNING) TRAVELER (FROM
+THE CITY)
+
+17. TOSSUP: During the funeral games of Patroclus, what son of Panopeus lands a winning
+blow to the jaw of Euryalus in the boxing match? This Greek led thirty ships from the
+Cyclades and is best known as the architect of the Trojan horse? ANS: EPEIUS/EPEUS
+a. BONUS: What son of Pirithous and Hippodamia bests Epeius and Telamonian
+Ajax in the throwing contest? ANS: POLYPOETES
+b. BONUS: What two heroes reach a stalemate in the wrestling contest? ANS:
+(TELAMONIAN) AJAX THE GREATER & ODYSSEUS
+
+18. TOSSUP: Differentiate in meaning between the nouns cauda and cardō. ANS:
+CAUDA – TAIL, CARDŌ – HINGE
+
+Page 20
+
+2022 Virginia Junior Classical League State Finals Certamen
+
+Advanced Level
+
+a. BONUS: Differentiate in meaning among tener, tenuis, and tenax. ANS:
+TENER – TENDER/SOFT/DELICATE, TENUIS – THIN, TENAX –
+TENACIOUS/PERSISTENT/FIRM
+b. BONUS: Differentiate in meaning between the nouns cīris and cinis. ANS:
+CĪRIS – EGRET, CINIS – ASH(ES)
+
+19. TOSSUP: What man, who was said to have been capable of hitting an ostrich in the neck
+at a distance of 50 paces, fought in the arena as a left-handed secūtor in his free time
+until the freedman Electus, the concubine Marcia, and the Praetorian Prefect Quintus
+Aemilius Laetus conspired to murder him on December 31, 192 AD? ANS: (L.
+AURELIUS) COMMODUS
+a. BONUS: 192 AD was not the first time that Commodus was conspired against.
+What wife of Commodus was executed in 182 AD after being suspected of
+involvement in his sister Lucilla’s plot against his life? ANS: BRUTTIA
+CRISPINA
+b. BONUS: Though he was not involved in the conspiracy of 182 AD, what
+husband of Lucilla thereafter withdrew from public life in order to avoid
+suspicion? ANS: (T.) CLAUDIUS POMPEIANUS
+
+**SCORE CHECK**
+20. TOSSUP: Pull out your iPod Romana. We are going back to August 2021, when Halsey
+released their fourth album. The title of this album, if rendered into Latin, would be the
+following: Si amorem habere non possum, potestatem desidero. What is its English
+title? ANS: IF I CAN’T HAVE LOVE, I WANT POWER (or equivalent literal
+translation)
+a. BONUS: The third song on the album, “Easier Than Lying,” contains the
+following rather convoluted line in its bridge: “Losing you is easier than lying to
+myself that you love me.” Translate that line into Latin. ANS: TE AMITTERE EST FACILIUS QUAM MENTIRI MIHI TE ME AMARE
+b. BONUS: The following song, “Lilith,” explores a complicated philosophical idea
+in its outro, repeating the following line over and over again: “The more that you
+give away, the more that you have.” Translate that line into Latin. ANS:
+QUANTO MAIUS DAS, TANTO MAIUS HABES.
+**ANNOUNCE FINAL SCORE & AWARD TROPHIES**
+**RETURN THE SCORESHEET TO MODERATOR HEADQUARTERS (YES, IT STILL
+MATTERS )**
+
+Page 21
+
+2022 Virginia Junior Classical League State Finals Certamen
+
+Advanced Level
+
+TIEBREAKER
+In the event of a tie in the final round, the following five-tossup tiebreaker should be played
+between or among only the teams that tied. Please contact Woojin Kim if they remain tied.
+1. TOSSUP: Gothic forces under the command of Fritigern won a major victory at what
+battle of 378 AD, which both humiliated the Roman Empire and saw the death of the
+emperor Valens? ANS: ADRIANOPLE
+2. TOSSUP: According to Hesiod, Zeus cast Typhon into Hades, while other traditions
+place him beneath Mount Etna. Vergil, however, claims Mount Etna to be the final resting
+place of what fire-breathing giant, whom Minerva defeated? ANS: ENCELADUS
+3. TOSSUP: Using the first declension noun camera, translate the following sentence from
+English into Latin: There’s a room where the light won’t find you. ANS: (IBI) EST
+CAMERA UBI LŪX / LŪMEN NŌN TĒ / VŌS INVENIET / REPERIET.
+4. TOSSUP: What third-century B.C. poet is credited with inventing the genre of fabulae
+praetextae but is perhaps best known for authoring the first Latin epic poem, a work in
+Saturnian meter on the First Punic War? ANS: (CN.) NAEVIUS
+5. TOSSUP: Distinguish in meaning between the words patruus and patronus. ANS:
+PATRUUS – PATERNAL UNCLE, PATRONUS – PROTECTOR/PATRON

@@ -1,33 +1,43 @@
-1. As described in Latin, what group in popular culture includes these members: coniuges qui
-fiunt vespa formicaque; divi filius cum fulminato malleo; doctor qui irascens multo
-ingentior fit; homo ferratus, nomine Antonius?
+
+1. As described in Latin, what group in popular culture includes these members: coniugēs quī
+fīunt vespa formīcaque; dīvī fīlius cum fulminātō malleō; doctor quī īrāscēns multō
+ingentior fit; homō ferrātus, nōmine Antōnius?
+
 (THE) AVENGERS
 B1: What Latin word would be most appropriate to refer to the round shield that Captain
 America carries?
+
 CLIPEUS
-B2: Translate this quote into Latin, assuming it features an adverb of the same type as semel: "I
-love you 3000."
-{TE / VOS} AMO TER MILIENS
+B2: Translate this quote into Latin, assuming it features an adverb of the same type as semel: “I
+love you 3000.”
+
+{TĒ / VŌS} AMŌ TER MĪLIĒNS
 2. What man used his father’s repute with the Celtiberians to save Hostilius Mancinus’ trapped
 army, though the unpopular treaty made him propose a land-reform bill in 133 B.C. to save his
 and his brother Gaius’ political careers?
+
 TIBERIUS (SEMPRONIUS) GRACCHUS
 B1: Tiberius Sempronius Gracchus, the father of the Gracchi, briefly held a consulship with what
 man, whose son of the same name later murdered Tiberius over his land-reform efforts?
 (PUBLIUS CORNELIUS) SCIPIO NASICA (CORCULUM)
 B2: Tiberius Sempronius Gracchus also held a consulship where he subdued several tribes of
 what people, enslaving so many of them that they became the basis of an expression roughly
-meaning "two a penny"?
+meaning “two a penny”?
+
 SARDI(NIANS)
-3. After he saw "a cloud of unusual size and appearance," what man quickly took a boat to reach
+
+3. After he saw “a cloud of unusual size and appearance,” what man quickly took a boat to reach
 Stabiae, displaying both concern for stranded eruption victims and the scientific curiosity that
-made him write Naturalis Historia?
+made him write Nātūrālis Historia?
+
 PLINY THE ELDER // GAIUS PLINIUS SECUNDUS
 B1: A detailed account of Pliny the Elder’s death survives in a letter, written three decades later,
 from Pliny the Younger to what friend?
+
 ({PUBLIUS / GAIUS} CORNELIUS) TACITUS
 B2: Pliny also wrote a lost history covering the years between 50 A.D. and 71 A.D. and
 continuing what historian’s work?
+
 AUFIDIUS BASSUS
 4. What characteristic heroic task was accomplished with spike-covered armor by Menestratus,
 caused an eight-year servitude to Ares when Cadmus formed the Spartoi with the left-over teeth,
@@ -35,986 +45,1265 @@ and represented Heracles’ second labor?
 KILLING A {DRAGON / (WATER)SERPENT / HYDRA} [ACCEPT EQUIVALENTS]
 B1: Medieval Christians reused this motif with what saint, who supposedly slayed a dragon in
 Cappadocia to rescue a princess and stop a village’s annual human sacrifice?
+
 (SAINT) GEORGE (OF LYDDA)
 B2: A huge dragon terrorized what island until it was slain by the island’s first king, Cychreus?
 SALAMIS
-5. What specific form fills in the blanks in the phrases "[blank] Hebraico," "[blank] Hegirae,"
-"[blank] aetatis suae," and "[blank] domini," as shown in the chronological abbreviation A.D.?
-ANNO
-B1: The word anno began an alternative to what common three-word Latin phrase that the
+5. What specific form fills in the blanks in the phrases “[blank] Hebraicō,” “[blank] Hegirae,”
+“[blank] aetātis suae,” and “[blank] dominī,” as shown in the chronological abbreviation A.D.?
+ANNŌ
+B1: The word annō began an alternative to what common three-word Latin phrase that the
 Romans used to count the years that had passed since their state was supposedly established?
-AB URBE CONDITA
-B2: What specific noun form fills in the blank in the chronological phrase "anno [blank]" as
+AB URBE CONDITĀ
+B2: What specific noun form fills in the blank in the chronological phrase “annō [blank]” as
 shown in the abbreviation A.M.?
-MUNDI
 
+MUNDĪ
+——————————————— [SCORE CHECK] ———————————————
 6. In a war, what Roman king burnt a river-bridge with flaming logs, fought the augur Attus
 Navius, and vowed to start building Jupiter Optimus Maximus’ temple, after which his wife
 Tanaquil predicted Servius Tullius’ accession?
+
 TARQUINIUS PRISCUS
 B1: As a result of this war, Tarquinius Priscus had the original idea to build what sort of
 structure, though Servius Tullius actually built it, according to the common tradition?
+
 (DEFENSIVE) WALL (AROUND ROME)
+
 B2: Tarquinius’ war was fought against the Sabines for control of what river, which later
 supplied the water for Rome’s second-oldest aqueduct?
+
 ANIO (RIVER)
-7. What author  -  whose influence made a heavenly judge say Jerome followed him rather than
-Christ  -  transformed Augustine with his dialogue Hortensius, his treatise De Officiis, and his
+7. What author — whose influence made a heavenly judge say Jerome followed him rather than
+Christ — transformed Augustine with his dialogue Hortensius, his treatise Dē Officiīs, and his
 Catilinarian speeches?
+
 (MARCUS TULLIUS) CICERO
 B1: Cicero’s philosophy had a profound influence on Christian writers. What bishop of Milan in
-the fourth century A.D. explicitly drew on Cicero for his ethical commentary De Officiis
-Ministrorum?
+the fourth century A.D. explicitly drew on Cicero for his ethical commentary Dē Officiīs
+Ministrōrum?
+
 (SAINT) AMBROSE (OF MILAN)
 B2: What other Christian author, living after Ambrose, wrote a commentary on Cicero’s Topica
 and used Cicero’s philosophy for a dialogue focused on free will and reconciling good and evil?
 (ANICIUS MANLIUS SEVERINUS) BOETHIUS
-8. What sort of object, which could be "scraped again" and reused as a palimpsest, was often
+8. What sort of object, which could be “scraped again” and reused as a palimpsest, was often
 found in the scriptorium of medieval monasteries, where scribes illuminated and copied texts?
 MANUSCRIPT(S) / CODEX / CODICES / BOOK(S) / SCROLL(S) / PAGE(S) // (WAX)
 TABLET(S)
-[PROMPT ON "PARCHMENT," "PAPER," "PAPYRUS," OR "VELLUM" BY ASKING
-"WHAT SORT OF OBJECT WAS PRODUCED USING THAT?"]
+[PROMPT ON “PARCHMENT,” “PAPER,” “PAPYRUS,” OR “VELLUM” BY ASKING
+“WHAT SORT OF OBJECT WAS PRODUCED USING THAT?”]
 B1: The study of manuscripts, including their historicity and decipherment, is known as
-"paleography." Etymologically, what do the two roots of "paleography" mean?
+“paleography.” Etymologically, what do the two roots of “paleography” mean?
+
 OLD WRITING [ACCEPT EQUIVALENTS]
 B2: Different manuscripts are represented with different letters in what set of notations, found at
 the bottom of pages of a modern text and including footnotes, variant readings, and appendices?
 APPARATUS CRITICUS // CRITICAL APPARATUS
-9. In what case do nouns like proditio and furtum usually appear with verbs like absolvere,
-damnare, and accusare, since they represent the crime for which the defendant is charged?
+9. In what case do nouns like prōditiō and fūrtum usually appear with verbs like absolvere,
+damnāre, and accūsāre, since they represent the crime for which the defendant is charged?
 GENITIVE
-B1: What crime, sometimes appearing in a genitive of charge, was known as latrocinium?
+B1: What crime, sometimes appearing in a genitive of charge, was known as latrōcinium?
 ROBBERY / BANDITRY / THEFT / PIRACY
-B2: In court, defending against a charge of murder was defendere inter sicarios. What is the
-sica that these sicarii carry?
+B2: In court, defending against a charge of murder was dēfendere inter sīcāriōs. What is the
+sīca that these sīcāriī carry?
+
 (CURVED / STRAIGHT) DAGGER(S)
 10. Participants in various types of what events propitiated Taraxippus with sacrifices, hoping to
 receive stephanoi of celery or parsley in honor of Melicertes or Opheltes when visiting Corinth’s
 Isthmus or Nemea?
+
 (PANHELLENIC / FUNERAL) GAMES // (CHARIOT-)RACES
-B1: What man, the brother-in-law of Amphiaraus, founded the Nemean Games to honor
+B1: What man, the brother-in-law of Amphiaraüs, founded the Nemean Games to honor
 Opheltes?
+
 ADRASTUS
 B2: The most famous Taraxippus, a spirit that supposedly scared horses, was at Olympia.
 However, it was also said that the Isthmian Games had their own Taraxippus, who represented
 what man from Potniae?
-GLAUCUS
 
-11. What linguistic items  -  which can be marked as separate from each other with a diaresis, a
-symbol with two superscript dots  -  are pronounced together in diphthongs and marked with
-macrons as "short" or "long"?
+GLAUCUS
+——————————————— [SCORE CHECK] ———————————————
+11. What linguistic items — which can be marked as separate from each other with a diaresis, a
+symbol with two superscript dots — are pronounced together in diphthongs and marked with
+macrons as “short” or “long”?
+
 VOWEL(S)
 B1: What English term refers to the process in Latin poetry where the pronunciation of a word’s
 last vowel is skipped if the following word starts with a vowel?
+
 ELISION / ELIDING
 B2: In what metrical process do two vowels run together to form one sound? For example, in the
-second line of the Aeneid, Lavinia in "Italiam fato profugus Laviniaque venit" is pronounced
+second line of the Aeneid, Lāvīnia in “Ītaliam fātō profugus Lāvīniaque vēnit” is pronounced
 with only three syllables.
+
 SYNIZESIS
 12. What author, using the analogist style he backed in a two-book grammatical treatise, wrote
 his major work either piecewise across seven winters or all in 52 B.C. in self-aggrandizing
 third-person narration of the Gallic Wars?
+
 (GAIUS JULIUS) CAESAR
-B1: Fill in the three Latin words that finish this line, which opens Caesar’s Gallic Wars: "Gallia
-est omnis divisa [blank]"?
-IN PARTES TRES
-B2: In general, analogists restricted themselves to "everyday" verba, which were described by
-what Latin adjective? Cicero mocked Sisenna as an emendator of speech described by this
+B1: Fill in the three Latin words that finish this line, which opens Caesar’s Gallic Wars: “Gallia
+est omnis dīvīsa [blank]”?
+
+IN PARTĒS TRĒS
+B2: In general, analogists restricted themselves to “everyday” verba, which were described by
+what Latin adjective? Cicero mocked Sisenna as an ēmendātor of speech described by this
 adjective.
-USITATA / USITATI / USITATUS
+
+ŪSITĀTA / ŪSITĀTĪ / ŪSITĀTUS
 13. Who kills the Indian youth Athis and his own ally Aconteus in a battle with his wife’s uncle
 in the Ethiopian palace of Cepheus, where he petrifies two hundred men with Medusa’s head?
 PERSEUS
 B1: According to Ovid, Perseus traveled from Ethiopia to Argos and petrified what man, the
 twin brother of Acrisius?
-PROETUS
-B2: Among those killed in the melee was Polydegmon, a descendant of what queen, who Ovid
+
+PROËTUS
+B2: Among those killed in the mêlée was Polydegmon, a descendant of what queen, who Ovid
 says enclosed Babylon with brick walls?
+
 SEMIRAMIS
-14. Translate the following sentence from Latin to English: "Natura rerum discenda est ad
-mundum intellegendum."
-THE NATURE OF THINGS {MUST BE // IS TO BE} LEARNED TO UNDERSTAND THE WORLD [ACCEPT EQUIVALENTS]
-B1: Now translate this line from Vergil’s Georgics: "Felix, qui potuit rerum cognoscere
-causas."
-{FORTUNATE / LUCKY / HAPPY} (IS HE // THE ONE) WHO HAS BEEN ABLE TO UNDERSTAND THE CAUSES OF THINGS [ACCEPT EQUIVALENTS]
-B2: Now translate these lines, adapted from Lucretius’ De Rerum Natura: "Saecla hominum in
-brevi spatio mutantur et quasi cursores vitae lampada tradunt." Keep in mind that saecla is
+14. Translate the following sentence from Latin to English: “Nātūra rērum discenda est ad
+mundum intellegendum.”
+THE NATURE OF THINGS {MUST BE // IS TO BE} LEARNED TO UNDERSTAND THE
+WORLD [ACCEPT EQUIVALENTS]
+B1: Now translate this line from Vergil’s Georgics: “Fēlīx, quī potuit rērum cognōscere
+causās.”
+{FORTUNATE / LUCKY / HAPPY} (IS HE // THE ONE) WHO HAS BEEN ABLE TO
+UNDERSTAND THE CAUSES OF THINGS [ACCEPT EQUIVALENTS]
+B2: Now translate these lines, adapted from Lucretius’ Dē Rērum Nātūrā: “Saecla hominum in
+brevī spatiō mūtantur et quasi cursōrēs vītae lampada trādunt.” Keep in mind that saecla is
 the subject in both clauses.
 AND IN A BRIEF SPACE (OF TIME) THE {GENERATIONS / AGES} OF {HUMANS /
 MEN} ARE CHANGED AND, LIKE RUNNERS, (THEY) {PASS ON // HAND OVER} THE
 {LAMP / TORCH} OF LIFE [ACCEPT EQUIVALENTS]
-15. Measured in bulk with modii and primarily procured from Sardinia, Sicily, and Egypt, what
-good was distributed in a dole called cura annonae so that the urban poor could make panis?
+15. Measured in bulk with modiī and primarily procured from Sardinia, Sicily, and Egypt, what
+good was distributed in a dole called cūra annōnae so that the urban poor could make pānis?
 GRAIN / CORN / (DURUM) WHEAT
 B1: What man, tribune in 58 B.C. after being adopted by a plebeian and changing his name’s
 patrician spelling, established a grain dole to curry political favor with the urban poor?
+
 (PUBLIUS) CLODIUS PULCHER
 B2: The grain for the dole was primarily stored in what public warehouses, including one in
 Rome named for Servius Sulpicius Galba that covered more than 225,000 square feet?
-HORREA / HORREUM
 
+HORREA / HORREUM
+——————————————— [SCORE CHECK] ———————————————
 16. In the Iliad, which Greek is left holding only an empty helmet after his opponent’s chin-strap
 breaks, then is shot by Pandarus to end the truce, meaning he cannot make his agreed return to
 Sparta with his faithless wife, Helen?
-MENELAUS
-B1: Name Menelaus’ father, whose name is used in a patronymic referring to Menelaus
+
+MENELAÜS
+B1: Name Menelaüs’ father, whose name is used in a patronymic referring to Menelaüs
 throughout the duel with Paris.
-ATREUS
+
+ATREÜS
 B2: At the beginning of the duel, Paris buckles on the breastplate of what brother of his, whom
 Achilles captured in the war as he was cutting fig-shoots for a chariot in Priam’s orchard?
+
 LYCAON
 17. A ruler of what power, hoping that Isaurians could counterbalance Aspar, welcomed their
 chieftain Zeno, who ruled when his counterpart Romulus Augustulus fell and transferred full
 primacy to Constantinople?
+
 EASTERN (ROMAN) EMPIRE // BYZANTINE EMPIRE
 B1: Aspar took up the role of kingmaker after the death of Theodosius II, who promulgated a
 codex on what subject that became the basis for a similar corpus of Justinian?
+
 (CIVIL) LAW(S) // (CIVIL) LAW (CODE) [ACCEPT EQUIVALENTS]
 B2: Name either of the two rulers that Aspar placed on the throne, one in 450 A.D. and one in
 457 A.D.
+
 MARCIAN or LEO I
-18. What meaning is shared by the adjective mendicus and the adjective egenus  -  the latter
-equivalent to the present participle of egeo, egere  -  as well as the adjective pauper?
+18. What meaning is shared by the adjective mendīcus and the adjective egēnus — the latter
+equivalent to the present participle of egeō, egēre — as well as the adjective pauper?
+
 POOR / DESTITUTE / NEEDY / INDIGENT / BEGGING // IN NEED
-B1: What Latin adjective, used to mean "poor" in reference to soil, literally means "lean" or
-"meager"?
+B1: What Latin adjective, used to mean “poor” in reference to soil, literally means “lean” or
+“meager”?
+
 MACER
-B2: What Latin adjective, an antonym of pauper, most properly indicates a person "rich in
-lands," or else "place-filled," as the two Latin words at its base suggest?
-LOCUPLES
-19. What genre, including a work seeking to "venerate [a model]’s footsteps" and one drawing
+B2: What Latin adjective, an antonym of pauper, most properly indicates a person “rich in
+lands,” or else “place-filled,” as the two Latin words at its base suggest?
+
+LOCUPLĒS
+19. What genre, including a work seeking to “venerate [a model]’s footsteps” and one drawing
 on Apollonius of Rhodes, flourished under the Flavian emperors when Statius and Valerius
 Flaccus wrote Thebaid and Argonautica?
+
 (MYTHOLOGICAL) EPIC (POETRY)
 B1: Statius’ Thebaid and Valerius Flaccus’ Argonautica are typically considered part of a trio of
 Flavian epics with what work, a historical epic that is almost crazed in its emulation of Vergil’s
 Aeneid?
+
 (SILIUS ITALICUS’) PUNICA
 B2: In the preface to his Thebaid, Statius declares that he addresses this topic because he cannot
-yet "utter the theme of the triumphs of the north." However, Statius did turn to this theme in
+yet “utter the theme of the triumphs of the north.” However, Statius did turn to this theme in
 what lost historical epic praising the deeds of the emperor Domitian?
-DE BELLO GERMANICO
 
-20. Which two of the words "sullen," "solace," "solo," and "soil" derive from the same Latin
+DĒ BELLŌ GERMĀNICŌ
+——————————————— [SCORE CHECK] ———————————————
+20. Which two of the words “sullen,” “solace,” “solo,” and “soil” derive from the same Latin
 root, since they both represent being alone, though one is more because of ill humor than choice?
 SULLEN and SOLO
-B1: From what Latin verb, with what meaning, are "insolent" and "obsolete" derived?
-{SOLEO / SOLERE} = (I AM // TO BE) ACCUSTOMED TO
+
+B1: From what Latin verb, with what meaning, are “insolent” and “obsolete” derived?
+
+{SOLEŌ / SOLĒRE} = (I AM // TO BE) ACCUSTOMED TO
 B2: What philosophical theory, similar to egoism, argues that the self is the only thing that is
 known to exist?
+
 SOLIPSISM
-1. In Latin, what color is represented directly by the noun canities, metaphorically by the
+
+1. In Latin, what color is represented directly by the noun cānitiēs, metaphorically by the
 material ebur and the material calx, and figuratively by the nouns lac and nix?
+
 WHITE / GRAY / WHITE-GRAY / HOAR
-B1: What color was represented metaphorically by the nouns ostrum and murex?
+
+B1: What color was represented metaphorically by the nouns ostrum and mūrex?
+
 PURPLE / VIOLET / INDIGO
+
 B2: What color was represented metaphorically by the noun smaragdus?
+
 GREEN // EMERALD (GREEN)
-2. Events of what type  -  first proposed by Sicinius  -  caused the consular election of Horatius
-Barbatus and Valerius Potitus, the passage of the Lex Hortensia, and Agrippa Menenius’ "Belly
-and Limbs" speech to rebelling plebeians?
-(PLEBEIAN) SECESSION(S) // SECESSIO(NES PLEBIS)
+2. Events of what type — first proposed by Sicinius — caused the consular election of Horatius
+Barbatus and Valerius Potitus, the passage of the Lēx Hortēnsia, and Agrippa Menenius’ “Belly
+and Limbs” speech to rebelling plebeians?
+
+(PLEBEIAN) SECESSION(S) // SĒCESSIŌ(NĒS PLĒBIS)
 B1: The second plebeian secession, which resulted in the election of Horatius and Valerius, was
 precipitated by the actions of what group, including one of its members’ attacks on Verginia?
-(SECOND) DECEMVIRATE // (SECOND) DECEMVIRI
+(SECOND) DECEMVIRATE // (SECOND) DECEMVIRĪ
 B2: A law with what primary provision was passed to end the Fifth Secession? A description is
 fine.
-{PLEBISCITES // RESOLUTIONS OF THE PLEBEIAN COUNCIL} BECAME (AUTOMATICALLY) BINDING ON THE WHOLE POPULATION (WITHOUT SENATE APPROVAL) [ACCEPT EQUIVALENTS]
-3. What two-word phrase, which starts a text saying "consectetur adipiscing elit" in adaptation
-of Cicero’s De Finibus, is a truncation meaning "pain itself" that graphic designers use to test
+
+{PLEBISCITES // RESOLUTIONS OF THE PLEBEIAN COUNCIL} BECAME
+(AUTOMATICALLY) BINDING ON THE WHOLE POPULATION (WITHOUT SENATE
+APPROVAL) [ACCEPT EQUIVALENTS]
+3. What two-word phrase, which starts a text saying “cōnsectētur adipiscing elit” in adaptation
+of Cicero’s Dē Fīnibus, is a truncation meaning “pain itself” that graphic designers use to test
 the look of typefaces and layouts?
+
 LOREM IPSUM
-B1: Translate this sentence that provides the original context for the phrase: "neque quisquam
-est, qui dolorem ipsum, quia dolor sit, amet."
-{NOR // AND NOT} IS THERE ANYONE WHO LOVES PAIN ITSELF, BECAUSE IT IS PAIN [ACCEPT EQUIVALENTS]
-B2: "Pangrams," or sentences using every letter, are often used to test typefaces, as with "the
-quick brown fox jumps over the lazy dog." Concise Latin pangrams are nonsensical, so translate
-this couplet from the Aeneid, which contains every Latin letter besides k and z: "Forte die
-sollemnem illo rex Arcas honorem / Amphitryoniadae magno divisque ferebat."
-BY CHANCE, ON THAT DAY, {THE ARCADIAN KING // KING ARCAS} WAS BEARING (THE) {SOLEMN / CUSTOMARY / YEARLY / RECURRING / APPOINTED} HONOR TO
-{THE GREAT SON OF AMPHITRYON // GREAT HERACLES // GREAT HERCULES} AND THE GODS [ACCEPT EQUIVALENTS]
-4. What sort of creature, one of which stopped a wine-cup from reaching the lips of Ancaeus,
-was sent to avenge the non-sacrifice of first-fruits by Oeneus, causing a heroic hunt in Calydon?
+
+B1: Translate this sentence that provides the original context for the phrase: “neque quisquam
+est, quī dolōrem ipsum, quia dolor sit, amet.”
+{NOR // AND NOT} IS THERE ANYONE WHO LOVES PAIN ITSELF, BECAUSE IT IS
+PAIN [ACCEPT EQUIVALENTS]
+B2: “Pangrams,” or sentences using every letter, are often used to test typefaces, as with “the
+quick brown fox jumps over the lazy dog.” Concise Latin pangrams are nonsensical, so translate
+this couplet from the Aeneid, which contains every Latin letter besides k and z: “Forte diē
+sollemnem illō rēx Arcas honōrem / Amphitryōniadae magnō dīvīsque ferēbat.”
+BY CHANCE, ON THAT DAY, {THE ARCADIAN KING // KING ARCAS} WAS BEARING
+(THE) {SOLEMN / CUSTOMARY / YEARLY / RECURRING / APPOINTED} HONOR TO
+{THE GREAT SON OF AMPHITRYON // GREAT HERACLES // GREAT HERCULES} AND
+THE GODS [ACCEPT EQUIVALENTS]
+4. What sort of creature, one of which stopped a wine-cup from reaching the lips of Ancaeüs,
+was sent to avenge the non-sacrifice of first-fruits by Oeneüs, causing a heroic hunt in Calydon?
 BOAR / PIG
-B1: Ancaeus joined the expedition of the Argonauts and returned safely to Greece, only to be
-killed by a boar. What role in the expedition did Ancaeus assume after Tiphys’ death, being
+B1: Ancaeüs joined the expedition of the Argonauts and returned safely to Greece, only to be
+killed by a boar. What role in the expedition did Ancaeüs assume after Tiphys’ death, being
 chosen over the volunteer Erginus?
+
 HELMSMAN / STEERSMAN / PILOT / STEERING
-B2: Another Ancaeus joined the expedition of the Argonauts and returned safely to Greece, only
+B2: Another Ancaeüs joined the expedition of the Argonauts and returned safely to Greece, only
 to be killed in the Calydonian boar hunt. What son took over his kingdom and led the forces of
 landlocked Arcadia to the Trojan War?
+
 AGAPENOR
 5. What man was the focus of a monumental painting by Philoxenus of Eretria that was copied at
-Pompeii’s "House of the Faun" in mosaic form, showing his victory at the Battle of Issus?
+Pompeii’s “House of the Faun” in mosaic form, showing his victory at the Battle of Issus?
 ALEXANDER {THE GREAT // III}
 B1: What man served as Alexander’s personal sculptor, creating the stock representation of him
 with tousled hair and an upward glance?
+
 LYSIPPOS / LYSIPPUS
-B2: Lysippus was otherwise known for portraying whom in a "weary" statue, a copy of which
+B2: Lysippus was otherwise known for portraying whom in a “weary” statue, a copy of which
 became famous in the Renaissance after entering the possession of Cardinal Alessandro Farnese?
 HERACLES / HERCULES
-
+——————————————— [SCORE CHECK] ———————————————
 6. Writers in what genre used the name of a mountain on Delos and the name of the island itself
 to disguise the identities of Hostia and Plania, the women addressed by Tibullus and Propertius
 in love-poems?
+
 ELEGY / ELEGIES
+
 B1: The first book of Propertius’ elegies is sometimes simply called Cynthia instead of what
 one-word Greek name?
+
 MONOBIBLOS
+
 B2: In the Apologia, Apuleius exposes the real names of elegists’ muses as a form of
 self-defense. He also declares, probably incorrectly, that Vergil is represented in the second
 Eclogue by Corydon and a slave of Asinius Pollio is represented by what other speaker?
 ALEXIS
-7. What man  -  who said he was the greatest-ever left-handed fighter on a statue of Hercules, his
-supposed divine patron  -  renamed Rome after himself when he succeeded his more stoic father,
+7. What man — who said he was the greatest-ever left-handed fighter on a statue of Hercules, his
+supposed divine patron — renamed Rome after himself when he succeeded his more stoic father,
 Marcus Aurelius?
+
 COMMODUS
 B1: At one point, it was rumored that Commodus would move permanently into the gladiatorial
 barracks and become sole consul dressed as a gladiator. As a result, conspirators killed him on
-New Year’s Eve of what year A.D., which was followed by the "Year of the Five Emperors"?
+New Year’s Eve of what year A.D., which was followed by the “Year of the Five Emperors”?
 192 (A.D.)
 B2: As a gladiator, Commodus was reputed to have used special crescent-shaped arrows to shoot
 what animals, one of whose heads he severed and brandished in front of the attending senators as
 a warning?
+
 OSTRICH(ES)
-8. What kind of word, which can undergo "case attraction," begins a subjunctive clause that
-describes the sort of person someone is  -  that is, their characteristics  -  like in "sunt qui
-dicant"?
+8. What kind of word, which can undergo “case attraction,” begins a subjunctive clause that
+describes the sort of person someone is — that is, their characteristics — like in “sunt quī
+dīcant”?
+
 RELATIVE (PRONOUN)
+
 B1: Say in Latin using a relative pronoun: He sends the soldiers to pitch camp.
-MILITES MITTIT QUI CASTRA PONANT [ACCEPT EQUIVALENTS]
-B2: Say in Latin using rogo and a relative pronoun: He asks the gods for the courage to fight
+
+MĪLITĒS MITTIT QUĪ CASTRA PŌNANT [ACCEPT EQUIVALENTS]
+B2: Say in Latin using rogō and a relative pronoun: He asks the gods for the courage to fight
 more boldly.
-{DEOS / DIVOS} {VIRTUTEM / AUDACIAM / FORTITUDINEM} ROGAT {QUO /
-QUA} {AUDACIUS / FEROCIUS} PUGNET [ACCEPT EQUIVALENTS]
-9. What author perhaps adopted and adapted a farcical name meaning "clown" while working as
+{DEŌS / DĪVŌS} {VIRTŪTEM / AUDĀCIAM / FORTITŪDINEM} ROGAT {QUŌ /
+QUĀ} {AUDĀCIUS / FERŌCIUS} PUGNET [ACCEPT EQUIVALENTS]
+9. What author perhaps adopted and adapted a farcical name meaning “clown” while working as
 an actor, partly explaining the difficulty in authenticating his 21 genuine works, which included
-Menaechmi and Miles Gloriosus?
+Menaechmī and Mīles Glōriōsus?
+
 (TITUS MACCIUS) PLAUTUS
-B1: What scholar, the author of De Re Rustica and Menippean Satires, established the canon of
-21 genuine plays of Plautus, including by discarding any plays ascribed to the author "Plautius"?
+B1: What scholar, the author of Dē Rē Rūsticā and Menippean Satires, established the canon of
+21 genuine plays of Plautus, including by discarding any plays ascribed to the author “Plautius”?
 VARRO (OF REATE // REATINUS)
-B2: The possible meaning of "Plautus" as "flat-footed" would identify the author with the
-planipedes, actors in which genre?
-MIME / MIMUS / MIMI
-10. What Latin verb, the ultimate root of an English word meaning "Western world" that is
-contrasted with "Orient," lies at the root of the English words "decay," "deciduous," and
-"cascade"?
-CADO / CADERE
-B1: The Latin word cadaver likely also derives from cado. However, Isidore of Seville
+
+B2: The possible meaning of “Plautus” as “flat-footed” would identify the author with the
+plānipedēs, actors in which genre?
+
+MIME / MĪMUS / MĪMĪ
+10. What Latin verb, the ultimate root of an English word meaning “Western world” that is
+contrasted with “Orient,” lies at the root of the English words “decay,” “deciduous,” and
+“cascade”?
+
+CADŌ / CADERE
+B1: The Latin word cadaver likely also derives from cadō. However, Isidore of Seville
 improbably said the word came from a contraction of the first few letters of each word in the
-phrase caro data vermibus, which has a similar meaning. What is the literal meaning of that
+phrase carō data vermibus, which has a similar meaning. What is the literal meaning of that
 phrase?
+
 {FLESH / MEAT} GIVEN TO WORMS
 B2: Here are three more of Isidore’s improbable contractive etymologies where the Latin word is
 supposedly represented by the meaning of the phrase and some of its letters. Give the Latin word
 for any of the three: laedens pedem; ferens nos extra; gulam dividens.
-LAPIS = LAEDENS PEDEM (HARMING THE FOOT); FENESTRA = FERENS NOS EXTRA (BEARING US OUTSIDE); GLADIUS = GULAM DIVIDENS (DIVIDING THE THROAT)
-
+LAPIS = LAEDENS PEDEM (HARMING THE FOOT); FENESTRA = FERENS NOS
+EXTRA (BEARING US OUTSIDE); GLADIUS = GULAM DIVIDENS (DIVIDING THE
+THROAT)
+——————————————— [SCORE CHECK] ———————————————
 11. What group, uniquely given the ability to look up to the stars, was repopulated on the heights
-above Delphi on the advice of Themis, who said "throw your mother’s bones" to the lonely
+above Delphi on the advice of Themis, who said “throw your mother’s bones” to the lonely
 Deucalion and Pyrrha?
-HUMAN RACE // (HU)MANKIND // HUMANS // MEN and WOMEN [ACCEPT EQUIVALENTS]
+
+HUMAN RACE // (HU)MANKIND // HUMANS // MEN and WOMEN [ACCEPT
+EQUIVALENTS]
 B1: Deucalion and Pyrrha were actually cousins, since their fathers were what pair of brothers?
 PROMETHEUS and EPIMETHEUS
 B2: After landing on Mt. Parnassus, Deucalion and Pyrrha sacrificed to Themis, the mountain
 gods, and the nymphs of what place, where Typhon had earlier put the sinews of Zeus to be
 guarded by Delphyne?
+
 CORYCIAN CAVE
-12. What three-letter ending is added to the verbal stem leva- to mean "consolation," just like it
-ends a noun meaning "seed," a noun meaning "divine will," and a noun meaning "competition"?
+12. What three-letter ending is added to the verbal stem levā- to mean “consolation,” just like it
+ends a noun meaning “seed,” a noun meaning “divine will,” and a noun meaning “competition”?
 -MEN
-B1: What Latin word, formed with a similar ending and similar process, means "hindrance" in
-the singular and "baggage" in the plural?
-IMPEDIMENTUM
-B2: What Latin word with the ending -mentum, sometimes meaning "alphabet" in the plural,
+B1: What Latin word, formed with a similar ending and similar process, means “hindrance” in
+the singular and “baggage” in the plural?
+
+IMPEDĪMENTUM
+
+B2: What Latin word with the ending -mentum, sometimes meaning “alphabet” in the plural,
 perhaps derives from the three consecutive consonants at the center of the classical Roman
 alphabet?
+
 ELEMENTUM / ELEMENTA
 13. What author criticizes but still uses the exaggerated numbers of Valerius Antias in his
-so-called first "decade," which reaches the Third Samnite War after describing the monarchy’s
-history ab urbe condita?
+so-called first “decade,” which reaches the Third Samnite War after describing the monarchy’s
+history ab urbe conditā?
+
 LIVY // (TITUS) LIVIUS
 B1: Livy’s sources include the occasional use of what work, written by Cato the Elder as the first
 Latin history?
-ORIGINES
+
+ORĪGINĒS
 B2: Livy also used but criticized the annals of what pro-Marian historian, whose son wrote the
 epyllion Io?
+
 (GAIUS) LICINIUS MACER
-14. What man introduced an especially intricate dance called "Crane" at Delos, where he stopped
+14. What man introduced an especially intricate dance called “Crane” at Delos, where he stopped
 after leaving Naxos and the woman whose gift let him safely retrace his twisted path in the
 Minotaur’s labyrinth?
+
 THESEUS
 B1: After Theseus abandoned Ariadne on Naxos, she married Dionysus. Among her children
-was what Chian king, whose name meant "wine-faced" and who blinded Orion?
+was what Chian king, whose name meant “wine-faced” and who blinded Orion?
+
 OENOPION
-B2: Many scholars think that the word geranos does not indicate a "crane," but rather what type
+B2: Many scholars think that the word geranos does not indicate a “crane,” but rather what type
 of animal, supposedly tamed by a primitive Minoan goddess identified by Arthur Evans?
 SNAKE(S) / SERPENT(S)
-15. Often called the cavum aedium, known by styles including Tuscanicum and testudinatum,
+15. Often called the cavum aedium, known by styles including Tuscānicum and testūdinātum,
 and containing the compluvium and impluvium, what room was the central court of a Roman
 house?
-ATRIUM / ATRIUM
-B1: The Roman atrium often contained a shrine dedicated to what Roman household gods?
-LARES // PENATES // LARES and PENATES
-B2: Also in the atrium was what object, rarely used but known by the terms genialis and
-adversus?
-LECTUS // (MARRIAGE) COUCH / BED
 
-16. Translate this sentence into English: "Peregrinatores pavidi perceperunt procellam
-propinquare." More simply, that’s "Viatores timidi viderunt tempestatem appropinquare,"
-with viator meaning "traveler."
-THE {TIMID / TREMBLING / FEARFUL} TRAVELERS {PERCEIVED / SAW} THAT A STORM WAS APPROACHING [ACCEPT EQUIVALENTS]
-B1: Now translate this sentence from Latin to English: "Peregrinatores proficiscentes
-praecurrere procellam properaverunt."
+ĀTRIUM / ATRIUM
+B1: The Roman ātrium often contained a shrine dedicated to what Roman household gods?
+LARĒS // PENĀTĒS // LARĒS and PENĀTĒS
+B2: Also in the ātrium was what object, rarely used but known by the terms geniālis and
+adversus?
+
+LECTUS // (MARRIAGE) COUCH / BED
+——————————————— [SCORE CHECK] ———————————————
+
+16. Translate this sentence into English: “Peregrīnātōrēs pavidī percēpērunt procellam
+propinquāre.” More simply, that’s “Viātōrēs timidī vīdērunt tempestātem appropinquāre,”
+with viātor meaning “traveler.”
+THE {TIMID / TREMBLING / FEARFUL} TRAVELERS {PERCEIVED / SAW} THAT A
+STORM WAS APPROACHING [ACCEPT EQUIVALENTS]
+B1: Now translate this sentence from Latin to English: “Peregrīnātōrēs proficīscentēs
+praecurrere procellam properāvērunt.”
+
 THE TRAVELERS {(AS THEY WERE) DEPARTING // AS THEY DEPARTED}
-{HASTENED / HURRIED} TO {OUTRUN // RUN BEFORE} THE STORM [ACCEPT EQUIVALENTS]
+{HASTENED / HURRIED} TO {OUTRUN // RUN BEFORE} THE STORM [ACCEPT
+EQUIVALENTS]
 B2: Keeping the sentence fully alliterative with the impersonal verb pertaedet, say in Latin:
-"The travelers were thoroughly weary of the dangerous storms."
-{PERTAESUM EST // PERTAEDEBAT} PEREGRINATORES PERICULOSARUM PROCELLARUM
+“The travelers were thoroughly weary of the dangerous storms.”
+{PERTAESUM EST // PERTAEDĒBAT} PEREGRĪNĀTŌRĒS PERĪCULŌSĀRUM
+PROCELLĀRUM
 17. What Roman deity, probably originally worshipped alongside Lua before his consort was
 reinterpreted as Ops, reigned during Italy’s abundant Golden Age and was celebrated in a
 December festival of gift-giving?
+
 SATURN
 B1: What agricultural god, often considered a son of Saturn, was worshipped as a prophetic
 woodpecker by the native Italians?
+
 PICUS
 B2: Saturn’s consort Rhea was originally paired with what chthonic granary god, who had a
 subterranean altar in the Circus Maximus that was only exposed during his festivals in late
 August and mid-December?
+
 CONSUS
-18. What Latin noun, in various forms, fills in the blanks in the following phrases: "Castigat
-ridendo [blank]"; "Quid leges sine [blank] vanae proficiunt"?; "[blank] maiorum"; "O
-tempora, O [blank]!"
-MORES / MOS / MORIBUS
-B1: What university adapts Horace’s phrase "Quid leges sine moribus vanae proficiunt" for its
+18. What Latin noun, in various forms, fills in the blanks in the following phrases: “Castīgat
+rīdendō [blank]”; “Quid lēgēs sine [blank] vānae prōficiunt”?; “[blank] maiōrum”; “Ō
+tempora, Ō [blank]!”
+
+MŌRĒS / MŌS / MŌRIBUS
+B1: What university adapts Horace’s phrase “Quid lēgēs sine mōribus vānae prōficiunt” for its
 motto?
+
 (UNIVERSITY OF) PENNSYLVANIA // (U)PENN
-B2: What two universities from the same state have the mottoes "civium in moribus rei
-publicae salus" and "vires, artes, mores"?
+B2: What two universities from the same state have the mottoes “cīvium in mōribus reī
+pūblicae salūs” and “vīrēs, artēs, mōrēs”?
+
 {(UNIVERSITY OF) FLORIDA // UF} and {FLORIDA STATE // FSU}
+
 19. What topic was addressed by Marcus Gavius, who took the name Apicius, as well as Ennius’
-poem Hedyphagetica and the main surviving fragment of the novel Satyricon  -  Trimalchio’s
-cena?
+poem Hedyphagetica and the main surviving fragment of the novel Satyricon — Trimalchio’s
+cēna?
+
 COOKING / FOOD / EATING / GASTRONOMY / DINING
 B1: In the Satyricon, what man is overwhelmed by Trimalchio’s banquet, which includes a
 platter of food marked with the twelve zodiac signs and featuring food appropriate to each one?
 ENCOLPIUS
 B2: What work includes Catius hastily recounting new gastronomic principles and a story of
 Nasidienus’ dinner-party?
-HORACE’S {SATIRES // SATURAE // SERMONES}
 
-20. What Roman’s will, seized illegally from the temple of Vesta, named his twins "Sun" and
-"Moon" as heirs alongside Ptolemy Philadelphus, whom he had with Cleopatra shortly before
+HORACE’S {SATIRES // SATURAE // SERMŌNĒS}
+——————————————— [SCORE CHECK] ———————————————
+20. What Roman’s will, seized illegally from the temple of Vesta, named his twins “Sun” and
+“Moon” as heirs alongside Ptolemy Philadelphus, whom he had with Cleopatra shortly before
 their defeat at Actium?
+
 (MARK) ANTONY // (MARCUS) ANTONIUS
 B1: Among the will’s other clauses was that Antony would be buried at what city, where he had
-earlier made a series of "donations" of lands to his three children?
+earlier made a series of “donations” of lands to his three children?
+
 ALEXANDRIA
-B2: During the celebrations preceding the "donations," Antony paraded what Armenian ruler
+B2: During the celebrations preceding the “donations,” Antony paraded what Armenian ruler
 through Alexandria after taking his capital to avenge his earlier desertion?
+
 ARTAVASDES (II OF ARMENIA)
-1. What period’s works included the poem Africa and the Oration on the Dignity of Man, as well
+
+1. What period’s works included the poem Āfrica and the Oration on the Dignity of Man, as well
 as vernacular works like Decameron, written using finds by Petrarch and other humanists for a
-classical "rebirth"?
+classical “rebirth”?
+
 (ITALIAN) RENAISSANCE
 B1: What Italian author chose the vernacular instead of Latin for his Discourses on the First
 Decade of Livy and a work on being an effective ruler?
+
 (NICCOLO DI BERNARDO DEI) MACHIAVELLI
-B2: The Renaissance author Ludovico Ariosto coined the term "humanism," wrote the
+
+B2: The Renaissance author Ludovico Ariosto coined the term “humanism,” wrote the
 Plautus-inspired comedy Cassaria, and authored a romantic epic about what man, whose
 description as furioso echoes Seneca?
+
 ORLANDO / ROLAND
 2. What two deities were jointly honored in the Thesmophoria festival and worshipped together
-as "Kore" and "Mother" in the Eleusinian Mysteries, which reflected one’s grief at the other’s
+as “Kore” and “Mother” in the Eleusinian Mysteries, which reflected one’s grief at the other’s
 abduction by Hades?
+
 DEMETER and PERSEPHONE
-B1: Among those honored in the Eleusinian Mysteries was what hero, the son of Celeus and the
+B1: Among those honored in the Eleusinian Mysteries was what hero, the son of Celeüs and the
 recipient of a winged chariot from Demeter that let him visit many lands?
+
 TRIPTOLEMUS
 B2: Another honored at the Eleusinian Mysteries was what deity, perhaps the personification of
 the ritual cry uttered by those undertaking the Eleusinian procession from Athens?
+
 IACCHUS
-3. What sort of person, who might control carbasa or be directed by a gubernator, is
+
+3. What sort of person, who might control carbasa or be directed by a gubernātor, is
 represented in a modern mnemonic acronym to recall nine Latin pronominal adjectives like
-nullus and alius  -  unus nauta?
+nūllus and alius — ūnus nauta?
+
 SAILOR / SEAMAN / MARINER
 B1: Latin mnemonic acronyms are not just a modern classroom invention. Medieval monks used
-the mnemonic saligia to recall the seven deadly sins  -  in order, pride, greed, lust, anger,
+the mnemonic saligia to recall the seven deadly sins — in order, pride, greed, lust, anger,
 gluttony, envy, and sloth. Give the Latin names for any three of these.
-SUPERBIA = PRIDE, AVARITIA = GREED, LUXURIA = LUST, IRA = ANGER, GULA =
-GLUTTONY, INVIDIA = ENVY, ACEDIA / ACCIDIA = SLOTH
+SUPERBIA = PRIDE, AVĀRITIA = GREED, LUXURIA = LUST, ĪRA = ANGER, GULA =
+GLUTTONY, INVIDIA = ENVY, ACĒDIA / ACCIDĪA = SLOTH
 B2: The strange form euouae, often called English’s longest word made up only of vowels, is a
-mnemonic medieval abbreviation for the last six vowels of the "Gloria Patri" hymn. The last
+mnemonic medieval abbreviation for the last six vowels of the “Glōria Patrī” hymn. The last
 two vowels are from Amen. The other four are the vowels in the last word of what three-word
-Latin phrase that idiomatically means "forever and ever"?
-IN S(A)ECULA S(A)ECULORUM
+Latin phrase that idiomatically means “forever and ever”?
+
+IN S(A)ECULA S(A)ECULŌRUM
 4. What people, despite a late independence bid under Papius Mutilus, were mostly assimilated
 into Roman society after Papirius Cursor won at Aquilonia to avenge disasters at Lautulae and
 the Caudine Forks?
+
 SAMNITES
 B1: The last sigh of the Samnites came after the Social War at what battle, when Crassus’ victory
 on the right flank motivated Roman forces to counterattack Pontius Telesinus’ Samnites?
 (BATTLE OF THE) COLLINE GATE
-B2: After the Romans fully Latinized the Samnites, several Samnite gentes became politically
-prominent. One was a gens whose first notable member was what man, designated consul for the
+B2: After the Romans fully Latinized the Samnites, several Samnite gentēs became politically
+prominent. One was a gēns whose first notable member was what man, designated consul for the
 year after Caesar’s assassination, alongside a longtime legate of Caesar?
+
 (GAIUS VIBIUS) PANSA (CAETRONIANUS)
 5. What work is set in places like Massilia, the plains of Thessaly, and the battlefield of
 Dyrrachium, because its ten books narrate the civil war of Pompey and Caesar as imagined by
 the poet Lucan?
-(LUCAN’S) {PHARSALIA // BELLUM CIVILE // DE BELLO CIVILI}
+
+(LUCAN’S) {PHARSĀLIA // BELLUM CĪVĪLE // DĒ BELLŌ CĪVĪLĪ}
 B1: The first book of the poem includes a vision of the spirit of Rome at the banks of what river?
 RUBICO(N RIVER)
 B2: A high-point of the poem occurs in Thessaly, where Erictho conducts what sort of ritual as a
 form of prophecy?
 {NECROMANCY / RESURRECTION} (OF DEAD SOLDIER) [ACCEPT EQUIVALENTS]
+——————————————— [SCORE CHECK] ———————————————
 
-6. Describamus nunc proprietates dictionum in hac sententia: "Non vincere potest quod
-excedunt quos dei amant." Quod verbum inaequale est  -  id est, extra regulam coniugatur
- -  et est in numero singulari?
+6. Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: “Nōn vincere potest quod
+excēdunt quōs deī amant.” Quod verbum inaequāle est — id est, extrā rēgulam coniugātur
+— et est in numerō singulārī?
+
 POTEST
-B1: Cuius declinationis est nomen "dei"?
+
+B1: Cuius dēclīnātiōnis est nōmen “deī”?
+
 SECUNDAE
-B2: Sententia est "Non vincere potest." Dic mihi sententiam eiusdem significationis et
-duorum verborum.
-{VINCERE / SUPERARE} NEQUIT
+B2: Sententia est “Nōn vincere potest.” Dīc mihi sententiam eiusdem significātiōnis et
+duōrum verbōrum.
+
+{VINCERE / SUPERĀRE} NEQUIT
 7. In Rome, surviving buildings first used for what purpose include a Nubian-esque structure
-designed by Gaius Cestius, the Castel Sant'Angelo, and an edifice inscribed with the Res Gestae
+designed by Gaius Cestius, the Castel Sant'Angelo, and an edifice inscribed with the Rēs Gestae
 that celebrated Augustus’ achievements?
+
 TOMB(S) / MAUSOLEUM(S) / SEPULCHER(S) [ACCEPT EQUIVALENTS]
 B1: Cestius’ tomb pyramid is particularly well-preserved because it was incorporated into the
 defensive walls by what unifying third-century emperor, who crushed a revolt of mint-workers in
 Rome led by Felicissimus?
+
 AURELIAN
 B2: Another tomb incorporated into Aurelian’s walls was that of Eurysaces, a freedman with
 what occupation?
+
 BAKER / MILLER
-8. In early Latin, what feeling was expressed by the independent subjunctive use of ut or uti, like
-in classical Latin with utinam, which essentially replaced verbs like cupio or volo, velle?
+8. In early Latin, what feeling was expressed by the independent subjunctive use of ut or utī, like
+in classical Latin with utinam, which essentially replaced verbs like cupiō or volō, velle?
 OPTATIVE / WISH(ES) / WANT(S) / DESIRE(S) // WOULD THAT // IF ONLY
-B1: Subjunctive forms of volo were often used as an equivalent to utinam. This was especially
+B1: Subjunctive forms of volō were often used as an equivalent to utinam. This was especially
 true with the first-person singular active subjunctive in the present and imperfect. Please give
-both these forms for volo.
+both these forms for volō.
+
 VELIM and VELLEM
 B2: The optative subjunctive with utinam is really an evolution of what other use of the
 independent subjunctive?
+
 DELIBERATIVE
-9. What mythological woman  -  given a slight alteration of her mother’s name with the removal
-of an "s" in the middle by her father, Metabus  -  was content with being Diana’s devotee until
+9. What mythological woman — given a slight alteration of her mother’s name with the removal
+of an “s” in the middle by her father, Metabus — was content with being Diana’s devotee until
 war forced her to aid Turnus?
+
 CAMILLA
-B1: Metabus’ name perhaps comes from a Greek root meaning "to pass to another place,"
+B1: Metabus’ name perhaps comes from a Greek root meaning “to pass to another place,”
 reflecting how he fled as an exile from what people after they kicked him out of Privernum?
+
 VOLSCI(ANS)
 B2: To save Camilla as they fled Privernum, Metabus threw her across what river, whose name
 Vergil perhaps chose to reflect Camilla’s status as a woman warrior?
-AMASENUS
-10. What groups  -  including one called Alaudae and one that was saved by a miraculous
-rainstorm and called Fulminata  -  contained the triarii, hastati, and the centuriones of the
-Roman army?
-LEGION(S) / LEGIO(NES)
-B1: Give the Latin name for the standard that was carried by each of Rome’s legions.
-AQUILA(E)
-B2: The Legio Alaudae was probably disbanded in 70 A.D. after its failures in the war against
-what Germanic tribe, which revolted under the leadership of Julius Civilis?
-BATAVI // BATAVIAN(S)
 
-11. Some of what object’s parts have names derived from Latin words meaning "little acorn,"
-"little key," and "little mouse," as well as more obvious diminutives, like auriculus and
+AMASENUS
+10. What groups — including one called Alaudae and one that was saved by a miraculous
+rainstorm and called Fulmināta — contained the triāriī, hastātī, and the centuriōnēs of the
+Roman army?
+
+LEGION(S) / LEGIŌ(NĒS)
+
+B1: Give the Latin name for the standard that was carried by each of Rome’s legions.
+
+AQUILA(E)
+B2: The Legiō Alaudae was probably disbanded in 70 A.D. after its failures in the war against
+what Germanic tribe, which revolted under the leadership of Julius Civilis?
+
+BATAVI // BATAVIAN(S)
+——————————————— [SCORE CHECK] ———————————————
+11. Some of what object’s parts have names derived from Latin words meaning “little acorn,”
+“little key,” and “little mouse,” as well as more obvious diminutives, like auriculus and
 pediculus?
+
 (HUMAN) BODY
-B1: The "malleolus" is a part of the ankle that looks like a miniature version of what type of
+B1: The “malleolus” is a part of the ankle that looks like a miniature version of what type of
 object, per its derivation?
+
 HAMMER (HEAD) // MALLET (HEAD)
-B2: According to its derivation, what small bodily projection looks like a "little grape"?
+B2: According to its derivation, what small bodily projection looks like a “little grape”?
 UVULA
-12. What author mocks the "disertissimus Romuli nepotum," his rival-in-love Quintus
+12. What author mocks the “disertissimus Rōmulī nepōtum,” his rival-in-love Quintus
 Caecilius Metellus, his Bithynian staff commander Memmius, a man from his native Verona, and
 his once-beloved Lesbia in invectives?
+
 (GAIUS VALERIUS) CATULLUS
 B1: What three-word Latin phrase opens Catullus 85, a sort of invective against both Lesbia and
 Catullus himself?
-ODI ET AMO
-B2: Catullus 84 mocks Arrius for pronouncing "insidias" as what incorrect form in supposed
+
+ŌDĪ ET AMŌ
+B2: Catullus 84 mocks Arrius for pronouncing “īnsidiās” as what incorrect form in supposed
 imitation of Greek?
-HINSIDIAS
-13. Translate the following sentence from English to Latin using a form of sum: "Fear helps me."
-To do that, you need to use two datives, including one like auxilio.
-{TIMOR / METUS} {AUXILIO / USUI} MIHI EST [ACCEPT EQUIVALENTS]
-B1: What two-word Latin phrase, with both words in the dative, is often translated "who stands
-to benefit?"
-CUI BONO
+
+HĪNSIDIĀS
+13. Translate the following sentence from English to Latin using a form of sum: “Fear helps me.”
+To do that, you need to use two datives, including one like auxiliō.
+
+{TIMOR / METUS} {AUXILIŌ / ŪSUĪ} MIHI EST [ACCEPT EQUIVALENTS]
+
+B1: What two-word Latin phrase, with both words in the dative, is often translated “who stands
+to benefit?”
+
+CUI BONŌ
 B2: Now say in Latin, again using a double dative: I fear that these gifts will not be very useful
 to you.
-{TIMEO / METUO / VEREOR} {UT // NE NON} HAEC {DONA / MUNERA} {VALDE /
-MAGNO} USUI TIBI SINT [ACCEPT EQUIVALENTS]
+{TIMEŌ / METUŌ / VEREOR} {UT // NĒ NŌN} HAEC {DŌNA / MŪNERA} {VALDĒ /
+MAGNŌ} ŪSUĪ TIBI SINT [ACCEPT EQUIVALENTS]
 14. What sort of creature pursued the Olenian princess Mnesimache until an intervention by
 Heracles, who unwisely hired one at the Evenus river as a ferryman, causing Deianeira’s
 abduction by Nessus?
+
 CENTAUR
 B1: During his hunt for the Erymanthian boar, Heracles stayed with the civilized centaur Pholus.
 In the chaos caused by wine-maddened centaurs, how did Pholus die? A description is fine.
-DROPPED ONE OF HERACLES’ HYDRA-BLOOD-VENOM ARROWS ON HIS FOOT (AFTER WITHDRAWING IT FROM A CENTAUR’S CORPSE AND WONDERING HOW SO SMALL A THING COULD KILL SO LARGE A CREATURE) [ACCEPT EQUIVALENTS]
+DROPPED ONE OF HERACLES’ HYDRA-BLOOD-VENOM ARROWS ON HIS FOOT
+(AFTER WITHDRAWING IT FROM A CENTAUR’S CORPSE AND WONDERING HOW
+SO SMALL A THING COULD KILL SO LARGE A CREATURE) [ACCEPT
+EQUIVALENTS]
 B2: Heracles pursued the defeated centaurs to what location in the southern Peloponnese,
 according to Apollodorus?
+
 (MOUNT / CAPE) MALEA(S))
-15. What verb  -  whose common archaic future stem ending of "-cs" became one of "-x"  -  has
-its passive provided by a different, short verb, essentially meaning "to become" or "to be made"?
-FACIO / FACERE
-B1: On the Praeneste fibula, long the earliest known example of Latin, facio displays what
-process in its perfect tense, found classically in verbs like curro?
+15. What verb — whose common archaic future stem ending of “-cs” became one of “-x” — has
+its passive provided by a different, short verb, essentially meaning “to become” or “to be made”?
+FACIŌ / FACERE
+B1: On the Praeneste fibula, long the earliest known example of Latin, faciō displays what
+process in its perfect tense, found classically in verbs like currō?
+
 REDUPLICATION / REDUPLICATIVE
 B2: The pattern that forms faxim survives classically in what form of a semi-deponent verb?
 AUSIM
-
-16. What emperor introduced new auxiliary units called numeri, built a temple to his
-predecessor’s wife Plotina, and met his Bithynian lover Antinous in his travels, where he also
+——————————————— [SCORE CHECK] ———————————————
+16. What emperor introduced new auxiliary units called numerī, built a temple to his
+predecessor’s wife Plotina, and met his Bithynian lover Antinoüs in his travels, where he also
 started building a British wall?
+
 HADRIAN
-B1: Hadrian built a city on what river honoring Antinous when he died there, perhaps by
+B1: Hadrian built a city on what river honoring Antinoüs when he died there, perhaps by
 drowning or ritual sacrifice?
+
 NILE (RIVER)
+
 B2: As part of his travels, Hadrian built what new temple in the suburb of Hadrianopolis at
 Athens?
-PANHELLENION [REJECT "PANHELLEION"]
+
+PANHELLENION [REJECT “PANHELLEION”]
 17. According to legend, what gift was the source of electrum and Croesus’ wealth after it was
 granted for entertaining Silenus and transformed the river Pactolus’ sands when Midas washed it
 off?
+
 MIDAS TOUCH // (MIDAS’) GOLDEN TOUCH
 B1: Croesus was the legendary ruler of what kingdom, through whose capital of Sardis flowed
 the river Pactolus?
+
 LYDIA
 B2: According to Hyginus, not all of Midas’ mineral wealth derived from his gold, since he also
 supposedly discovered two varieties of what other metal?
+
 LEAD
-18. What activity, which "laetificat cor hominis" and might begin with the word "prosit,"
-completes Horace’s poetic phrase "nunc est" and can require so-called "aqua vitae" or an
-"arbiter bibendi"?
+18. What activity, which “laetificat cor hominis” and might begin with the word “prosit,”
+completes Horace’s poetic phrase “nunc est” and can require so-called “aqua vītae” or an
+“arbiter bibendī”?
+
 (GOOD) DRINKING / TOASTING (WINE / ALCOHOL / LIQUOR / BEER)
-B1: What two-word Latin phrase idiomatically means "over drinks" and literally means
-"between cups"?
-INTER POCULA
-B2: What company long had the slogan "nunc est bibendum," meaning its mascot is now
-named "Bibendum"?
+B1: What two-word Latin phrase idiomatically means “over drinks” and literally means
+“between cups”?
+
+INTER PŌCULA
+B2: What company long had the slogan “nunc est bibendum,” meaning its mascot is now
+named “Bibendum”?
+
 MICHELIN
-19. In a Latin pun, what author likens his literary target to a "wolf" before he dies of indigestion
-under the judgment of a concilium deorum, which dominates the first of his 30 books of early
+19. In a Latin pun, what author likens his literary target to a “wolf” before he dies of indigestion
+under the judgment of a concilium deōrum, which dominates the first of his 30 books of early
 Roman satires?
+
 (GAIUS) LUCILIUS
 B1: Lucilius’ Satires targeted the aptly named Lentulus Lupus. The fragments of his first book of
 satires suggest it contained a fish banquet, punning on the alternate meaning of lupus as
-"wolf-fish." Juvenal probably drew on this scene for his fourth Satire, when what emperor calls a
+“wolf-fish.” Juvenal probably drew on this scene for his fourth Satire, when what emperor calls a
 council to decide how to cook a giant turbot-fish?
+
 DOMITIAN
-B2: In choosing his target’s name, Lucilius likely drew on the attacks on the "wolf-walker"
+B2: In choosing his target’s name, Lucilius likely drew on the attacks on the “wolf-walker”
 Lycambes by what Greek author, who also inspired the form and style of Horace’s Epodes?
 ARCHILOCHUS (OF PAROS)
+——————————————— [SCORE CHECK] ———————————————
 
-20. What war, which caused the Ludi Apollinares to be founded and women to be restricted
-from displaying wealth in the Lex Oppia, gave access to silver from Hispania with victories at
+20. What war, which caused the Lūdī Apollinārēs to be founded and women to be restricted
+from displaying wealth in the Lēx Oppia, gave access to silver from Hispania with victories at
 Baecula and Ilipa by Scipio Africanus?
+
 SECOND PUNIC (WAR)
 B1: The Second Punic War effected great social, economic, and religious changes in Rome.
-Among these was the import of the cult of what goddess, renamed the Magna Mater, to inspire
+Among these was the import of the cult of what goddess, renamed the Magna Māter, to inspire
 the gods to end the war in 204 B.C.?
+
 CYBELE / CYBEBE
 B2: What law was enacted during the Second Punic War in a partial attempt to secure private
 vessels for use in the war, as well as check the rapid accumulation of wealth by the ruling class?
-LEX CLAUDIA (DE NAVE SENATORIS)
-1. Differentiate in meaning between the verb saepio and the verb sapio, the former often being
-synonymous with cingo or circumdo and the latter often being synonymous with sapiens esse.
-SAEPIO = (I / TO) {FENCE IN // SURROUND / ENCLOSE / ENVELOP / HINDER // DRESS UP} and SAPIO = (I / TO) {HAVE TASTE // TASTE OF // HAVE GOOD TASTE // FEEL //
+LĒX CLAUDIA (DĒ NĀVE SENĀTŌRIS)
+
+1. Differentiate in meaning between the verb saepiō and the verb sapiō, the former often being
+synonymous with cingō or circumdō and the latter often being synonymous with sapiēns esse.
+SAEPIŌ = (I / TO) {FENCE IN // SURROUND / ENCLOSE / ENVELOP / HINDER // DRESS
+UP} and SAPIŌ = (I / TO) {HAVE TASTE // TASTE OF // HAVE GOOD TASTE // FEEL //
 BE WISE // KNOW / UNDERSTAND} [ACCEPT EQUIVALENTS]
-B1: What is the meaning of the transitive Latin verb sano, a synonym of medeor?
+
+B1: What is the meaning of the transitive Latin verb sānō, a synonym of medeor?
 (I / TO) HEAL / CURE / REMEDY // MAKE HEALTHY [ACCEPT EQUIVALENTS]
-B2: What is the meaning of the Latin verb sarcio?
+B2: What is the meaning of the Latin verb sarciō?
+
 (I / TO) PATCH / MEND / REPAIR [ACCEPT EQUIVALENTS]
-2. In what direction would one travel to find the supposed location of the island of Thule and a
-region where Apollo spent the winter months, with the latter’s name of "Hyperborea" saying it
+2. In what direction would one travel to find the supposed location of the island of Thūlē and a
+region where Apollo spent the winter months, with the latter’s name of “Hyperborea” saying it
 stood in the direction of Boreas’ winds?
+
 NORTH
 B1: Homer opens the Odyssey with Poseidon feasting with what people, whose name means
-"burnt face," at the eastern and western ends of the world, though historically they lived in the
+“burnt face,” at the eastern and western ends of the world, though historically they lived in the
 very south of classical civilization?
+
 (A)ETHIOPIAN(S) / AETHIOPES
 B2: In Book 11 of the Odyssey, Homer describes what people living at the far western edge of
 the world near the entrance to Hades, so covered by mists and clouds that the sun never shone on
 them?
+
 CIMMERIAN(S) / CIMMERIOI
+
 3. What author complains that Chastity left the earth after the Golden Age, says the virtuous are
-"like black swans," and asks "who will guard the guards themselves" in his incredibly
+“like black swans,” and asks “who will guard the guards themselves” in his incredibly
 misogynistic sixth satire?
+
 (DECIMUS JUNIUS) JUVENAL(IS)
 B1: The poem, despite being only one of Juvenal’s 16 satires, runs on so long that it fills the
 entire second book of his poems. How many books of his poems were there in total?
+
 FIVE
 B2: In the poem, Juvenal says that the senator’s wife Eppia ran off to Egypt with a gladiator and
 even abandoned what lover, an actor whom Domitian later had executed?
+
 PARIS
 4. In what region did a usurper’s treasurer kill a usurper when Allectus overthrew Carausius, just
 as Clodius Albinus sought the throne with troops pulled from Glevum, Eboracum, and
 Londinium?
+
 (ROMAN) BRITAIN // BRITTANIA
 B1: Usurping was a favorite pastime in Britain, including by Magnus Maximus. Magnus
 successfully became emperor before being defeated by what emperor, who also defeated the
 usurpers Arbogast and Eugenius?
+
 THEODOSIUS {I // THE GREAT}
 B2: The last usurpation in Britain occurred in 407 A.D., when a common soldier was declared
 emperor. What imperial name did he take, being the third emperor to call himself such?
 CONSTANTINE (III) // CONSTANTINUS
 5. What field was the focus of the math-based work Canon, which outlined the evolution from
 the kouros to the works of Polyclitus and Myron with the Doryphoros and the Diskobolos?
-SCULPTURE / STATUE / (BODILY) PROPORTIONS [PROMPT ON "ART"]
+SCULPTURE / STATUE / (BODILY) PROPORTIONS [PROMPT ON “ART”]
 B1: An important moment in the transition from archaic to naturalistic forms was in a bronze
 statue of a man of what occupation that was dedicated at Delphi by the Sicilian tyrant Polyzalus?
 CHARIOTEER
 B2: What modern English term refers to the fact that classical sculpture was decorated with a
 variety of colors, rather than the pure white that we often see today?
-POLYCHROME / POLYCHROMY
 
+POLYCHROME / POLYCHROMY
+——————————————— [SCORE CHECK] ———————————————
 6. Carefully read the following passage, an adaptation of Cicero’s criticism of Verres, which I
 will paste into the chat. You will have one minute to read it through before I ask the question.
 Please answer in English:
 Quid ego de Marcello loquar, de Flaminino, de Mummio, qui urbes pulcherrimas atque
 ornatissimas atque plenissimas rerum omnium ceperunt? Quorum domus, cum honore ac
+
 virtute florerent, signis et tabulis pictis erant vacuae; at vero urbem totam templaque
 deorum omnesque Italiae partes illorum donis ac monumentis exornatas videmus. Quae ex
 templis religiosissimis per scelus abstulit, ea nos videre nisi in domo suo non possumus.
 The question: According to Cicero, the Roman people cannot see the objects that Verres
 criminally took from the temples, because they are in what place?
+
 IN {HIS / VERRES’} (OWN) HOUSE
+
 B1: What use of the subjunctive is florerent?
+
 (CUM) CONCESSIVE
-B2: In this portion of the speech, Cicero uses the word dicio to describe the effects of the
+B2: In this portion of the speech, Cicero uses the word diciō to describe the effects of the
 conquests of Marcellus, Flamininus, and Mummius. What is the meaning of this word, which
 appears only in the oblique singular cases?
+
 POWER / SWAY / RULE / AUTHORITY / DOMINION
 7. What group disregards a guest’s vision of blood-soaked walls and sees an errant ox-hoof throw
-by Ctesippus while enjoying a delivery by Melanthius and Philoetius, whose goods let them once
+by Ctesippus while enjoying a delivery by Melanthius and Philoëtius, whose goods let them once
 more exploit Odysseus’ riches?
 PENELOPE’S SUITORS // SUITORS IN THE ODYSSEY [ACCEPT EQUIVALENTS]
 B1: The disguised Odysseus is allowed to partake in this feast after he defeats what Ithacan
 beggar in a fight?
-IRUS / ARNAEUS
+
+IRUS / ARNAEÜS
 B2: Just before the feast, Penelope prays to Artemis and asks for death rather than marriage to a
 suitor. She compares herself to what man’s daughters, for whom Aphrodite was finding brides
 before the Harpies snatched them away and handed them to the Furies?
-PANDAREUS
-8. Note to moderators: The word "victuals" is pronounced like "vittles." From what Latin verb
-do we derive "viands" and "victuals"  -  surprisingly spelled V-I-C-T-U-A-L-S  -  as well as
-"vital" and "survive"?
-VIVO / VIVERE
-B1: A similar strange pronunciation can be found in what English verb meaning "to formally
-accuse of or charge with a serious crime"?
+
+PANDAREÜS
+8. Note to moderators: The word “victuals” is pronounced like “vittles.” From what Latin verb
+do we derive “viands” and “victuals” — surprisingly spelled V-I-C-T-U-A-L-S — as well as
+“vital” and “survive”?
+
+VĪVŌ / VĪVERE
+B1: A similar strange pronunciation can be found in what English verb meaning “to formally
+accuse of or charge with a serious crime”?
+
 INDICT
-B2: Note to moderators: The word "viscount" is pronounced like "vye-count." From what two
-Latin words do we derive "viscount"  -  surprisingly spelled V-I-S-C-O-U-N-T?
-{VICE / VICIS} and {EO / IRE}
-9. What event, commemorated in the phrase "Calabri rapuere," occurred in Brundisium in 19
+B2: Note to moderators: The word “viscount” is pronounced like “vye-count.” From what two
+Latin words do we derive “viscount” — surprisingly spelled V-I-S-C-O-U-N-T?
+
+{VĪCE / VĪCĪS} and {EŌ / ĪRE}
+9. What event, commemorated in the phrase “Calabrī rapuēre,” occurred in Brundisium in 19
 B.C. and nearly caused Varius Rufus and Plotius Tucca to burn the text of the Aeneid, as its
 author’s will required?
+
 DEATH OF VERGIL // VERGIL’S DEATH [ACCEPT EQUIVALENTS]
-B1: Vergil’s epitaph, supposedly self-composed, reads: "[blank] me genuit, Calabri rapuere,
-tenet nunc Parthenope." What town fills in the blank?
+B1: Vergil’s epitaph, supposedly self-composed, reads: “[blank] mē genuit, Calabrī rapuēre,
+tenet nunc Parthenopē.” What town fills in the blank?
+
 MANTUA
 B2: What language was used for the celebrated modernist novel The Death of Vergil, as well as a
 short story where Gregor Samsa’s surprising transformation reflects elements of Apuleius’
 Asinus Aureus?
+
 GERMAN / DEUTSCH
 10. What name was shared by a ruler killed while plundering Bel’s temple near Susa and one
 opposed by the nationalist Jewish revolt of Judas Maccabaeus, the former of whom lost at
 Magnesia as he tried to expand Seleucid lands?
+
 ANTIOCHUS
 B1: One bonus on each, then. At what site in Greece did Manius Acilius Glabrio defeat
 Antiochus III in 191 B.C., with a small Roman force under Cato the Elder able to outflank the
 Seleucids in the pass?
-(BATTLE OF) THERMOPYLAE
-B2: Antiochus IV went by what Greek epithet meaning "God Manifest," though his enemies
-called him by a nickname roughly meaning "Maniafest" for his erratic behavior?
-EPIPHANES
 
+(BATTLE OF) THERMOPYLAE
+B2: Antiochus IV went by what Greek epithet meaning “God Manifest,” though his enemies
+called him by a nickname roughly meaning “Maniafest” for his erratic behavior?
+
+EPIPHANES
+——————————————— [SCORE CHECK] ———————————————
 11. What function is served by the enclitic -nam and the enclitic -met, by adding ipse to another
-pronoun like in the phrase "in eum ipsum locum," and by placing an unexpected word at the
+pronoun like in the phrase “in eum ipsum locum,” and by placing an unexpected word at the
 start of a Latin sentence?
+
 EMPHASIS / INTENSITY [ACCEPT EQUIVALENTS]
+
 B1: Another way to create emphasis is with what literary device where two words are
-unnaturally separated by a word or phrase, as in Cicero’s phrase "duas a te accepi epistulas
-heri."
+unnaturally separated by a word or phrase, as in Cicero’s phrase “duās ā tē accēpī epistulās
+heri.”
+
 HYPERBATON
-B2: What three-letter ending derived from ipse was sometimes added to suo for emphasis?
+B2: What three-letter ending derived from ipse was sometimes added to suō for emphasis?
 -PTE
 12. What hero was the father of Hippolochus and Isander, who was killed while fighting the
 Solymi to balance out his prior good luck with Iobates, taming Pegasus, and killing the Chimera?
-BELLEROPHON(TES) / HIPPONOUS
+BELLEROPHON(TES) / HIPPONOÜS
 B1: In one Byzantine source, Bellerophon was given the same lineage as what man, who
 elsewhere emerged from Medusa’s severed head as the brother of Pegasus, further connecting the
 hero’s story to the horse?
+
 CHRYSAOR
-B2: According to Hesiod, Pegasus was so named because he was born at the pegai, or "springs,"
+B2: According to Hesiod, Pegasus was so named because he was born at the pegai, or “springs,”
 of what river?
+
 OCEANUS (RIVER)
-13. What letter ends the most common Latin word for "child’s rattle," replaces -em to form the
-accusative singular of Greek nouns like heros, and ends second declension neuter plurals like the
-word for "weapons"?
+13. What letter ends the most common Latin word for “child’s rattle,” replaces -em to form the
+accusative singular of Greek nouns like hērōs, and ends second declension neuter plurals like the
+word for “weapons”?
+
 (SHORT) A
-B1: What Latin word, ending in -a and plural only like crepundia, means "city walls"?
+B1: What Latin word, ending in -a and plural only like crepundia, means “city walls”?
 MOENIA
+
 B2: What is the meaning of the Latin noun exta, also a plural-only word?
+
 ENTRAILS / BOWELS / (INTERNAL) ORGANS
-14. What foreign man took advantage of the "mos partium et factionum" and a populace he
-termed "venalis," at least according to a monograph that was often paired with the Bellum
-Catilinae and was written by Sallust?
+14. What foreign man took advantage of the “mōs partium et factiōnum” and a populace he
+termed “vēnālis,” at least according to a monograph that was often paired with the Bellum
+Catilīnae and was written by Sallust?
+
 JUGURTHA
 B1: Name Sallust’s largest work, which covered the years from 78 B.C. to 67 B.C. but was left
 unfinished at his death.
+
 HISTORIAE / HISTORIES
 B2: What man from that period is represented in Sallust’s Histories as writing a letter accusing
 the Romans of attacking all other nations because of their unceasing pursuit of wealth and
 power?
+
 MITHRIDATES (VI / EUPATOR // THE GREAT)
 15. Note to players: There will be a simpler version of the sentence after it is read twice.
-Translate into English this sentence, adapted from Aeneid 8: "Cum albo fetu in litore
-conspicitur sus." That’s "cum albo fetu in litore conspicitur sus." Rephrased, it would be
-"porca, cum liberis albis, in litore spectatur."
+Translate into English this sentence, adapted from Aeneid 8: “Cum albō fētū in lītore
+cōnspicitur sūs.” That’s “cum albō fētū in lītore cōnspicitur sūs.” Rephrased, it would be
+“porca, cum līberīs albīs, in lītore spectātur.”
 A {SOW / PIG}, WITH ITS WHITE {OFFSPRING / BROOD / CHILDREN}, IS {SPOTTED /
 SEEN} ON THE {SHORE / BANK} (OF THE RIVER) [ACCEPT EQUIVALENTS]
+
 B1: The original version of Vergil’s line read as follows [paste the following]:
 PROCVBVITVIRIDIQVEINLITORECONSPICITVRSVS. Due to syntactic ambiguity
 caused by the lack of punctuation, one ancient commentator briefly considered the humorous
 possibility that what sort of animal is spotting something on the shore?
+
 (MALE) BEAR / HE-BEAR
+
 B2: The commentator Servius criticized his colleague Donatus for misreading an
-appositive-heavy sentence, ambiguous when written in scriptio continua, in Aeneid 2. Please
+appositive-heavy sentence, ambiguous when written in scrīptiō continua, in Aeneid 2. Please
 translate that sentence, giving either Servius’ correct or Donatus’ incorrect version. You have 45
+
 seconds after I paste: [paste the following]:
 INVENIOADMIRANSNVMERVMMATRESQVEVIROSQVECOLLECTAMEXILIOPV
-BEM I FIND, {ADMIRING, A (GREAT) NUMBER // ADMIRING THE GREAT NUMBER},
+BEM
+I FIND, {ADMIRING, A (GREAT) NUMBER // ADMIRING THE GREAT NUMBER},
 (BOTH) {MOTHERS / WOMEN} AND MEN, A {CROWD / PEOPLE / YOUTH}
-GATHERED {FOR EXILE [SERVIUS] // FROM TROY [DONATUS]} [ACCEPT EQUIVALENTS]
-
-16. What emperor  -  after his passionate affair with a freedwoman from Asia Minor caused
-family strife  -  made a freedman, the fleet admiral at Misenum, build a self-collapsing boat to
+GATHERED {FOR EXILE [SERVIUS] // FROM TROY [DONATUS]} [ACCEPT
+EQUIVALENTS]
+——————————————— [SCORE CHECK] ———————————————
+16. What emperor — after his passionate affair with a freedwoman from Asia Minor caused
+family strife — made a freedman, the fleet admiral at Misenum, build a self-collapsing boat to
 assassinate his mother, Agrippina the Younger?
+
 NERO
-B1: What freedman  -  the sole survivor of Claudius’ ruling trio with Narcissus and Callistus  - 
+B1: What freedman — the sole survivor of Claudius’ ruling trio with Narcissus and Callistus —
 was dismissed at the start of Nero’s reign before Nero had him assassinated in 62 A.D. to gain
 access to his fortune?
+
 PALLAS
 B2: What man reportedly inherited Nero’s freedman Sporus, whom Nero had taken as his wife,
 before claiming the throne after he heard that Galba would replace him in his position with
 Cornelius Laco?
+
 (GAIUS) NYMPHIDIUS (SABINUS)
-17. What crime  -  which was unknowingly committed by the father of the Arcadian woman
-Harpalyce and a Thracian king who married an Athenian before becoming a hoopoe  -  was
+17. What crime — which was unknowingly committed by the father of the Arcadian woman
+Harpalyce and a Thracian king who married an Athenian before becoming a hoopoe — was
 repeatedly done by Cronus until Rhea intervened?
 CANNIBALISM // EATING A {SON / CHILD / CHILDREN} [ACCEPT EQUIVALENTS]
 B1: What man was served the flesh of his children by his brother, much as their grandfather
 Tantalus had served Pelops?
+
 THYESTES
 B2: What son of Lycaon was the only one of his fifty sons to be spared after the king served his
 sons to Zeus?
+
 NYCTIMUS
-18. Where might one hear the phrases "mea culpa, mea culpa, mea maxima culpa," "dona
-nobis pacem," "in nomine patris, et filii, et spiritus sancti," and "te Deum laudamus"?
+18. Where might one hear the phrases “meā culpā, meā culpā, meā maximā culpā,” “dōnā
+nōbīs pācem,” “in nōmine patris, et fīliī, et spīritūs sānctī,” and “tē Deum laudāmus”?
 (CHRISTIAN / CATHOLIC) CHURCH / CHAPEL // (CATHOLIC) PARISH // (CATHOLIC)
 MASS [ACCEPT EQUIVALENTS]
-B1: Translate the Latin phrase "Gloria in excelsis Deo et in terra pax hominibus bonae
-voluntatis," which Catholics recite during one portion of their mass.
+B1: Translate the Latin phrase “Glōria in excelsīs Deō et in terrā pāx hominibus bonae
+voluntātis,” which Catholics recite during one portion of their mass.
+
 GLORY TO GOD IN {THE HIGHEST // THE HEIGHTS} AND ON EARTH PEACE TO
 {PEOPLE / HUMANS / MEN} OF GOOD {WILL / DESIRE} [ACCEPT EQUIVALENTS]
-B2: Give either of the first two first-person verbs in the prayer that contains the "mea culpa."
-The prayer is commonly known by the first: "[Blank] Deo omnipotenti et vobis, fratres, quia
-[blank] nimis cogitatione, verbo, opere, et omissione."
-CONFITEOR or PECCAVI
-19. What major author was born "when both consuls fell [at Mutina]," "reached the shore where
-Sarmatian and Getic bowmen unite" when a "wounded prince ordered [him] to Tomi on the
-Black Sea," per a poem in his Tristia?
+B2: Give either of the first two first-person verbs in the prayer that contains the “meā culpā.”
+The prayer is commonly known by the first: “[Blank] Deō omnipotentī et vōbīs, frātrēs, quia
+[blank] nimis cōgitātiōne, verbō, opere, et omissiōne.”
+
+CŌNFITEOR or PECCĀVĪ
+19. What major author was born “when both consuls fell [at Mutina],” “reached the shore where
+Sarmatian and Getic bowmen unite” when a “wounded prince ordered [him] to Tomi on the
+Black Sea,” per a poem in his Tristia?
+
 (PUBLIUS) OVID(IUS NASO)
-B1: The same line, "cum cecidit fato consul uterque pari," appears in an elegy by Lygdamus,
+B1: The same line, “cum cecidit fātō cōnsul uterque parī,” appears in an elegy by Lygdamus,
 whose poems to Neaera appear alongside Sulpicia’s in the collected works of what Latin author?
 (ALBIUS) TIBULLUS
 B2: Some have seen Sulpicia’s literary lover, Cerinthus, to really be what friend of Tibullus
-because their names both mean "horned," one in Greek and one in Latin?
-CORNUTUS
+because their names both mean “horned,” one in Greek and one in Latin?
 
+CORNUTUS
+——————————————— [SCORE CHECK] ———————————————
 20. Participants in what sort of events routinely committed the crime of ambitus, used fuller’s
-chalk to give a dazzling white sheen to their togae candidae, and competed to become aediles,
-praetores, and consules?
+chalk to give a dazzling white sheen to their togae candidae, and competed to become aedīlēs,
+praetōrēs, and cōnsulēs?
+
 (CONSULAR / MAGISTERIAL) ELECTION(S) / CAMPAIGN(S)
 B1: What sort of enslaved person was an indispensable aid for a candidate as he greeted voters in
 the forum and streets?
-NOMENCLATOR(ES)
-B2: A set of leges tabellariae, the first proposed in 139 B.C. by the tribune Aulus Gabinius,
+
+NŌMENCLĀTOR(ĒS)
+B2: A set of lēgēs tabellāriae, the first proposed in 139 B.C. by the tribune Aulus Gabinius,
 introduced versions of what electoral measure to crack down on ambitus, or electoral bribery?
 SECRET BALLOT [ACCEPT EQUIVALENTS]
- -  -  -  -  -  -  -  -  -  -  -  -  -  [FINAL SCORE CHECK]  -  -  -  -  -  -  -  -  -  -  -  -  - 
-TB1: What poet uses the phrase "atavis edite regibus" to describe a patron who died two
+————————————— [FINAL SCORE CHECK] —————————————
+TB1: What poet uses the phrase “atavīs ēdite rēgibus” to describe a patron who died two
 months before him in 8 B.C., was addressed in his iambic collection of Epodes, and dominates
 his Odes?
+
 HORACE // (QUINTUS) HORATIUS (FLACCUS)
 B1: Horace’s Epistles, also addressed to Maecenas, contain a special letter describing the
 practice of writing poetry. What is the Latin name for this poem?
-ARS POETICA // EPISTULA AD PISONES
+
+ARS POĒTICA // EPISTULA AD PĪSŌNĒS
+
 B2: Horace’s first Epode, dedicated to Maecenas, plays on what style of poem in which the
 author wishes the addressee a prosperous voyage?
-PROPEMPTICON TB2: A Latin adjective with what meaning is the ultimate root of "sexton" and "obsecration,"
-just as another is at the ultimate root of "saint" and "sanctuary"?
+
+PROPEMPTICON
+TB2: A Latin adjective with what meaning is the ultimate root of “sexton” and “obsecration,”
+just as another is at the ultimate root of “saint” and “sanctuary”?
+
 HOLY / SACRED / HALLOWED
-B1: What single English adjective meaning "most holy" has halves derived from each of those
+B1: What single English adjective meaning “most holy” has halves derived from each of those
 two Latin adjectives?
+
 SACROSANCT
 B2: What two-word Latin phrase was used to refer to the inside of the Temple in Jerusalem?
-SANCTUM SANCTORUM TB3: What sort of person, by virtue of his ius vitae necisque and his status as sui iuris,
-maintained total control over all his agnati with his dominica potestas and his patria potestas?
-PATERFAMILIAS [PROMPT ON "PATER" OR "FATHER"]
-B1: Under Roman law, a paterfamilias gained control over his wife with a cum manu marriage.
+SĀNCTUM SĀNCTŌRUM
+TB3: What sort of person, by virtue of his iūs vītae necisque and his status as suī iūris,
+maintained total control over all his agnātī with his dominica potestās and his patria potestās?
+PATERFAMILIĀS [PROMPT ON “PĀTER” OR “FATHER”]
+B1: Under Roman law, a paterfamiliās gained control over his wife with a cum manū marriage.
 Give the Latin term for any of the three types of marriage that fell in this category.
-CONFARREATIO or COEMPTIO or USUS
-B2: What Latin term refers to an adoption where a paterfamilias placed himself under the power
-of another paterfamilias?
-ADROGATIO / ARROGATIO TB4: What is the meaning of the Latin noun trames  -  derived from transmeatus  -  as well as
-the meaning of the Latin noun strata, the Latin noun iter, and the Latin noun via?
-ROAD / WAY / PATH / COURSE / FLIGHT / JOURNEY / STREET / GOING-THROUGH [ACCEPT EQUIVALENTS]
+
+CŌNFARREĀTIŌ or COĒMPTIŌ or ŪSUS
+B2: What Latin term refers to an adoption where a paterfamiliās placed himself under the power
+of another paterfamiliās?
+
+ADROGĀTIŌ / ARROGĀTIŌ
+TB4: What is the meaning of the Latin noun trāmes — derived from trānsmeātus — as well as
+the meaning of the Latin noun strāta, the Latin noun iter, and the Latin noun vīa?
+ROAD / WAY / PATH / COURSE / FLIGHT / JOURNEY / STREET / GOING-THROUGH
+[ACCEPT EQUIVALENTS]
 B1: What is notable about a street called an angiportus, since it is particularly angustus?
 (VERY) NARROW [ACCEPT EQUIVALENTS]
-B2: What is notable about a street called a clivus? A description is fine.
-SLOPED // ON A SLOPE (EITHER UPWARD OR DOWNWARD) [ACCEPT EQUIVALENTS]
-TB5: According to Pindar, what youth hosted his uncles Pheres and Amythaon  -  sons of
-Cretheus  -  in the city of Iolcus before his half-uncle Pelias sent him to fetch the Golden Fleece?
+
+B2: What is notable about a street called a clīvus? A description is fine.
+
+SLOPED // ON A SLOPE (EITHER UPWARD OR DOWNWARD) [ACCEPT
+EQUIVALENTS]
+TB5: According to Pindar, what youth hosted his uncles Pheres and Amythaon — sons of
+Cretheüs — in the city of Iolcus before his half-uncle Pelias sent him to fetch the Golden Fleece?
 JASON
+
 B1: Jason’s other half-uncle, uninvolved in his story, was what twin brother of Pelias?
+
 NELEUS
 B2: In two accounts, Pelias killed what young brother of Jason as the Argonauts were on their
 quest?
+
 PROMACHUS
 
-1. What Latin verb can be prefixed by ob- or con- to mean "happen to," completes an idiom
-meaning "hit the nail on the head"  -  "rem acu [blank]"  -  and acts as the ultimate root of the
+1. What Latin verb can be prefixed by ob- or con- to mean “happen to,” completes an idiom
+meaning “hit the nail on the head” — “rem acū [blank]” — and acts as the ultimate root of the
 adjective integer?
-TANGO / TANGERE / TETIGISTI
-B1: What Latin verb derived from tango means "to reach" or "arrive to"?
-ATTINGO / ATTINGERE
+
+TANGŌ / TANGERE / TETIGISTĪ
+
+B1: What Latin verb derived from tangō means “to reach” or “arrive to”?
+
+ATTINGŌ / ATTINGERE
 B2: Fill in this line, spoken by Aeneas upon seeing Carthage’s murals of the Trojan War, with the
-appropriate three-word Latin phrase: "[blank] et mentem mortalia tangunt."
-SUNT LACRIMAE RERUM
-2. What sort of people encountered the fanged, taloned Keres or their brother Moros  -  the signs
-of fulfilled moirai  -  before reaching the realm of Katachthonios and the awful god Thanatos?
+appropriate three-word Latin phrase: “[blank] et mentem mortālia tangunt.”
+
+SUNT LACRIMAE RĒRUM
+2. What sort of people encountered the fanged, taloned Keres or their brother Moros — the signs
+of fulfilled moirai — before reaching the realm of Katachthonios and the awful god Thanatos?
 (THE) DYING / DEAD (WARRIORS) / SOULS [ACCEPT EQUIVALENTS]
+
 B1: According to Hesiod’s Theogony, what goddess bore these and other negative
 personifications without a father?
+
 NYX
 B2: The Keres appear among the baneful personifications depicted on what object, which is
 described at length in an archaic epic that was attributed to Hesiod and describes the expedition
 against Ares’ son Cycnus?
+
 SHIELD OF HERACLES
-3. What man received both 100,000 sesterces annually and the ornamenta consularia for
+3. What man received both 100,000 sesterces annually and the ōrnāmenta cōnsulāria for
 educating Domitian’s nephews and becoming a professor of rhetoric, the topic addressed in his
-Institutio Oratoria?
+Īnstitūtiō Ōrātōria?
+
 (MARCUS FABIUS) QUINTILIAN(US)
+
 B1: Quintilian hailed from what Spanish town, where his father was also an orator?
+
 CALAGURRIS / CALAHORRA
 B2: What orator did Quintilian consider the greatest he had ever heard, though Quintilian was
 biased as his student?
+
 DOMITIUS AFER
-4. In what kingdom was a coalition of "sun-citizens" of the utopia Heliopolis defeated by Marcus
+4. In what kingdom was a coalition of “sun-citizens” of the utopia Heliopolis defeated by Marcus
 Perperna, meaning that the pretender Aristonicus failed to retake the throne recently bequeathed
 to Rome?
+
 (KINGDOM OF) PERGAMUM
 B1: The revolt of Aristonicus was perhaps sparked by the rebellion of enslaved people in Sicily a
 few years before. What two men led this revolt, only to themselves be partly defeated by Marcus
 Perperna?
+
 EUNUS and CLEON
 B2: The Romans handed over much of the Pergamene territory to Cappadocia’s ruler, who had
 what dynastic name?
-ARIARATHES (VI) // ARIARATHID
-5. What sort of object  -  which could be secured with a claustrum or a sera  -  could be called
-an ostium, split into two halves as fores, and tended regularly by a ianitor?
-DOOR(S) [ACCEPT EQUIVALENTS]
-B1: What door-related noun fills in the Latin phrase "res in [blank] est," which means "the
-matter hangs in the balance"?
-CARDO / CARDINE
-B2: What is the meaning of the Latin word aulaeum when used in a door-related context?
-CURTAIN / TAPESTRY (HUNG OVER A DOORWAY) // PORTIERE [ACCEPT EQUIVALENTS]
 
-6. What man’s brothers-in-law  -  the Vitellii  -  and sons  -  Titus and Tiberius  -  conspired to
+ARIARATHES (VI) // ARIARATHID
+5. What sort of object — which could be secured with a claustrum or a sera — could be called
+an ōstium, split into two halves as forēs, and tended regularly by a iānitor?
+
+DOOR(S) [ACCEPT EQUIVALENTS]
+B1: What door-related noun fills in the Latin phrase “rēs in [blank] est,” which means “the
+matter hangs in the balance”?
+
+CARDŌ / CARDINE
+B2: What is the meaning of the Latin word aulaeum when used in a door-related context?
+CURTAIN / TAPESTRY (HUNG OVER A DOORWAY) // PORTIÈRE [ACCEPT
+EQUIVALENTS]
+——————————————— [SCORE CHECK] ———————————————
+6. What man’s brothers-in-law — the Vitellii — and sons — Titus and Tiberius — conspired to
 restore Tarquinius Superbus, whose ouster had made him the colleague of Tarquinius Collatinus
 as Rome’s first consuls?
+
 (LUCIUS JUNIUS) BRUTUS
 B1: Shortly after, Brutus fought the Battle of Silva Arsia, where he killed what son of Tarquinius
 Superbus, only to be killed by him at the same moment?
+
 ARRUNS (TARQUINIUS)
 B2: After Brutus died, what man was chosen as Rome’s first suffect-consul, but died only a few
 days later of old age?
 (SPURIUS) LUCRETIUS (TRICIPITINUS) // (SPURIUS LUCRETIUS) TRICIPITINUS
-7. What two consonants start the suffix in Latin adjectives for "twice as great" and "double,"
-with the latter sometimes translated as "twofold" since the suffix comes from the verb meaning
-"to fold"?
+
+7. What two consonants start the suffix in Latin adjectives for “twice as great” and “double,”
+with the latter sometimes translated as “twofold” since the suffix comes from the verb meaning
+“to fold”?
+
 P and L
-B1: Duplus, duplex, and plico may come from the same Indo-European root as what Latin noun
-meaning "hide," since it carries similar linguistic implications?
+B1: Duplus, duplex, and plicō may come from the same Indo-European root as what Latin noun
+meaning “hide,” since it carries similar linguistic implications?
+
 PELLIS
-B2: Unrelated are words like pallor, which comes from a root meaning "dull" or "gray." Also
-from this root is the Latin word palumbes, a gray-colored animal of what type?
-(WOOD)PIGEON // (RING)DOVE [PROMPT ON "BIRD"]
-8. What century, when a general supposedly punned "peccavi" about a captured province,
+B2: Unrelated are words like pallor, which comes from a root meaning “dull” or “gray.” Also
+from this root is the Latin word palumbēs, a gray-colored animal of what type?
+
+(WOOD)PIGEON // (RING)DOVE [PROMPT ON “BIRD”]
+8. What century, when a general supposedly punned “peccāvī” about a captured province,
 featured a naval battle at Navarino, the theft of the Elgin Marbles, and the classically influenced
 poetry of John Keats and Percy Shelley?
-NINETEENTH (CENTURY A.D.)
+
+NINETEENTH (CENTURY A.D.) // 1800S (A.D.)
 B1: At its height, many of the elite in the British Empire thought themselves to be heirs to the
 classical world. Some of this belief was rooted in The History of the Decline and Fall of the
 Roman Empire, a monumental work written by what author in the late 1700s?
+
 (EDWARD) GIBBON
 B2: This belief continued even well into the twentieth century, long after the peak of the Empire.
 Among these was Enoch Powell, a Member of Parliament who gave a vitriolic 1968
 anti-immigration speech known by what three-word English name, inspired by a phrase from the
 Aeneid?
+
 RIVERS OF BLOOD (SPEECH)
 9. To avoid what creatures did Amphidamas suggest a shield-wall and din be raised on Ares’
 island by the Argonauts, evoking the bronze castanets used by Heracles as a disruption during his
 sixth labor?
 BIRDS (OF ARES) // (STYMPHALIAN) BIRDS // BIRDS (ON THE ISLAND OF {ARES /
-DIA}) // BIRDS (THAT SHOT THEIR FEATHERS AS ARROWS) [ACCEPT EQUIVALENTS]
+DIA}) // BIRDS (THAT SHOT THEIR FEATHERS AS ARROWS) [ACCEPT
+EQUIVALENTS]
 B1: After they leave the island of Ares, the Argonauts are passed by a ravenous eagle, shortly
 afterward hear whose screams, and then see the eagle rushing back in the direction it came?
-PROMETHEUS
+PROMETHEÜS
 B2: The Argonauts reach the island of Ares after passing by the land of what people, who were
 openly promiscuous and starved their king for a day if he made a judgment they thought bad?
 MOSSYNOECI
+
 10. What man is sentenced to serve as law-clerk to the freedman Menander after a heavenly trial
 in a work that incorporates Menippean Satire and satirizes unnecessary imperial deifications with
 the title of Apocolocyntosis?
+
 CLAUDIUS
 B1: Although the Apocolocyntosis was not necessarily written by Seneca, the author did write a
 work in what genre to Claudius’ freedman Polybius in a veiled attempt to secure his return from
 exile?
-CONSOLATION // CONSOLATIO
-B2: Which of Seneca’s dialogues, written around 49 A.D. with a theme perhaps inspired by his
-exile, was addressed to the praefectus annonae under Claudius and contains a veiled diatribe
-against the emperor?
-(AD PAULINUM) DE BREVITATE VITAE
 
-11. Translate the following sentence from English to Latin: "She waited impatiently for the gifts
-to arrive." To do that, use quoad, donec, or dum with an imperfect subjunctive.
-{IMPATIENS / IMPATIENTER // SINE PATIENTIA} EXSPECTAVIT {DUM / DONEC /
-QUOAD} {DONA / MUNERA}{ADVENIRENT / PERVENIRENT} [ACCEPT EQUIVALENTS]
-B1: Now translate from English to idiomatic Latin: "They spotted the strait on the third day after
-they had set sail."
-FRETUM CONSPEXERUNT {TERTIO DIE POSTQUAM // POST TERTIUM DIEM QUAM} NAVEM {SOLVERANT / SOLVERUNT} [ACCEPT EQUIVALENTS]
-B2: Now translate this Ciceronian sentence from Latin to English: "In omnibus negotiis prius
-quam aggrediare adhibenda est praeparatio diligens."
-IN ALL {BUSINESS(ES) / MATTERS}, BEFORE YOU {ATTACK / ADDRESS // WILL HAVE ATTACKED // WILL HAVE ADDRESSED} (THEM), DILIGENT PREPARATION MUST BE APPLIED [ACCEPT EQUIVALENTS]
-12. What state, where a university adopted Lord Nelson’s victorious motto "palmam qui meruit
-ferat," has a name sometimes thought to mean "hot oven" in Latin and the country’s only Greek
+CONSOLATION // CŌNSŌLĀTIŌ
+B2: Which of Seneca’s dialogues, written around 49 A.D. with a theme perhaps inspired by his
+exile, was addressed to the praefectus annōnae under Claudius and contains a veiled diatribe
+against the emperor?
+
+(AD PAULĪNUM) DĒ BREVITĀTE VĪTAE
+——————————————— [SCORE CHECK] ———————————————
+11. Translate the following sentence from English to Latin: “She waited impatiently for the gifts
+to arrive.” To do that, use quoad, donec, or dum with an imperfect subjunctive.
+{IMPATIĒNS / IMPATIENTER // SINE PATIENTIĀ} EXSPECTĀVIT {DUM / DŌNEC /
+QUOAD} {DONA / MUNERA}{ADVENĪRENT / PERVENĪRENT} [ACCEPT
+EQUIVALENTS]
+B1: Now translate from English to idiomatic Latin: “They spotted the strait on the third day after
+they had set sail.”
+FRETUM CŌNSPEXĒRUNT {TERTIŌ DIĒ POSTQUAM // POST TERTIUM DIEM
+QUAM} NĀVEM {SOLVERANT / SOLVĒRUNT} [ACCEPT EQUIVALENTS]
+B2: Now translate this Ciceronian sentence from Latin to English: “In omnibus negōtiīs prius
+quam aggrediāre adhibenda est praeparātiō dīligēns.”
+IN ALL {BUSINESS(ES) / MATTERS}, BEFORE YOU {ATTACK / ADDRESS // WILL
+HAVE ATTACKED // WILL HAVE ADDRESSED} (THEM), DILIGENT PREPARATION
+MUST BE APPLIED [ACCEPT EQUIVALENTS]
+12. What state, where a university adopted Lord Nelson’s victorious motto “palmam quī meruit
+ferat,” has a name sometimes thought to mean “hot oven” in Latin and the country’s only Greek
 state motto?
+
 CALIFORNIA
 B1: The motto of all schools in the University of California system is what two-word Latin
 phrase from the opening of the Book of Genesis?
+
 FIAT LUX
 B2: Lord Nelson also adopted a Latin phrase, an anagram of his full name, that indicated he had
 gained honor from what place, the site of his greatest living naval victory?
-(THE) NILE (RIVER) ["HONOR EST A NILO"]
+
+(THE) NILE (RIVER) [“HONOR EST Ā NĪLŌ”]
+
 13. The appointment in what region of the bishop Caecilianus caused a schism led by Donatus,
 whose influence persisted through the sack of Hippo and Augustine’s death by conquering
 Vandals?
@@ -1026,280 +1315,353 @@ new docks and a grand forum as a result of the self-indulgence of an emperor and
 B2: According to some sources, what Roman general called the Vandals into Africa to aid his
 revolt, then regretted his choices when they betrayed him and put the city of Hippo under siege?
 (COUNT) BONIFACE / BONIFATIUS / BONIFACIUS
-14. What author’s principle "vetustas semper ... adoranda est" underlies his seven-book work
+14. What author’s principle “vetustās semper ... adōranda est” underlies his seven-book work
 detailing three days of learned antiquarian discussions by banqueters celebrating the festival of
 Saturnalia?
+
 MACROBIUS (AMBROSIUS THEODOSIUS)
-B1: The third day of conversations in Saturnalia is held at the house of what man, a pagan
-known for his epistolary collection Relationes?
+B1: The third day of conversations in Sāturnālia is held at the house of what man, a pagan
+known for his epistolary collection Relātiōnēs?
+
 (QUINTUS AURELIUS) SYMMACHUS
-B2: Macrobius dedicated "to his Symmachus" a now-fragmentary work detailing the differences
+B2: Macrobius dedicated “to his Symmachus” a now-fragmentary work detailing the differences
 and similarities of what things in Greek and Latin?
+
 VERB(S) / WORD(S)
 15. What activity has a French name coming from levis and manus, ends with a French
-imperative from videre and ille or an Italian exclamation from praesto, and has a long nonsense
-word maybe derived from Abraxas?
+imperative from vidēre and ille or an Italian exclamation from praestō, and has a long nonsense
+word maybe derived from Abraxās?
 MAGIC // SLEIGHT-OF-HAND // SORCERY // CONJURATION [ACCEPT EQUIVALENTS]
-B1: From what third-conjugation verb do we derive "charm"?
-CANO / CANERE
-B2: What long English noun for "a performance of magic with the hands" etymologically means
-"quick-fingered"?
-PRESTIDIGITATION
+B1: From what third-conjugation verb do we derive “charm”?
 
+CANŌ / CANERE
+B2: What long English noun for “a performance of magic with the hands” etymologically means
+“quick-fingered”?
+
+PRESTIDIGITATION
+——————————————— [SCORE CHECK] ———————————————
 16. Who killed the spearmen Epistrophus and Mynes, rashly slew Tenes as he defended his
 island, and sacked Hypoplacian Thebes and Lyrnessus, where he abducted his concubine Briseis?
 ACHILLES
 B1: At Hypoplacian Thebes, Achilles killed what man and his seven sons, but held such great
 respect for him that he was sent to his funeral pyre in his full armor?
-EETION
+
+EËTION
 B2: In the Iliad, what name is shared by a city ruled by Altes that Achilles sacked and an
-especially swift horse that Achilles seized when sacking Eetion’s city of Hypoplacian Thebes?
+especially swift horse that Achilles seized when sacking Eëtion’s city of Hypoplacian Thebes?
 PEDASUS
-17. What sort of people  -  including the executed Helvidius Priscus  -  were banished from
+17. What sort of people — including the executed Helvidius Priscus — were banished from
 Rome by both Vespasian and Domitian, making them martyrs celebrated in the writings of
 Epictetus and the emperor Marcus Aurelius?
+
 STOIC(S) // PHILOSOPHER(S) // STOIC PHILOSOPHER(S)
 B1: Also executed for his Stoic opposition was Thrasea Paetus, who was absent on the vote of
 deification for what woman, Nero’s second wife after she divorced the future emperor Otho?
 POPPAEA (SABINA)
-B2: Prominent Stoics included Arulenus and Junius, both with what cognomen  -  the former
+B2: Prominent Stoics included Arulenus and Junius, both with what cognōmen — the former
 condemned to death because he wrote a panegyric of Thrasea Paetus and the latter the primary
 Stoic tutor to Marcus Aurelius?
+
 RUSTICUS
-18. What author  -  though he was a "bad authority for Latin style" per Cicero  -  beat all nine
+18. What author — though he was a “bad authority for Latin style” per Cicero — beat all nine
 main contemporaries in a ranking by Volcacius Sedigitus, who evidently admired his comic
 works like Plocium?
+
 CAECILIUS STATIUS
 B1: Both Caecilius Statius and Terence worked with what man, who was both theater producer
 and lead actor?
+
 (LUCIUS AMBIVIUS) TURPIO
 B2: A person with what occupation was the title character of Caecilius Statius’ play Obolostates,
 also known by a Latin title?
+
 USURER / MONEYLENDER
-19. Latin words for what things  -  except for those suffixed with -aster like oleaster and a few
-misfits like acer  -  are overwhelmingly feminine, even in the second declension, as with ficus
+19. Latin words for what things — except for those suffixed with -aster like oleaster and a few
+misfits like acer — are overwhelmingly feminine, even in the second declension, as with fīcus
 and quercus?
+
 TREE(S)
-B1: What tree, unusually neuter like acer, sometimes was used generally to mean "any very hard
-kind of tree"?
-ROBUR
+B1: What tree, unusually neuter like acer, sometimes was used generally to mean “any very hard
+kind of tree”?
+
+RŌBUR
 B2: Give the Latin word for the fir-tree, which was used to build the ribs of the Trojan Horse in
 the Aeneid.
-ABIES
+
+ABIĒS
+——————————————— [SCORE CHECK] ———————————————
 
 20. What man was buried under cornel bushes and spiky myrtle, whose roots were the
 transformed spears of a gold-hungry Thracian king and began to bleed when broken by an
 unknowing Aeneas?
+
 POLYDORUS
 B1: After giving Polydorus a proper burial, Aeneas sails to Delos, where he is hosted by what
 priest-king?
+
 ANIUS
 B2: In Thrace, Aeneas encounters Polydorus while trying to sanctify what city, his first?
 AENEADAE
+————————————— [FINAL SCORE CHECK] —————————————
 
-1. Which two of the rhyming words "blizzard," "lizard," "wizard," and "gizzard" derive from
-Latin, with their roots meaning "entrails" and "upper arm," and both words referring in some
+Keartamen 5 (K5) - Finals
+1. Which two of the rhyming words “blizzard,” “lizard,” “wizard,” and “gizzard” derive from
+Latin, with their roots meaning “entrails” and “upper arm,” and both words referring in some
 way to animals?
+
 LIZARD and GIZZARD
-B1: What Latin noun is the root of the noun "coward"?
+
+B1: What Latin noun is the root of the noun “coward”?
+
 CAUDA
-B2: What Latin noun is the root of the word "buzzard," which refers to a type of hawk?
-BUTEO
-2. Description acceptable. What regions  -  like the area around the fossatum Africae and the
-city of Nisibis  -  were inhabited by so-called limitanei, soldiers who guarded the limes
+B2: What Latin noun is the root of the word “buzzard,” which refers to a type of hawk?
+BŪTEŌ
+2. Description acceptable. What regions — like the area around the fossātum Āfricae and the
+city of Nisibis — were inhabited by so-called līmitāneī, soldiers who guarded the līmes
 Arabicus, the Danube and Rhine, and Hadrian’s Wall?
 (IMPERIAL) FRONTIERS / BORDERLANDS / BORDERS / BARRIERS / MARCHES
-B1: A limes along the Danube protected what region, divided into two provincial halves and
+B1: A līmes along the Danube protected what region, divided into two provincial halves and
 containing the cities of Carnuntum, Sirmium, and Aquincum?
+
 PANNONIA
-B2: A crucial part of the limes Germanicus was the triangle-shaped area between the Danube
-and Rhine rivers. This area was known by the phrase Agri [blank]. Please fill in the blank with
+B2: A crucial part of the līmes Germānicus was the triangle-shaped area between the Danube
+and Rhine rivers. This area was known by the phrase Agrī [blank]. Please fill in the blank with
 the appropriate Latin word.
-DECUMATES
-3. What god fathered twins hidden in a cow-shed and suckled by a cow  -  Aeolus and Boeotus
- -  and twins with a woman who continually filled her lap until she gave birth to the giants Otus
+
+DECUMĀTĒS
+3. What god fathered twins hidden in a cow-shed and suckled by a cow — Aeolus and Boeotus
+— and twins with a woman who continually filled her lap until she gave birth to the giants Otus
 and Ephialtes?
+
 POSEIDON
 B1: Poseidon also fathered what set of twins, perhaps conjoined and often called the Moliones?
 CTEATUS and EURYTUS
 B2: What twin sons of Poseidon fought over a throne before one received a grant of coastal land
-from his cousin Aphareus?
+from his cousin Aphareüs?
+
 PELIAS and NELEUS
-4. Where could one see objects that "crinem ducunt"  -  which Seneca says "ignem vagum in
-modum comae porrigunt"  -  or a group called the septentriones, seven northerly sidera?
+4. Where could one see objects that “crīnem dūcunt” — which Seneca says “ignem vagum in
+modum comae porrigunt” — or a group called the septentriōnēs, seven northerly sīdera?
 (IN) THE SKY // (IN) SPACE [ACCEPT EQUIVALENTS]
 B1: What word, synonymous with the taeda that Romans used at a wedding, could mean
-"meteor" or "comet"?
+“meteor” or “comet”?
+
 FAX
-B2: In De Natura Deorum, Cicero says that the Romans call comets cincinnatae. What is this
-adjective’s literal meaning, drawing on the same sense as crinis and coma?
+
+B2: In Dē Nātūra Deōrum, Cicero says that the Romans call comets cincinnātae. What is this
+adjective’s literal meaning, drawing on the same sense as crīnis and coma?
+
 CURLY-HAIRED
-5. What city was home to a literary girl who "tenet … amat … adnictat … adnutat" various
+5. What city was home to a literary girl who “tenet ... amat ... adnīctat ... adnūtat” various
 fawning men in a Naevian comedy and the author who composed Ajax Mastigophorus and the
-Saturnian-verse translation Odusia?
+Saturnian-verse translation Odūsia?
+
 TARENTUM / TARANTO
 B1: What author died at Tarentum in 130 B.C., ninety years after his birth in a nearby Apulian
 town?
+
 (MARCUS) PACUVIUS
 B2: Some early Latin literature evolved from what possibly-Apulian verse-form, a version of the
 trochaic septenarius that was used for children’s songs and soldiers’ banter?
-(VERSUS) QUADRATUS // QUADRATIC (VERSE)
 
-6. Translate the following sentence from Latin to English: "minantur consules se arcem
-obsessuros esse nisi cives tributa conferant."
-THE CONSULS THREATEN {TO BESIEGE THE CITADEL // THAT THEY WILL BESIEGE THE CITADEL} {UNLESS THE ENEMIES PAY / GIVE TRIBUTE // IF THE ENEMIES DO NOT GIVE / PAY TRIBUTE} [ACCEPT EQUIVALENTS]
-B1: Translate this sentence from Nepos from Latin to English: "Erat scriptum nisi domum
-reverteretur se capitis eum damnaturos."
+(VERSUS) QUADRĀTUS // QUADRATIC (VERSE)
+——————————————— [SCORE CHECK] ———————————————
+6. Translate the following sentence from Latin to English: “minantur cōnsulēs sē arcem
+obsessūrōs esse nisi cīvēs tribūta cōnferant.”
+THE CONSULS THREATEN {TO BESIEGE THE CITADEL // THAT THEY WILL BESIEGE
+THE CITADEL} {UNLESS THE ENEMIES PAY / GIVE TRIBUTE // IF THE ENEMIES DO
+NOT GIVE / PAY TRIBUTE} [ACCEPT EQUIVALENTS]
+B1: Translate this sentence from Nepos from Latin to English: “Erat scrīptum nisi domum
+reverterētur sē capitis eum damnātūrōs.”
 IT {WAS WRITTEN // HAD BEEN WRITTEN} THAT {UNLESS HE RETURNED //
-UNLESS HE SHOULD RETURN // IF HE DID NOT RETURN // IF HE SHOULD NOT HAVE RETURNED}, THEY WOULD CONDEMN HIM TO DEATH [ACCEPT EQUIVALENTS]
-B2: What Latin term refers to a technique in oratio obliqua where a verb retains its tense from
-oratio recta when it should change to the imperfect or pluperfect, giving greater liveliness to
-reported speech? An example is Caesar’s "dicebant ... polliceri ... totidem Nervios qui
-longissime absint."
-REPRAESENTATIO (TEMPORUM)
+UNLESS HE SHOULD RETURN // IF HE DID NOT RETURN // IF HE SHOULD NOT
+HAVE RETURNED}, THEY WOULD CONDEMN HIM TO DEATH [ACCEPT
+EQUIVALENTS]
+B2: What Latin term refers to a technique in ōrātiō oblīqua where a verb retains its tense from
+ōrātiō rēcta when it should change to the imperfect or pluperfect, giving greater liveliness to
+reported speech? An example is Caesar’s “dīcēbant ... pollicērī ... totidem Nerviōs quī
+longissimē absint.”
+
+REPRAESENTĀTIŌ (TEMPORUM)
 7. What mythological name is shared between the Iapygian king whose daughter married
 Diomedes and the king of Ardea who married the nymph Venilia and became father to Juturna
 and Turnus?
+
 DAUNUS
 B1: One bonus on each, then. After marrying Daunus’ daughter, Diomedes founded what city,
 where he met Turnus’ herald Venulus but refused to commit his father-in-law’s forces to the war?
 ARGYRIPA / ARPI
+
 B2: In Aeneid 10, Juno takes pity on Turnus’ aged father, Daunus, and tricks Turnus into leaving
 battle by pretending to be Aeneas. Embarrassed, Turnus tries three times to do what action to
 return to the fight, but is prevented by Juno?
+
 SWIM (BACK TO SHORE FROM THE BOAT) [ACCEPT EQUIVALENTS]
-8. What ablative form often appears in an exclamation meaning "well done" alongside the
-fossilized vocative form macte, with a more literal translation being "be blessed for your valor"?
-VIRTUTE
-B1: In the Aeneid, Apollo looks down at a triumphant Ascanius and declares "macte nova
-uirtute, puer, [blank]." Fill in the line with the four-word quote, which means "thus one goes to
-the stars."
-SIC ITUR AD ASTRA
-B2: A few lines before, Ascanius begs to Jupiter "Iuppiter omnipotens, audacibus [blank]"
+8. What ablative form often appears in an exclamation meaning “well done” alongside the
+fossilized vocative form macte, with a more literal translation being “be blessed for your valor”?
+VIRTŪTE
+B1: In the Aeneid, Apollo looks down at a triumphant Ascanius and declares “macte novā
+uirtūte, puer, [blank].” Fill in the line with the four-word quote, which means “thus one goes to
+the stars.”
+
+SĪC ĪTUR AD ASTRA
+B2: A few lines before, Ascanius begs to Jupiter “Iuppiter omnipotēns, audācibus [blank]”
 before shooting an arrow. Fill in the line with the two-word quote, which was adapted to replace
-"deo favente" in a later motto.
-{ADNUE / ANNUE} COEPTIS
+“deō favente” in a later motto.
+
+{ADNUE / ANNUE} COEPTĪS
 9. In a strange combination, an epitome on what topic and a digest of veterinary medicine were
-the only works by Vegetius, who drew on Frontinus’ Strategemata and cited the actions of men
+the only works by Vegetius, who drew on Frontinus’ Stratēgēmata and cited the actions of men
 like Xanthippus?
 MILITARY {MATTERS / STRATEGY / TACTICS / GENERALSHIP / ART} // WARFARE
 B1: Among the main sources for Vegetius was what early imperial author, whose work covered
-six artes, including military strategy and jurisprudence?
+six artēs, including military strategy and jurisprudence?
+
 (AULUS CORNELIUS) CELSUS
 B2: For veterinary medicine, Vegetius perhaps drew on what third-century Mauretanian author,
-who wrote the handbook Curae Boum, as well as De Hortis and a biography of Severus
+who wrote the handbook Cūrae Boum, as well as Dē Hortīs and a biography of Severus
 Alexander?
+
 (QUINTUS) GARGILIUS MARTIAL(IS)
-10. What substance, collected in foricae, produced pecunia that "non olet" when it was sold to
+10. What substance, collected in foricae, produced pecūnia that “nōn olet” when it was sold to
 tanners and launderers with an unpopular tax enforced by the emperor Vespasian on public
-latrinae?
+lātrīnae?
+
 URINE
-B1: What Roman enlarged and cleaned the Cloaca Maxima, then sailed a boat through it, as part
-of a public works program that saw him repair the Aqua Marcia and build the Aqua Virgo?
+B1: What Roman enlarged and cleaned the Cloāca Maxima, then sailed a boat through it, as part
+of a public works program that saw him repair the Aqua Marcia and build the Aqua Virgō?
 (MARCUS VIPSANIUS) AGRIPPA
 B2: What Latin word refers to the piece of money to be paid as an entrance fee to a bath-house?
-BALNEATICUM
+BALNEĀTICUM
+——————————————— [SCORE CHECK] ———————————————
 
-11. What non-scientific field uses the Latin terms "perpetuum mobile" and "tacet," includes a
-style known by the Latin word "tintinnabuli," and has terms derived from the Latin participles
-cadens, diminuens, and crescens?
+11. What non-scientific field uses the Latin terms “perpetuum mōbile” and “tacet,” includes a
+style known by the Latin word “tintinnābulī,” and has terms derived from the Latin participles
+cadēns, dīminuēns, and crēscēns?
+
 MUSIC [ACCEPT EQUIVALENTS]
 B1: For almost a century, the Boston Musical Instrument Company proudly engraved its
 instruments with what three-word Latin phrase, which was also supposedly inscribed on the
 Pillars of Hercules?
-NE PLUS ULTRA
+
+NĒ PLŪS ULTRĀ
 B2: In the early modern period, important textbooks on music theory and collections of
 instructional pieces were known by what three-word Latin title, referring to a Greek mountain?
-GRADUS AD PARNASSUM
+GRADŪS AD PARNASSUM
 12. What skill was possessed by Gorgasus and Nicomachus, heirs to a man buried by Nestor at
 Gerenia, where a sanctuary rivaling that of Epidaurus was built to aid those seeking help from
 Machaon?
+
 HEALING / MEDICINE [ACCEPT EQUIVALENTS]
 B1: What god, whose name came to refer to a hymn to Apollo, was the physician of the gods,
 healing Ares when Diomedes wounds him and Hades when Heracles shoots him?
+
 PAEAN / PAE(E)ON
-B2: The Odyssey declares that when Helen was among the Egyptians, "born of the race of
-Paean," she received healing drugs like nepenthe from what woman?
+B2: The Odyssey declares that when Helen was among the Egyptians, “born of the race of
+Paean,” she received healing drugs like nepenthe from what woman?
+
 POLYDAMNA
 13. Only limited numbers of what ruler’s forces could together pass Lissus per a treaty agreed
 after Gnaeus Fulvius Centumalus took the city of Corcyra, which was governed by Demetrius of
 Pharos until he betrayed her and Illyria?
+
 TEUTA
 B1: What king, the last attested Illyrian ruler, aided Perseus against the Romans but was quickly
 defeated, with his kingdom being split into three administrative regions?
+
 GENT(H)IUS
 B2: Much later, what ruler established an empire to the east of the Danube, raiding into Illyria
 and so concerning the Romans that Caesar planned an expedition against him, only for Caesar
 and him to be assassinated at roughly the same time in 44 B.C.?
+
 BUREBISTA(S)
-14. What impersonal verb’s contraction with ire to form an adverb meaning "immediately"
-mirrors its contractions to form words meaning "of course" and "namely" with scire and videre?
+14. What impersonal verb’s contraction with īre to form an adverb meaning “immediately”
+mirrors its contractions to form words meaning “of course” and “namely” with scīre and vidēre?
 LICET
-B1: The phenomenon that forms ilicet, scilicet, and videlicet, where a phrase or sentence grow
+
+B1: The phenomenon that forms īlicet, scīlicet, and vidēlicet, where a phrase or sentence grow
 together into an adverb, was fairly common. Name a Latin adverb that emerged from a phrase
-meaning "there’s a chance whether."
+meaning “there’s a chance whether.”
+
 FORSAN / FORSITAN
-B2: What other Latin adverb, meaning "immediately" like ilicet, perhaps comes from a phrase
-meaning "with it then done"?
-ACTUTUM
+B2: What other Latin adverb, meaning “immediately” like īlicet, perhaps comes from a phrase
+meaning “with it then done”?
+
+ĀCTŪTUM
 15. What author’s main work is dated to 283 or 284 A.D. since it invokes Carinus and Numerian
-in its dedication, which starts "I sing the thousand modes of hunting" in reference to its topic of
-Cynegetica?
+in its dedication, which starts “I sing the thousand modes of hunting” in reference to its topic of
+Cynēgetica?
+
 (MARCUS AURELIUS) NEMESIANUS
 B1: Nemesianus also wrote four poems in what genre that were strongly indebted to poems by
 Calpurnius Siculus?
+
 ECLOGUE(S) / BUCOLIC(S) / PASTORAL(S)
 B2: Drawing on the work of Theocritus and Vergil, two of Nemesianus’ eclogues employ what
-poetic form in which characters alternate remarks, sort of like stichomythia?
-AMOEBEAN (FORM)
+poetic form in which characters alternate remarks, sort of like stichomȳthia?
 
-16. What province, served primarily by the via Domitia, included the towns of Arelate and
-Forum Iulii, the terminus of the Rhodanus river, and two montes, the Pyrenaei and Alpes?
+AMOEBEAN (FORM)
+——————————————— [SCORE CHECK] ———————————————
+16. What province, served primarily by the via Domitia, included the towns of Arelātē and
+Forum Iūliī, the terminus of the Rhodanus river, and two montēs, the Pȳrēnaeī and Alpēs?
 GALLIA NARBONENSIS // GALLIA TRANSALPINA // TRANSALPINE GAUL
 B1: The Romans originally simply called the area provincia, giving what region of southeastern
 France its modern name?
+
 PROVENCE
 B2: A major branch of what river flowed from Gallia Narbonensis through Tolosa to Burdigala?
 GARUMNA / GARONNE
-17. What Latin adjective is the root of the Latin word for "winter solstice"  -  bruma  -  via its
+17. What Latin adjective is the root of the Latin word for “winter solstice” — brūma — via its
 contracted superlative, since it implies how little daylight is available in the year’s shortest day?
 BREVIS
-B1: Brevissima became brevima, which in turn became bruma. What was the meaning of the
-similar superlative imus?
+B1: Brevissima became brevima, which in turn became brūma. What was the meaning of the
+similar superlative īmus?
 LOWEST / LOWWERMOST / BOTTOMMOST / DEEPEST [ACCEPT EQUIVALENTS]
-B2: What similar superlative adjective came to mean "last-born," as in its ancient use as a
-praenomen?
+B2: What similar superlative adjective came to mean “last-born,” as in its ancient use as a
+praenōmen?
+
 POSTUMUS
+
 18. Discussion turns to what topic as Gaius Fannius and Quintus Mucius Scaevola contemplate
 Scipio Aemilianus’ suspicious death in a Ciceronian dialogue that forms a companion piece to
-De Senectute under the name Laelius?
-FRIENDSHIP / AMICITIA
-B1: Laelius De Amicitia is appropriately addressed to what contemporary of Cicero?
+Dē Senectūte under the name Laelius?
+
+FRIENDSHIP / AMĪCITIA
+
+B1: Laelius Dē Amīcitiā is appropriately addressed to what contemporary of Cicero?
+
 (TITUS POMPONIUS) ATTICUS
-B2: Among Cicero’s friends was what author, who wrote De Sphaera Graecanica and De
-Sphaera Barbarica before dying in exile in 45 B.C. when Caesar punished him for his sustained
+B2: Among Cicero’s friends was what author, who wrote Dē Sphaerā Graecānicā and Dē
+Sphaerā Barbaricā before dying in exile in 45 B.C. when Caesar punished him for his sustained
 opposition?
+
 (PUBLIUS) NIGIDIUS FIGULUS
-19. Who claims to be sailing to trade iron for copper at the city of Temesa, saying "I am the son
-of wise Anchialus, ruler of the sea-loving Taphians," but is actually a disguised goddess
+19. Who claims to be sailing to trade iron for copper at the city of Temesa, saying “I am the son
+of wise Anchialus, ruler of the sea-loving Taphians,” but is actually a disguised goddess
 encouraging Telemachus to take action?
+
 MENTES / ATHENA
 B1: At Mentes’ encouragement, Telemachus calls an assembly. Among the speakers is what
-forceful man, who Homer says "surpassed all contemporaries in knowledge of birds"?
+forceful man, who Homer says “surpassed all contemporaries in knowledge of birds”?
+
 HALITHERSES
 B2: Athena then takes Telemachus’ own form to rouse a crew to journey to Pylos and Sparta. In
 that form, she convinces what son of Phronius to lend Telemachus a ship for the journey?
 NOEMON
-20. What city  -  a usurper’s base from 423 to 425 A.D. when Johannes controlled it  -  was
+——————————————— [SCORE CHECK] ———————————————
+20. What city — a usurper’s base from 423 to 425 A.D. when Johannes controlled it — was
 valued for its defensibility because it was built on lagoons and marshes, meaning that in 402
 A.D. Honorius moved the western capital there?
+
 RAVENNA
 B1: The city of Ravenna contains a mausoleum named after what woman, though she was
 actually buried in Rome after being married to Ataulf and to Constantius III?
+
 (GALLA) PLACIDIA
 B2: Ravenna became capital of the Ostrogothic Kingdom after Theodoric captured it. Name any
 of the Ostrogothic rulers who controlled the city after Theodoric before it fell in 540 A.D. to the
 Byzantines.
+
 ATHALARIC / AMALASUNTHA / THEODAHAD / VITIGIS
 
-
+————————————— [FINAL SCORE CHECK] —————————————
