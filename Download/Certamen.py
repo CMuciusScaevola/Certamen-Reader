@@ -30,7 +30,7 @@ for rnd in rnds:
         for itm in newQs:ALLQUESTIONS.add(itm+f" (from {rnd[:-11]})")
 
 DCTENG={*open("CSW19.txt").read().splitlines()} #to make reading speed better
-SORTING=[False] #If true allows sorting of questions into new categories
+SORTING=[True] #If true allows sorting of questions into new categories
 SHOWINGCATS=[False] #Controls whether the option buttens for sorting are visible
 
 QUESTIONS=[] #Will be populated with questions from the selected round
@@ -407,10 +407,14 @@ def loadSelectedFile():
     else:
         seen={*open('Rounds/Faulty_Questions.txt').read().splitlines()}
     qs={*qs}
+    print(len(qs))
     toRemove=set()
+    count=0
     for question in qs:
         if f"{RD2PLAY[0]} {question}" in seen:
+            count+=1
             toRemove.add(question)
+    print(count)
     qs-=(seen|toRemove)
     qs=[*qs]
     while QUESTIONS:QUESTIONS.remove(QUESTIONS[0])
