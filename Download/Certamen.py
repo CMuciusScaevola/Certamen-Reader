@@ -266,7 +266,7 @@ def reset(*args):
                 tu=tp[0].split("ANSWER:")
                 b1=tp[1].split("ANSWER:")
                 b2=[]
-                if tp[2]:b2=tp[2].split("ANSWER")
+                if tp[2]:b2=tp[2].split("ANSWER:")
                 
                 QUESTION[0],ANSWER[0],BONUS1[0],BONUS1ANS[0]=tu[0].split(" "),tu[1],b1[0].split(" "),b1[1]
                 if b2:BONUS2[0],BONUS2ANS[0]=b2[0].split(" "),b2[1]
@@ -396,6 +396,7 @@ def back2Year():
         for yr in DCTYEARS[RD2PLAY[0]]:yr.grid()
 def loadSelectedFile():
     CURPOINT[0]="Tossup"
+    print(RD2PLAY[0])
     qs=open("Rounds/"+RD2PLAY[0],encoding='utf-8').read()
     while "  " in qs:
         qs=qs.replace("  "," ")
@@ -407,14 +408,10 @@ def loadSelectedFile():
     else:
         seen={*open('Rounds/Faulty_Questions.txt',encoding='utf-8').read().splitlines()}
     qs={*qs}
-    print(len(qs))
     toRemove=set()
-    count=0
     for question in qs:
         if f"{RD2PLAY[0]} {question}" in seen:
-            count+=1
             toRemove.add(question)
-    print(count)
     qs-=(seen|toRemove)
     qs=[*qs]
     while QUESTIONS:QUESTIONS.remove(QUESTIONS[0])

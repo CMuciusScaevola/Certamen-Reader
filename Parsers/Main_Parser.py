@@ -8,13 +8,13 @@ st=open("Raw Rounds/"+args[0]+".txt",encoding='utf-8').read()
 while "——" in st:st=st.replace("——","—").replace("*","")
 st=st.replace("\t","  ").replace("— [FINAL SCORE CHECK] —","").replace("— [SCORE CHECK] —","").replace(" B1","\nB1").replace(" B2","\nB2")
 st=st.replace("**SCORE CHECK**","").replace("SCORE CHECK","").replace("Score Check","").replace("LATIN LITERATURE","").replace("ROMAN HISTORY","").replace("EXTRA HISTORY","").replace("EXTRA MYTHOLOGY","").replace("History:","").replace("Myth:","").replace("Language:","").replace("Literature:","").replace("B3","B1").replace("B4","B2").replace("Bonus 1","B1").replace("Bonus 2","B2").replace("B1 & B2","B1").replace("B1/2","B1").replace("B1/B2","B1").replace("________________","")
-st=st.replace("LANGUAGE", "").replace("newline","\n").replace("LATIN LITERATURE","").replace("newline","\n").replace(" and "," & ").replace(" or ", " | ").replace("(or","(|").replace("Prompt on","PROMPT ON").replace("prompt on","PROMPT ON").replace("Bonuses 1 & 2","B1").replace("B1+B2","B1").replace("B1+2","B1").replace("B1 ","B1. ").replace("B2 ","B2. ")
+st=st.replace("LANGUAGE", "").replace("newline","\n").replace("EXTRA QUESTIONS","").replace("LATIN LITERATURE","").replace("newline","\n").replace(" and "," & ").replace(" or ", " | ").replace("(or","(|").replace("Prompt on","PROMPT ON").replace("prompt on","PROMPT ON").replace("Bonuses 1 & 2","B1").replace("B1+B2","B1").replace("B1+2","B1").replace("B1 ","B1. ").replace("B2 ","B2. ")
 st=st.replace("Advanced — Preliminary Round One","").replace("Advanced — Preliminary Round Two","").replace("Advanced — Preliminary Round Three","").replace("Advanced — Semifinals","").replace("Advanced — Finals","").replace("Advanced — Semis","").replace("Advanced — Round 1","").replace("Advanced — Round 2","").replace("Advanced — Round 3","").replace("ROUND ONE","").replace("ROUND TWO","").replace("ROUND THREE","")
 st=st.replace("Advanced – Semifinal Round","").replace("Advanced – Final Round","").replace("Advanced Division","").replace("Advanced Level","").replace("Round 1","").replace("Round 2","").replace("Round 3","").replace("Semifinal Round","").replace("Final Round","").replace("vel sim","").replace("REPLACEMENT TOSSUPS","").replace("ADVANCED DIVISION","").replace("ROUND 1","").replace("ROUND 2","").replace("ROUND 3","").replace("FINAL ROUND","").replace("SEMI-FINAL ROUND","")
 st=st.replace("Replacement History:","").replace("Replacement Mythology:","").replace("Replacement Language:","").replace("Replacement Literature:","").replace("HISTORY","").replace("MYTHOLOGY","").replace("LANGUAGE","").replace("LITERATURE","").replace("ADVANCED","")
 st=st.replace("Β","\n\nB").replace("B1&B2","\n\nB1").replace("B1&2","\n\nB1").replace("B1 & B2","\n\nB1").replace("B1.","\n\nB1:").replace("B2.","\n\nB2:")
 
-while "  " in st:st=st.replace("  "," ")
+while "  " in st:st=st.replace("  "," ").replace("\n \n","\n")
 for num in range(1,21):st=st.replace(str(num)+".",str(num)+". ")
 #Get rid of page numbers:
 ind = 0
