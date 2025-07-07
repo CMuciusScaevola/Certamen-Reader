@@ -626,13 +626,13 @@ indirect statement.
 CAPTUM ĪRĪ
 
 11. Translate the following sentence into good Latin using the genitive case: I left Rome to wage war against the Germans.
-PRŌFECTUS SUM / EXI(V)Ī (or any suitable synonym) RŌMĀ CONTRA GERMĀNŌS BELLĪ GERENDĪ CAUSĀ / GRATIĀ.
+PRŌFECTUS SUM / EXI(V)Ī  RŌMĀ CONTRA GERMĀNŌS BELLĪ GERENDĪ CAUSĀ / GRATIĀ.
 
 	B1: Give the same sentence using the accusative case to express purpose.
-PRŌFECTUS SUM / EXI(V)Ī (or any suitable synonym) RŌMĀ CONTRA GERMĀNŌS AD BELLUM GERENDUM / BELLUM GESTUM
+PRŌFECTUS SUM / EXI(V)Ī  RŌMĀ CONTRA GERMĀNŌS AD BELLUM GERENDUM / BELLUM GESTUM
 
 	B2: Using an adverbial clause, translate the same sentence.
-PRŌFECTUS SUM / EXI(V)Ī (or any suitable synonym) RŌMĀ UT BELLCUM CONTRA GERMĀNŌS GEREREM.
+PRŌFECTUS SUM / EXI(V)Ī  RŌMĀ UT BELLCUM CONTRA GERMĀNŌS GEREREM.
 
 12. During a siege, what Roman weaponry would best be used to hurl massive bolts and stones on enemy combatants or enemy walls?
 BALLISTA (DO NOT ACCEPT ONAGER)

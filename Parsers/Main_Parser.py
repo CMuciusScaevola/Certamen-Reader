@@ -70,8 +70,7 @@ with open("Download/Rounds/" +args[0]+"_Parsed.txt",'w',encoding='utf-8') as out
         match=match.split("B1:") if "B1:" in match else match.split("B1.")
         tu=match[0]
         print(match)
-        boni="B1:" +match[1]
-        
+        boni="B1:" +match[1] 
         if "B2:" in boni:
             boni=boni.split("B2:")
             boni[1]="B2:"+boni[1]

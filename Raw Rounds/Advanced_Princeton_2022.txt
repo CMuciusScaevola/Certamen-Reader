@@ -3,7 +3,7 @@
 ĒRUDĪTIŌ ET RELIGIŌ
 B1: Unfortunately, despite a fantastic season, the Princeton men’s basketball team fell in 
 the Ivy League championship game to Yale, securing Yale a spot in this year’s tournament. Give the Latin mottos of both Princeton and Yale. 
-Princeton: DEĪ SUB NŪMINE VIGET; Yale: LŪX ET VĒRITĀS
+PRINCETON: DEĪ SUB NŪMINE VIGET; YALE: LŪX ET VĒRITĀS
         B2: Although Princeton won’t be present in this year’s tournament, Rutgers University 
 made it in and faced Notre Dame in the First Four. Give the Latin motto for the University of Notre Dame. 
 VĪTA, DULCĒDŌ, SPĒS
@@ -214,7 +214,7 @@ SATURNINUS
 
 
 Replacements:
-Lang: Quid Anglicē significat “colus”?
+21: Quid Anglicē significat “colus”?
 DISTAFF
 B1: Quid Anglicē significat “frēnum”?
 BRIDLE / CURB / BIT
@@ -224,7 +224,7 @@ LIVER
 
 
 
-Myth: In Book 1 of Vergil’s Aeneid, whom does Venus plan to lull to sleep while Cupid takes on his form to instill an unquenchable passion for Aeneas in Queen Dido’s heart?
+21: In Book 1 of Vergil’s Aeneid, whom does Venus plan to lull to sleep while Cupid takes on his form to instill an unquenchable passion for Aeneas in Queen Dido’s heart?
 ASCANIUS / IULUS
 B1: Where does Venus tell Cupid that she plans to hide the sleeping Ascanius?
 IN HER (SACRED) SHRINE ON (THE HEIGHTS OF) CYTHERA / IDALIUM
@@ -235,7 +235,7 @@ SYCHAEUS
 
 
 
-Hist: An early advocate of the corn dole, who was backed by men such as M. Fulvius Flaccus and his mother Cornella in controversial policy matters such as the founding of Junonia and running for a second consecutive Tribunate in 121 BC? 
+21: An early advocate of the corn dole, who was backed by men such as M. Fulvius Flaccus and his mother Cornella in controversial policy matters such as the founding of Junonia and running for a second consecutive Tribunate in 121 BC? 
 GAIUS GRACCHUS
 B1: The colony of Junonia was situated on the former site of what famous city? 
 CARTHAGE
@@ -245,7 +245,7 @@ SCIPIO AFRICANUS
 
 
 
-Lit: What early Roman author started out as a stage-carpenter but ended up becoming the most successful of the Roman comic playwrights and created the inspiration for Shakespeare’s Comedy of Errors with Menaechmī?
+21: What early Roman author started out as a stage-carpenter but ended up becoming the most successful of the Roman comic playwrights and created the inspiration for Shakespeare’s Comedy of Errors with Menaechmī?
 (TITUS MACCIUS) PLAUTUS
         B1: Which play of Plautus is his longest, at 1,437 lines, and centers around a clever slave 
 named Palaestrio and a boastful soldier named Pyrgopolynices?
@@ -474,7 +474,7 @@ MISENUS
 
 
 Replacements:
-Lang: From what Latin root with what meaning do we derive the English word “annoy”?
+21: From what Latin root with what meaning do we derive the English word “annoy”?
 ODIUM - HATRED / ENMITY / ANIMOSITY / ILLWILL / GRUDGE
 B1: … “feeble”?
 FLEŌ - TO WEEP / CRY
@@ -484,7 +484,7 @@ FLŌ - TO BLOW
 
 
 
-Myth: According to Ovid, the nymphs of Mt. Tmolus and the River Pactolus often gathered to examine whose wonderful tapestries as she teased out clouds of wool and drew them into long, equal threads?
+21: According to Ovid, the nymphs of Mt. Tmolus and the River Pactolus often gathered to examine whose wonderful tapestries as she teased out clouds of wool and drew them into long, equal threads?
 ARACHNE
 B1: What man of Colophon was the father of Arachne?
 IDMON
@@ -494,7 +494,7 @@ HYPAEPAE
 
 
 
-Hist: What war, begun inauspiciously by P. Sulpicius Galba, resulted in the triumph of the legion over the phalanx and spelled the beginning of the end for hellenistic monarchs such as Philip V, from 200-197 BC? 
+21: What war, begun inauspiciously by P. Sulpicius Galba, resulted in the triumph of the legion over the phalanx and spelled the beginning of the end for hellenistic monarchs such as Philip V, from 200-197 BC? 
 2ND MACEDONIAN WAR
 B1: What was the site of the decisive battle between Philip and Flamininus during this conflict? 
 CYNOSCEPHALAE
@@ -504,17 +504,6 @@ ISTHMIAN GAMES/CORINTH
 
 
 
-Lit: 
-
-
-
-
-
-
-________________
-
-
-ROUND 3
 
 
 Read before the start of the round: Aurēlia, cui urbs placēbat, erat in Aegyptō cum familiā suā ingentī et equō suō. Tredecim lūdōs magnōs Iovis in amphitheātrō Alexandrīae spectābant. Tandem, equus īrātus domum recurrere coepit. Ēheu!
@@ -735,7 +724,7 @@ DĒ IMĀGINIBUS // HEBDOMADES
 
 
 Replacements:
-Lang: glōs, dīcis, naucī, and amussim all belong to what class of nouns which are only found in one case?
+21: glōs, dīcis, naucī, and amussim all belong to what class of nouns which are only found in one case?
 MONOPTOTES
 B1: What triptote (a noun that is only found in three cases) means “an attack”?
 IMPETUS
@@ -745,7 +734,7 @@ HETEROCLITES
 
 
 
-Myth: According to Sophocles, who, at the time of Agamemnon’s death, rescues young Orestes from Clytemnestra and Aegisthus and sends him to be brought up in safety?
+21: According to Sophocles, who, at the time of Agamemnon’s death, rescues young Orestes from Clytemnestra and Aegisthus and sends him to be brought up in safety?
 ELECTRA
 B1: To whose court did Electra take young Orestes?
 STROPHIUS’
@@ -756,7 +745,7 @@ CHRYSOTHEMIS
 
 
 
-Hist: What emperor personally attacked the Cantabrians and Asturians, although he had to leave early, felled by one of his many illnesses, and leave the campaign in the hands of his trusty commander Marcus Agrippa?
+21: What emperor personally attacked the Cantabrians and Asturians, although he had to leave early, felled by one of his many illnesses, and leave the campaign in the hands of his trusty commander Marcus Agrippa?
 AUGUSTUS
 B1: What two future provinces along the Danube did Augustus have pacified by his step-sons Tiberius and Drusus? 
 RAETIA AND NORICUM
@@ -766,7 +755,7 @@ B2: What type of talisman did Augustus entrust to Agrippa in 23 BC when he feare
 
 
 
-Lit: What author began practicing law at the age of 18 and eventually served as governor of Bithynia from 111-113 AD, and is well-known for his collections of letters?
+21: What author began practicing law at the age of 18 and eventually served as governor of Bithynia from 111-113 AD, and is well-known for his collections of letters?
 PLINY THE YOUNGER
         B1: To what emperor did Pliny address a famous letter concerning the Christians?
 TRAJAN
@@ -1011,7 +1000,7 @@ MEDIUS - MIDDLE & OCRIS - MOUNTAIN RANGE
 
 
 Replacements:
-Lang: Which of the following, if any, is NOT derived from the same Latin root as the others:  travel, compactor, impolite, flagpole, propaganda?
+21: Which of the following, if any, is NOT derived from the same Latin root as the others:  travel, compactor, impolite, flagpole, propaganda?
 IMPOLITE
 B1: …:  acquaint, nutant, sidenote, ennoble, cognition?
 NUTANT
@@ -1021,7 +1010,7 @@ ALL ARE FROM THE SAME ROOT
 
 
 
-Myth: Who in one version threw a child to some dogs on account of Canace and Macareus’s incestual relationship, but in another version lived with his six daughters and six sons who were married to each other on his floating island? 
+21: Who in one version threw a child to some dogs on account of Canace and Macareus’s incestual relationship, but in another version lived with his six daughters and six sons who were married to each other on his floating island? 
 AEOLUS
 B1: When Aeolus helped Odysseus, he bagged up all but what direction’s wind?         
 WEST
@@ -1030,7 +1019,7 @@ B2: Give the name of one of the modern islands Aeolia is identified with.       
 
 
 
-Hist: What island, on which the rebel M. Lepidus died in 77 BC, was home to Gaius Gracchus during his quaestorship and had been seized from Carthage alongside Corsica in 259 BC? 
+21: What island, on which the rebel M. Lepidus died in 77 BC, was home to Gaius Gracchus during his quaestorship and had been seized from Carthage alongside Corsica in 259 BC? 
 SARDINIA
 B1: What member of the gens Sempronia led a consular army to Sardinian in 177 BC? 
 TI. GRACCHUS THE ELDER
@@ -1040,7 +1029,7 @@ LIGURIANS
 
 
 
-Lit: “rērum Rōmānārum flōrentissimus auctor” is how Tacitus described what historian, born at Amiternum, who was best known for his monographs?
+21: “rērum Rōmānārum flōrentissimus auctor” is how Tacitus described what historian, born at Amiternum, who was best known for his monographs?
 SALLUST // GAIUS SALLUSTIUS CRISPUS
         B1: Sallust was named governor of Africa Nova by Julius Caesar, but was advised to 
 retire from public office by Caesar himself after being accused of what crime several times?
@@ -1287,7 +1276,7 @@ B2: Now translate the following sentence into the best Classical Latin using the
 
 
 Replacements:
-Lang: Using three words, translate into Latin, “He came to complain of his fate.”
+21: Using three words, translate into Latin, “He came to complain of his fate.”
 [SEE BELOW]
 B1: Translate that sentence into Latin using the same three words but a different construction.
 VENIT {QUESTUM / QUESTURUS} FATUM.
@@ -1297,7 +1286,7 @@ THE ABLATIVE SUPINE (DICTU) CANNOT TAKE AN OBJECT (VITIA)
 
 
 
-Myth: Who — deemed “the fairest of the spoils” — was dedicated to Apollo at Delphi and had three children, two by Alcmeon named Amphilochus and Tisiphone and one by Rhacius named Mopsus?        
+21: Who — deemed “the fairest of the spoils” — was dedicated to Apollo at Delphi and had three children, two by Alcmeon named Amphilochus and Tisiphone and one by Rhacius named Mopsus?        
 MANTO
 B1: Mopsus caused the death of what other seer, when he correctly out-predicted him in determining how many piglets a sow would bear and how many figs were on a certain tree?        
 CALCHAS
@@ -1306,7 +1295,7 @@ B2: Mopsus went on to found Mallus with what man, whom he eventually dueled and 
 
 
 
-Hist: Ingenuus, Regilianus, Macrianus, Aureolus, and Postumus were named among the so-called ‘Thirty Tyrants’ who revolted against what Emperor, who couldn’t shake the scent of illegitimacy that came from constant barbarian invasions and the capture of his father Valerian? 
+21: Ingenuus, Regilianus, Macrianus, Aureolus, and Postumus were named among the so-called ‘Thirty Tyrants’ who revolted against what Emperor, who couldn’t shake the scent of illegitimacy that came from constant barbarian invasions and the capture of his father Valerian? 
 GALLIENUS
 B1: What Eastern city created an unofficial empire that was based on the inability of the Roman central government to protect its citizens from the Sassanids? 
 PALMYRA
@@ -1316,7 +1305,7 @@ SHAPUR I
 
 
 
-Lit: Accused by Orosius of being “paganus pervicacissimus”, what author of Laus Serenae, De Nuptiis Honorii et Mariae and Gigantomachy is sometimes considered to be the last poet of classical Rome?
+21: Accused by Orosius of being “paganus pervicacissimus”, what author of Laus Serenae, De Nuptiis Honorii et Mariae and Gigantomachy is sometimes considered to be the last poet of classical Rome?
 CLAUDIUS CLAUDIANUS // CLAUDIAN
 B1: De Nuptiis Honorii et Mariae celebrates Honorius’ marriage to the daughter of Stilicho and is an example of what type of poem?
 EPITHALAMIUM
