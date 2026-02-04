@@ -17,10 +17,14 @@ HASSKIPPED=[False,0]
 LASTSKIPP=[time.time()] #To ensure repeated skips don't come too often
 RD2PLAY=[""]
 ALLQUESTIONS=set()
-rnds = os.listdir("Rounds")
+
+p=(os.path.abspath("Certamen.py"))
+p=p[:-11]+"Download/"
+print(p)
+rnds = os.listdir(p+"Rounds")
 for rnd in rnds:
     if not "Language.txt" in rnd and not "History.txt" in rnd and not "Literature.txt" in rnd and not "Mythology.txt" in rnd:
-        qs=open("Rounds/"+rnd,encoding='utf-8').read()
+        qs=open(p+"Rounds/"+rnd,encoding='utf-8').read()
         rnd=rnd.replace("_"," ")
         while "  " in qs:
             qs=qs.replace("  "," ")
@@ -29,7 +33,7 @@ for rnd in rnds:
         for itm in qs:newQs+=itm.split("BONUS:")
         for itm in newQs:ALLQUESTIONS.add(itm+f" (from {rnd[:-11]})")
 
-DCTENG={*open("CSW19.txt",encoding='utf-8').read().splitlines()} #to make reading speed better
+DCTENG={*open(p+"CSW19.txt",encoding='utf-8').read().splitlines()} #to make reading speed better
 SORTING=[True] #If true allows sorting of questions into new categories
 SHOWINGCATS=[False] #Controls whether the option buttens for sorting are visible
 
@@ -105,8 +109,8 @@ def displayAns(*args):
     root.bind("f",selectSaveFact)
 
 def saveToHist(*args):
-    a={*open('Rounds/Advanced_History.txt',encoding='utf-8').read().splitlines()}
-    with open("Rounds/Advanced_History.txt","a",encoding='utf-8') as output:
+    a={*open(p+'Rounds/Advanced_History.txt',encoding='utf-8').read().splitlines()}
+    with open(p+"Rounds/Advanced_History.txt","a",encoding='utf-8') as output:
         q2write=LASTEXTRACTED[0]
         if not q2write[:-1] in a:
             output.write(q2write)
@@ -118,8 +122,8 @@ def saveToHist(*args):
     root.unbind("m")
     SHOWINGCATS[0]=False
 def saveToLit(*args):
-    a={*open('Rounds/Advanced_Literature.txt',encoding='utf-8').read().splitlines()}
-    with open("Rounds/Advanced_Literature.txt","a",encoding='utf-8') as output:
+    a={*open(p+'Rounds/Advanced_Literature.txt',encoding='utf-8').read().splitlines()}
+    with open(p+"Rounds/Advanced_Literature.txt","a",encoding='utf-8') as output:
         q2write=LASTEXTRACTED[0]
         if not q2write[:-1] in a:
             output.write(q2write)
@@ -131,8 +135,8 @@ def saveToLit(*args):
     root.unbind("m")
     SHOWINGCATS[0]=False
 def saveToLang(*args):
-    a={*open('Rounds/Advanced_Language.txt',encoding='utf-8').read().splitlines()}
-    with open("Rounds/Advanced_Language.txt","a",encoding='utf-8') as output:
+    a={*open(p+'Rounds/Advanced_Language.txt',encoding='utf-8').read().splitlines()}
+    with open(p+"Rounds/Advanced_Language.txt","a",encoding='utf-8') as output:
         q2write=LASTEXTRACTED[0]
         if not q2write[:-1] in a:
             output.write(q2write)
@@ -144,8 +148,8 @@ def saveToLang(*args):
     root.unbind("m")
     SHOWINGCATS[0]=False
 def saveToMyth(*args):
-    a={*open('Rounds/Advanced_Mythology.txt',encoding='utf-8').read().splitlines()}
-    with open("Rounds/Advanced_Mythology.txt","a",encoding='utf-8') as output:
+    a={*open(p+'Rounds/Advanced_Mythology.txt',encoding='utf-8').read().splitlines()}
+    with open(p+"Rounds/Advanced_Mythology.txt","a",encoding='utf-8') as output:
         q2write=LASTEXTRACTED[0]
         if not q2write[:-1] in a:
             output.write(q2write)
@@ -203,7 +207,7 @@ def saveFact(*args):
     entry = factSavetxt.get()
     factSave.delete(0,'end')
     if entry:
-        with open("Fact.txt","a",encoding='utf-8') as output:
+        with open(p+"Fact.txt","a",encoding='utf-8') as output:
             output.write(entry+"\n")
     root.unbind("<Return>")
     root.bind("s",showCatsForSaving)
@@ -397,16 +401,16 @@ def back2Year():
 def loadSelectedFile():
     CURPOINT[0]="Tossup"
     print(RD2PLAY[0])
-    qs=open("Rounds/"+RD2PLAY[0],encoding='utf-8').read()
+    qs=open(p+"Rounds/"+RD2PLAY[0],encoding='utf-8').read()
     while "  " in qs:
         qs=qs.replace("  "," ")
     qs=qs.splitlines()
     if "History" in RD2PLAY[0] or "Literature" in RD2PLAY[0] or "Language" in RD2PLAY[0] or "Mythology" in RD2PLAY[0]:
         SORTING[0]=False
     if SORTING[0]:
-        seen={*open('Rounds/Faulty_Questions.txt',encoding='utf-8').read().splitlines()}|{*open('Rounds/Advanced_History.txt',encoding='utf-8').read().splitlines()}|{*open('Rounds/Advanced_Language.txt',encoding='utf-8').read().splitlines()}|{*open('Rounds/Advanced_Literature.txt',encoding='utf-8').read().splitlines()}|{*open('Rounds/Advanced_Mythology.txt',encoding='utf-8').read().splitlines()}
+        seen={*open(p+'Rounds/Faulty_Questions.txt',encoding='utf-8').read().splitlines()}|{*open(p+'Rounds/Advanced_History.txt',encoding='utf-8').read().splitlines()}|{*open(p+'Rounds/Advanced_Language.txt',encoding='utf-8').read().splitlines()}|{*open('Rounds/Advanced_Literature.txt',encoding='utf-8').read().splitlines()}|{*open('Rounds/Advanced_Mythology.txt',encoding='utf-8').read().splitlines()}
     else:
-        seen={*open('Rounds/Faulty_Questions.txt',encoding='utf-8').read().splitlines()}
+        seen={*open(p+'Rounds/Faulty_Questions.txt',encoding='utf-8').read().splitlines()}
     qs={*qs}
     toRemove=set()
     for question in qs:
@@ -428,8 +432,8 @@ def loadSelectedFile():
     questionScreen()
 
 def recordFaultyQuestion():
-    a={*open('Rounds/Faulty_Questions.txt',encoding='utf-8').read().splitlines()}
-    with open("Rounds/Faulty_Questions.txt","a",encoding='utf-8') as output:
+    a={*open(p+'Rounds/Faulty_Questions.txt',encoding='utf-8').read().splitlines()}
+    with open(p+"Rounds/Faulty_Questions.txt","a",encoding='utf-8') as output:
         toW=f"{RD2PLAY[0]} {LASTEXTRACTED[0]}"
         if not toW[:-1] in a:
             output.write(toW)
