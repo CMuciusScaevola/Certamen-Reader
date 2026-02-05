@@ -34,7 +34,7 @@ for rnd in rnds:
         for itm in newQs:ALLQUESTIONS.add(itm+f" (from {rnd[:-11]})")
 
 DCTENG={*open(p+"CSW19.txt",encoding='utf-8').read().splitlines()} #to make reading speed better
-SORTING=[True] #If true allows sorting of questions into new categories
+SORTING=[False] #If true allows sorting of questions into new categories
 SHOWINGCATS=[False] #Controls whether the option buttens for sorting are visible
 
 QUESTIONS=[] #Will be populated with questions from the selected round
@@ -53,19 +53,19 @@ def checkKeyBindings():
     while CURSCREEN[0]=="Answered":
         time.sleep(0.1)
         if root.focus_get()==factSaveFrame:
-            root.unbind("<space>")
-            root.unbind("<Return>")
+            root.unbind("<space>") #space
+            root.unbind("<Return>") #Return
             root.unbind("n")
             root.unbind("f")
             root.unbind("s")
-            root.bind("<Return>",saveFact)
+            root.bind("<Return>",saveFact) #Return
         elif root.focus_get()==ansEntry:
-            root.unbind("<space>")
-            root.unbind("<Return>")
+            root.unbind("<space>") #space
+            root.unbind("<Return>") #Return
             root.unbind("n")
             root.unbind("f")
             root.unbind("s")
-            root.bind("<Return>",displayAns)
+            root.bind("<Return>",displayAns) #Return
 
 def displayAns(*args):
     if SHOWINGCATS[0]:
@@ -74,7 +74,7 @@ def displayAns(*args):
         root.bind("i",saveToLit)
         root.bind("m",saveToMyth)
     mainframe.focus()
-    root.unbind("<Return>")
+    root.unbind("<Return>") #Return
     ansSubmission.config(command=doNothing)
     ansGiven=ans.get()
     gvAns.config(text=f"You gave: {ansGiven}")
@@ -188,7 +188,7 @@ def questionScreen():
 
 def selectSaveFact(*args):
     factSave.focus()
-    root.bind("<Return>",saveFact)
+    root.bind("<Return>",saveFact) #Return
     root.unbind("n")
     root.unbind("s")
     root.unbind("f")
@@ -209,7 +209,7 @@ def saveFact(*args):
     if entry:
         with open(p+"Fact.txt","a",encoding='utf-8') as output:
             output.write(entry+"\n")
-    root.unbind("<Return>")
+    root.unbind("<>") #Return
     root.bind("s",showCatsForSaving)
     root.bind("n",reset)
     root.bind("f",selectSaveFact)
@@ -248,7 +248,7 @@ def reset(*args):
     root.unbind("n")
     root.unbind("f")
     root.unbind("s")
-    root.bind("<space>",buzzFx)
+    root.bind("<space>",buzzFx) #space
     ansEntry.delete(0,'end')
     if QUESTIONS or CURPOINT[0]!="Tossup":
         while CURQ:CURQ.remove(CURQ[0])
@@ -301,7 +301,7 @@ def displayRoundFinished():
     returnHomeBtn.grid()
 
 def buzzFx(*args):
-    root.unbind("<space>")
+    root.unbind("<space>") #space
     CURSCREEN[0]=="Answered"
     bindingThread=Thread(target=checkKeyBindings)
     bindingThread.start()
@@ -336,7 +336,7 @@ def readQuestion():
     root.unbind("s")
     ansSubmission.config(command=displayAns)
     ansEntry.focus()
-    root.bind("<Return>",displayAns)
+    root.bind("<Return>",displayAns) #Return
     ansFrame.grid()
 
 def setRoundName(n):
@@ -408,7 +408,7 @@ def loadSelectedFile():
     if "History" in RD2PLAY[0] or "Literature" in RD2PLAY[0] or "Language" in RD2PLAY[0] or "Mythology" in RD2PLAY[0]:
         SORTING[0]=False
     if SORTING[0]:
-        seen={*open(p+'Rounds/Faulty_Questions.txt',encoding='utf-8').read().splitlines()}|{*open(p+'Rounds/Advanced_History.txt',encoding='utf-8').read().splitlines()}|{*open(p+'Rounds/Advanced_Language.txt',encoding='utf-8').read().splitlines()}|{*open('Rounds/Advanced_Literature.txt',encoding='utf-8').read().splitlines()}|{*open('Rounds/Advanced_Mythology.txt',encoding='utf-8').read().splitlines()}
+        seen={*open(p+'Rounds/Faulty_Questions.txt',encoding='utf-8').read().splitlines()}|{*open(p+'Rounds/Advanced_History.txt',encoding='utf-8').read().splitlines()}|{*open(p+'Rounds/Advanced_Language.txt',encoding='utf-8').read().splitlines()}|{*open(p+'Rounds/Advanced_Literature.txt',encoding='utf-8').read().splitlines()}|{*open(p+'Rounds/Advanced_Mythology.txt',encoding='utf-8').read().splitlines()}
     else:
         seen={*open(p+'Rounds/Faulty_Questions.txt',encoding='utf-8').read().splitlines()}
     qs={*qs}
