@@ -19,7 +19,10 @@ RD2PLAY=[""]
 ALLQUESTIONS=set()
 
 p=(os.path.abspath("Certamen.py"))
-p=p[:-11]+"Download/"
+print(p)
+
+p=p[:-11]
+if not "Download" in p: p+="Download/"
 print(p)
 rnds = os.listdir(p+"Rounds")
 for rnd in rnds:
@@ -34,7 +37,7 @@ for rnd in rnds:
         for itm in newQs:ALLQUESTIONS.add(itm+f" (from {rnd[:-11]})")
 
 DCTENG={*open(p+"CSW19.txt",encoding='utf-8').read().splitlines()} #to make reading speed better
-SORTING=[False] #If true allows sorting of questions into new categories
+SORTING=[True] #If true allows sorting of questions into new categories
 SHOWINGCATS=[False] #Controls whether the option buttens for sorting are visible
 
 QUESTIONS=[] #Will be populated with questions from the selected round
@@ -109,7 +112,7 @@ def displayAns(*args):
     root.bind("f",selectSaveFact)
 
 def saveToHist(*args):
-    a={*open(p+'Rounds/Advanced_History.txt',encoding='utf-8').read().splitlines()}
+    a={*open(p+'Rounds/Advanced_History.txt',encoding='utf-8').read().splitlines()} #to ensure duplicate questions don't end up here
     with open(p+"Rounds/Advanced_History.txt","a",encoding='utf-8') as output:
         q2write=LASTEXTRACTED[0]
         if not q2write[:-1] in a:
@@ -569,7 +572,9 @@ difficultyLabel=ttk.Label(difficultyOptions,text="\nChoose a level:\n")
 difficultyLabel.config(font=("Courier",15))
 difficulties=[ttk.Button(difficultyOptions,text="Novice",command=lambda:setRoundName("Novice")),
               ttk.Button(difficultyOptions,text="Intermediate",command=lambda:setRoundName("Intermediate")),
-              ttk.Button(difficultyOptions,text="Advanced",command=lambda:setRoundName("Advanced"))]
+              ttk.Button(difficultyOptions,text="Advanced - Hard",command=lambda:setRoundName("Advanced")),
+              ttk.Button(difficultyOptions,text="Advanced - Easy",command=lambda:setRoundName("AdvancedE"))
+            ]
 difficultyLabel.grid(column=0,columnspan=len(difficulties),row=0,sticky=W)
 for i in range(len(difficulties)):
     difficulties[i].grid(column=i,row=1,sticky=W)    

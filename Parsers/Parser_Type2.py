@@ -7,10 +7,9 @@ st=open("Raw Rounds/"+args[0]+".txt",encoding='utf-8').read()
 #Remove common items that are undesirable
 while "——" in st:st=st.replace("——","—").replace("*","")
 while "  " in st:st=st.replace("  "," ")
-for num in range(1,21):st=st.replace(str(num)+".",str(num)+". ")
+for num in range(1,21):st=st.replace(str(num)+".","")
 st=st.replace("a. BONUS","BONUS").replace("b. BONUS","BONUS").replace("WRITE-DOWN","").replace("WRITE DOWN","").replace("WRITEDOWN","")
-st=st.replace("ANS:\n","ANS: ")
-
+st=st.replace("ANS:\n","ANS: ").replace("\n*PAUSE FOR SCORE UPDATE*","")
 
 #Get rid of page numbers:
 ind = 0
@@ -27,10 +26,9 @@ while ind<len(st):
 #Make sure all answerlines have no newlines
 ind=0
 while ind<len(st):
-    match = re.search(r"(?<=[A-Z]([A-Z]| ))\n(?=[AC-Z\(\[]\|)(?!B1:|B2:)",st[ind:],flags=re.S|re.UNICODE)
+    match = re.search(r"(?<=[A-Z]([A-ZĀĒĪŌŪ\/]| ))\n(?=[AC-ZĀĒĪŌŪ\(\[\|])(?!B1:|B2:)",st[ind:],flags=re.S|re.UNICODE)
     
     if match:
-
         st=st[:match.span()[0]+ind]+" "+st[match.span()[1]+ind:]
         ind=match.span()[1]+ind
         match=""
@@ -40,6 +38,7 @@ st="\n"+st+"\n"
 while "\n\n" in st:
     st=st.replace("\n\n","\n")
 matches=re.findall(r"(?<=TOSSUP:).*?BONUS.*?ANS.*?(?=\n.*?TOSSUP)",st,re.S)
+finalsmatches = re.findall(r"(?<=TOSSUP:).*?ANS.*?BONUS.*?ANS.*?BONUS.*?ANS.*?(?=\n.*?TOSSUP)",st,re.S)
 tossups=[]
 tossupAnswers=[]
 bonus1s=[]
@@ -47,9 +46,10 @@ bonus1answers=[]
 bonus2s=[]
 bonus2answers=[]
 replacementct=0
-
 with open("Download/Rounds/" +args[0]+"_Parsed.txt",'w',encoding='utf-8') as output:
-    for match in matches:
+    for index,match in enumerate(matches):
+        if index-len(matches)>-21 and match in finalsmatches[index-len(matches)]:
+            match=finalsmatches[index-len(matches)]
         match=match.replace("1.","").replace("2.","").replace("\n"," ")
         match=match.split("BONUS:")
         print(match)

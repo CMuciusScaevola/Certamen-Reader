@@ -16,7 +16,8 @@ GONEXT=[False]
 LBLS=[]
 
 p=(os.path.abspath("Flashcards.py"))
-p=p[:-13]+"Download/"
+p=p[:-13]
+if not "Download/" in p: p=p+"Download/"
 
 def getDecks():
     a= os.listdir(p+"Flashcard Decks")

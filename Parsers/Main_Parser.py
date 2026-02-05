@@ -41,10 +41,10 @@ while ind<len(st):
 #Make sure all answerlines have no newlines
 ind=0
 while ind<len(st):
-    match = re.search(r"(?<=[A-Z])\n(?=[AC-Z\(\[]\|)(?!B1:|B2:)",st[ind:],flags=re.S|re.UNICODE)
+    match = re.search(r"(?<=[A-Z])\n(?=[AC-Z\(\[\|])(?!B1:|B2:)",st[ind:],flags=re.S|re.UNICODE)
     
     if match:
-
+        print(match)
         st=st[:match.span()[0]+ind]+" "+st[match.span()[1]+ind:]
         ind=match.span()[1]+ind
         match=""
