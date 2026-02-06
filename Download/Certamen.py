@@ -49,8 +49,12 @@ CURQ=[] #The current question
 CURQLABEL=[] #The words from the current question that are currently being displayed as it is read
 BUZZ=[False]
 CURSCREEN=['Homescreen']
-
+READSPEED=[1]
 #Functions
+
+def updateReadSpeed(*args):
+    READSPEED[0]=1.0-readingSpeedSld.get()
+    print(READSPEED[0])
 
 def checkKeyBindings():
     while CURSCREEN[0]=="Answered":
@@ -183,6 +187,7 @@ def questionScreen():
     readNext.grid()
     q.configure(text="")
     returnHomeBtn.grid()
+    readingSpeedFrm.grid()
     welcomeText.grid_remove()
     confirmFrm.grid_remove()
     root.bind("n",reset)
@@ -327,7 +332,7 @@ def readQuestion():
         CURQLABEL[0].config(text="\n"+" ".join(CURQ))
         tSleep=.04 if QUESTION[0][wordind].split("'")[0].lower() in DCTENG else .06
         if "," in QUESTION[0][wordind]:tSleep+=.02
-        time.sleep(tSleep*len(QUESTION[0][wordind]))
+        time.sleep(tSleep*len(QUESTION[0][wordind])*READSPEED[0])
         wordind+=1
     tmer=time.time()
     while time.time()-tmer<7.5 and not BUZZ[0]:
@@ -550,9 +555,18 @@ roundFinishedLabel.grid_remove()
 
 questionReadingItms=[questionFrame,ansRevFrame,ansFrame,factSaveFrame,saveQFrame,b1Frame,b2Frame,saveFaultyFrame,roundFinishedLabel,topFrm]
 
+readingSpeedFrm = ttk.Frame(mainframe)
+var=DoubleVar()
+readingSpeedLbl = ttk.Label(readingSpeedFrm,text="Reading Speed")
+readingSpeedLbl.grid(column=0,row=0,sticky=SW)
+readingSpeedSld = ttk.Scale(readingSpeedFrm,from_=-0.8,to_=0.8,command=updateReadSpeed, variable=var)
+readingSpeedSld.set(0.0)
+readingSpeedSld.grid(column=1,row=0,sticky=W)
+questionReadingItms.append(readingSpeedFrm)
+readingSpeedFrm.grid(row=19,column=0,sticky=SW)
+
 returnHomeBtn=ttk.Button(mainframe,text="Return Home",command=homeScreen)
-returnHomeBtn.grid(column=0,row=19,sticky=SW)
-returnHomeBtn.grid_remove()
+returnHomeBtn.grid(column=0,row=20,sticky=SW)
 questionReadingItms.append(returnHomeBtn)
 
 #########################################################################################################################
