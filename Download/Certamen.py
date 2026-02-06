@@ -74,46 +74,7 @@ def checkKeyBindings():
             root.unbind("s")
             root.bind("<Return>",displayAns) #Return
 
-def displayAns(*args):
-    if SHOWINGCATS[0]:
-        root.bind("h",saveToHist)
-        root.bind("l",saveToLang)
-        root.bind("i",saveToLit)
-        root.bind("m",saveToMyth)
-    mainframe.focus()
-    root.unbind("<Return>") #Return
-    ansSubmission.config(command=doNothing)
-    ansGiven=ans.get()
-    gvAns.config(text=f"You gave: {ansGiven}")
-    CURQLABEL[0].config(text="\n"+" ".join(QUESTION[0]))
-    ansRevFrame.grid()
-    saveFaultyFrame.grid()
-    if CURPOINT[0]=="Tossup":
-        if BONUS1[0]:
-            q.config(text=" ".join(QUESTION[0])+"\nANS: "+ANSWER[0])
-            QUESTION[0]=BONUS1[0]
-            ANSWER[0]=BONUS1ANS[0]
-            CURPOINT[0]="B1"
-    elif CURPOINT[0]=="B1":
-        if BONUS2[0]:
-            qb1.config(text=" ".join(QUESTION[0])+"\nANS: "+ANSWER[0])
-            QUESTION[0]=BONUS2[0]
-            ANSWER[0]=BONUS2ANS[0]
-            CURPOINT[0]="B2"
-        else:
-            qb1.config(text=" ".join(QUESTION[0])+"\nANS: "+ANSWER[0])
-            CURPOINT[0]="Tossup"
-    else:
-        qb2.config(text=" ".join(QUESTION[0])+"\nANS: "+ANSWER[0])
-        CURPOINT[0]="Tossup"
-    factSaveFrame.grid()
-    qb="Bonus"if not CURPOINT[0]=="Tossup" else "Question"
-    readNext.config(text=f"Read Next {qb}",command=reset)
-    if SORTING[0]:
-        saveQFrame.grid()
-        root.bind("s",showCatsForSaving)
-    root.bind("n",reset)
-    root.bind("f",selectSaveFact)
+
 
 def saveToHist(*args):
     a={*open(p+'Rounds/Advanced_History.txt',encoding='utf-8').read().splitlines()} #to ensure duplicate questions don't end up here
@@ -207,6 +168,7 @@ def homeScreen(*args):
     while QUESTIONS:QUESTIONS.remove(QUESTIONS[0])
     welcomeText.grid()
     difficultyOptions.grid()
+    playFavoritesBtn.grid()
     flashCardsFrame.grid()
     CURSCREEN[0]='Homescreen'
     for itm in questionReadingItms: itm.grid_remove()
@@ -223,6 +185,13 @@ def saveFact(*args):
     root.bind("f",selectSaveFact)
     mainframe.focus()
     
+def favoriteQuestion(*args):
+    a={*open(p+'Rounds/Favorites.txt',encoding='utf-8').read().splitlines()} #to ensure duplicate questions don't end up here
+    with open(p+"Rounds/Favorites.txt","a",encoding='utf-8') as output:
+        q2write=LASTEXTRACTED[0]
+        if not q2write[:-1] in a:
+            output.write(q2write)
+        else:print("Question already there...")
 def skipQuestion(*args):
     if time.time()-LASTSKIPP[0]>0.75:
         SHOWINGCATS[0]=False
@@ -250,6 +219,7 @@ def reset(*args):
     savelitBtn.grid_remove()
     savelangBtn.grid_remove()
     saveMythBtn.grid_remove()
+    favoriteQuestionBtn.grid_remove()
     saved.grid_remove()
     factSaveFrame.grid_remove()
     saveFaultyFrame.grid_remove()
@@ -303,6 +273,49 @@ def reset(*args):
     else:
         displayRoundFinished()
 
+def displayAns(*args):
+    if SHOWINGCATS[0]:
+        root.bind("h",saveToHist)
+        root.bind("l",saveToLang)
+        root.bind("i",saveToLit)
+        root.bind("m",saveToMyth)
+    mainframe.focus()
+    root.unbind("<Return>") #Return
+    ansSubmission.config(command=doNothing)
+    ansGiven=ans.get()
+    gvAns.config(text=f"You gave: {ansGiven}")
+    CURQLABEL[0].config(text="\n"+" ".join(QUESTION[0]))
+    ansRevFrame.grid()
+    saveFaultyFrame.grid()
+    favoriteQuestionBtn.grid()
+
+    if CURPOINT[0]=="Tossup":
+        if BONUS1[0]:
+            q.config(text=" ".join(QUESTION[0])+"\nANS: "+ANSWER[0])
+            QUESTION[0]=BONUS1[0]
+            ANSWER[0]=BONUS1ANS[0]
+            CURPOINT[0]="B1"
+    elif CURPOINT[0]=="B1":
+        if BONUS2[0]:
+            qb1.config(text=" ".join(QUESTION[0])+"\nANS: "+ANSWER[0])
+            QUESTION[0]=BONUS2[0]
+            ANSWER[0]=BONUS2ANS[0]
+            CURPOINT[0]="B2"
+        else:
+            qb1.config(text=" ".join(QUESTION[0])+"\nANS: "+ANSWER[0])
+            CURPOINT[0]="Tossup"
+    else:
+        qb2.config(text=" ".join(QUESTION[0])+"\nANS: "+ANSWER[0])
+        CURPOINT[0]="Tossup"
+    #factSaveFrame.grid()
+    qb="Bonus"if not CURPOINT[0]=="Tossup" else "Question"
+    readNext.config(text=f"Read Next {qb}",command=reset)
+    if SORTING[0]:
+        saveQFrame.grid()
+        root.bind("s",showCatsForSaving)
+    root.bind("n",reset)
+    #root.bind("f",selectSaveFact)
+
 def displayRoundFinished():
     for itm in questionReadingItms:itm.grid_remove()
     roundFinishedLabel.grid()
@@ -347,7 +360,12 @@ def readQuestion():
     root.bind("<Return>",displayAns) #Return
     ansFrame.grid()
 
+def playFavorites(*args):
+    RD2PLAY[0]="Favorites.txt"
+    for itm in homeScreenItms:itm.grid_remove()
+    loadSelectedFile()
 def setRoundName(n):
+    playFavoritesBtn.grid_remove()
     if not "Parsed" in RD2PLAY[0]:
         if RD2PLAY[0]=="" and n in LEVELS:
             RD2PLAY[0]+=n
@@ -555,6 +573,10 @@ roundFinishedLabel.grid_remove()
 
 questionReadingItms=[questionFrame,ansRevFrame,ansFrame,factSaveFrame,saveQFrame,b1Frame,b2Frame,saveFaultyFrame,roundFinishedLabel,topFrm]
 
+favoriteQuestionBtn = ttk.Button(mainframe,text="Save Question as Favorite",command=favoriteQuestion)
+favoriteQuestionBtn.grid(row=19,column=0,sticky=SW)
+questionReadingItms.append(favoriteQuestionBtn)
+
 readingSpeedFrm = ttk.Frame(mainframe)
 var=DoubleVar()
 readingSpeedLbl = ttk.Label(readingSpeedFrm,text="Reading Speed")
@@ -563,10 +585,10 @@ readingSpeedSld = ttk.Scale(readingSpeedFrm,from_=-0.8,to_=0.8,command=updateRea
 readingSpeedSld.set(0.0)
 readingSpeedSld.grid(column=1,row=0,sticky=W)
 questionReadingItms.append(readingSpeedFrm)
-readingSpeedFrm.grid(row=19,column=0,sticky=SW)
+readingSpeedFrm.grid(row=20,column=0,sticky=SW)
 
 returnHomeBtn=ttk.Button(mainframe,text="Return Home",command=homeScreen)
-returnHomeBtn.grid(column=0,row=20,sticky=SW)
+returnHomeBtn.grid(column=0,row=21,sticky=SW)
 questionReadingItms.append(returnHomeBtn)
 
 #########################################################################################################################
@@ -595,6 +617,10 @@ for i in range(len(difficulties)):
 difficultyOptions.grid(row=1,column=0,sticky=W)
 difficultyOptions.grid_remove()
 
+playFavoritesBtn =ttk.Button(mainframe,text="Play Favorite Questions",command=playFavorites)
+playFavoritesBtn.grid(row=2,column=0,sticky=SW)
+playFavoritesBtn.grid_remove()
+
 flashCardsFrame=ttk.Frame(mainframe)
 ttk.Label(flashCardsFrame,text="\n\n").grid(row=0,column=0,sticky=W)
 flashCardsLabel=ttk.Label(flashCardsFrame,text="Or do flashcards:",font=("Courier",15))
@@ -606,7 +632,8 @@ reviewFlashCards.grid(row=1,column=2,sticky=W)
 flashCardsFrame.grid(row=10,column=0,sticky=W)
 flashCardsFrame.grid_remove()
 
-ttk.Button(mainframe,text="Search for term within rounds",command=lambda:searchForQWindow(root,ALLQUESTIONS)).grid(row=11,column=0,sticky=W)
+homeScreenItms = [difficultyOptions,playFavoritesBtn]
+ttk.Button(mainframe,text="Search Question Bank",command=lambda:searchForQWindow(root,ALLQUESTIONS)).grid(row=11,column=0,sticky=W)
 
 #Select the School
 roundOptionsAdvanced=ttk.Frame(mainframe)
