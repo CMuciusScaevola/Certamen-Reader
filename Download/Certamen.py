@@ -7,11 +7,12 @@ from tkinter import ttk
 from Flashcards import flashCardWindow,reviewCardWindow
 from Search_Questions import searchForQWindow
 
-ROUNDNAMES=["Harvard","Yale","Princeton","VAFinals","Keartamen","VAKickoff","NJCL","Longhorn"]
-LEVELS=["Novice","Intermediate","Advanced"]
-CATEGORIES=["History","Literature","Language","Mythology"]
+ROUNDNAMES=["Harvard","Yale","Princeton","VAFinals","Keartamen","VAKickoff","NJCL","Longhorn","MassWinter","FlintHill"]
+LEVELS=["Novice","Intermediate","Advanced","AdvancedE","IntermediateE","NoviceE"]
+CATEGORIES=["History","Literature","Language","Mythology", "HistoryAE","LiteratureAE","LanguageAE","MythologyAE"]
 DCTYEARS={}
 
+CURLEVEL = ['']
 SELECTEDLEVELRDOPTION=[0] #Novice, Intermediate, or Advanced
 HASSKIPPED=[False,0]
 LASTSKIPP=[time.time()] #To ensure repeated skips don't come too often
@@ -19,11 +20,9 @@ RD2PLAY=[""]
 ALLQUESTIONS=set()
 
 p=(os.path.abspath("Certamen.py"))
-print(p)
 
 p=p[:-11]
 if not "Download" in p: p+="Download/"
-print(p)
 rnds = os.listdir(p+"Rounds")
 for rnd in rnds:
     if not "Language.txt" in rnd and not "History.txt" in rnd and not "Literature.txt" in rnd and not "Mythology.txt" in rnd:
@@ -54,7 +53,6 @@ READSPEED=[1]
 
 def updateReadSpeed(*args):
     READSPEED[0]=1.0-readingSpeedSld.get()
-    print(READSPEED[0])
 
 def checkKeyBindings():
     while CURSCREEN[0]=="Answered":
@@ -77,8 +75,8 @@ def checkKeyBindings():
 
 
 def saveToHist(*args):
-    a={*open(p+'Rounds/Advanced_History.txt',encoding='utf-8').read().splitlines()} #to ensure duplicate questions don't end up here
-    with open(p+"Rounds/Advanced_History.txt","a",encoding='utf-8') as output:
+    a={*open(p+f"Rounds/{CURLEVEL[0]}_History.txt",encoding='utf-8').read().splitlines()} #to ensure duplicate questions don't end up here
+    with open(p+f"Rounds/{CURLEVEL[0]}_History.txt","a",encoding='utf-8') as output:
         q2write=LASTEXTRACTED[0]
         if not q2write[:-1] in a:
             output.write(q2write)
@@ -90,8 +88,8 @@ def saveToHist(*args):
     root.unbind("m")
     SHOWINGCATS[0]=False
 def saveToLit(*args):
-    a={*open(p+'Rounds/Advanced_Literature.txt',encoding='utf-8').read().splitlines()}
-    with open(p+"Rounds/Advanced_Literature.txt","a",encoding='utf-8') as output:
+    a={*open(p+f'Rounds/{CURLEVEL[0]}_Literature.txt',encoding='utf-8').read().splitlines()}
+    with open(p+f"Rounds/{CURLEVEL[0]}_Literature.txt","a",encoding='utf-8') as output:
         q2write=LASTEXTRACTED[0]
         if not q2write[:-1] in a:
             output.write(q2write)
@@ -103,8 +101,8 @@ def saveToLit(*args):
     root.unbind("m")
     SHOWINGCATS[0]=False
 def saveToLang(*args):
-    a={*open(p+'Rounds/Advanced_Language.txt',encoding='utf-8').read().splitlines()}
-    with open(p+"Rounds/Advanced_Language.txt","a",encoding='utf-8') as output:
+    a={*open(p+f'Rounds/{CURLEVEL[0]}_Language.txt',encoding='utf-8').read().splitlines()}
+    with open(p+f"Rounds/{CURLEVEL[0]}_Language.txt","a",encoding='utf-8') as output:
         q2write=LASTEXTRACTED[0]
         if not q2write[:-1] in a:
             output.write(q2write)
@@ -116,8 +114,8 @@ def saveToLang(*args):
     root.unbind("m")
     SHOWINGCATS[0]=False
 def saveToMyth(*args):
-    a={*open(p+'Rounds/Advanced_Mythology.txt',encoding='utf-8').read().splitlines()}
-    with open(p+"Rounds/Advanced_Mythology.txt","a",encoding='utf-8') as output:
+    a={*open(p+f'Rounds/{CURLEVEL[0]}_Mythology.txt',encoding='utf-8').read().splitlines()}
+    with open(p+f"Rounds/{CURLEVEL[0]}_Mythology.txt","a",encoding='utf-8') as output:
         q2write=LASTEXTRACTED[0]
         if not q2write[:-1] in a:
             output.write(q2write)
@@ -372,13 +370,19 @@ def setRoundName(n):
             RD2PLAY[0]+="_"
             if not n=="Advanced":
                 if n=="Novice": 
+                    CURLEVEL[0]='Novice'
                     roundOptionsNovice.grid()
                     SELECTEDLEVELRDOPTION[0]=roundOptionsNovice
-                else:
+                elif n=="Intermediate":
+                    CURLEVEL[0]='Intermediate'
                     roundOptionsIntermediate.grid()
-                    SELECTEDLEVELRDOPTION[0]=roundOptionsNovice
+                    SELECTEDLEVELRDOPTION[0]=roundOptionsIntermediate
+                else:
+                    CURLEVEL[0]='AdvancedE'
+                    roundOptionsAdvancedE.grid()
+                    SELECTEDLEVELRDOPTION[0]=roundOptionsAdvancedE
             else:
-
+                CURLEVEL[0]='Advanced'
                 roundOptionsAdvanced.grid()
                 SELECTEDLEVELRDOPTION[0]=roundOptionsAdvanced
             difficultyOptions.grid_remove()
@@ -409,6 +413,7 @@ def back2Difficulty():
     roundOptionsAdvanced.grid_remove()
     roundOptionsIntermediate.grid_remove()
     roundOptionsNovice.grid_remove()
+    roundOptionsAdvancedE.grid_remove()
     difficultyOptions.grid()
     RD2PLAY[0]=""
 def back2School():
@@ -464,7 +469,6 @@ def recordFaultyQuestion():
         if not toW[:-1] in a:
             output.write(toW)
     saveFaultyConf.grid()
-
 
 
 #The display
@@ -635,11 +639,11 @@ flashCardsFrame.grid_remove()
 homeScreenItms = [difficultyOptions,playFavoritesBtn]
 ttk.Button(mainframe,text="Search Question Bank",command=lambda:searchForQWindow(root,ALLQUESTIONS)).grid(row=11,column=0,sticky=W)
 
-#Select the School
+#Select the Tournament
 roundOptionsAdvanced=ttk.Frame(mainframe)
 backButton=ttk.Button(roundOptionsAdvanced,text="Back",command=back2Difficulty)
-backButton.grid(column=0,row=2,sticky=W)
-schoolLbl=ttk.Label(roundOptionsAdvanced,text="\nChoose a school:\n")
+backButton.grid(column=0,row=4,sticky=W)
+schoolLbl=ttk.Label(roundOptionsAdvanced,text="\nChoose a tournament:\n")
 schoolLbl.config(font=("Courier",15))
 rounds=[ttk.Button(roundOptionsAdvanced,text="Harvard",command=lambda:setRoundName("Harvard")),
         ttk.Button(roundOptionsAdvanced,text="Yale",command=lambda:setRoundName("Yale")),
@@ -652,7 +656,7 @@ rounds=[ttk.Button(roundOptionsAdvanced,text="Harvard",command=lambda:setRoundNa
 for i in range(len(rounds)):
     rounds[i].grid(column=i,row=1,sticky=W)
 schoolLbl.grid(column=0,columnspan=len(rounds),row=0,sticky=W)
-categoryLbl=ttk.Label(roundOptionsAdvanced,text="\nOr, choose a category:\n")
+categoryLbl=ttk.Label(roundOptionsAdvanced,text="\nOr choose a category:\n")
 categoryLbl.config(font=("Courier",15))
 cats=[ttk.Button(roundOptionsAdvanced,text="History",command=lambda:setRoundName("History")),
       ttk.Button(roundOptionsAdvanced,text="Language",command=lambda:setRoundName("Language")),
@@ -664,12 +668,39 @@ categoryLbl.grid(column=0,row=2,columnspan=len(cats),sticky=W)
 roundOptionsAdvanced.grid(row=1,column=0,sticky=W)
 roundOptionsAdvanced.grid_remove()
 
+roundOptionsAdvancedE=ttk.Frame(mainframe)
+backButtonAE=ttk.Button(roundOptionsAdvancedE,text="Back",command=back2Difficulty)
+backButtonAE.grid(column=0,row=4,sticky=W)
+schoolLblAE=ttk.Label(roundOptionsAdvancedE,text="\nChoose a tournament:\n")
+schoolLblAE.config(font=("Courier",15))
+roundsAE=[
+        ttk.Button(roundOptionsAdvancedE,text="VA Finals",command=lambda:setRoundName("VAFinals")),
+        ttk.Button(roundOptionsAdvancedE,text="VA Kickoff",command=lambda:setRoundName("VAKickoff")),
+        ttk.Button(roundOptionsAdvancedE,text="Mass Winter",command=lambda:setRoundName("MassWinter")),
+        ttk.Button(roundOptionsAdvancedE,text="Flint Hill",command=lambda:setRoundName("FlintHill")),
+        #ttk.Button(roundOptionsAdvancedE,text="TJHSST",command=lambda:setRoundName("TJHSST"))
+]
+for i in range(len(roundsAE)):
+    roundsAE[i].grid(column=i,row=1,sticky=W)
+schoolLblAE.grid(column=0,columnspan=len(roundsAE),row=0,sticky=W)
+categoryLblAE=ttk.Label(roundOptionsAdvancedE,text="\nOr choose a category:\n")
+categoryLblAE.config(font=("Courier",15))
+catsAE=[ttk.Button(roundOptionsAdvancedE,text="History",command=lambda:setRoundName("History")),
+      ttk.Button(roundOptionsAdvancedE,text="Language",command=lambda:setRoundName("Language")),
+      ttk.Button(roundOptionsAdvancedE,text="Mythology",command=lambda:setRoundName("Mythology")),
+      ttk.Button(roundOptionsAdvancedE,text="Literature",command=lambda:setRoundName("Literature"))]
+for i in range(len(catsAE)):
+    catsAE[i].grid(column=i,row=3,sticky=W)
+categoryLblAE.grid(column=0,row=2,columnspan=len(catsAE),sticky=W)
+roundOptionsAdvancedE.grid(row=1,column=0,sticky=W)
+roundOptionsAdvancedE.grid_remove()
+
 
 
 roundOptionsIntermediate=ttk.Frame(mainframe)
 backButton1=ttk.Button(roundOptionsIntermediate,text="Back",command=back2Difficulty)
 backButton1.grid(column=0,row=2,sticky=W)
-schoolLblIntermediate=ttk.Label(roundOptionsIntermediate,text="Unfortunately, no rounds are available at this time")#"\nChoose a school:\n")
+schoolLblIntermediate=ttk.Label(roundOptionsIntermediate,text="Unfortunately, no rounds are available at this time")#"\nChoose a tournament:\n")
 schoolLblIntermediate.config(font=("Courier",15))
 intermediateRounds=[]#ttk.Button(roundOptionsIntermediate,text="Harvard",command=lambda:setRoundName("Harvard"))]
 for i in range(len(intermediateRounds)):
@@ -682,7 +713,7 @@ roundOptionsIntermediate.grid_remove()
 roundOptionsNovice=ttk.Frame(mainframe)
 backButton2=ttk.Button(roundOptionsNovice,text="Back",command=back2Difficulty)
 backButton2.grid(column=0,row=2,sticky=W)
-schoolLblNovice=ttk.Label(roundOptionsNovice,text="Unfortunately, no rounds are available at this time")#"\nChoose a school:\n")
+schoolLblNovice=ttk.Label(roundOptionsNovice,text="Unfortunately, no rounds are available at this time")#"\nChoose a tournament:\n")
 schoolLblNovice.config(font=("Courier",15))
 noviceRounds=[]#ttk.Button(roundOptionsNovice,text="Harvard",command=lambda:setRoundName("Harvard"))]
 for i in range(len(noviceRounds)):
@@ -693,7 +724,7 @@ roundOptionsNovice.grid(row=1,column=0,sticky=W)
 roundOptionsNovice.grid_remove()
 
 
-#Select the year
+#Select the year for Advanced Hard
 selectYear=ttk.Frame(mainframe)
 backButton3=ttk.Button(selectYear,text="Back",command=back2School)
 backButton3.grid(row=2,column=0,sticky=W)
@@ -733,9 +764,9 @@ vaFinalsYearsAdvanced=[ttk.Button(selectYear,text="2023",command=lambda:setRound
                        ttk.Button(selectYear,text="2019",command=lambda:setRoundName("2019")),
                        ttk.Button(selectYear,text="2018",command=lambda:setRoundName("2018")),
                        ttk.Button(selectYear,text="2017",command=lambda:setRoundName("2017")),
-                       ttk.Button(selectYear,text="2017_Lvl3",command=lambda:setRoundName("2017_Lvl3"))]
+                       ]
                        #ttk.Button(selectYear,text="2016",command=lambda:setRoundName("2016"))]
-vaKickoffYearsAdvanced=[ttk.Button(selectYear,text="2023",command=lambda:setRoundName("2023"))]
+
 keartamenYearsAdvanced=[ttk.Button(selectYear,text="2024",command=lambda:setRoundName("2024")),
                         ttk.Button(selectYear,text="2023",command=lambda:setRoundName("2023")),
                         ttk.Button(selectYear,text="2022",command=lambda:setRoundName("2022")),
@@ -756,7 +787,6 @@ DCTYEARS["Advanced_Yale_"]=yaleYearsAdvanced
 DCTYEARS["Advanced_Princeton_"]=princetonYearsAdvanced
 DCTYEARS["Advanced_Harvard_"]=harvardYearsAdvanced
 DCTYEARS["Advanced_VAFinals_"]=vaFinalsYearsAdvanced
-DCTYEARS['Advanced_VAKickoff_']=vaKickoffYearsAdvanced
 DCTYEARS["Advanced_Keartamen_"]=keartamenYearsAdvanced
 DCTYEARS["Advanced_NJCL_"]=NJCLYearsAdvanced
 DCTYEARS["Advanced_Longhorn_"]=longhornYearsAdvanced
@@ -773,9 +803,7 @@ for i in range(len(princetonYearsAdvanced)):
 for i in range(len(vaFinalsYearsAdvanced)):
     vaFinalsYearsAdvanced[i].grid(column=i,row=1,sticky=W)
     vaFinalsYearsAdvanced[i].grid_remove()
-for i in range(len(vaKickoffYearsAdvanced)):
-    vaKickoffYearsAdvanced[i].grid(column=i,row=1,sticky=W)
-    vaKickoffYearsAdvanced[i].grid_remove()
+
 for i in range(len(keartamenYearsAdvanced)):
     keartamenYearsAdvanced[i].grid(column=i,row=1,sticky=W)
     keartamenYearsAdvanced[i].grid_remove()
@@ -788,6 +816,56 @@ for i in range(len(longhornYearsAdvanced)):
 yrLbl=ttk.Label(selectYear,text="\nChoose a year:\n")
 yrLbl.grid(row=0,column=0,columnspan=len(harvardYearsAdvanced),sticky=W)
 yrLbl.config(font=("Courier",15))
+
+
+selectYear=ttk.Frame(mainframe)
+backButton5=ttk.Button(selectYear,text="Back",command=back2School)
+backButton5.grid(row=2,column=0,sticky=W)
+
+vaFinalsYearsAdvancedE=[
+        ttk.Button(selectYear,text="2017",command=lambda:setRoundName("2017_Lvl3"))
+]
+vaKickoffYearsAdvanced=[ttk.Button(selectYear,text="2024",command=lambda:setRoundName("2024")),
+                        ttk.Button(selectYear,text="2023",command=lambda:setRoundName("2023")),
+                        ttk.Button(selectYear,text="2022",command=lambda:setRoundName("2022")),
+                        ttk.Button(selectYear,text="2021",command=lambda:setRoundName("2021")),
+                        ttk.Button(selectYear,text="2020",command=lambda:setRoundName("2020")),
+                        ttk.Button(selectYear,text="2019",command=lambda:setRoundName("2019")),
+                        ttk.Button(selectYear,text="2018",command=lambda:setRoundName("2018")),
+                        ttk.Button(selectYear,text="2017",command=lambda:setRoundName("2017")),
+                        ttk.Button(selectYear,text="2015",command=lambda:setRoundName("2015")),
+                        ttk.Button(selectYear,text="2014",command=lambda:setRoundName("2014")),
+                        ttk.Button(selectYear,text="2013",command=lambda:setRoundName("2013")),
+                        ttk.Button(selectYear,text="2012",command=lambda:setRoundName("2012")),
+                        ttk.Button(selectYear,text="2011",command=lambda:setRoundName("2011"))]
+massWinterYearsAdvanced = [ttk.Button(selectYear,text="2024",command=lambda:setRoundName("2024")),
+                        ttk.Button(selectYear,text="2023",command=lambda:setRoundName("2023")),
+                        ttk.Button(selectYear,text="2022",command=lambda:setRoundName("2022"))]
+fhYearsAdvanced = [ttk.Button(selectYear,text="2015",command=lambda:setRoundName("2015")),
+                        ttk.Button(selectYear,text="2014",command=lambda:setRoundName("2014")),
+                        ttk.Button(selectYear,text="2013",command=lambda:setRoundName("2013")),
+                        ttk.Button(selectYear,text="2012",command=lambda:setRoundName("2012")),
+                        ttk.Button(selectYear,text="2011",command=lambda:setRoundName("2011"))]
+DCTYEARS['AdvancedE_VAKickoff_']=vaKickoffYearsAdvanced
+DCTYEARS["AdvancedE_VAFinals_"]=vaFinalsYearsAdvancedE
+DCTYEARS['AdvancedE_FlintHill_'] = fhYearsAdvanced
+DCTYEARS['AdvancedE_MassWinter_'] = massWinterYearsAdvanced
+for i in range(len(vaKickoffYearsAdvanced)):
+    vaKickoffYearsAdvanced[i].grid(column=i,row=1,sticky=W)
+    vaKickoffYearsAdvanced[i].grid_remove()
+for i in range(len(vaFinalsYearsAdvancedE)):
+    vaFinalsYearsAdvancedE[i].grid(column=i,row=1,sticky=W)
+    vaFinalsYearsAdvancedE[i].grid_remove()
+for i in range(len(massWinterYearsAdvanced)):
+    massWinterYearsAdvanced[i].grid(column=i,row=1,sticky=W)
+    massWinterYearsAdvanced[i].grid_remove()
+for i in range(len(fhYearsAdvanced)):
+    fhYearsAdvanced[i].grid(column=i,row=1,sticky=W)
+    fhYearsAdvanced[i].grid_remove()
+
+yrLblAE=ttk.Label(selectYear,text="\nChoose a year:\n")
+yrLblAE.grid(row=0,column=0,columnspan=len(harvardYearsAdvanced),sticky=W)
+yrLblAE.config(font=("Courier",15))
 
 #Confirm selection
 confirmFrm=ttk.Frame(mainframe)

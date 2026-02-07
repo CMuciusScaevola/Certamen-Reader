@@ -8,16 +8,28 @@ st=open("Raw Rounds/"+args[0]+".txt",encoding='utf-8').read()
 while "——" in st:st=st.replace("——","—").replace("*","")
 while "  " in st:st=st.replace("  "," ")
 for num in range(1,21):st=st.replace(str(num)+".","")
-st=st.replace("a. BONUS","BONUS").replace("b. BONUS","BONUS").replace("WRITE-DOWN","").replace("WRITE DOWN","").replace("WRITEDOWN","")
-st=st.replace("ANS:\n","ANS: ").replace("\n*PAUSE FOR SCORE UPDATE*","")
+st=st.replace("a. BONUS","BONUS").replace("b. BONUS","BONUS").replace("WRITE-DOWN","TOSSUP").replace("WRITE DOWN","TOSSUP").replace("WRITEDOWN","TOSSUP").replace("WRITE-DOWN","TOSSUP")
+st=st.replace("ANS:\n","ANS: ").replace("\n*PAUSE FOR SCORE UPDATE*","").replace("**SCORE CHECK AFTER 10 QUESTIONS**","").replace("**SCORE CHECK AFTER 15 QUESTIONS**","").replace("**SCORE CHECK AFTER 19 QUESTIONS**","")
+st=st.replace("BONUS I & II","BONUS").replace("Bonus 1","BONUS").replace("BONUS 2","BONUS")
 
-#Get rid of page numbers:
+for num in range(1,21):
+    st=st.replace(str(num)+".",str(num)+". ").replace(" #"+str(num)," "+str(num)).replace("#"+str(num)," "+str(num))
 ind = 0
 while ind<len(st):
     match = re.search(r"(?<=\n)\d+\n\n",st[ind:],flags=re.S|re.UNICODE)
     
     if match:
 
+        st=st[:match.span()[0]+ind]+""+st[match.span()[1]+ind:]
+        ind=match.span()[1]+ind
+        match=""
+    else:ind=len(st) #ends the loop if no more spots are found
+
+#get rid of some more fluff
+ind=0
+while ind<len(st):
+    match=re.search(r".*?Virginia Junior Classical League.*\n",st[ind:],flags=re.UNICODE)
+    if match:
         st=st[:match.span()[0]+ind]+""+st[match.span()[1]+ind:]
         ind=match.span()[1]+ind
         match=""
@@ -34,11 +46,14 @@ while ind<len(st):
         match=""
     else:ind=len(st) #ends the loop if no more spots are found
 
+
+
 st="\n"+st+"\n"
 while "\n\n" in st:
     st=st.replace("\n\n","\n")
-matches=re.findall(r"(?<=TOSSUP:).*?BONUS.*?ANS.*?(?=\n.*?TOSSUP)",st,re.S)
-finalsmatches = re.findall(r"(?<=TOSSUP:).*?ANS.*?BONUS.*?ANS.*?BONUS.*?ANS.*?(?=\n.*?TOSSUP)",st,re.S)
+
+matches=re.findall(r"(?<=TOSSUP:).*?BONUS.*?ANS.*?(?=\n.*?TOSSUP|$)",st,re.S)
+#finalsmatches = re.findall(r"(?<=TOSSUP:).*?ANS.*?BONUS.*?ANS.*?BONUS.*?ANS.*?(?=\n.*?TOSSUP)",st,re.S)
 tossups=[]
 tossupAnswers=[]
 bonus1s=[]
@@ -46,10 +61,11 @@ bonus1answers=[]
 bonus2s=[]
 bonus2answers=[]
 replacementct=0
+
 with open("Download/Rounds/" +args[0]+"_Parsed.txt",'w',encoding='utf-8') as output:
     for index,match in enumerate(matches):
-        if index-len(matches)>-21 and match in finalsmatches[index-len(matches)]:
-            match=finalsmatches[index-len(matches)]
+       # if index-len(matches)>(-1-len(finalsmatches)) and match in finalsmatches[index-len(matches)]:
+        #    match=finalsmatches[index-len(matches)]
         match=match.replace("1.","").replace("2.","").replace("\n"," ")
         match=match.split("BONUS:")
         print(match)
