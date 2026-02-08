@@ -29,6 +29,33 @@ def searchForQWindow(root,allQs):
     searchBool1 = ttk.OptionMenu(searchBarFrm,sb1,BOOLS[0],*BOOLS)
     searchTerm1 = StringVar()
     TTKITMS["searchTerm1"]=searchTerm1
+
+    yearLvlFrm = ttk.Frame(sfQMainframe)
+    lvlLbl=ttk.Label(yearLvlFrm,text="Level:")
+    #lvls = Listbox(yearLvlFrm,selectmode="multiple",height=3)
+    #lvls.insert(0,"Novice")
+    #lvls.insert(1,"Intermediate")
+    #lvls.insert(2,"Advanced")
+    #for i in range(3):lvls.selection_set(i)
+    advCheckVar=IntVar()
+    advCheckVar.set(1)
+    intCheckVar=IntVar()
+    intCheckVar.set(1)
+    noviceCheckVar=IntVar()
+    noviceCheckVar.set(1)
+    TTKITMS['advCheckVar']=advCheckVar
+    TTKITMS['intCheckVar']=intCheckVar
+    TTKITMS['noviceCheckVar']=noviceCheckVar
+    advancedCheck=ttk.Checkbutton(yearLvlFrm,text="Advanced",variable=advCheckVar)
+    advancedCheck.grid(row=0,column=1)
+    intermediateCheck=ttk.Checkbutton(yearLvlFrm,text="Intermediate",variable=intCheckVar)
+    intermediateCheck.grid(row=0,column=2)
+    noviceCheck=ttk.Checkbutton(yearLvlFrm,text="Novice",variable=noviceCheckVar)
+    noviceCheck.grid(row=0,column=3)
+    lvlLbl.grid(row=0,column=0,sticky=W)
+    #lvls.grid(row=0,column=1,sticky=W)
+    yearLvlFrm.grid(row=1,column=0,sticky=W)
+
     searchEntry1 = ttk.Entry(searchBarFrm,width=30,textvariable=searchTerm1)
     searchBtn = ttk.Button(searchBarFrm,text="Search",command=searchForTerm)
     searchEntry.grid(row=0,column=0,sticky=W)
@@ -41,12 +68,12 @@ def searchForQWindow(root,allQs):
     showResultsfrm = ttk.Frame(sfQMainframe)
     showResultslbl = ttk.Label(showResultsfrm,font = ("Calibri", 17),text="",wraplength=800)
     showResultslbl.grid(row = 0,column = 0,sticky = W)
-    showResultsfrm.grid(row=1,column=0,sticky=W)
+    showResultsfrm.grid(row=2,column=0,sticky=W)
     moveResultsRight = ttk.Button(showResultsfrm,text=">",command=updateSearchResultsRight)
     moveResultsLeft=ttk.Button(showResultsfrm,text="<",command=updateSearchResultsLeft)
 
     displayResultslbl = ttk.Label(sfQMainframe,font = ("Calibri",17),text = "",wraplength = 800)
-    displayResultslbl.grid(row=2,column = 0,sticky= W)
+    displayResultslbl.grid(row=3,column = 0,sticky= W)
 
     TTKITMS['displayResultslbl']=displayResultslbl
     TTKITMS['moveResultsRight']=moveResultsRight
@@ -61,16 +88,23 @@ def searchForTerm(*args):
     term = TTKITMS['searchTerm'].get()
     term1=TTKITMS['searchTerm1'].get()
     if term:
+        lvlOptions = []
+        if TTKITMS["advCheckVar"].get():lvlOptions.append("from Advanced")
+        if TTKITMS['intCheckVar'].get():lvlOptions.append("from Intermediate")
+        if TTKITMS['noviceCheckVar'].get():lvlOptions.append("from Novice")
+        #print(lvlOptions)
         for q in allQs:
-            if term.lower() in q.lower(): 
-                if term1 and TTKITMS['sb1'].get()=="And":
-                    if term1.lower() in q.lower():
-                        SEARCHRESULTS.append(q)
-                else:
-                    SEARCHRESULTS.append(q)
-            elif term1 and TTKITMS['sb1'].get()=="Or":
-                if term1.lower() in q.lower():
-                    SEARCHRESULTS.append(q)
+            for itm in lvlOptions:
+                if itm in q:
+                    if term.lower() in q.lower(): 
+                        if term1 and TTKITMS['sb1'].get()=="And":
+                            if term1.lower() in q.lower():
+                                SEARCHRESULTS.append(q)
+                        else:
+                            SEARCHRESULTS.append(q)
+                    elif term1 and TTKITMS['sb1'].get()=="Or":
+                        if term1.lower() in q.lower():
+                            SEARCHRESULTS.append(q)
         lbl = TTKITMS['showResultslbl']
         displayResultslbl=TTKITMS['displayResultslbl']
         moveResultsRight=TTKITMS['moveResultsRight']
@@ -91,7 +125,7 @@ def searchForTerm(*args):
 
         lbl.config(text = f"Showing results {CURRESULTIDX[0]}-{TOPRANGE[0]} of {len(SEARCHRESULTS)}")
         displayResultslbl.grid()
-        print(TOPRANGE[0])
+        #print(TOPRANGE[0])
 
 
 def updateSearchResultsRight():
