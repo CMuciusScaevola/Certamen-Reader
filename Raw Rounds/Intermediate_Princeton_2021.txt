@@ -1,0 +1,819 @@
+INTERMEDIATE
+PRINCETON CERTAMEN 20211. 1. Aurēlia, cui urbs placēbat, erat in Aegyptō cum familiā suā ingentī et equō suō. Tredecim lūdōs magnōs Iovis in amphitheātrō Alexandrīae spectābat. Tandem, hic equus īrātus domum recurrere coepit. Ēheu!1. Practice Question (0 pts): How many tenses are there in Latin? 
+SIX
+	B1: How many moods are there in Latin? 
+TWO / THREE
+	B2: What two tenses are NOT found in the subjunctive mood?
+FUTURE & FUTURE PERFECT
+1. What use of the genitive can be found in the following English sentence: Seven of the men defected from the army?
+PARTITIVE
+	B1: What two Latin nouns, most often found in the feminine ablative, share the same 
+meaning and follow the genitive?
+CAUSĀ AND GRĀTIĀ
+	B2: Give the Latin and English translation for the common two-letter abbreviation 
+containing one of the prepositions found in the first bonus. 
+EXEMPLĪ GRĀTIĀ, FOR EXAMPLE
+1. What father-in-law of Tydeus and Polyneices led the expedition of the Seven Against Thebes?
+ADRASTUS
+	B1: Adrastus was the only member of the Seven Against Thebes to survive since he rode 
+upon what divine horse?
+ARION
+	B2: As the only survivor of the Seven Against Thebes, Adrastus got to accompany what 
+successor expedition that actually conquered Thebes?
+EPIGONI
+1. The Penrose stairs, also known as the impossible staircase, is a famous optical illusion that will certainly befuddle you. From what Latin verb with what meaning do we derive the English word “illusion”?
+LŪDŌ, TO PLAY
+	B1: From what Latin verb with what meaning do we derive the English word latrine?
+LAVŌ, TO WASH
+	B2: From what Latin noun with what meaning do we derive the English word  
+chameleon? 
+LEŌ, LION
+1. According to Livy, which king of Rome entrusted the ancīlia, or sacred shields of Mars, to a new priesthood called the Saliī — one of the many religious reforms that defined his peaceful reign?
+NUMA POMPILIUS1. B1:To what god did Numa build a temple whose doors would only be closed during 
+peacetime?
+JANUS
+B2: What priesthood established by Ancus Marcius was responsible for declaring war?
+FĒTIĀLĒS
+1. For the verb ferō, give the 2nd person plural, present active imperative. 
+FERTE
+	B1: How would you negate that command?
+NŌLĪTE FERRE // NĒ TULERĪTIS // CAVĒ(TE) FERĀTIS
+	B2: Using “ferō”, say in Latin: Julius, don’t bring money!
+IŪLĪ, {NŌLĪ FERRE // NĒ TULERĪS // CAVĒ FERĀS} PECŪNIAM!
+1. Which of the following nouns is not second-declension: puer, Lūcifer, venter, ager?
+VENTER
+	B1: Which of the following nouns is not masculine: nauta, corpus, flōs, arcus?
+CORPUS
+	B2: Which of the following nouns is not feminine: arbor, palus, poēta, socrus?
+POĒTA
+1. What occupation in mythology was shared by Melampus, Calchas, and Cassandra?
+SEER / SOOTHSAYER
+	B1: So that they could set out from Aulis to Troy, Calchas famously told Agamemnon 
+that he needed to sacrifice what daughter of his?
+IPHIGEN(E)IA
+	B2: Cassandra shared the unique fate of being twins with what other seer who the Greeks 
+needed to capture during the Trojan War? 
+HELENUS
+1. According to Suetonius, what native of Lugdunum and uncle of the previous emperor saw that Cassius Chaerea had killed his predecessor and hid behind a curtain?
+CLAUDIUS
+B1:	What wife of Claudius attempted to remarry Gaius Silius and usurp power until her plan was revealed by one of Claudius’s freedmen?
+(VALERIA) MESSALINA
+B2:	Who was this freedman, who served as Claudius’s praepositus ab epistulīs?
+(TI. CLAUDIUS) NARCISSUS
+1. What blessing, commonly used in the Catholic Mass, means “The Lord be with you”?
+DOMINUS VŌBĪSCUM
+	B1: Give the English response to dominus vōbīscum, which is et cum spīritū tuō in Latin.
+AND WITH YOUR {SPIRIT / BREATH}
+	B2: A similar blessing to dominus vōbīscum is the blessing “peace be with you.” Give this blessing in Latin.
+PAX VŌBĪSCUM
+1. What city, whose early kings included Silvius, Proca, and his twin sons Numitor and Amulius, was destroyed by Tullus Hostilius after a contest between two pairs of triplets, the Horatii and Curiatii?
+ALBA LONGA
+B1:	What dictator of Alba Longa encouraged this contest, but was later “drawn and halved” when he betrayed the Romans during a battle?
+METT(I)US FUFETIUS
+B2:	Why did Publius Horatius, the one surviving triplet, murder his sister shortly after his victory?
+SHE MOURNED / WEPT FOR ONE OF THE CURIATII (TO WHOM SHE HAD BEEN BETROTHED)
+1. What jealous Oceanid, after she informed king Orchamus of Helios’ affair with his daughter Leucothoë, could not earn Helios’ forgiveness and thus spent the rest of her days watching the sun until she turned into a sunflower?
+CLYTIЁ
+	B1: When Helios approached Leucothoë and raped her, he took the form of what mother 
+of hers?
+EURYNOME
+	B2: Leucothoë’s punishment for this affair was being buried alive by Orchamus. Helios 
+visited her grave and subsequently shed drops of nectar on it that eventually grew into what plant?
+FRANKINCENSE (TREE)
+1. Let’s suppose that Vergil is writing a novel about his favorite horse, but he’s forgotten his Latin. Help him by translating the opening line of his novel. Remember that his horse is male. The opening is: “O horse, how beautiful you are!”
+(Ō) EQUE, QUAM {PULCHER / FORMŌSUS} ES!
+
+	B1: Let’s tackle the next sentence. “My horse often carries me at dawn.”
+MEUS EQUUS SAEPE MĒ {PORTAT / FERT / VEHIT} {PRĪMĀ LŪCE // MĀNE}
+
+	B2: Let’s tackle the last sentence. “I am sad because the horse has died.”
+TRISTIS SUM QUOD EQUUS {MORTUUS EST // PERIIT // PERĪVIT}
+1. Give this two-word Latin term for the path by which an ambitious Roman politician would seek out political posts. 
+CURSUS HONŌRUM
+	B1: In the cursus honōrum, with enough experience, a praetor could become a prōpraetor, a consul could become a prōconsul, and so on and so forth. What does the prefix prō- mean?
+ON BEHALF OF // IN THE PLACE OF
+	B2: Among the highest offices in the cursus honōrum are that of the censor and the dictātor. What does the suffix -tor mean?
+THE AGENT OR DOER OF AN ACTION (ACCEPT SIMILAR)
+1. What location, the site of a wedding gift from Gaea to Hera, featured famous fruits which were the objective of Heracles’ 11th labor?
+GARDEN OF THE HESPERIDES
+	B1: What serpent and offspring of Phorcys and Ceto was said to have guarded the apples 
+until Heracles killed him?
+LADON
+	B2: According to Euripides, Heracles enlisted the help of what Titan to grab the apples 
+while he took over his punishment?
+ATLAS
+1. Differentiate in meaning between vincō and vinciō.
+{TO CONQUER / OVERCOME / WIN} AND {TO BIND / RESTRAIN}
+	B1: What are the perfect passive participles for those two verbs?
+VĪCTUS & VĪNCTUS [RESPECTIVELY]
+B2: Say in Latin: Having been bound, we were conquered.
+VĪNCTĪ, (NŌS) {VINCĒBĀMUR // VĪCTĪ SUMUS}
+1. What city saw a man named Hippolytus exiled because his step-mother, Phaedra, fell in love with him and the witch Medea try to poison a son of Aegeus to prevent him from taking the throne?
+ATHENS
+	B1: Athens got its name when what Athenian king arbitrated a patronage contest between 
+Poseidon and Athena?
+CECROPS (I)
+	B2: Cecrops and many other early kings of Athens were special because they were 
+supposedly half-human and half what animal?
+SNAKE(S)
+1. What modern-day country had cities including Devae, Aquae Sulis, Eburacum, Camulodunum, and Londinium?
+BRITAIN // UNITED KINGDOM
+B1&2:	For five points each, give the modern-day name of any two of those cities, excluding Londinium. 
+ANY TWO OF: DEVA = CHESTER; AQUAE SULIS = BATH; EBURACUM = YORK; CAMULODUNUM = COLCHESTER
+
+
+ What is the meaning of the phrase mihi vidētur?
+HE/SHE/IT {SEEMS / APPEARS / LOOKS} TO ME [ACCEPT SIMILAR]
+		B1: Translate the following phrase idiomatically: in animō habeō?
+I INTEND // I HAVE IN MIND
+		B2: Translate the following phrase idiomatically: plūrimum poterat?
+HE/SHE/IT {WAS // USED TO BE} VERY POWERFUL
+1. Give the emperors who immediately preceded and succeeded Hadrian.
+TRAJAN & ANTONINUS PIUS (RESPECTIVELY)
+B1:	Give the emperors who immediately preceded and succeeded the man who liked to imitate Heracles in the amphitheater.
+MARCUS AURELIUS & PERTINAX [THE EMPEROR DESCRIBED IS COMMODUS]
+B2:	Give the emperors who immediately preceded and succeeded the man whose reign saw the fall of Masada.
+VITELLIUS & TITUS [THE EMPEROR DESCRIBED IS VESPASIAN]
+1. According to Caesar, Gallia est omnis divīsa in partēs trēs. How would the phrase est omnis divīsa change if instead Caesar were talking about Athens, or Athēnae?
+SUNT OMNĒS DIVĪSAE
+	B1: How would the phrase est omnis divīsa change, if instead Caesar were talking about Tusculum?
+EST OMNE DIVĪSUM
+	B2: How would the phrase in partēs trēs change if Gaul were divided into not three, but two parts?
+IN PARTĒS DUĀS 
+1. Replacement Language: Give the Latin motto for the state of Alabama. 
+AUDĒMUS IŪRA NOSTRA DĒFENDERE
+	B1: South Carolina’s motto is dum spīrō, spērō. However, the state has what other Latin 
+motto? 
+ANIMĪS OPIBUSQUE PARĀTĪ
+	B2: What is Missouri’s Latin motto?
+SALŪS POPULĪ SUPRĒMA LĒX ESTŌ
+1. Replacement Myth: According to Book II of Homer’s Iliad, which chieftain led 12 ships from Salamis in the Greek expedition to Troy?
+AJAX TELAMON / SALAMIS // AJAX THE GREATER
+	B1: Which chieftain led 90 ships from Pylos in the expedition?
+NESTOR
+	B2: Which chieftain led 100 ships from Mycenae?
+AGAMEMNON
+1. Replacement History: What emperor lamented that he had wasted a day when he realized he had not helped anyone yet- a good example of the generosity of this emperor who did much to help those affected by the eruption of Mt. Vesuvius?
+TITUS
+	B1: What Jewish queen engaged in an on-again, off-again relationship with Titus?
+BERENICE
+	B2: What imperial position had Titus held during the reign of his father Vespasian?
+PRAETORIAN PREFECT/ PRAEFECTUS PRAETORIO
+
+
+
+1. Aurēlia, cui urbs placēbat, erat in Aegyptō cum familiā suā ingentī et equō suō. Tredecim lūdōs magnōs Iovis in amphitheātrō Alexandrīae spectābat. Tandem, hic equus īrātus domum recurrere coepit. Ēheu!1. Practice Question (0 pts): What son of Zeus and Leto was the god of prophecy? 
+APOLLO
+	B1: Who was Apollo’s sister, the goddess of the hunt?
+ARTEMIS
+	B2: On what island was Artemis born?
+DELOS / ORTYGIA1. For the verb currō, give the 3rd person plural, perfect active indicative. 
+CUCURRĒRUNT
+	B1: Make cucurrērunt subjunctive. 
+CUCURRERINT
+	B2: What other form of currō is identical to cucurrerint?
+3RD PERSON PLURAL FUTURE PERFECT ACTIVE (INDICATIVE)
+1. What general type of event in ancient Rome could involve either a libripēns holding a scale to receive a single coin, or a woman saying “Quandō tū Gāius, ego Gāia,” depending on whether it was a coēmptiō or a cōnfarreātiō?
+WEDDING / MARRIAGE (CEREMONY)
+B1:	What general type of event in ancient Rome, during which the imāginēs were removed from the ālae, might involve a cōnclāmātiō and the assistance of a libitīnārius?
+FUNERAL
+B2:	What were the imāginēs? A description is fine.
+WAX MASKS OF ANCESTORS (WHO HAD HELD CURULE OFFICES)
+1. What is the Latin name for silver, which is denoted on the periodic table by the symbol Ag?
+ARGENTUM
+	B1: What is the Latin name for lead, which is denoted on the periodic table by the symbol Pb?
+PLUMBUM
+	B2: What is the Latin name for tin, which is denoted on the periodic table by the symbol Sn?
+STANNUM
+1. This Latin term is applied to handbooks or other reference works that contain essential information, since the contents are so important they must always “go with me,” as the Latin term implies.
+VĀDE MĒCUM
+	B1: An 1896 novel and a 1951 movie draw their titles from a similarly-worded phrase in an apocryphal story where Peter encounters Jesus before being crucified in Rome.
+QUŌ VĀDIS?
+	B2: What does the Benedictine exorcism formula vāde rētrō Satanā mean in English?
+GO BACK, SATAN
+1. In book 11 of Homer’s Odyssey, who informs Odysseus about how in a drunken stupor he fell asleep on the roof of Circe’s palace before waking up and falling to his death the following morning?
+ELPENOR
+	B1: Whose shade does Odysseus try to embrace thrice when he learns that she had died 
+on Ithaca thinking he was dead?
+ANTICLEIA
+	B2: Whose shade tells Odysseus that he would rather be an enslaved laborer in the realm 
+of the living than a king in the realm of the dead?
+ACHILLES
+1. At what battle, fought at the entrance to the Ambracian Gulf, did the superior naval tactics of Agrippa overawe a foreign queen and her Roman husband, cementing Octavian’s status as ruler of Rome in 31 BC?
+(BATTLE OF) ACTIUM
+B1:	After the battle, Antony and Cleopatra fled to what city, where Pompey had fled and met his death a few decades earlier?
+ALEXANDRIA
+B2:	In the years leading up to Actium, Antony had been focused on campaigning against what rival empire, which had been responsible for Crassus’s death at Carrhae?
+PARTHIANS // PARTHIAN EMPIRE
+1. Which case is employed in words such as vesperī, rūrī, and humī?
+LOCATIVE
+	B1: Differentiate the form of Rōma by its case and use in the following two phrases: 
+“iter fēcit Brundisium Rōmā” and “vītam ēgit Rōmae”.
+ABLATIVE OF PLACE FROM WHICH and LOCATIVE (RESPECTIVELY)
+	B2: Translate those two phrases: “iter fēcit Brundisium Rōmā” and “vītam ēgit 
+Rōmae”.
+HE/SHE JOURNEYED FROM ROME TO BRUNDISIUM and HE/SHE LIVED IN/AT ROME [RESPECTIVELY]
+1. Sometimes said to be the origin of a word referring to severe tropical hurricanes in the western Pacific Ocean, what monster, the progenitor of harmful winds and father to many other monsters, had fire blaze from his eyes as he fought Zeus for supremacy in the universe?
+TYPH(A)ON / TYPHOEUS
+	B1: What daughter of Phorcys and Ceto bore to Typhon various monsters that Heracles 
+encountered on his labors?
+ECHIDNA
+	B2: What monster, who has the epithet “Panoptes” meaning “all-seeing”, was said to 
+have killed the monster Echidna?
+ARGUS (PANOPTES)
+1. Whose victory at the Frigidus River in 394 AD allowed him to unite the empire for the last time before he died and left it to his two sons?
+THEODOSIUS (I // THE GREAT)
+B1:	Name either of these two sons.
+HONORIUS or ARCADIUS
+B2:	What previous emperor had united the empire after defeating his rival at the Margus River?
+DIOCLETIAN
+1. From what Latin verb with what meaning do we derive the English word escort?
+REGŌ, TO RULE
+B1: From what Latin verb with what meaning do we derive the English word hostage?
+SEDEŌ, TO SIT
+	B2: From what Latin verb with what meaning do we derive the English word essay?
+AGŌ, TO DRIVE / DO
+1. Imagine you call your dog back to you, but instead he runs away. Directly addressing your dog, say in Latin: O, naughty dog! 
+Ō CANIS IMPROBE!
+	B1: How would you change the sentence if instead you were not directly addressing the dog, but shouting to nobody in particular?
+Ō CANEM IMPROBUM!
+	B2: If your dog tried to sing and you wanted to tell him “O, dog, you do not sing well,” how would you do so?
+Ō CANIS, NŌN BENE {CANIS / CANTĀS}!
+1. Who killed his uncles Toxeus and Plexippus after they tried to take the Calydonian boar hide from Atalanta?
+MELEAGER
+	B1: In response to the murder of her brothers, what mother of Meleager threw the log that 
+was tied to his life into a fire?
+ALTHAEA
+	B2: In another version of a dispute over the Calydonian boar hide, what peoples are said 
+to have besieged Calydon? They share their name with the attendants of Rhea who clashed their spears on their shields to drown out baby Zeus’ cries.
+CURETES
+1. Imagine you’re in a Roman court attending a trial, and the prosecutor is none other than Cicero. What form of the verb loquor would Cicero have used to command a witness to speak?
+LOQUERE!
+	B1: Without using the verb dēbeō, how would Cicero have told his witness that he ought to speak?
+TIBI LOQUENDUM EST // {LOQUĀRIS // TĒ LOQUĪ} OPORTET
+	B2: The witness responds, but Cicero does not hear the response. Why can’t Cicero say “what was said?” by asking “quid locūtum est?”
+LOCŪTUM EST IS ACTIVE [ACCEPT SIMILAR]
+1. Originally known as magister populī, what position was held in 356 BC by the plebeian Marcius Rutilus, in 496 BC by Aulus Postumius, and perhaps most famously by the man who saved the forces of Minucius Esquillinus at Mt. Algidus?
+DICTATOR(SHIP)
+B1:	During what major battle did the dictator Aulus Postumius command Roman forces in 496 BC?
+LAKE REGILLUS
+B2:	What term, parallel to magister populī, referred to the dictator’s second-in-command?
+MAGISTER EQUITUM
+1. According to Vergil’s Georgics, who lost his wife when she ran away from the advancing Aristaeus and subsequently went to the underworld to try getting her back?
+ORPHEUS
+	B1: Who was that wife of Orpheus whom he failed to retrieve from the underworld?
+EURYDICE
+	B2: Just like what king of Thebes, was Orpheus said to have died when he was torn apart 
+by the followers of Dionysus?
+PENTHEUS
+1. How would the phrase ingeniō malō prāvōque change if instead of using the noun ingenium you used the noun nātūra? 
+NĀTŪRĀ MALĀ PRĀVĀQUE
+	B1: How would the phrase ingeniō malō prāvōque change if instead of using the adjectives malus and prāvus Sallust had only used the adjective nēquam?
+INGENIŌ NĒQUAM
+B2: How would the phrase nōbilī genere nātus change if instead of using the adjective nōbilis you used the adjective summus?
+SUMMŌ GENERE NĀTUS
+1. In the following sentence, what is the meaning of the word quod? “Bonus ōrātor sum quod Cicerōnis discipulus fuī.”
+BECAUSE
+	B1: In the following sentence, what is the meaning of the word quod? “Quod Cicero mē docuit, bene didicī.”
+THAT WHICH // BECAUSE
+	B2: In the following sentence, what is the meaning of the word quid? “Quid artem rhētoricam discere vīs?”
+WHY?
+1. At what battle did a foreign chieftain draw a Roman commander into an ambush near the Weser River and annihilate three legions, prompting the distraught emperor Augustus to exclaim “Varus, give me back my legions!”
+(BATTLE OF) TEUTOBURG(IAN) FOREST / SALTUS TEUTOBURGIĒNSIS
+B1:	Who was this foreign chieftain?
+ARMINIUS
+B2:	What adoptive son of Tiberius avenged this defeat with campaigns in Germany including a victory at Idistaviso?
+GERMANICUS (JULIUS CAESAR)
+1. Which of the following if any does NOT belong because of derivation: “mansion,” “manor,” “remnant,” “menial?”
+THEY ARE ALL FROM THE SAME ROOT
+	B1: What is the Latin root and its meaning shared by all the words in the toss-up?
+	MANEŌ, TO STAY / REMAIN
+	B2: What English derivative of maneō means “a collection of wild animals kept in 
+captivity for exhibition?”
+MENAGERIE
+
+
+ Originally named Podarces, what son of Laomedon lost his sons Deiphobus and Hector with the fall of his city Troy?
+PRIAM
+	B1: What sister of Priam ransomed him for a veil from Heracles when he sacked Troy?
+HESIONE
+	B2: Heracles then gave Hesione to be the wife of Telamon with whom she had what 
+famous Greek archer who would fight in tandem with Ajax Telamon?
+TEUCER
+1. Replacement Language: Some nouns can take on different meanings in the singular and plural. Keeping this in mind, differentiate in meaning between carcer and carcerēs. 
+{PRISON / JAIL} & {BARRIERS // STARTING-PLACES} [RESPECTIVELY]
+	B1: Now, differentiate in meaning between littera and litterae. 
+LETTER OF THE ALPHABET & {LETTER / EPISTLE} [RESPECTIVELY]
+	B2: Now, differentiate in meaning between aqua and aquae. 
+WATER & {(MINERAL) SPRING(S) // BATHS} [RESPECTIVELY]
+1. Replacement Myth: Name one of the five rivers of the Underworld.
+ONE OF: STYX, LETHE, PHLEGETHON, ACHERON, COCYTUS
+	B1: Name two more.
+TWO MORE OF: STYX, LETHE, PHLEGETHON, ACHERON, COCYTUS
+	B2: Name two more.
+TWO MORE OF: STYX, LETHE, PHLEGETHON, ACHERON, COCYTUS
+1. Replacement History: Whose ashes were the last to be placed in the Mausoleum of Augustus, as he was a distant relative of the Julio-Claudians who served as Emperor from 96-98 AD?
+NERVA
+	B1: What nephew of Augustus was the first person to have their ashes placed in the 
+Mausoleum of Augustus?
+MARCELLUS
+	B2: What field on the outskirts of Rome was the home of the Mausoleum of Augustus?
+CAMPUS MARTIUS // FIELD OF MARS
+INTERMEDIATE
+1. Aurēlia, cui urbs placēbat, erat in Aegyptō cum familiā suā ingentī et equō suō. Tredecim lūdōs magnōs Iovis in amphitheātrō Alexandrīae spectābat. Tandem, hic equus īrātus domum recurrere coepit. Ēheu!1. Practice Question (0 pts): What war did the Romans win with a victory at Cynoscephalae in 197 BC?
+SECOND MACEDONIAN WAR
+	B1: Against whom was this war fought?
+PHILIP V
+	B2: What Roman led the victory at Cynoscephalae? 
+(T. QUINCTIUS) FLAMINIUS
+1. For the verb gaudeō, give the first person singular, perfect active indicative, keeping in mind that it is semi-deponent. 
+GĀVĪSUS SUM
+	B1/B2: Give the same form for any two of these other three Latin semi-deponent verbs: audeō, soleō, fīdō.
+ANY TWO OF: AUSUS SUM, SOLITUS SUM, FĪSUS SUM
+1. Who hunted beasts on Chios for Oenopion and boasted he would kill all the animals on the planet as the greatest hunter, only to be killed by a scorpion sent by Gaea?
+ORION / URION
+	B1: Orion had originally hunted the beasts on Chios so that he would marry what 
+daughter of Oenopion who he would later rape in a drunken fit and be blinded 
+accordingly?
+MEROPE
+	B2: Orion eventually became a constellation that is chasing what mythological group of 
+sisters whose members include Celaeno, Alcyone, and another Merope?
+PLEIAD(E)S
+1. The execution of Flavius Clemens showed what emperor’s increasing paranoia and autocracy after the unsuccessful usurpation of Saturninus, though he was ultimately unable to escape his own butler Stephanus in 96 AD?
+DOMITIAN
+B1:	What wife of Domitian also played an important role in this conspiracy?
+DOMITIA (LONGINA)
+B2:	What praetorian prefect of Domitian did Nerva reluctantly agree to execute, since he was also believed to have taken part in the conspiracy?
+(T.) PETRONIUS SECUNDUS
+1. What two-word Latin quote, whose verb literally means “to pick” or “to pluck,” derives from an Ode to Leuconoe written by Horace, and literally means “seize the day”? 
+CARPE DIEM
+	B1: Translate another famous quote from Horace into English: nunc est bibendum.
+NOW (WE) MUST DRINK (ACCEPT SIMILAR)
+	B2: Horace was most prolific during the reign of Augustus, one of whose favorite phrases festīnā lentē. Give the English for this phrase.
+MAKE HASTE SLOWLY (ACCEPT SIMILAR)
+1. List all the cases in which a supine can be declined. 
+ABLATIVE and ACCUSATIVE
+	B1: Using a supine, translate into Latin: “difficult to understand”.
+DIFFICILE {COGNITŪ / INTELLECTŪ}
+	B2: Using a supine, translate into Latin: “she walked to the temple to pray”.
+(EA) AD TEMPLUM AMBULĀVIT PRECĀTUM
+1. Which type of toga, though it was one of the insignia pueritiae which a boy would wear until they came of age, was also worn by curule magistrates due to its purple border?
+TOGA PRAETEXTA
+B1:	At what festival on March 17 would a boy dedicate his insignia pueritiae to the Lares as a coming-of-age ceremony?
+LĪBERĀLIA 
+B2:	Which type of toga would ordinary citizens wear after coming of age?
+TOGA PŪRA/VIRĪLIS/LĪBERA
+1. What handsome son of Liriope and Cephissus died while staring at a reflection of himself?
+NARCISSUS
+	B1: What descendant of the Spartoi Udaeus had warned Liriope that Narcissus would not 
+live to a ripe age if he ever caught sight of himself?
+T(E)IRESIAS
+	B2: What was the name of the nymph who loved Narcissus but was cursed only to repeat 
+the words of others?
+ECHO
+1. While in Paris, who was proclaimed Emperor in 361 AD in opposition to his cousin Constantius II, starting a rebellion that would see the last breath of Paganism in the empire?
+JULIAN THE APOSTATE
+B1: Julian died whilst fighting against what eastern Empire?
+PERSIAN / SASSANID EMPIRE
+B2: Julian was killed by what type of weapon, said to have potentially been thrown by a 
+Christian?
+SPEAR
+1. Which of the following if any does NOT belong because of derivation: “advantage,” “affect,” “attend,” “announce?”
+ADVANTAGE
+B1: What is the root of advantage that is not shared by the other words in the list? 
+AB
+B2: What English word derived from ab means “a group of people leading the way in new developments or ideas?”
+VANGUARD
+1. Quid Anglicē significat meminī? 
+TO REMEMBER / RECOLLECT
+	B1: Quid Anglicē significat dēsum?
+TO BE AWAY / BE WANTING / FAIL
+	B2: Quid Anglicē significat fīō?
+TO BECOME / BE MADE
+1. What man, received by the likes of King Cyzicus, Queen Hypsipyle, and King Aeёtes, gathered the bravest young men in Greece to retrieve the golden fleece?
+JASON
+	B1: When Jason first came to Iolcus where king Pelias ordered him to retrieve the golden 
+fleece, he had to cross what river where he lost one of his sandals?
+ANAURUS
+	B2: Which son of Pelias openly defied his father by joining the expedition of the 
+Argonauts? He would later become king of Iolcus.
+ACASTUS
+1. Using the verb cōnor, how would you say, in Latin, “she will have tried”?
+CŌNĀTA ERIT
+	B1: Using the verb ingredior, how would you say, in Latin, “it will have tried to enter”?
+CŌNĀTUM ERIT INGREDĪ
+	B2: How would you say, in Latin, “he had tried to enter”?
+CŌNĀTUS ERAT INGREDĪ
+1. What desert city valiantly defended Roman interests under its king Odaenathus, but was destroyed by Aurelian when Odaenathus’s widow, the powerful queen Zenobia, tried to form an independent empire?
+PALMYRA
+B1:	What infant son of Odaenathus was nominally in charge during Zenobia’s reign?
+(L. JULIUS AURELIUS SEPTIMIUS) VABALLATHUS (ATHENODORUS)1. B2:	Aurelian then went on to defeat what ruler of the Gallic Empire, fully reuniting the Roman world?
+TETRICUS
+1. Complete the following sentence with the correct form of “frūmentum”: vaccae pulcherrimae vēscuntur _____. 
+FRŪMENTŌ
+B1/B2: Give two more deponent verbs, excluding compounds, that also take an ablative object. 
+ANY TWO OF: POTIOR, ŪTOR, FUNGOR, FRUOR
+1. Who received prophecies from the harpy Celaeno and the Sibyl of Cumae on his journey to Italy?
+AENEAS
+	B1: On his way to Italy, Aeneas lost what father of his?
+ANCHISES
+	B2: Aeneas then stopped at what island — where he was first received by king Acestes 
+— to put on the funeral games of his Anchises?
+SICILY
+1. For the adjective idōneus, give the comparative and superlative forms.
+MAGIS IDŌNEUS, MAXIMĒ IDŌNEUS
+	B1: For the adjective senex, give the comparative and superlative forms. 
+{SENIOR / MAIOR NĀTŪ}, MAXIMUS NĀTŪ
+	B2: For the adjective magnificus, give the comparative and superlative forms. 
+MAGNIFICENTIOR & MAGNIFICENTISSIMUS
+1. Of the words tūs, rūs, mūs, and iūs, which is described in the following sentence: hīc et segetēs et pecora cūrāre agricola dēbet?
+RŪS
+	B1: Of the words tūs, sūs, mūs, and iūs, which is described in the following sentence: centum ārae diēs noctēsque dīīs calent?
+TŪS
+	B2: Of the words pūs, sūs, mūs, and iūs, which is described in the following sentence: piscēs in hōc coquus posuit et multa alia confūdit?
+IŪS
+1. When a mob marched out of the Temple of Fides, led by a pontifex maximus named Scipio Nasica, what tribune was killed along with 300 of his supporters in 133 BC?
+TIBERIUS (SEMPRONIUS) GRACCHUS1. B1:What relative of Tiberius Gracchus, when asked about the tribune’s death, evasively replied that if Tiberius had intended to seize the state, then he had been killed justly?
+(P. CORNELIUS) SCIPIO AEMILIANUS
+B2: More than a decade later, what consul was given the power by the Senate to use violence against Tiberius’s brother Gaius — the first instance of the Senātūs Cōnsultum Ultimum?
+(L.) OPIMIUS
+1. Differentiate in meaning between aes and āēr. 
+{COPPER / BRONZE} and AIR [RESPECTIVELY]
+	B1: Differentiate in meaning between līs and laus. 
+LAWSUIT and PRAISE [RESPECTIVELY]
+	B2: Differentiate in meaning between tussis and turris. 
+COUGH and TOWER [RESPECTIVELY]
+1. What son of Iphicles and Automedusa and charioteer of Heracles helped Heracles in his 2nd labor where he cauterized the stumps of the freshly decapitated Hydra?
+IOLAUS
+	B1: In some versions of Heracles’ story, after he tragically murdered his children, he 
+handed what first wife of his over to Iolaus?
+MEGARA
+	B2: Similar to the story in bonus 1, while on his funeral pyre, Heracles gave Iole to what 
+son of his by Deianeira?
+HYLLUS
+1. Replacement Language: What does the coordinating conjunction vel… vel mean? 
+EITHER… OR
+	B1: What does the question “quantī constat” mean, idiomatically?
+HOW EXPENSIVE IS IT?/HOW MUCH DOES IT COST? (AT WHAT AMOUNT DOES IT STAND?)
+	B2: What does the question “ubinam sumus” mean, idiomatically? 
+WHERE IN THE WORLD/WHERE (WITH EMPHASIS) ARE WE?
+1. Replacement Myth: In Book 19 of Homer’s Odyssey, what former nurse of Odysseus recognizes him from a distinctive scar?
+EURYCLEIA
+	B1: In Book 21 of the Odyssey, to what loyal swineherd did Odysseus reveal his identity?
+EUMAEUS
+	B2: Name the loyal cowherd of Odysseus, who along with Eumaeus and Telemachus 
+helps his former master rid his palace of Penelope’s suitors.
+PHILOETIUS1. Replacement History: What island, which twice saw a large-scale rebellion of enslaved people, was the setting for most of the battles in the First Punic War, including the sieges of Messana, Agrigentum, and Syracuse?
+SICILY
+B1:	What king of Syracuse quickly allied himself with the Romans at the start of the war?
+HIERO (II)
+B2:	Pyrrhus also spent some time campaigning in Sicily after his costly victories against the Romans in what two battles?
+HERACLEA and ASCULUM
+
+SEMI1. Aurēlia, cui urbs placēbat, erat in Aegyptō cum familiā suā ingentī et equō suō. Tredecim lūdōs magnōs Iovis in amphitheātrō Alexandrīae spectābant. Tandem, hic equus īrātus domum recurrere coepit. Ēheu!1. Practice Question (0 pts): In a Roman wedding, the bride typically wore what colors?
+	ORANGE / YELLOW
+	B1: What was the Latin term for the bride’s veil?
+FLAMMEUM
+	B2: Speaking of flame, what was the term for the underground heating system used in 
+Roman baths?
+HYPOCAUST
+1. One of the greatest baseball movies of all time, “Field of Dreams”, features a remarkable scene where the main character is told “if you build it, they will come.” What type of conditional is found in that quote?
+FUTURE MORE VIVID
+	B1: Now translate that sentence into Latin. 
+SĪ ID {AEDIFICĀVERIS / AEDIFICĀBIS}, VENIENT.
+	B2: What kind of conditional can be found in this variation: sī id aedificāvissēs, 
+vēnissent. 
+PAST CONTRARY TO FACT / CONTRAFACTUAL [Prompt on “contrary to fact / contrafactual”]
+1. Quid Anglicē significat amplector?
+TO EMBRACE / ENCIRCLE
+B1: Quid Anglicē significat precor?
+TO PRAY / BEG / BESEECH
+B2: Quid Anglicē significat reor?
+TO THINK / BELIEVE
+1. A different senator took the throne every five days during what one-year period in early Roman history, when a successor for Romulus was being searched for? This period’s name literally means “between reigns.”
+INTERREGNUM
+B1: What groups of ten were the senators divided into, a representative of a group serving as interrex at a time?
+DECURIA(E)
+B2: Romulus’ successor, of course, ended up being Numa Pompilius. From what Sabine town did Numa hail before becoming king?
+CURES
+1. Who kills a man named Amphinomus, receives a seer named Theoclymenus, and travels with a son of Nestor named Pisistratus in the Odyssey?
+TELEMACHUS
+	B1: While at the court of Nestor, Telemachus learns of the death of what son of Nestor at 
+Troy?
+ANTILOCHUS
+	B2: Antilochus was killed by what son of Eos and Tithonus who led the Ethiopians to 
+Troy?
+MEMNON
+1. What English word, derived from a Latin word meaning “head”, is “a square of finely woven material, typically carried in one’s pocket?”
+HANDKERCHIEF
+	B1: From what Latin noun with what meaning do we derive the English word “cattle?”
+CAPUT, HEAD
+	B2: From what Latin noun with what meaning do we derive the English word “corset?”
+CORPUS, BODY
+1. In the face of a Gallic chariot onslaught, a dēvōtiō was committed for a second time at what battle, which ended with Fabius Rullianus and the rest of the Roman army crushing the Samnites?
+SENTINUM
+B1: What Roman general had instigated the Third Samnite War by driving the Samnites 
+out of Lucania despite his defeat at Camerinum in either 298 BC or 295 BC?
+(L.) SCIPIO BARBATUS
+B2: What general of the Samnites, who had defeated Scipio Barbatus at Camerinum, was 
+killed at Sentinum?
+GELLIUS EGNATIUS
+1. What monster, which killed Androgeus before being stopped by Theseus near the Attic town Marathon, was originally captured and released by Heracles during his 7th labor?
+CRETAN / MARATHONIAN BULL
+	B1: It is ironic that the Cretan bull killed Androgeus since what father of his had not 
+sacrificed the bull to Poseidon as promised?
+MINOS
+	B2: What old woman was said to have entertained Theseus on his way to Marathon in a 
+little hut?
+HECALE
+1. Using a subjunctive, translate the following English sentence into Latin: I ran to the swift river to wash my hair. 
+CUCURRĪ AD {CELERE FLŪMEN // CELEREM RĪVUM} UT {MEUM / MIHI} {CAPILLUM / CRĪNEM} LAVĀREM.
+
+	B1: Using a gerund, translate the following sentence into Latin: The gladiators had 
+walked into the colosseum to fight. 
+	GLADIĀTŌRĒS IN COLOSSĒUM AMBULĀVERANT AD PUGNANDUM.
+
+	B2: Using an ablative, a dative, and a subjunctive clause, translate the following 
+sentence into Latin: When the signal was given, the leaders commanded the soldiers to 
+march.
+SIGNŌ DATŌ, DUCĒS MĪLITIBUS {MANDĀVĒRUNT / IMPERĀVĒRUNT} UT ITER FACERENT.
+1. What use of the dative case is found in the following Latin sentence: nōbīs bellum gerendum erat.
+DATIVE OF AGENT
+B1: What use of the genitive case is found in this sentence: Iūlia, oblīta es tuae pecūniae?
+GENITIVE WITH VERBS OF FORGETTING / REMEMBERING
+B2: What use of the dative case is found in this sentence: hunc mihi terrōrem ēripe.
+DATIVE OF SEPARATION (PROMPT ON SPECIAL VERB)
+1. Nero granted Marcus Salvius Otho the governorship of Lusitania in exchange for the right to marry what woman, Otho’s former wife, whom he later allegedly killed while pregnant by kicking her in the stomach?
+POPPAEA SABINA
+B1: What daughter of Claudius was Nero’s first wife, though he later divorced and executed her?
+OCTAVIA
+B2: What other daughter of Claudius did Nero want to marry after the death of Poppaea? 
+For obvious reasons, she refused, prompting Nero to execute her as well.
+ANTONIA
+1. What city contained the spring Castalia, the stone that Cronus swallowed in place of Zeus, and the Pythia, the most famous priestess of Apollo?
+DELPHI
+	B1: Orestes was said to have died at Delphi at the hands of which son of Achilles?
+NEOPTOLEMUS / PYRRHUS
+	B2: The stone that Cronus swallowed in place of Zeus was part of a plan orchestrated by 
+what Oceanid and mother of Athena?
+METIS
+1. For the verb ūtor, give the 3rd person singular, pluperfect active subjunctive. 
+ŪSUS ESSET
+	B1: For the same verb, change it to the imperfect plural.
+	ŪTERENTUR
+	B2: For the same verb, change it to the passive.
+DEPONENT - CAN’T BE DONE
+1. What body of water, which a native of Abydos would swim across every night to visit his lover Hero, gained its name when Phrixus’ sister fell from a golden-fleeced ram?
+HELLESPONT / DARDANELLES
+	B1: What father of Phrixus and Helle almost sacrificed Helle due to the machinations of 
+his 2nd wife Ino, until Nephele sent the golden-fleeced ram to save them?
+ATHAMAS
+	B2: Another strait, the Bosporus, is said to have gotten its name from what woman in 
+mythology who wandered the world and encountered the likes of Prometheus before settling down and giving birth to Epaphus?
+IO
+1. Although he had supported Sulla’s dictatorship, who became a champion of the Populares by trying to overturn Sullan legislation, and was later defeated by Lutatius Catulus at the Milvian Bridge after forming an insurrection?
+(M.) AEMILIUS LEPIDUS
+B1: What fellow rebel, the father of a famous assassin of Caesar, did Pompey defeat at 
+Mutina and have executed?
+(M.) IUNIUS BRUTUS (THE ELDER)
+B2: After his death, many of Lepidus’ supporters traveled to Spain to join the army of what other Marian commander? 
+(Q.) SERTORIUS
+1. Translate the following Latin sentence into English: nē ambulēmus domum mediā nocte. 
+LET US NOT WALK HOME IN THE MIDDLE OF THE NIGHT.
+	B1: What use of the subjunctive can be found in that sentence?
+HORTATORY
+	B2: Now translate this sentence into English: puella tam celeriter cucurrit ut sua 
+soror nōn posset sequī. 
+THE GIRL RAN SO QUICKLY THAT HER SISTER COULD NOT FOLLOW.
+1. What is the meaning of the Latin idiom certior fierī? 
+TO BE INFORMED
+B1: What is the meaning of the Latin idiom aegrē ferre?
+TO BE ANNOYED AT
+B2: What is the meaning of the Latin idiom potestātem facere?
+TO GIVE AN OPPORTUNITY
+1. What Caesar, supposedly descended from Claudius Gothicus, fought both Carausius and Allectus in Britain and became the second western Augustus after the abdication of Maximian in 305 AD?
+CONSTANTIUS CHLORUS
+B1: In what British city did Constantius die, leading his troops to proclaim Constantine 
+Emperor?
+EBORACUM
+B2: What rival did Constantine defeat and have executed in 324 AD, securing himself 
+sole emperorship?
+LICINIUS
+1. What youth, who left his homeland of Pallanteum to support Aeneas against the Latins, was killed by Turnus and stripped of his sword-belt?
+PALLAS
+	B1: When Pallas was fighting Turnus, he prayed to what god who had previously rid the 
+area of the fire-breathing son of Vulcan, Cacus?
+HERCULES
+	B2: Pallas’ sword-belt depicted the crime of what group of sisters who killed most of 
+their brothers, now husbands, on their wedding night?
+DANAIDS
+1. Differentiate in meaning between nemus and rēmus.
+{WOOD / GROVE} and OAR
+	B1: Differentiate in meaning between raeda and praeda.
+{(4-WHEELED) WAGON / CARRIAGE} and {BOOTY / SPOIL / PLUNDER}
+
+	B2: Differentiate in meaning between sopor and rōbur. 
+SLEEP and {OAK / STRENGTH}
+1. What use of the subjunctive is found in the following quote from Livy: falsus utinam vātēs sim!
+OPTATIVE
+	B1: What use of the subjunctive is found in the following quote from Cicero: quid agam, 
+iūdicēs? 
+	DELIBERATIVE
+	B2: Now translate either of those two quotes.
+{IF ONLY / WOULD THAT} I WERE A FALSE PROPHET! or WHAT AM I TO DO, JUDGES?
+1. Replacement Language: Translate the following sentence: timeō nē pater mē vituperet. 
+I FEAR THAT MY FATHER MAY CURSE ME
+	B1: … Timuī ut exercitus sociī impetuī hostium resisteret.
+I FEARED THAT THE ARMY OF THE ALLY {WOULD / MIGHT NOT} NOT RESIST THE ATTACK OF THE ENEMY
+	B2: … Imperātor crēdiderat suās cōpiās occupāvisse urbem antequam sōl ortus 
+esset.
+THE {GENERAL / COMMANDER / EMPEROR} HAD HOPED THAT HIS OWN TROOPS SEIZED THE CITY BEFORE THE SUN HAD RISEN
+1. Replacement Myth:In Book 10 of Homer’s Iliad, what swift herald was sent to spy on the Greek troops, but was captured by Odysseus and Diomedes? 
+DOLON
+	B1: What did Hector promise Dolon in return for undertaking this dangerous mission?
+THE CHARIOT AND/OR HORSES OF ACHILLES [TAKE EITHER]
+	B2: What newly arrived Thracian king did Odysseus and Diomedes kill after receiving 
+information from Dolon?
+RHESUS
+1. Replacement History: What woman’s prophetic skills helped elevate two different men to the 
+Roman throne, once when she saw a slave’s head spontaneously burst into flames, and another time when she saw an eagle take and return the cap of her husband?
+TANAQUIL
+B1: What was the original name of Tanaquil’s husband, who would go on to become the 
+fifth king of Rome, Lucius Tarquinius Priscus?
+LUCUMO
+B2: In some accounts, Servius Tullius, the slave whose head Tanaquil saw go up in 
+flames, was the son of what captive woman from Corniculum?
+OCRISIA
+
+1. Aurēlia, cui urbs placēbat, erat in Aegyptō cum familiā suā ingentī et equō suō. Tredecim lūdōs magnōs Iovis in amphitheātrō Alexandrīae spectābant. Tandem, hic equus īrātus domum recurrere coepit. Ēheu!1. Practice Question (0 pts): Congratulations on making it to the intermediate ! We are very grateful that you are here. What Latin idiom means “to be grateful”?
+GRĀTIAM HABĒRE
+	B1: What similar Latin idiom means “to show gratitude”?
+GRĀTIAM REFERRE
+	B2: Say in Latin: thank you very much!
+VALDĒ GRĀTIĀS TIBI AGŌ
+1. Turned into a spring by the nearby Lelegian nymphs, what daughter of Cyaneё and Miletus went mad after she fell in love with her brother Caunus?
+BYBLIS
+B1: While agonizing over wanting to be with Caunus, Byblis complains how it isn’t fair that what god — who ruled over the likes of Auster and Eurus — allowed his 6 sons and 6 daughters to marry each other?
+AEOLUS
+	B2: According to Ovid’s Heroides, however, Aeolus forced what daughter of his, who 
+had fallen in love with her brother Macareus, to commit suicide?
+CANACE
+1. What two men led a rebellion of at least 60,000 slaves in Sicily starting in 135 BC, which would rage on for three years until being pacified by Publius Rupilius?
+EUNUS & CLEON
+B1: Another lower class revolt, which broke out in Asia in 129 BC, was instigated by 
+what illegitimate son of Eumenes?
+ARISTONICUS
+B2: What name did Aristonicus choose for the slaveless Utopian society that he intended to found?
+HELIOPOLIS // CITY OF THE SUN
+1. Give the Latin motto and its English translation for the University of Oxford.
+DOMINUS ILLŪMINĀTIŌ MEA - THE LORD IS MY LIGHT [ACCEPT SIMILAR TRANSLATIONS]
+	B1: Give the Latin motto and its English translation for the University of Cambridge. 
+HINC LŪCEM ET PŌCULA SACRA - FROM HERE, LIGHT AND SACRED DRAUGHTS [ACCEPT SIMILAR TRANSLATIONS]
+	B2: Translate the following Latin motto for the University of Arkansas: Vēritāte duce 
+prōgredī. 
+TO ADVANCE WITH TRUTH AS (OUR) LEADER (or any equivalent)
+1. What deity was the father of all the following children? A young man who was raped by the nymph Salmacis. A thief who stole the cattle of Sisyphus until he was outsmarted, Autolycus. And a charioteer who removed the linchpins from the wheels of Oenomaus’ chariot, Myrtilus.
+HERMES / MERCURY
+B1: Who, the union of Hermes and an unwilling goddess whose slipper he stole, was the son in the tossup who was raped by Salmacis?
+HERMAPHRODITUS
+B2: In some versions of his story, Autolycus is said to have married what shapeshifting daughter of Erysichthon who would use her powers to help feed her father?
+MESTRA
+1. Differentiate in meaning between focus and fīcus.
+FIRE-PLACE / HEARTH and FIG-TREE / FIG (RESPECTIVELY)
+	B1: Differentiate in meaning between for and fateor.
+TO SPEAK / SAY and TO CONFESS / ACKNOWLEDGE (RESPECTIVELY)
+	B2: Differentiate in meaning between nūmen and nummus.
+NOD // DIVINE WILL and  COIN // PIECE OF MONEY (RESPECTIVELY)
+1. What usurper, who had been elevated to the throne by Arbogast in 392 AD, was defeated by Theodosius at the Frigidus River, ending the rule of this last pro-pagan ruler of Rome?
+EUGENIUS
+B1: What earlier usurper, who had  executed Gratian, did Theodosius originally accept as co-emperor in 383 AD, though he was defeated and handed over to Theodosius five years later?
+MAGNUS MAXIMUS
+B2: What other co-emperor of Gratian did Theodosius put in charge of the West under the 
+care of Arbogast, though he was found hanged a couple years afterwards?
+VALENTINIAN II
+1. One of only two double-reeded instruments typically found in an orchestra, the oboe, gets its name from what Latin root with what meaning?
+ALTUS - HIGH / LOFTY / GREAT
+	B1: From what Latin root with what meaning do we derive the English word “oust”?
+HAURIŌ - TO DRAIN / DRINK
+B2: Something that is “attractively unusual or old fashioned” may be described as quaint. From what Latin root with what meaning do we derive “quaint”?
+NŌSCŌ - TO (GET TO) KNOW
+1. Translate the following English sentence into Latin: We knew that you had prepared very much so that you might win today.
+SCĪVIMUS TĒ {VALDĒ / MAGNOPERE} PARĀVISSE UT HODIĒ VINCERĒS
+	B1: Translate this very similar sentence into Latin: We know that you will prepare very 
+much so that you may win tomorrow.
+SCĪMUS TĒ {VALDĒ / MAGNOPERE} PARĀTŪRUM ESSE UT CRĀS VINCĀS  
+B2: Translate this sentence into Latin: If you had studied for several months, you would have won yesterday.
+SĪ (COM)PLŪRĒS MĒNSĒS STUDUISSĒS, HERI VĪCISSĒS
+1. What man, the son of a triumvir, starved Rome into a famine with a naval blockade of Italy, after which he negotiated a treaty with the Second Triumvirate at Misenum, gaining the Peloponnesus in exchange for stopping the blockade?
+SEXTUS POMPEIUS / POMPEY
+B1: Sextus Pompey did not agree to the Treaty of Misenum for long and began 
+blockading Italy again, resulting in what battle in 36 BC, where he was defeated by 
+Agrippa?
+(BATTLE OF) NAULOCHUS
+B2: Nine year before Naulochus, Sextus Pompey and his brother Gnaeus were defeated 
+by Julius Caesar at what site in Spain?
+MUNDA
+1. Called Anteia by Homer, whom did Bellerophon offer a ride on Pegasus before pushing her off into the sea, since her attempt to seduce him at the court of Proёtus forced him to fight the Chimaera?
+STHENEBOEA
+	B1: What father of Stheneboea and king of Lycia was Bellerophon’s taskmaster?
+IOBATES
+	B2: Prior to Bellerophon’s exile from Corinth, he was actually going to marry what 
+daughter of Pittheus?
+AETHRA
+1. Servitūtem servīre and vītam vīvere are both examples of what use of the 
+accusative case?
+COGNATE // OF KINDRED SPECIFICATION
+B1: Talentum aurī and flūmina lactis are both examples of what use of the genitive case? 
+MATERIAL
+	B2: What use of the infinitive can be found in the following sentence: tum Catalīna 
+prōmittere novās tabulās.
+HISTORICAL
+1. For the verb tangō, give the future passive infinitive.
+TĀCTUM ĪRĪ
+	B1: Now give the plural future active imperative. 
+TANGITŌTE
+	B2: Now give the 2nd person plural, pluperfect active subjunctive. 
+TETIGISSĒTIS
+1. What Eastern city was a favorite target for Roman generals, as it was sacked a total of five times between 116 AD and 299 AD?
+CTESIPHON
+B1: What Parthian king, who had deposed the king of Armenia, did Trajan wage war 
+against, resulting in the first capture of Ctesiphon?
+CHOSROES
+B2: What general of Marcus Aurelius was the only capturer of Ctesiphon to not be an 
+emperor, though he did proclaim himself emperor on the false rumor of Marcus 
+Aurelius’ death?
+AVIDIUS CASSIUS
+1. What man, who in old age became king of the Illyrians before being turned into a snake alongside his wife, killed a serpent at Ares' spring before serving Ares for eight years and marrying Harmonia? 
+CADMUS
+	B1: When Cadmus founded Cadmeia, the first thing he did was sacrifice to what 
+Phoenician patron goddess identified with Athena?
+ONCA / ONGA
+	B2: Another spring in Thebes shares its name with what wife of Lycus who tortured 
+Antiope, the mother of Amphion and Zethus?
+DIRCE
+1. Note to players: there is an extra clue at the end of this sentence. Feel free to wait if you’re unsure. Translate the following sentence into English: quis scit utrum argentum an aurum mālint? The pair “utrum...an…” introduces a double question with two alternatives, and means “whether...or…”.
+WHO KNOWS WHETHER THEY PREFER SILVER OR GOLD?
+	B1: What use of the subjunctive is illustrated in the tossup?
+INDIRECT QUESTION
+	B2: What would be the correct form of mālō in that sentence if the main verb were 
+changed to scīvit?
+MĀLLENT
+1. Nouns such as libellus, gladiolus, and rīvulus belong to what category?
+DIMINUTIVES
+B1: What is the diminutive form of the noun homō, which is also an English word 
+meaning “a very small human or humanoid creature”?
+HOMUNCULUS
+B2: Calēscō, īrāscor, and scīscō all belong to what category of verbs which denote the beginning of an action?
+INCEPTIVES / INCHOATIVES
+1. According to the Historia Augusta, the soldiers allowed the Senate to choose the next emperor out of regret for being misled by a corrupt secretary and killing what ruler, a strict disciplinarian who earned the nickname “manū ad ferrum”?
+(L. DOMITIUS) AURELIAN(US)
+B1: What elderly senator did the Senate choose to succeed Aurelian?
+(M. CLAUDIUS) TACITUS
+B2: After a brief reign by Tacitus’s praetorian prefect and possible half-brother Florianus, what former lieutenant of Aurelian took up the purple and ruled for 6 years before being killed in yet another mutiny?
+(M. AURELIUS) PROBUS
+1. Some nouns behave in mysterious ways. Impedīmentum is a peculiar noun in that it has a different meaning in the singular and in the plural. Differentiate between these two meanings.
+{HINDRANCE / IMPEDIMENT} and BAGGAGE [RESPECTIVELY]
+B1: Say in Latin, “two camps.”
+BĪNA CASTRA
+	B2: What kind of numeral is bīnī classified as?
+DISTRIBUTIVE
+1. Quid Anglicē significat queror?
+TO COMPLAIN / LAMENT / BEWAIL
+	B1: What meaning is shared by nancīscor and adipīscor?
+TO GET / OBTAIN / RECEIVE
+	B2: Quid Anglicē significat pābulor?
+TO FEED / GRAZE / EAT FODDER1. What object, said to have been passed down to Poeas on Mt. Oeta, was used to kill Paris after it was brought to Troy by a Malian archer formerly stranded on Lemnos, Philoctetes?
+HERACLES’ BOW [Directed prompt on “bow (and arrows)” by asking “Whose bow (and arrows)?”]
+	B1: Heracles’ bow being present at Troy was one of the many conditions the Greeks 
+needed to meet in order to sack Troy. What statue, believed to protect whatever city possessed it, did Odysseus steal to meet another condition?
+PALLADIUM
+	B2: What woman, who famously called out in the voice of the wives of various Greek 
+chieftains hidden in the Trojan horse, helped Odysseus steal the Palladium?
+HELEN
+
+1. Replacement Language: Differentiate in meaning between moror and morior.
+TO {DELAY / WAIT / LINGER} and TO DIE [RESPECTIVELY]
+	B1: Differentiate in meaning between torreō and torqueō.
+TO {PARCH / ROAST / BAKE} and TO {TWIST / BEND} [RESPECTIVELY] 
+	B2: Differentiate in meaning between sapor and sopor.
+{TASTE / SCENT} and SLEEP [RESPECTIVELY]
+1. Replacement Myth: What king of Crete was driven from his home by Leucus upon his return from the Trojan  War?
+IDOMENEUS
+	B1: What wife of Idomeneus had become the consort of Leucus in her husband’s 
+absence?
+MEDA
+B2: What brother of Idomeneus won the archery contest at the funeral games of Patroclus in Homer’s Iliad?
+MERIONES
+1. Replacement History: Who, the grandson of the Visigothic king Wallia, was named magister 
+utriusque militiae under Avitus and controlled the succession of many the late western emperors before his death in 472 AD?
+RICIMER
+B1: Whom did the eastern emperor Leo install in the west in 467 AD, though Ricimer 
+overthrew him in 472 AD and raised up Olybrius in his place?
+ANTHEMIUS
+B2: After Ricimer’s death, what Burgundian nephew of his succeeded him as magister 
+utriusque militiae?
+GUNDOBAD
+
+
+
+

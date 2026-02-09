@@ -17,7 +17,7 @@ LBLS=[]
 
 p=(os.path.abspath("Flashcards.py"))
 p=p[:-13]
-if not "Download/" in p: p=p+"Download/"
+if not "Reading Files/" in p: p=p+"Reading Files/"
 
 def getDecks():
     a= os.listdir(p+"Flashcard Decks")

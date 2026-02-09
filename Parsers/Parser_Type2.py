@@ -11,6 +11,8 @@ for num in range(1,21):st=st.replace(str(num)+".","")
 st=st.replace("a. BONUS","BONUS").replace("b. BONUS","BONUS").replace("WRITE-DOWN","TOSSUP").replace("WRITE DOWN","TOSSUP").replace("WRITEDOWN","TOSSUP").replace("WRITE-DOWN","TOSSUP")
 st=st.replace("ANS:\n","ANS: ").replace("\n*PAUSE FOR SCORE UPDATE*","").replace("**SCORE CHECK AFTER 10 QUESTIONS**","").replace("**SCORE CHECK AFTER 15 QUESTIONS**","").replace("**SCORE CHECK AFTER 19 QUESTIONS**","")
 st=st.replace("BONUS I & II","BONUS").replace("Bonus 1","BONUS").replace("BONUS 2","BONUS")
+st=st.replace("Ɲ","ē").replace("Ɯ","Ē").replace("ǀ","ō").replace("ƿ","Ō").replace("Ư","ī").replace("Ʈ","Ī").replace("ǌ","ū").replace("ǋ","Ū").replace("Ɨ","ā").replace("Ɩ","Ā")
+
 
 for num in range(1,21):
     st=st.replace(str(num)+".",str(num)+". ").replace(" #"+str(num)," "+str(num)).replace("#"+str(num)," "+str(num))
@@ -62,7 +64,7 @@ bonus2s=[]
 bonus2answers=[]
 replacementct=0
 
-with open("Download/Rounds/" +args[0]+"_Parsed.txt",'w',encoding='utf-8') as output:
+with open("Reading Files/Rounds/" +args[0]+"_Parsed.txt",'w',encoding='utf-8') as output:
     for index,match in enumerate(matches):
        # if index-len(matches)>(-1-len(finalsmatches)) and match in finalsmatches[index-len(matches)]:
         #    match=finalsmatches[index-len(matches)]
