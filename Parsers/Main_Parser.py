@@ -2,7 +2,7 @@
 
 import sys;args=sys.argv[1:]
 import re
-
+lvl = args[0].split("_")[0]
 st=open("Raw Rounds/"+args[0]+".txt",encoding='utf-8').read()
 #Remove common items that are undesirable
 while "——" in st:st=st.replace("——","—").replace("*","")
@@ -109,7 +109,7 @@ bonus1answers=[]
 bonus2s=[]
 bonus2answers=[]
 lens = []
-with open("Reading Files/Rounds/" +args[0]+"_Parsed.txt",'w',encoding='utf-8') as output:
+with open(f"Reading Files/Rounds/{lvl}" +args[0]+"_Parsed.txt",'w',encoding='utf-8') as output:
     for match in matches:
         lens.append((len(match),match))
         match=match.split("B1:") if "B1:" in match else match.split("B1.")

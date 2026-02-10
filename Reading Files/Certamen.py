@@ -23,10 +23,13 @@ p=(os.path.abspath("Certamen.py"))
 
 p=p[:-11]
 if not "Reading Files" in p: p+="Reading Files/"
-rnds = os.listdir(p+"Rounds")
+rnds = os.listdir(p+"Rounds/Advanced")+os.listdir(p+"Rounds/Intermediate")+os.listdir(p+"Rounds/Novice")
 for rnd in rnds:
+    lvling = rnd.split("_")[0]
+    if lvling[-2:]=="dE" or lvling[-2:]=="eE":
+        lvling=lvling[:-1]
     if not "Language.txt" in rnd and not "History.txt" in rnd and not "Literature.txt" in rnd and not "Mythology.txt" in rnd:
-        qs=open(p+"Rounds/"+rnd,encoding='utf-8').read()
+        qs=open(p+f"Rounds/{lvling}/"+rnd,encoding='utf-8').read()
         rnd=rnd.replace("_"," ").replace("AdvancedE","Advanced").replace("NoviceE","Novice").replace("IntermediateE","Intermediate")
         while "  " in qs:
             qs=qs.replace("  "," ")
@@ -36,7 +39,7 @@ for rnd in rnds:
         for itm in newQs:ALLQUESTIONS.add(itm+f" (from {rnd[:-11]})")
 
 DCTENG={*open(p+"CSW19.txt",encoding='utf-8').read().splitlines()} #to make reading speed better
-SORTING=[True] #If true allows sorting of questions into new categories
+SORTING=[False] #If true allows sorting of questions into new categories
 SHOWINGCATS=[False] #Controls whether the option buttens for sorting are visible
 
 QUESTIONS=[] #Will be populated with questions from the selected round
@@ -370,19 +373,19 @@ def setRoundName(n):
             RD2PLAY[0]+="_"
             if not n=="Advanced":
                 if n=="Novice": 
-                    CURLEVEL[0]='Novice'
+                    CURLEVEL[0]='Novice/Novice'
                     roundOptionsNovice.grid()
                     SELECTEDLEVELRDOPTION[0]=roundOptionsNovice
                 elif n=="Intermediate":
-                    CURLEVEL[0]='Intermediate'
+                    CURLEVEL[0]='Intermediate/Intermediate'
                     roundOptionsIntermediate.grid()
                     SELECTEDLEVELRDOPTION[0]=roundOptionsIntermediate
                 else:
-                    CURLEVEL[0]='AdvancedE'
+                    CURLEVEL[0]='Advanced/AdvancedE'
                     roundOptionsAdvancedE.grid()
                     SELECTEDLEVELRDOPTION[0]=roundOptionsAdvancedE
             else:
-                CURLEVEL[0]='Advanced'
+                CURLEVEL[0]='Advanced/Advanced'
                 roundOptionsAdvanced.grid()
                 SELECTEDLEVELRDOPTION[0]=roundOptionsAdvanced
             difficultyOptions.grid_remove()
@@ -434,7 +437,9 @@ def back2Year():
 def loadSelectedFile():
     CURPOINT[0]="Tossup"
     print(RD2PLAY[0])
-    qs=open(p+"Rounds/"+RD2PLAY[0],encoding='utf-8').read()
+    lvling=RD2PLAY[0].split("_")[0]
+    if lvling[-2:]=="dE" or lvling[-2:]=="eE":lvling=lvling[:-1]
+    qs=open(p+f"Rounds/{lvling}/"+RD2PLAY[0],encoding='utf-8').read()
     while "  " in qs:
         qs=qs.replace("  "," ")
     qs=qs.splitlines()
