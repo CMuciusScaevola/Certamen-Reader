@@ -315,7 +315,7 @@ for question in questions:
     if category=="Ambiguous":
         print(question)
     else:
-        lvl = file.split("_")[0]
+        lvl = file.split("_")[0]+"/"
         a={*open (p+lvl+f"_{category}.txt",encoding='utf-8').read().splitlines()}
         with open (p+lvl+f"_{category}.txt","a",encoding='utf-8') as output:
             if not question in a:output.write(question+"\n")
