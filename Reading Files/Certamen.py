@@ -733,17 +733,31 @@ roundOptionsIntermediate.grid_remove()
 
 
 roundOptionsNovice=ttk.Frame(mainframe)
-backButton2=ttk.Button(roundOptionsNovice,text="Back",command=back2Difficulty)
-backButton2.grid(column=0,row=2,sticky=W)
-schoolLblNovice=ttk.Label(roundOptionsNovice,text="Unfortunately, no rounds are available at this time")#"\nChoose a tournament:\n")
+backButtonNovice=ttk.Button(roundOptionsNovice,text="Back",command=back2Difficulty)
+backButtonNovice.grid(column=0,row=4,sticky=W)
+schoolLblNovice=ttk.Label(roundOptionsNovice,text="\nChoose a tournament:\n")
 schoolLblNovice.config(font=("Courier",15))
-noviceRounds=[]#ttk.Button(roundOptionsNovice,text="Harvard",command=lambda:setRoundName("Harvard"))]
-for i in range(len(noviceRounds)):
-    noviceRounds[i].grid(column=i,row=1,sticky=W)
-colspan=len(noviceRounds) if noviceRounds else 1
-schoolLblNovice.grid(column=0,columnspan=colspan,row=0,sticky=W)
+roundsNovice=[
+        ttk.Button(roundOptionsNovice,text="Harvard",command=lambda:setRoundName("Harvard")),
+        ttk.Button(roundOptionsNovice,text="Yale",command=lambda:setRoundName("Yale")),
+        ttk.Button(roundOptionsNovice,text="Princeton",command=lambda:setRoundName("Princeton")),
+
+]
+for i in range(len(roundsNovice)):
+    roundsNovice[i].grid(column=i,row=1,sticky=W)
+schoolLblNovice.grid(column=0,columnspan=len(roundsNovice),row=0,sticky=W)
+categoryLblNovice=ttk.Label(roundOptionsNovice,text="\nOr choose a category:\n")
+categoryLblNovice.config(font=("Courier",15))
+catsNovice=[ttk.Button(roundOptionsNovice,text="History",command=lambda:setRoundName("History")),
+      ttk.Button(roundOptionsNovice,text="Language",command=lambda:setRoundName("Language")),
+      ttk.Button(roundOptionsNovice,text="Mythology",command=lambda:setRoundName("Mythology")),
+      ttk.Button(roundOptionsNovice,text="Literature",command=lambda:setRoundName("Literature"))]
+for i in range(len(catsNovice)):
+    catsNovice[i].grid(column=i,row=3,sticky=W)
+categoryLblNovice.grid(column=0,row=2,columnspan=len(catsNovice),sticky=W)
 roundOptionsNovice.grid(row=1,column=0,sticky=W)
 roundOptionsNovice.grid_remove()
+
 
 
 #Select the year for Advanced Hard
@@ -899,6 +913,10 @@ for i in range(len(fhYearsAdvanced)):
 DCTYEARS["Intermediate_Yale_"]=yaleYearsAdvanced[:]
 DCTYEARS["Intermediate_Harvard_"]=harvardYearsAdvanced[:]
 DCTYEARS['Intermediate_Princeton_']=princetonYearsAdvanced
+
+DCTYEARS["Novice_Yale_"]=yaleYearsAdvanced[:]
+DCTYEARS["Novice_Harvard_"]=harvardYearsAdvanced[:]
+DCTYEARS['Novice_Princeton_']=princetonYearsAdvanced
 
 yrLblAE=ttk.Label(selectYear,text="\nChoose a year:\n")
 yrLblAE.grid(row=0,column=0,columnspan=len(harvardYearsAdvanced),sticky=W)

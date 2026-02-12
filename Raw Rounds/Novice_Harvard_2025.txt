@@ -486,7 +486,7 @@ Novice — Semifinals
 men rose through political rank?
 CURSUS HONŌRUM
 B1: How many lictors attended the consul?
-12
+TWELVE
 B2: Between quaestor and praetor, an aspiring politician might hold what position, which gave them a
 chance to show off their wealth by putting on lavish public games?
 AEDILE

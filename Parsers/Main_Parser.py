@@ -5,9 +5,10 @@ import re
 lvl = args[0].split("_")[0]
 st=open("Raw Rounds/"+args[0]+".txt",encoding='utf-8').read()
 #Remove common items that are undesirable
-st=st.replace("%", " ")
+st=st.replace("%", " ").replace("\t"," ")
 
 while "——" in st:st=st.replace("——","—").replace("*","")
+st=st.replace("Β","\n\nB").replace("B1&B2","\n\nB1").replace("B1&2","\n\nB1").replace("B1 & B2","\n\nB1").replace("B1.","\n\nB1:").replace("B2.","\n\nB2:").replace("B1 ","B1:").replace("B2 ","B2:")
 st=st.replace("Tossup.","TU1:").replace("Bonus.","B1: ").replace("Bonus:","B1:").replace("*PAUSE FOR SCORE UPDATE*","").replace("**PAUSE FOR SCORE UPDATE**","").replace("***PAUSE FOR SCORE UPDATE***","").replace("TOSSUP","TU1").replace("BONUS","B1").replace("***PAUSE FOR SCORE CHECK***","").replace("**PAUSE FOR SCORE CHECK**","").replace("*PAUSE FOR SCORE CHECK*","")
 st=st.replace("\t","  ").replace("— [FINAL SCORE CHECK] —","").replace("— [SCORE CHECK] —","").replace(" B1","\nB1").replace(" B2","\nB2")
 st=st.replace("**SCORE CHECK**","").replace("SCORE CHECK","").replace("Score Check","").replace("LATIN LITERATURE","").replace("ROMAN HISTORY","").replace("EXTRA HISTORY","").replace("EXTRA MYTHOLOGY","").replace("History:","").replace("Myth:","").replace("Language:","").replace("Literature:","").replace("B3","B1").replace("B4","B2").replace("B5","B1").replace("B6","B2").replace("B7","B1").replace("B8","B2").replace("Bonus 1","B1").replace("Bonus 2","B2").replace("B1 & B2","B1").replace("B1 and\nB2","B1").replace("B1/2","B1").replace("B1/B2","B1").replace("________________","")
@@ -22,7 +23,6 @@ st=st.replace("Round 1","").replace("Round 2","").replace("Round 3","").replace(
 st=st.replace("Ɲ","ē").replace("Ɯ","Ē").replace("ǀ","ō").replace("ƿ","Ō").replace("Ư","ī").replace("Ʈ","Ī").replace("ǌ","ū").replace("ǋ","Ū").replace("Ɨ","ā").replace("Ɩ","Ā")
 
 st=st.replace("Replacement History:","").replace("Replacement Mythology:","").replace("Replacement Language:","").replace("Replacement Literature:","").replace("HISTORY","").replace("MYTHOLOGY","").replace("LANGUAGE","").replace("LITERATURE","").replace("ADVANCED","").replace("EXTRA","").replace("EXTRAS","").replace("MYTH","")
-st=st.replace("Β","\n\nB").replace("B1&B2","\n\nB1").replace("B1&2","\n\nB1").replace("B1 & B2","\n\nB1").replace("B1.","\n\nB1:").replace("B2.","\n\nB2:").replace("B1 ","B1:").replace("B2 ","B2:")
 st=st.replace("4th", "4TH").replace("1st","1ST").replace("2nd","2ND").replace("3rd","3RD").replace("100s","100S").replace("200s","200S").replace("300s","300S").replace("400s","400S")
 
 while "  " in st:st=st.replace("  "," ").replace("\n \n","\n")
