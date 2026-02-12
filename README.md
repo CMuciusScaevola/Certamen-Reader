@@ -3,8 +3,6 @@ Single-player Certamen question reader with questions from local and national le
 
 Relevant files for playing are in the folder Reading Files
 
-Currently only contains Advanced level rounds
-
 "Search question bank" button allows searching for exact term matches within all questions. Can use boolean searches with and & or as well as searching by level.
 
 Report faulty question saves the question to a faulty questions file, but I have to fix them manually. Faulty questions are those with incorrect information or those that have been incorrectly parsed (e.g. a part of the answerline is shown with the question itself), not challengable questions/questions with incorrect information.
