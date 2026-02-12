@@ -459,6 +459,7 @@ def loadSelectedFile():
     while QUESTIONS:QUESTIONS.remove(QUESTIONS[0])
     itms=[]
     for ind in range(len(qs)):
+        print(qs[ind])
         temp=qs[ind].split("BONUS:")
         if len(temp)>2:itm=(temp[0],temp[1],temp[2])
         else:itm=(temp[0],temp[1],"")

@@ -88,10 +88,13 @@ B2:	What Roman general ordered his soldiers not to kill “This Guy” after the
 		though one of the soldiers did end up killing “This Guy” because he didn’t know who he was?
 			(M. CLAUDIUS) MARCELLUS
 13:	A powerful portrait of decadent Roman society at the close of the 1st century AD can be found in 
-		whose sixteen satires published between 110 and 128 AD?	(DECIMUS IUNIUS) IUVENAL(IS)
-B1:	Into how many books were these sixteen satires grouped?	FIVE BOOKS
+		whose sixteen satires published between 110 and 128 AD?	
+        (DECIMUS IUNIUS) IUVENAL(IS)
+B1:	Into how many books were these sixteen satires grouped?	
+FIVE BOOKS
 B2:	In which of Juvenal’s Satires does Umbricius list all the many ways in which Rome has 
-		become an unbearable place to live?	SATIRE 3 (IN BOOK 1)
+		become an unbearable place to live?	
+        SATIRE 3 (IN BOOK 1)
 
 14: 	What Latin phrase might one use to refer to the characters in a play?	DRĀMĀTIS PERSŌNAE
 B1:	What Latin phrase might one use to refer to the ratfink who blabbed all your plans and is now 
@@ -120,9 +123,10 @@ B1:	Change sustulissētis to the passive voice.	SUBLATĪ (-AE, -A) ESSĒTIS
 B2:	Change sublatī (-ae, -a) essētis to the present tense.	TOLLĀMINĪ
 
 19: 	Though he did not acquire any new provinces in the East, Sulla detached Cisalpine Gaul from Italy, 			bringing the total number of Roman provinces to ten. Of the other nine provinces, name any two. 	
-				see below for answers
-B1: 	Name two more.	see below for answers
-B2: 	Name two more. 	AFRICA, SICILIA, SARDINIA ET CORSICA, HISPANIA CITERIOR, 
+				SEE BELOW
+B1: 	Name two more.	SEE BELOW
+B2: 	Name two more. 	
+AFRICA, SICILIA, SARDINIA ET CORSICA, HISPANIA CITERIOR, 
 			HISPANIA ULTERIOR, GALLIA TRANSALPINA, MACEDONIA, ASIA, CILICIA
 
 20: 	What is the gender of the Latin nouns lac, vulgus, and bellum?	NEUTER
@@ -233,8 +237,10 @@ B2:	How much medication should be taken at a time if it is labeled coch.?	A SPOO
 
 16: 	The deaths of Lucius Caesar in 2 AD and Gaius Caesar two years later left what man as the sole heir 
 			of Augustus for the last ten years of the emperor’s life?	TIBERIUS
-B1: 	Augustus adopted Tiberius after the death of what man in 12 BC?	(M. VIPSANIUS) AGRIPPA
-B2: 	Whom had Augustus adopted in 25 BC as his first heir?	(M. CLAUDIUS) MARCELLUS
+B1: 	Augustus adopted Tiberius after the death of what man in 12 BC?	
+(M. VIPSANIUS) AGRIPPA
+B2: 	Whom had Augustus adopted in 25 BC as his first heir?	
+(M. CLAUDIUS) MARCELLUS
 
 17:	Name the two tenses of the subjunctive that can be used in a dependent clause when the main verb is 
 		in the future tense.	PRESENT, PERFECT
@@ -398,10 +404,13 @@ B2: 	Which university has the motto “suōs cultōrēs scientia corōnat”, wh
 
 
 20: 	At what battle were Calgacus and the Caledonian tribes defeated by the Roman general Agricola in 
-			84 AD?	MŌNS / MT. GRAUPIUS
+			84 AD?	
+            MŌNS / MT. GRAUPIUS
 B1: 	Agricola was preceded as governor of Britannia by what man who pushed into Wales and defeated 
-		the Silures from 74 to 78 AD?	(SEX. IULIUS) FRONTINUS
-B2: 	Who served as Vespasian’s first governor of Britannia from 69 to 71 AD?	(MARCUS) VETTIUS (BOLANUS)
+		the Silures from 74 to 78 AD?	
+        (SEX. IULIUS) FRONTINUS
+B2: 	Who served as Vespasian’s first governor of Britannia from 69 to 71 AD?	
+(MARCUS) VETTIUS (BOLANUS)
 
 
 
@@ -416,14 +425,6 @@ B1:	Give the Latin root and its meaning from which we derive “refrain”, as i
 			FRĒNUM – A BRIDLE, BIT, CURB
 B2:	Give the Latin root and its meaning from which we derive “sagebrush”?	SALVUS - HEALTHY
 
-2:	I am now going to hand each of you a visual.  Please do not open the visual until you are told to do so.
-	(PLEASE HAND OUT THE VISUAL)
-	Please open the visual and you have 10 seconds to study the visual.
-	(WAIT 10 SECONDS)
-	Pictures A, B, and C all depict events that can be found in which book of Caesar’s Dē Bellō Gallicō?
-			BOOK 4
-B1:	Please identify the picture that depicts Passage #1.	B
-B2:	Please identify the picture that depicts Passage #3.	A
 
 3:	Please give the syncopated form of laudāvissēmus.	LAUDĀSSĒMUS
 B1:	Please give the syncopated form of dormīveritis.	DORMĪRITIS
@@ -467,9 +468,12 @@ B1:	Which of the following is furthest north:  Isca, Tolosa, Emporiae, Corduba, 
 B2:	Which of the following is furthest south:  Alalia, Carnuntum, Ephesus, Sabrata, Tarsus?	SABRATA
 
 11: 	Who hindered Octavian’s administration of Italy and caused a rift among the members of the Second 
-			Triumvirate by marching against Octavian in 41 BC?	LUCIUS ANTONIUS
-B1: 	Where was Antonius defeated by Salvidienus and Agrippa in 40 BC?	PERUSIA
-B2: 	Name Marc Antony’s wife who conspired with Lucius against Octavian.	FULVIA
+			Triumvirate by marching against Octavian in 41 BC?	
+            LUCIUS ANTONIUS
+B1: 	Where was Antonius defeated by Salvidienus and Agrippa in 40 BC?	
+PERUSIA
+B2: 	Name Marc Antony’s wife who conspired with Lucius against Octavian.
+	FULVIA
 
 12:	What son of Creon sacrificed himself in order to save the city from the Seven Against Thebes?
 			MENOECEUS
@@ -487,9 +491,12 @@ B1:	What two things do refreshed students bring to their studies?
 			MORE STRENGTH & SHARPER MIND
 B2:	Against what does a sharper mind rebel?	EXCESSIVE WORK
 
-14:	Of what grammatical number are ambō and duo examples	DUAL
-B1:	What kind of words are fors and spontis?	DIPTOTES
-B2:	What is a diptote?	NOUNDS FOUND IN TWO CASES ONLY
+14:	Of what grammatical number are ambō and duo examples	
+DUAL
+B1:	What kind of words are fors and spontis?	
+DIPTOTES
+B2:	What is a diptote?	
+NOUNDS FOUND IN TWO CASES ONLY
 
 
 15:	The line “haec tua Pēnelopē lentō tibi mittit, Ulīxe, nīl mihi rescrībās attinet:  ipse venī!” can be 
@@ -503,7 +510,8 @@ B1:	To whom was Alcmaeon already married?	ARSINOE
 B2:	What two sons of Callirhoe grew overnight and avenged their father?	ACARNAN & AMPHOTERUS
 
 17: 	The ascension of the emperor Diocletian was facilitated by what Praetorian Prefect who murdered the 
-			previous emperor Numerian in 284 AD?	(ARRIUS) APER
+			previous emperor Numerian in 284 AD?	
+            (ARRIUS) APER
 B1: 	What position in Numerian’s army did Diocletian hold at the time?	
 			CAPTAIN/COMMANDER OF IMPERIAL BODYGUARD
 B2: Numerian’s brother Carinus refused to recognize Diocletian as emperor in the East and met him in 
@@ -539,20 +547,25 @@ B2:	Say in Latin:  I will wait here provided that the commander returns.
 ADVANCED DIVISION
 FINALS
 
-Elected consul in 115 BC with Marcus Caecilius Metellus and censor in 109 BC with Marcus Livius Drusus, what man served as princeps senatus from 120 BC until his death and called for the senatus consultum ultimum against Saturninus in 100 BC?	(MARCUS) AEMILIUS SCAURUS
+1. Elected consul in 115 BC with Marcus Caecilius Metellus and censor in 109 BC with Marcus Livius Drusus, what man served as princeps senatus from 120 BC until his death and called for the senatus consultum ultimum against Saturninus in 100 BC?	
+(MARCUS) AEMILIUS SCAURUS
 B1:	At the height of the Jugurthan War, Scaurus served as president of a special court for investigating aristocratic corruption that had been created by what tribune of 110 BC?
 		(GAIUS) MAMILIUS (LIMETANUS)
-B2:	In order to bolster his political influence, Scaurus married Caecilia Metella, who would later go on to marry what Roman politician after her first husband’s death?	SULLA
-For the verb praetereō, give the 3rd person singular future imperative.	PRAETERĪTO
-B1:	Keeping all else the same, change that form to the plural.	PRAETEREUNTŌ
-B2:	Change that form to the 2nd person. 	PRAETERĪTŌTE
-Who sent his sons for safe keeping first to Polypheides, king of Sicyon, then to Oeneus, king of Aetolia, in order to protect them during his long feud with his brother, Thyestes?	ATREUS
+B2:	In order to bolster his political influence, Scaurus married Caecilia Metella, who would later go on to marry what Roman politician after her first husband’s death?	
+SULLA
+ 1. For the verb praetereō, give the 3rd person singular future imperative.	
+ PRAETERĪTO
+B1:	Keeping all else the same, change that form to the plural.	
+PRAETEREUNTŌ
+B2:	Change that form to the 2nd person. 	
+PRAETERĪTŌTE
+1. Who sent his sons for safe keeping first to Polypheides, king of Sicyon, then to Oeneus, king of Aetolia, in order to protect them during his long feud with his brother, Thyestes?	ATREUS
 B1:	What king of Sparta brought Atreus’ sons back to Mycenae?	TYNDAREUS
 B2:	Atreus’ son, Menelaus, later married Tyndareus’ daughter, Helen.  Name both the son and daughter born to this couple.	NICOSTRATUS AND HERMIONE
-What type of subjunctive is used in this sentence: forsitan temēre fēcerim?	POTENTIAL
+1. What type of subjunctive is used in this sentence: forsitan temēre fēcerim?	POTENTIAL
 B1:	The Latin word forsitan originally introduced what type of dependent subjunctive clause?		INDIRECT QUESTION
 B2:	Say in Latin using forsitan:  “Perhaps you may ask why we are doing this.”		FORSITAN QUAERĀ(TI)S / ROGĀ(TI)S CŪR / QUĀRE (HOC) FACIĀMUS
-Listen carefully to the following passage from the Metamorphoses of Apuleius in which the narrator Lucius encounters the Queen of Heaven, which I will read twice, and answer in ENGLISH the question that follows:
+1. Listen carefully to the following passage from the Metamorphoses of Apuleius in which the narrator Lucius encounters the Queen of Heaven, which I will read twice, and answer in ENGLISH the question that follows:
 Nec mora, cum somnō prōtinus absolūtus pavōre et gaudiō ac dein sudōre nimiō permixtus exsurgō summēque mīrātus deae potentis tam clāram praesentiam, marīnō rōre respersus magnīsque imperiīs eius intentus monitiōnis ōrdinem recolēbam.
 	The question: What two emotions did Lucius feel immediately upon awakening?
 FEAR & JOY
@@ -561,60 +574,55 @@ B1: 	With what did Lucius wash himself?
 B2:	What is the last thing that Lucius does in this passage?
 HE THINKS OVER / PONDERS THE GODDESS’ INSTRUCTIONS / THE ORDER OF THINGS WHICH SHE INSTRUCTED HIM TO DO
 
-The following is a visual tossup.  (Begin distributing the visuals)  Please do NOT open your visuals until you are instructed to do so.  Also, please keep in mind that this is a tossup question so there should be no consultation among teammates.  You will have 15 seconds to examine your visuals.
 
-Please open your visuals.
-
-Which of the passages on the visual was NOT written by Plautus?	“B”
-B1:	Identify by letter the title of any two of the five Plautine plays in the visual.	SEE BELOW
-B2:	Now do the same for two more of the remaining passages.
-		“A” = MOSTELLARIA / “C” = AULULARIA / “D” = MILES GLORIOSUS / 
-“E” = MENAECHMI / “F” = RUDENS
-What Latin poet, after 30 years in Bordeaux as a teacher of rhetoric, was summoned to the imperial court at Trier to teach the son of the emperor Valentinian?	(DECIMUS MAGNUS) AUSONIUS
+1. What Latin poet, after 30 years in Bordeaux as a teacher of rhetoric, was summoned to the imperial court at Trier to teach the son of the emperor Valentinian?	(DECIMUS MAGNUS) AUSONIUS
 B1:	The best known work of Ausonius is a description of what river in 483 lines of hexameter?	
 MOSELLA / MOSELE
 B2:	For which emperor did Ausonius compose a prose speech of thanks in 379 AD?	GRATIAN
-The assassinations of Aetius and Valentinian III opened the way for the dominance of what German general who raised and deposed four of the last seven Roman emperors?	RICIMER 
+1. The assassinations of Aetius and Valentinian III opened the way for the dominance of what German general who raised and deposed four of the last seven Roman emperors?	RICIMER 
 B1:	The emperor Glycerius was given the throne in 473 AD by what nephew and de facto successor of 
 	Ricimer?		GUNDOBAD 
 B2:	Ricimer’s maternal grandfather was Wallia, successor to Athaulf and king of what German tribe?		VISIGOTHS 
-Bipedālia, abaculī, tēgulae, and imbricēs are all what kind of construction material?	TILE
+1. Bipedālia, abaculī, tēgulae, and imbricēs are all what kind of construction material?	TILE
 B1:	Of the four types of tile listed in the toss-up, which was a gutter tile?	IMBRICĒS
 B2:	Of the other three types of tile listed in the toss-up, which was also a type of roof tile?	TĒGULAE
-What son of Andraemon secured the throne of Elis after defeating Dius, despite having been denied the aid of the Heraclids, for whom he had served as oracle upon his trusty mule?	OXYLUS
+1. What son of Andraemon secured the throne of Elis after defeating Dius, despite having been denied the aid of the Heraclids, for whom he had served as oracle upon his trusty mule?	OXYLUS
 B1:	The Heraclids also attacked Argos, defeating what son of Orestes?	TISAMENUS
 B2:	After defeating their enemies, the Heraclid leaders drew lots to divide the territories they had won. Which of the leaders won Messenia by trickery and was eventually killed by his sons and Polyphontes?	CRESPHONTES
-In the following sentence, what is the use of the accusative case: “In arbore multī avēs carmina dulcissimē canebant”?	COGNATE /INTERNAL / ACCUSATIVE OF KINDRED SPECIFICATION
+1. In the following sentence, what is the use of the accusative case: “In arbore multī avēs carmina dulcissimē canebant”?	COGNATE /INTERNAL / ACCUSATIVE OF KINDRED SPECIFICATION
 B1:	Now what is the use of the accusative case in this sentence: “Nōnnē puerī id aetātis molestiorēs sunt?”	ADVERBIAL
 B2: 	Now what is the use of the ablative case in this sentence: “Figule, vās ingens argillā statim fingātur“?	MATERIAL
-What Latin word is at the root of the English verb “soil”?	SŪS
+1. What Latin word is at the root of the English verb “soil”?	SŪS
 B1:	What Latin word is at the root of the English noun “sexton”?	SACER
 B2:	What Latin word is at the root of the English verb “pester”?	PASCŌ
-Of the Latin verb forms hebēscit, ērubēscit, scīscit, mānsuēfacit, and bacchātur, which best answers the following Latin question: Sī quis secūrim in arbōrem identidem iactābit, quid secūrī accidat?	HEBĒSCIT
+1. Of the Latin verb forms hebēscit, ērubēscit, scīscit, mānsuēfacit, and bacchātur, which best answers the following Latin question: Sī quis secūrim in arbōrem identidem iactābit, quid secūrī accidat?	HEBĒSCIT
 B1:	Of the Latin verb forms hebēscit, ērubēscit, scīscit, mānsuēfacit, and bacchātur, which best answers the following Latin question: Sī quis equum ferum cogere equitem recipere potest, quid equō accidat?	MĀNSUĒFACIT
 B2:	Of the Latin verb forms hebēscit, ērubēscit, scīscit, mānsuēfacit, and bacchātur, which best answers the following Latin question: Sī fēmina innocēns iocum immodestum audit, quid fēminae accidat?	ĒRUBĒSCIT
-What son of Poseidon and Euryte raped the daughter of Aglaurus and Ares, whose name was Alcippe, and as a result became the first murder victim in mythology?	HALIRRHOTHIUS
+1. What son of Poseidon and Euryte raped the daughter of Aglaurus and Ares, whose name was Alcippe, and as a result became the first murder victim in mythology?	HALIRRHOTHIUS
 B1:	What son of Ares was killed by Apollo for burning down the Apollonian temple at Delphi? 		PHLEGYAS
 B2:	Name the father of Dia and father-in-law to be of Ixion, whom Ixion killed by pushing him into a bed of flaming coals?	(D)EIONEUS
-Who am I? Born to the historian Licinius Macer in 82 BC, I became a great orator, though my prosecution of Caesar’s ally Vatinius was unsuccessful. An accomplished poet, I composed the historical epic Io as well as a mournful poem honouring my dead wife Quintilia. 	      CALVUS
+1. Who am I? Born to the historian Licinius Macer in 82 BC, I became a great orator, though my prosecution of Caesar’s ally Vatinius was unsuccessful. An accomplished poet, I composed the historical epic Io as well as a mournful poem honouring my dead wife Quintilia. 	      CALVUS
 B1:	Calvus was a good friend of Catullus. What other friend of his did Catullus mock for composing an abstruse, learned epic poem about an incestuous mythological relationship?	CINNA
 B2	Calvus, Cinna and Catullus were all neoteric poets. What earlier neoteric poet was described as “Latina siren, qui solus legit ac facit poetas”?	    VALERIUS CATO
-Please translate the following sentence into Latin using the verb petō: “Caesar asked his lieutenants why they had not obeyed his orders.”		CAESAR Ā LĒGĀTĪS PETĪVIT / PETĒBAT CŪR MANDĀTĪS / IMPERIĪS / IUSSĪS (SUĪS) 
+1. Please translate the following sentence into Latin using the verb petō: “Caesar asked his lieutenants why they had not obeyed his orders.”		CAESAR Ā LĒGĀTĪS PETĪVIT / PETĒBAT CŪR MANDĀTĪS / IMPERIĪS / IUSSĪS (SUĪS) 
 	NŌN PARUISSENT 
 B1:	Please translate this sentence into Latin: “The lieutenants will have to obey Caesar’s orders.”		PARENDUM ERIT MANDĀTĪS / IMPERIĪS / IUSSĪS CAESARIS Ā LĒGĀTĪS   
 B2:	Please translate this sentence into Latin: “He believes that the lieutenants of Caesar are worthy to be praised.”
-		CREDIT LEGATOS CAESARIS ESSE DIGNOS QUI LAUDENTUR
+1. 		CREDIT LEGATOS CAESARIS ESSE DIGNOS QUI LAUDENTUR
 Who was likely present in Perusia when Octavian captured the city in 41 BC and was often called the Roman Callimachus?	PROPERTIUS
 B1:	Book 3 of Propertius’s poetry contains a prominent poem to Maecenas and what member of Augustus’s family?	(M. CLAUDIUS) MARCELLUS
 B2:	Propertius dedicated his Monobiblos to the nephew of what consul who served alongside of Octavian in 33 BC?	(L. VOLCACIUS) TULLUS
-By whom were Minos’ son Glaucus, Hymenaeus, Lycurgus, Capaneus, and Hippolytus all said to have been revived using Gorgon blood?	ASCLEPIUS
+1. By whom were Minos’ son Glaucus, Hymenaeus, Lycurgus, Capaneus, and Hippolytus all said to have been revived using Gorgon blood?	ASCLEPIUS
 B1:	For reanimating the dead, Zeus killed Asclepius.  How did Apollo avenge his son?		HE KILLED THE CYCLOPES (WHO HAD FORGED THE THUNDERBOLT)
 B2:	Give the Latin term for the constellation into which Zeus turned Asclepius.	OPHIUCHUS
-
-The year 190 BC saw Rome emerge victorious at two separate battles against its enemy Antiochus III. At which of these two battles did Lucius Aemilius Regillus achieve Rome’s last notable naval victory against a foreign enemy?	MYONESSUS
-B1:	Roman forces won their second victory against Antiochus III that year under the command of what consul of 190 BC?	LUCIUS (CORNELIUS) SCIPIO (ASIAGENES/ASIATICUS)
-B2: 	What consul of 189 BC succeeded Scipio as commander in Asia and signed a treaty with Antiochus at Apamea?	(GNAEUS) MANLIUS VULSO
-Translate the following sentence into English:  Multī in oppidō clāmāre et nōnnūllī plōrāre.
+1. 
+The year 190 BC saw Rome emerge victorious at two separate battles against its enemy Antiochus III. At which of these two battles did Lucius Aemilius Regillus achieve Rome’s last notable naval victory against a foreign enemy?	
+MYONESSUS
+B1:	Roman forces won their second victory against Antiochus III that year under the command of what consul of 190 BC?	
+LUCIUS (CORNELIUS) SCIPIO (ASIAGENES/ASIATICUS)
+B2: 	What consul of 189 BC succeeded Scipio as commander in Asia and signed a treaty with Antiochus at Apamea?	
+(GNAEUS) MANLIUS VULSO
+1. Translate the following sentence into English:  Multī in oppidō clāmāre et nōnnūllī plōrāre.
 		MANY IN TOWN SHOUTED/WERE SHOUTING AND SOME CRIED / WERE CRYING
 B1:	Translate:  Quid obstat quōminus sit beātus?		WHAT IS TO PREVENT HIM / HINDER HIM FROM BEING HAPPY
 B2:	Translate:  Multī puerī sunt tam pigrī quīn celeriter currere possint.		MANY BOYS ARE SO SLOW/SLUGGISH THAT THEY CAN’T RUN FAST/QUICKLY

@@ -29,6 +29,15 @@ while "  " in st:st=st.replace("  "," ").replace("\n \n","\n")
 for num in range(1,21):
     st=st.replace(str(num)+".",str(num)+". ").replace(" #"+str(num)," "+str(num)).replace("#"+str(num)," "+str(num)).replace(str(num)+")",str(num)+".")
 
+#Ensure each bonus is on a separate line
+ind=0
+while ind<len(st):
+    match = re.search(r".+(?=B1|B2)",st[ind:],flags=re.UNICODE)
+    if match:
+        st=st[:match.span()[0]+ind]+"\n"+st[match.span()[1]+ind:]
+        ind=match.span()[1]+ind
+        match=""
+    else:ind=len(st) #ends the loop if no more spots are found
 
 #Get rid of page numbers:
 ind = 0
@@ -59,6 +68,14 @@ while ind<len(st):
     if match:
 
         st=st[:match.span()[0]+ind]+st[match.span()[0]+ind:match.span()[1]+ind].upper()+st[match.span()[1]+ind:]
+        ind=match.span()[1]+ind
+        match=""
+    else:ind=len(st) #ends the loop if no more spots are found
+ind=0
+while ind<len(st):
+    match = re.search(r".*(page|Page|PAGE).*",st[ind:],flags=re.UNICODE)
+    if match:
+        st=st[:match.span()[0]+ind]+st[match.span()[1]+ind:]
         ind=match.span()[1]+ind
         match=""
     else:ind=len(st) #ends the loop if no more spots are found
@@ -121,6 +138,7 @@ with open(f"Reading Files/Rounds/{lvl}/" +args[0]+"_Parsed.txt",'w',encoding='ut
         if "B2:" in boni:
             boni=boni.split("B2:")
             boni[1]="B2:"+boni[1]
+
         else:boni=[boni]
         tossup=re.findall(r"\d(?::|\.) .*?\n(?=[^a-z\n]+$|GREEKANS.*$)",tu,re.S)
         if not tossup:tossup=re.findall(r"\d(?:\.|:) .*?\n(?=[^a-z\n]+$|GREEKANS.*$)",tu,re.S)

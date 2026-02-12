@@ -5,19 +5,21 @@ import os
 file = args[0]
 
 p=(os.path.abspath("Classifier.py"))
-
+lvl = args[0].split("_")[0]
+if lvl[-2:]=="dE" or lvl[-2:]=="eE":
+        lvl=lvl[:-1]
 p=p[:-13]
 if not "Reading Files" in p: p+="Reading Files/Rounds/"
 DCTENG={*open(p[:-7]+"CSW19.txt",encoding='utf-8').read().splitlines()}
-questions = open(p+args[0]+'.txt', encoding='utf-8').read().splitlines()
-histquestions = (open(p+f"Advanced_History.txt",encoding='utf-8').read()+open(p+f"Intermediate_History.txt",encoding='utf-8').read()).splitlines()
+questions = open(p+lvl+"/"+args[0]+'_Parsed.txt', encoding='utf-8').read().splitlines()
+histquestions = (open(p+"Advanced/"+f"Advanced_History.txt",encoding='utf-8').read()+open(p+"Intermediate/"+f"Intermediate_History.txt",encoding='utf-8').read()).splitlines()
 WORDFREQ = set()
 words = "".join(histquestions).replace(",","").replace("'s",'').replace(".","").replace("?","").replace("ā",'a').replace("?","").replace("ē",'e').replace('ī','i').replace('ō','o').replace('ū','u').replace('ë','e').replace('ō','o').split(" ")
 for word in words:
     if word and word[0] in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' and len(word)>3 and not word[1] in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' and not word.upper() in DCTENG: 
         WORDFREQ.add(word.lower())
 WORDFREQMYTH = set()
-myths = (open(p+f"Advanced_Mythology.txt",encoding='utf-8').read()+open(p+f"Intermediate_Mythology.txt",encoding='utf-8').read()).splitlines()
+myths = (open(p+"Advanced/"+f"Advanced_Mythology.txt",encoding='utf-8').read()+open(p+f"Intermediate/Intermediate_Mythology.txt",encoding='utf-8').read()).splitlines()
 wordsmyth = "".join(myths[:len(myths)//2]).replace(",","").replace(".","").replace("'s",'').replace("?","").replace("ā",'a').replace("ē",'e').replace('ī','i').replace('ō','o').replace('ū','u').replace('ë','e').replace('ō','o').split(" ")
 for word in wordsmyth:
     if word and word[0] in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' and len(word)>3 and not word[1] in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' and not word.upper() in DCTENG: 
@@ -27,7 +29,7 @@ forbiddenwordsmyth = {'rome','war'}
 WORDFREQ-=forbiddenwordshist
 WORDFREQMYTH-=forbiddenwordsmyth
 WORDFREQLIT = set()
-litQs = open(p+f"Advanced_Literature.txt",encoding='utf-8').read().splitlines()
+litQs = open(p+"Advanced/"+f"Advanced_Literature.txt",encoding='utf-8').read().splitlines()
 wordslit = "".join(litQs[:len(litQs)//2]).replace(",","").replace(".","").replace("'s",'').replace("?","").replace("ā",'a').replace("ē",'e').replace('ī','i').replace('ō','o').replace('ū','u').replace('ë','e').replace('ō','o').split(" ")
 for word in wordslit:
     if word and word[0] in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' and len(word)>3 and not word[1] in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' and not word.upper() in DCTENG: 
@@ -313,12 +315,16 @@ for question in questions:
         counts['Lit:']=counts['Lit:']+1
     else:category=("Ambiguous")
     if category=="Ambiguous":
-        print(question)
+        print(question,"Ambiguous")
     else:
         lvl = file.split("_")[0]+"/"
-        a={*open (p+lvl+f"_{category}.txt",encoding='utf-8').read().splitlines()}
-        with open (p+lvl+f"_{category}.txt","a",encoding='utf-8') as output:
+        lvl1 = lvl[:]
+        if lvl[-3:]=="dE/" or lvl[-3:]=="eE/":
+            lvl1=lvl[:-2]+"/"
+        a={*open (p+lvl1+f"{lvl[:-1]}_{category}.txt",encoding='utf-8').read().splitlines()}
+        with open (p+lvl1+f"{lvl[:-1]}_{category}.txt","a",encoding='utf-8') as output:
             if not question in a:output.write(question+"\n")
+        #if category=="Mythology":print(question,category)
 print(len(questions))
 for itm in counts:
     print(itm,counts[itm])

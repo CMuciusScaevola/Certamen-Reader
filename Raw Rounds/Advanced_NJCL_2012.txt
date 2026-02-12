@@ -42,11 +42,13 @@ B2: 	What derivative of a Latin verb meaning “leave behind” means “a piece
 
 
 6.	What two young men, the grandsons and likely heirs of Augustus, died prematurely 
-	between 2 and 4 AD?	GAIUS AND LUCIUS CAESAR
+	between 2 and 4 AD?	
+    GAIUS AND LUCIUS CAESAR
 B1: 	Who were the parents of Gaius and Lucius Caesar?
 		(MARCUS VIPSANIUS) AGRIPPA AND JULIA
 B2: 	In what province had Gaius shown promise by quelling a Parthian resistance there in 
-	1 BC?	ARMENIA
+	1 BC?	
+    ARMENIA
 
 7.	According to some sources, what seer in mythology received his powers of prophecy 
 	from Athena as compensation for being struck blind when he saw her bathing?
@@ -83,7 +85,8 @@ B2: 	Translate “mile” into Latin for the following sentence:  I ran for a mi
 
 
 12.	What work, which the author called Iambī because of its metrical rhythm and aggressive 
-	tone, was written by Horace between 41 and 30 BC?	EPODES
+	tone, was written by Horace between 41 and 30 BC?	
+    EPODES
 B1: 	What two-book work of Horace includes social commentary, the details of his trip to 
 	Brundisium with Maecenas, and a story about running into a bore in the Forum?
 		SERMŌNĒS / SATIRES	
@@ -184,10 +187,12 @@ B1: 	What adjective in the toss-up can also take the dative case?	AFFĪNIS
 B2: 	What adjective in the toss-up can also be followed by an ablative?	PERĪTUS
 
 6.	What Danubian officer became emperor after he killed the praetorian prefect Aper with 
-	his own hands in 284 AD?	(GAIUS AURELIUS VALERIUS) DIOCLETIAN
+	his own hands in 284 AD?	
+    (GAIUS AURELIUS VALERIUS) DIOCLETIAN
 B1: 	With Aper dead, Diocletian only faced opposition from what elder son of the former 
 	emperor Carus?	CARINUS
-B2: 	At what battle did Diocletian finally defeat Carinus?	MARGUS / MORAVA
+B2: 	At what battle did Diocletian finally defeat Carinus?	
+MARGUS / MORAVA
 
 
 7.	Give the Latin and English for the abbreviation d.s.p. (d-period-s-period-p-period)
@@ -270,9 +275,11 @@ B2: 	What English adjective, derived from a Latin verb meaning “measure,” me
 18.	What event in Roman history occurred for the first time in 494 BC and would happen 
 	four more times before the passage of the Lēx Hortēnsia in 287 BC?
 		PLEBEIAN SECESSION / WITHDRAWAL (FROM ROME)
-B1: 	To what hill did the plebeians secede in 494 BC?	MŌNS SĀCER / AVENTINE
+B1: 	To what hill did the plebeians secede in 494 BC?	
+MŌNS SĀCER / AVENTINE
 B2: 	What Latin term refers to the legal power of patrician magistrates that plebeians such as 
-	tribūnī plēbis lacked?	IMPERIUM
+	tribūnī plēbis lacked?	
+    IMPERIUM
 
 19.	Who was unintentionally killed by a spear tipped with the barb of a stingray by his son 
 	Telegonus?	ODYSSEUS
@@ -283,9 +290,11 @@ B2:  	After Odysseus was properly buried, Telegonus married Penelope and became 
  
 
 20.	That he wrote et rārō et tardē was written about what satirist, who wrote only six books 
-	and died at the age of 28 in 62 AD?	(AULUS) PERSIUS (FLACCUS)
+	and died at the age of 28 in 62 AD?	
+    (AULUS) PERSIUS (FLACCUS)
 B1: 	What contemporary author said of Persius’ works, “That is real poetry, whereas what I 
-	have written is utter tripe”?	LUCAN
+	have written is utter tripe”?	
+    LUCAN
 B2: 	What Stoic philosopher tutored Persius at Rome and helped edit much of his work?
 		(LUCIUS ANNAEUS) CORNUTUS
 
@@ -318,9 +327,11 @@ B2: 	Now say in Latin, “I don’t believe the thief will be punished.”
 		FORE UT FŪR / PRAEDŌ / LĀTRŌ PŪNIĀTUR
 
 4.	What important port city in Hispania gave Scipio both resources and a stronghold when 
-	he captured it in 209 BC?	CARTHĀGŌ NOVA / NEW CARTHAGE / CARTAGENA
+	he captured it in 209 BC?	
+    CARTHĀGŌ NOVA / NEW CARTHAGE / CARTAGENA
 B1: 	At what battle in the following year did Scipio successfully outflank Hasdrubal Barca, 
-	forcing him to withdraw from Spain?	BAECULA
+	forcing him to withdraw from Spain?	
+    BAECULA
 B2: 	What relatives of Scipio did the Carthaginians defeat and kill in Spain?
 		PUBLIUS & GNAEUS (CORNELIUS) SCIPIO (HIS FATHER AND UNCLE)
 
@@ -591,11 +602,14 @@ B2:	Greek words can have irregular declensions in Latin.  What is the vocative f
 	proper noun Aenēās?	AENĒĀ
 
 19.	Caesar extended the Roman frontier as far north as the Rhine when he defeated what 
-	chieftain of the Suebi in 58 BC?	ARIOVISTUS
+	chieftain of the Suebi in 58 BC?
+    	ARIOVISTUS
 B1: 	What lieutenant of Caesar brought up reinforcements at the battle of Vosges to secure the 
-	defeat of the Suebi?	PUBLIUS CRASSUS
+	defeat of the Suebi?	
+    PUBLIUS CRASSUS
 B2: 	What Aeduan leader had originally requested aid from Caesar in fending off the advances 
-	of Ariovistus?	DIVITIACUS / DIVICIACUS
+	of Ariovistus?	
+    DIVITIACUS / DIVICIACUS
 
 20.	What author patterned his antithesis, asymmetry, and inconcinnitās on the style of 
 	Thucydides as he wrote his historical monographs?	 (GAIUS) SALLUST(IUS CRISPUS)
@@ -735,12 +749,15 @@ B2:  	In which of his works, a foundational text for Pliny the Elder, does Senec
 
 
 16.	What consul of 50 BC not only denied Caesar’s request for a longer command in Gaul 
-	but recommended that it be curtailed by a year?	(GAIUS) MARCELLUS 
+	but recommended that it be curtailed by a year?	
+    (GAIUS) MARCELLUS 
 B1: 	What tribune, a staunch supporter of Caesar, vetoed Marcellus’ legislation and offered a 
-	joint-disarmament proposal that passed later in 50 BC?	(GAIUS) SCRIBONIUS CURIO
+	joint-disarmament proposal that passed later in 50 BC?	
+    (GAIUS) SCRIBONIUS CURIO
 B2: 	Although Curio’s motion passed, Pompey’s mobilization forced Caesar to act likewise. In 
 	what northern Italian city did Caesar summon his forces from Gaul before crossing the 
-	Rubicon?	RAVENNA
+	Rubicon?	
+    RAVENNA
 
 17.	Which of the Greeks is given the unsavory tasks of snatching Astyanax from his mother’s 
 	arms and accompanying Eurybates to repossess Briseis from Achilles, far cries from his 

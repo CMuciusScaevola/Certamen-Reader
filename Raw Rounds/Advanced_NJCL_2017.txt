@@ -373,10 +373,13 @@ B1:	What Latin noun lies at the root of the Spanish-English noun "hidalgo," mean
 B2:	What Latin pronoun also lies at the root of “hidalgo”?	        (ALI)QUIS
 
 
-7:	What father of a future triumvir was invested with a special proconsular imperium īnfīnītum to deal with the pirates?	(MARCUS) ANTONIUS CRETICUS
+7:	What father of a future triumvir was invested with a special proconsular imperium īnfīnītum to deal with the pirates?	
+(MARCUS) ANTONIUS CRETICUS
 B1:	After the failure of Antonius Creticus, what tribune conferred supreme command against the 
-	pirates on Pompey in 67 BC?	(AULUS) GABINIUS
-B2:	What ex-consul, an enemy of Pompey, had defeated the pirates on Crete and subdued the entire island into a Roman province?	(QUINTUS CAECILIUS) METELLUS CRETICUS
+	pirates on Pompey in 67 BC?	
+    (AULUS) GABINIUS
+B2:	What ex-consul, an enemy of Pompey, had defeated the pirates on Crete and subdued the entire island into a Roman province?	
+(QUINTUS CAECILIUS) METELLUS CRETICUS
 
 8: 	What Silver Age poet, the son of a professional poet in the Greek festival circuit and later a school teacher, demonstrated the privilege of having a parent go before him in a profession through his versatile use of meter and deep allusions in his epics like the Thebaid and Silvae?
 			(P. PAPINIUS) STATIUS
@@ -396,9 +399,9 @@ B2:	Finally, translate: Cum multōs diēs iter fēcissēmus, nōnnūllī inter n
 SINCE/WHEN WE HAD BEEN MARCHING / HAD MARCHED
 FOR MANY DAYS, SOME OF / AMONG US BEGAN TO HATE EVERYTHING.
 
-12: 	Using one word, say in Latin: one-half.	DĪMIDIUM / SĒMIS Also accept dīmidius(-a-um)
-B1:	What fraction is translated into Latin as dōdrāns?	Three-fourths / three quarters
-B2:	What fraction is translated into Latin as bēs?	Two-thirds  
+12: 	Using one word, say in Latin: one-half.	DĪMIDIUM / SĒMIS ALSO ACCEPT DĪMIDIUS(-A-UM)
+B1:	What fraction is translated into Latin as dōdrāns?	THREE-FOURTHS / THREE QUARTERS
+B2:	What fraction is translated into Latin as bēs?	TWO-THIRDS  
 
 
 13:	Who doubled the number of equestrian centuries, added 100 members to the senate, and began draining the marsh where the Forum would eventually stand during his reign as king of Rome?
@@ -414,9 +417,9 @@ B2:	Differentiate in meaning between tūs and sūs.	TŪS - (FRANK)INCENSE;
 
 15:	The Romans had a different system of reckoning dates than we do today. Express today’s date, July 27, as the Romans would, in Latin.
 			(ANTE DIEM) SEXTUM KALENDĀS AUGUSTĀS
-B1:	Now express the traditional date without the year of the foundation of Rome as the Romans might have.	(ANTE DIEM) ŪNDECIMUM KALENDĀS MĀIĀS (April 21)
+B1:	Now express the traditional date without the year of the foundation of Rome as the Romans might have.	(ANTE DIEM) ŪNDECIMUM KALENDĀS MĀIĀS (APRIL 21)
 B2:	Finally, express the date without the year of US Independence Day as the Romans might have.
-			(ANTE DIEM) QUĀRTUM NŌNĀS IŪLIĀS (July 4)
+			(ANTE DIEM) QUĀRTUM NŌNĀS IŪLIĀS (JULY 4)
 
 16: 	What daughter of Priam was swallowed up by the earth after the capture of Troy?	LAODICE
 B1:	Laodice, the most beautiful of Priam’s daughters, fell in love with what Greek warrior?	ACAMAS
@@ -506,7 +509,7 @@ B1&2:	For five points each, name the two centaurs who tried to rape Atalanta?
 12:	Listen carefully to the following passage, which I will read twice; then answer the question that follows in LATIN.
 Sulla, dēvictīs inimīcīs imperiōque sūmptō, senātum convocātum summō ardōre postulāvit ut Gāius Marius hostis dēcernerētur. Neque quisquam sē opposuit Sullae donec senātor sententiam rogātus dīcere recūsāvit. Quī cum Sulla eum vōce minācī sententiam rogitāret respondit haud dubium esse quīn Sulla ipse interficiendus esset.
 Question: Quālis fuit vōx Sullae cum sententiam dē senātōre rogitāret?	MINĀX / MINĀNS
-B1:	Quō factō Sulla senātum convocāvit?	DĒVICTĪS INIMĪCĪS and/or IMPERIŌ SŪMPTŌ
+B1:	Quō factō Sulla senātum convocāvit?	DĒVICTĪS INIMĪCĪS AND/OR IMPERIŌ SŪMPTŌ
 B2:	Respondē Anglicē: Sententiā ūnīus senātōris, quid faciendum erat?
 (THERE WAS NO DOUBT THAT) SULLA (HIMSELF) HAD TO / SHOULD BE KILLED
 

@@ -305,8 +305,9 @@ ADVANCED DIVISION
 ROUND THREE
 
 1.	Which labor of Herakles forced him to deal with Helios, who angered Herakles because 
-	of the searing heat in northern Africa?	CATTLE OF GERYON
-		(prompt if “10th” is given)
+	of the searing heat in northern Africa?	
+    CATTLE OF GERYON
+		(PROMPT IF “10TH” IS GIVEN)
 B1:  	What item did Helios lend Herakles as a reward for his bravado?
 A GOLDEN CUP / VESSEL
 B2:  	When Herakles reached the land of Geryon, what herdsman of Hades told Geryon about 
@@ -729,10 +730,7 @@ B1:	According to Suetonius, Caecilius Statius commanded such respect that Terenc
 B2:	What stagehand and producer originally worked for Statius, but left after Terence’s career began to outshine Statius’?	(LUCIUS AMBIVIUS) TURPIO	
 
 15.	Listen carefully to the following passage from Seneca the Younger’s Quaestiōnēs Nātūrālēs, which I will read twice, and answer in ENGLISH the question that follows.
-
-Ventus est fluēns āēr. Quīdam ita dēfīniērunt: ventus est āēr fluēns in ūnam partem. Haec dēfīnītiō vidētur dīligentior, quia numquam āēr tam immōbilis est ut nōn in aliquā sit agitātiōne; sīc tranquillum mare dīcitur, cum leviter commōvētur nec in ūnam partem inclīnātur.
-
-TOSSUP: Why does Seneca prefer the definition of wind put forth in this passage?
+Ventus est fluēns āēr. Quīdam ita dēfīniērunt: ventus est āēr fluēns in ūnam partem. Haec dēfīnītiō vidētur dīligentior, quia numquam āēr tam immōbilis est ut nōn in aliquā sit agitātiōne; sīc tranquillum mare dīcitur, cum leviter commōvētur nec in ūnam partem inclīnātur.Why does Seneca prefer the definition of wind put forth in this passage?
            BECAUSE AIR IS NEVER SO IMMOBILE
  							 THAT IT IS NOT IN SOME MOVEMENT
 
