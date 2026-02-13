@@ -3,14 +3,14 @@
 import sys;args=sys.argv[1:]
 import re
 lvl=args[0].split("_")[0]
-st=open("Raw Rounds/"+args[0]+".txt",encoding='utf-8').read()
+st=open("Raw Rounds/"+args[0]+".txt",encoding='utf-8').read().replace("​","")
 #Remove common items that are undesirable
 while "——" in st:st=st.replace("——","—").replace("*","")
 while "  " in st:st=st.replace("  "," ")
 for num in range(1,21):st=st.replace(str(num)+".","")
-st=st.replace("a. BONUS","BONUS").replace("b. BONUS","BONUS").replace("WRITE-DOWN","TOSSUP").replace("WRITE DOWN","TOSSUP").replace("WRITEDOWN","TOSSUP").replace("WRITE-DOWN","TOSSUP")
+st=st.replace("a. BONUS","BONUS").replace("b. BONUS","BONUS").replace("WRITE-DOWN","TOSSUP").replace("WRITE DOWN","TOSSUP").replace("WRITEDOWN","TOSSUP").replace("WRITE-DOWN","TOSSUP").replace("Toss Up",'TOSSUP').replace("TOSS UP","TOSSUP")
 st=st.replace("ANS:\n","ANS: ").replace("\n*PAUSE FOR SCORE UPDATE*","").replace("**SCORE CHECK AFTER 10 QUESTIONS**","").replace("**SCORE CHECK AFTER 15 QUESTIONS**","").replace("**SCORE CHECK AFTER 19 QUESTIONS**","")
-st=st.replace("BONUS I & II","BONUS").replace("Bonus 1","BONUS").replace("BONUS 2","BONUS")
+st=st.replace("BONUS I & II","BONUS").replace("Bonus 1","BONUS").replace("BONUS 2","BONUS").replace("ANS ","ANS:").replace("ANS.","ANS:").replace("ANSWER","ANS").replace("Bonus","BONUS")
 st=st.replace("Ɲ","ē").replace("Ɯ","Ē").replace("ǀ","ō").replace("ƿ","Ō").replace("Ư","ī").replace("Ʈ","Ī").replace("ǌ","ū").replace("ǋ","Ū").replace("Ɨ","ā").replace("Ɩ","Ā")
 
 
@@ -33,6 +33,15 @@ while ind<len(st):
     match=re.search(r".*?Virginia Junior Classical League.*\n",st[ind:],flags=re.UNICODE)
     if match:
         st=st[:match.span()[0]+ind]+""+st[match.span()[1]+ind:]
+        ind=match.span()[1]+ind
+        match=""
+    else:ind=len(st) #ends the loop if no more spots are found
+
+ind=0
+while ind<len(st):
+    match=re.search(r"(?<= )BONUS:",st[ind:],flags=re.UNICODE)
+    if match:
+        st=st[:match.span()[0]+ind]+"\nBONUS:"+st[match.span()[1]+ind:]
         ind=match.span()[1]+ind
         match=""
     else:ind=len(st) #ends the loop if no more spots are found
@@ -64,7 +73,7 @@ bonus2s=[]
 bonus2answers=[]
 replacementct=0
 
-with open(f"Reading Files/Rounds/{lvl}" +args[0]+"_Parsed.txt",'w',encoding='utf-8') as output:
+with open(f"Reading Files/Rounds/{lvl}/" +args[0]+"_Parsed.txt",'w',encoding='utf-8') as output:
     for index,match in enumerate(matches):
        # if index-len(matches)>(-1-len(finalsmatches)) and match in finalsmatches[index-len(matches)]:
         #    match=finalsmatches[index-len(matches)]

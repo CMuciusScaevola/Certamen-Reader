@@ -43,15 +43,20 @@ def searchForQWindow(root,allQs):
     intCheckVar.set(1)
     noviceCheckVar=IntVar()
     noviceCheckVar.set(1)
+    agonCheckVar=IntVar()
+    agonCheckVar.set(1)
     TTKITMS['advCheckVar']=advCheckVar
     TTKITMS['intCheckVar']=intCheckVar
     TTKITMS['noviceCheckVar']=noviceCheckVar
+    TTKITMS['agonCheckVar']=agonCheckVar
     advancedCheck=ttk.Checkbutton(yearLvlFrm,text="Advanced",variable=advCheckVar)
     advancedCheck.grid(row=0,column=1)
     intermediateCheck=ttk.Checkbutton(yearLvlFrm,text="Intermediate",variable=intCheckVar)
     intermediateCheck.grid(row=0,column=2)
     noviceCheck=ttk.Checkbutton(yearLvlFrm,text="Novice",variable=noviceCheckVar)
     noviceCheck.grid(row=0,column=3)
+    agonCheck=ttk.Checkbutton(yearLvlFrm,text="Agon",variable=agonCheckVar)
+    agonCheck.grid(row=0,column=4)
     lvlLbl.grid(row=0,column=0,sticky=W)
     #lvls.grid(row=0,column=1,sticky=W)
     yearLvlFrm.grid(row=1,column=0,sticky=W)
@@ -92,6 +97,7 @@ def searchForTerm(*args):
         if TTKITMS["advCheckVar"].get():lvlOptions.append("from Advanced")
         if TTKITMS['intCheckVar'].get():lvlOptions.append("from Intermediate")
         if TTKITMS['noviceCheckVar'].get():lvlOptions.append("from Novice")
+        if TTKITMS['agonCheckVar'].get():lvlOptions.append("from Agon")
         #print(lvlOptions)
         for q in allQs:
             for itm in lvlOptions:
