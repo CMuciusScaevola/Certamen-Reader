@@ -61,12 +61,7 @@ B2: 	The motto associated with what state was first written by Cicero to advocat
 
 SCORE CHECK
 
-11:	Which emperor set maximum prices for goods, compared himself to Jupiter, and voluntarily retired in order to support his new system of government, the Tetrarchy?		DIOCLETIAN(US)
-[PASS OUT VISUAL] You now have 5 seconds to inspect the visual.
-B1:	In the top image, identify one of the individuals represented by A, B, or C.
-		MAXIMIAN // CONSTANTIUS I / CHLORUS // GALERIUS
-B2:	In the bottom image, which member of the Constantinian dynasty is represented by the letter Z?	JULIAN (THE APOSTATE)
-Sources: Created using imgflip.com
+
 
 12:	The words “peruse,” “usurp,” and “utilize” are all derived from what Latin verb with what meaning?	ŪTOR - USE
 B1:	The words “circumlocution” and “ventriloquy” come from what Latin verb with what meaning?	LOQUOR - SPEAK
@@ -135,12 +130,6 @@ B2:	Respondē Latīnē: Quot supercilia vōbīs omnibus sunt? 	OCTŌ	(ADJUST FOR
 B1:	Cicero was a veteran of what war, during which he fought on the side of the Roman state under Pompeius Strabo?	SOCIAL / MARSIC / ITALIAN WAR
 B2: 	Which corrupt governor of Sicily did Cicero prosecute to launch his political career, successfully defeating the orator Hortensius?	VERRES
 
-4:	Of the Roman occupations carnifex, caupō, faber, sūtor, and tonsor, which would have created soleae, calceī, and caligae?	SŪTOR
-[PASS OUT VISUAL] You now have 5 seconds to inspect the visual.
-B1:	You are looking at four frescoes of people at work. Which image represents fullōnēs?    	C
-B2:	What is the Latin term for the occupation depicted in image D?   	
-		PISTOR / PISTRIX / PĀNIFEX     
-Sources: Fresco of a carpenter from the House of the Vettii, Pompeii; Le case ed i monumenti di Pompei (The houses and the monuments of Pompeii); www.gettyimages.com/photos/ancient-roman-food 
 
 5:	Cloanthus, Euryalus, Entellus, and Acestes all win prizes on Sicily at funeral games held in honor of what man, Aeneas’s late father?	ANCHISES’
 B1:	When the Trojans had left Sicily the first time, what god of winds did Juno convince to blow them off course?	AEOLUS
@@ -190,9 +179,12 @@ B2:	What animal, which is wrapped around the cadūceus, is associated with Ascle
 B1:	For the adjective parvus, give the form necessary to translate the following sentence into Latin: You can make the day better in small ways.	PARVĪS
 B2:	For the adjective parvus, give the form necessary to translate the following sentence into Latin: He used to be the smallest boy.	MINIMUS
 
-14:	What governor of Lusitania had his wife taken from him by the emperor Nero but would soon rise to the throne himself after the death of Galba in 69 AD?	OTHO
-B1:	At which battle of 69 AD was Otho defeated by the forces of Vitellius, led by the generals Valens and Caecina?	FIRST BATTLE OF CREMONA / BEDRIACUM
-B2: 	Ironically, Vitellius was defeated at Cremona just a few months later. What commander of Vespasian was responsible for Vitellius’s defeat?	ANTONIUS PRIMUS
+14:	What governor of Lusitania had his wife taken from him by the emperor Nero but would soon rise to the throne himself after the death of Galba in 69 AD?	
+OTHO
+B1:	At which battle of 69 AD was Otho defeated by the forces of Vitellius, led by the generals Valens and Caecina?	
+FIRST BATTLE OF CREMONA / BEDRIACUM
+B2: Ironically, Vitellius was defeated at Cremona just a few months later. What commander of Vespasian was responsible for Vitellius’s defeat?	
+ANTONIUS PRIMUS
 
 15:	According to medical abbreviations, how often should a medicine labelled b.i.d. be taken?	TWICE A DAY
 B1:	According to medical abbreviations, how should a medicine labelled p.o. be administered?	BY / THROUGH THE MOUTH
@@ -304,15 +296,7 @@ B2:	Which daughter of Danaüs did not kill her husband and was not punished like
 B1:	As the second wife of Julius Caesar, what influential woman and alleged lover of Clodius hosted this festival?	POMPEIA
 B2: 	What man, who employed a rival entourage, gave the order to kill Clodius on the Via Appia?	(T. ANNIUS) MILO
 
-15:	The Odyssey does not open with the fall of Troy or even Odysseus and his crew’s first stop after they left Troy. Instead, it opens with the shenanigans happening in Odysseus’ absence at his palace on what island?	ITHACA
-[PASS OUT VISUAL] You now have 5 seconds to inspect the visual.
-B1:	This is one possible map of Odysseus’ travels in the real Mediterranean. What encounter of Odysseus and his crew is traditionally located at number 4?	
-		CYCLOPS / POLYPHEMUS
-B2:	While the island is sometimes depicted much closer to Ithaca itself, name at least one royal person Odysseus met while he was at the location marked with the number 13.		NAUSICAÄ / ALCINOUS / ARETE
-Sources: https://www.openculture.com/2019/06/interactive-map-of-odysseus-10-year-journey-
-in-homers-odyssey.html 
 
-SCORE CHECK
 
 16:	Pollute, laundry, and lavatory are all derived from what Latin verb with what meaning?
 		LAVŌ - TO WASH
@@ -349,8 +333,10 @@ B2:	Change ingentī ave to the accusative plural so that it means “the huge bi
 
 2:	Tiberius Gracchus negotiated with the people of what city, who had captured the consul Gaius Hostilius Mancinus, before Scipio Aemilianus sacked it in 133 BC?	
 		NUMANTIA
-B1:	What man learned of the Romans’ willingness to accept bribes by serving under Aemilianus at Numantia, something which would later help him during his war against Rome which spanned from 112 to 105 BC?	JUGURTHA
-B2: 	What predecessor of Mancinus and consul of 141 BC was similarly besieged by the Numantines?	QUINTUS POMPEIUS
+B1:	What man learned of the Romans’ willingness to accept bribes by serving under Aemilianus at Numantia, something which would later help him during his war against Rome which spanned from 112 to 105 BC?	
+JUGURTHA
+B2: 	What predecessor of Mancinus and consul of 141 BC was similarly besieged by the Numantines?	
+QUINTUS POMPEIUS
 
 3:	What name in mythology is shared by a daughter of Creon killed by a poisoned robe and a daughter of Hecuba and Priam presumed dead after her family fled Troy?		CREÜSA
 B1:	By what other name is Creüsa, daughter of Creon, known?	GLAUCE
@@ -440,7 +426,8 @@ B2:	Respondē Latinē: Quī gladiātor rēte ferēbat?	RĒTIĀRIUS
 
 19:	What man convinced Nicomedes IV to invade Pontus - only to be captured by Mithridates, who executed him by pouring molten gold down his throat?	
 		MANIUS AQUILIUS
-B1:	Manius was sent to Asia after he had put down a revolt of enslaved people on what island in 101 BC?	SICILY
+B1:	Manius was sent to Asia after he had put down a revolt of enslaved people on what island in 101 BC?	
+SICILY
 B2: 	Although Manius Aquilius was tasked with recognizing Nicomedes as king of Bithynia, he was also tasked to install Ariobarzanes on the throne of what neighboring kingdom?
 		CAPPADOCIA
 
@@ -495,14 +482,6 @@ B2:	Complete the following analogy based on meaning: dīcō : dīctūrum :: loqu
 		LOCŪTŪRUM
 
 
-8:	[PASS OUT THE VISUAL] Please do not open the visual until instructed to do so, and remember there is no consultation on this visual toss up;
-You may now open the visual, you have 10 seconds to examine it.
-[note to moderator, there are no periods in these abbreviations]
-TU:	This inscription indicated the relationship among several emperors. Explain the relationship denoted by the abbreviation F.	HADRIAN IS THE SON OF TRAJAN
-B1:	Which Latin word in this inscription refers to the town whose citizens dedicated it?	
-		(SENATUS POPULUSQUE) ARICINUS
-B2:	Which of the following abbreviated words from the inscription is not in the dative case: AUG, COS, F, IMP, MAX, and POT?	POT
-Sources: Honourary inscription to Hadrian (EphEp. IX 651). Image courtesy of Epigraphic Database Rome (EDR) Link
 
 9:	How many words in the following sentence are derived from Latin: While traveling to the National Convention, I discovered many facts I had not committed to memory.
 		SEVEN
@@ -528,9 +507,12 @@ B1: 	Give the Latin and English for the full Latin phrase from Maryland’s stat
 		SCŪTŌ BONAE VOLUNTĀTIS TUAE CORŌNĀSTĪ NŌS, 	YOU HAVE CROWNED US WITH THE SHIELD OF YOUR GOOD WILL
 B2: 	What other Latin phrase with two plural imperatives appears on a former state seal of Maryland?	CRĒSCITE ET MULTIPLICĀMINĪ
 
-12:	Which Roman emperor, supported by both Gaiseric and the Roman senators, failed to reclaim Africa and was consequently executed by Ricimer, the man who had elevated him to the throne in 457 AD?	MAJORIAN
-B1: 	Which predecessor of Majorian was backed by Theodoric II and the Eastern empire, making him the first Roman emperor to be appointed by non-Romans?	AVITUS
-B2:	Avitus had helped enlist the aid of Theodoric’s father when Avitus was serving as a subordinate to what well-known Roman general?	(FLAVIUS) AETIUS
+12:	Which Roman emperor, supported by both Gaiseric and the Roman senators, failed to reclaim Africa and was consequently executed by Ricimer, the man who had elevated him to the throne in 457 AD?	
+MAJORIAN
+B1: 	Which predecessor of Majorian was backed by Theodoric II and the Eastern empire, making him the first Roman emperor to be appointed by non-Romans?	
+AVITUS
+B2:	Avitus had helped enlist the aid of Theodoric’s father when Avitus was serving as a subordinate to what well-known Roman general?	
+(FLAVIUS) AETIUS
 
 13:	Which Titan had four sons: one sent to Erebus by Zeus for his arrogance, one freed from torment by Heracles, one that met both Heracles and Perseus, and one that married the first human woman in mythology?	IAPETUS
 B1:	Which of Iapetus’ sons famously tried to trick Zeus at Mecone?	PROMETHEUS
@@ -546,17 +528,23 @@ B2:	From what region near Greece did Rhesus come?	THRACE
 
 SCORE CHECK
 
-16:	Tarquinius Superbus was granted a final refuge by what ruler, who famously routed the Etruscans at the battle of Aricia in 506 BC? 	ARISTODEMUS
-B1:	What son of Lars Porsenna did Aristodemus defeat at Aricia?	ARRUNS
-B2: 	What city, the final refuge for Tarquinius Superbus, did Aristodemus rule?	CUMAE
+16:	Tarquinius Superbus was granted a final refuge by what ruler, who famously routed the Etruscans at the battle of Aricia in 506 BC? 	
+ARISTODEMUS
+B1:	What son of Lars Porsenna did Aristodemus defeat at Aricia?	
+ARRUNS
+B2: 	What city, the final refuge for Tarquinius Superbus, did Aristodemus rule?	
+CUMAE
 
 17:	Provide the form of the Latin noun tempus needed to follow the preposition trans, as in the sentence “she traveled across time.”	TEMPUS
 B1:	Provide the form of the Latin noun līmen needed to follow the preposition sub, as in the phrase “we walked up to the threshold.”	LĪMEN
 B2:	Provide the plural form of the Latin noun cornū needed to follow the preposition sine, as in the phrase “without horns.”	CORNIBUS / CORNUBUS
 
-18:	What building material, originally dried in the sun but later kiln-fired, was made from the Tiber Basin’s clay, featured distinguishing stamps, and, considered more fire-resistant than tufa, was used by the Romans to fortify the new concrete walls built after the Great Fire of 64 AD?	BRICK
-B1:	What building material, controlled by the emperors well into the 3rd century AD, was in high demand, although much of it had to be shipped into Rome due to the scarcity of nearby quarries?	MARBLE
-B2:	What building material, more durable than volcanic stone, could be used as a replacement for marble in public architecture, could feature different colors, and could be fired in a kiln to obtain the lime necessary for mixing concrete?	LIMESTONE
+18:	What building material, originally dried in the sun but later kiln-fired, was made from the Tiber Basin’s clay, featured distinguishing stamps, and, considered more fire-resistant than tufa, was used by the Romans to fortify the new concrete walls built after the Great Fire of 64 AD?	
+BRICK
+B1:	What building material, controlled by the emperors well into the 3rd century AD, was in high demand, although much of it had to be shipped into Rome due to the scarcity of nearby quarries?	
+MARBLE
+B2:	What building material, more durable than volcanic stone, could be used as a replacement for marble in public architecture, could feature different colors, and could be fired in a kiln to obtain the lime necessary for mixing concrete?	
+LIMESTONE
 
 19:	What group of men, whose members included Sthenelus, Euryalus, Diomedes, and Thersander, marched on the city of Thebes to avenge their fathers’ deaths?	EPIGONI
 B1: 		Which of the Seven Against Thebes, who repelled an ambush of fifty men before the main siege, was Diomedes’ father?	TYDEUS

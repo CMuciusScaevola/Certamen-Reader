@@ -16,8 +16,10 @@ B2:	What use of the genitive case is seen in this sentence: Amīcitia tua magnī
 B1:	Name either of the two sons of Theseüs and Phaedra who were designated to succeed him.	DEMOPHO(Ö)N / ACAMAS
 B2:	What usurper seized the throne of Athens after Theseus’ death and led the Athenian contingent to Troy?	MENESTHEUS
 
-3:	What conflict began when Marcus Valerius Laevinus warned Rome against a foreign king’s aggression, and allies of Rome like Pergamum and Rhodes directly appealed for help against the imperialistic attacks of Philip V?	SECOND MACEDONIAN WAR
-B1:	Flamininus’ likeness was minted on gold coins and he became the first Roman to receive divine honors in Greece after he declared the freedom of Greece at what event after this war?	ISTHMIAN GAMES
+3:	What conflict began when Marcus Valerius Laevinus warned Rome against a foreign king’s aggression, and allies of Rome like Pergamum and Rhodes directly appealed for help against the imperialistic attacks of Philip V?	
+SECOND MACEDONIAN WAR
+B1:	Flamininus’ likeness was minted on gold coins and he became the first Roman to receive divine honors in Greece after he declared the freedom of Greece at what event after this war?	
+ISTHMIAN GAMES
 B2:	Several years later, Philip allied with Rome in a war against which Seleucid king?	
 		ANTIOCHUS III / THE GREAT / MEGAS
 
@@ -75,11 +77,7 @@ B1:     	What tense and mood of verb is common to the Latin mottoes of Johns Hop
 B2: 	The motto of the University of Missouri is Salūs Populī, meaning “the welfare of the people.” What three Latin words are added to the end of that motto to create a quote from Cicero that serves as the motto of the state of Missouri, which translates to “the welfare of the people shall be the supreme law”?
 (SALŪS POPULĪ) SUPRĒMA LĒX ESTŌ
 
-14:	[HAND OUT THE VISUAL] you now have 5 seconds to inspect the visual:
-What is the Latin term for the group instituted during the reign of Augustus that would handle situations like A?	VIGILĒS
-B1:	What was the Latin term for the office created during the reign of Augustus entrusted with the care of C?	CŪRĀTOR AQUĀRUM
-B2:	What was the Latin term for a commissioner of equestrian rank, first appointed by Augustus, whose only responsibility was the care of B?
-		PRAEFECTUS ANNŌNAE // PRAEFECTUS RĒĪ FRŪMENTĀRIAE
+
 
 
 15:	Listen to the following epitaph, which I will read twice, then answer the questions that follow in ENGLISH:
@@ -105,10 +103,13 @@ B1:	How did Myrtilus sabotage Oenomaüs’ chariot?	HE REPLACED THE (CHARIOT’S
 B2: 	What god was Myrtilus’ father?	HERMES
 
 17:	What emperor appointed a professional dancer as praetorian prefect, a charioteer as head 
-	of the vigilēs, and a barber as praefectus annōnae during his reign from 218-222 AD?		ELAGABAL(US) / HELIOGABAL(US) / (AVITUS) BASSIANUS
+	of the vigilēs, and a barber as praefectus annōnae during his reign from 218-222 AD?		
+	ELAGABAL(US) / HELIOGABAL(US) / (AVITUS) BASSIANUS
 B1:	What mother of Elegabalus was killed and thrown into the Tiber with him after they were 
-	found hiding in a latrine?	JULIA SOAEM(E)IAS (BASSIANA)
-B2:	Elegabalus adopted a conical black stone as an image of his cult, which originated in what city?	EMESA / HOMS
+	found hiding in a latrine?	
+	JULIA SOAEM(E)IAS (BASSIANA)
+B2:	Elegabalus adopted a conical black stone as an image of his cult, which originated in what city?	
+EMESA / HOMS
 
 
 18:	What city in ancient Calābria, the south-eastern prong of Italy’s “boot”, stood at the end of the Via Appia and served as Rome’s primary port on the Adriatic?	
@@ -241,12 +242,7 @@ SCORE CHECK
 B1:	What Latin indeclinable noun — the opposite of the noun meaning “wickedness,” “crime,” or “impious deed,” — means “right” or “divine law”?	FĀS (do not accept IŪS)
 B2:	What Latin noun, when negated similarly to negōtium and nefās, produces the noun nēmō, meaning “no one”?	HOMŌ
 
-17:	What was built to establish a boundary between Caledonia and Roman Britannia by a Roman emperor in the second century AD?
-		ANTONINE / HADRIAN’S WALL (prompt on “wall”)
-[HAND OUT THE VISUAL] You now have 5 seconds to examine the visual.
-B1:	Eborācum, a Roman city identified with the modern city of York, was a city quite close to Hadrian’s Wall. Which letter on the map denotes Eborācum?	A
-B2:	Identify any of the other cities on the map by letter and Latin name.
-B - DĒVA; C - CAMULODŪNUM; D - GLĒVUM; E - LONDĪNIUM
+
 
 
 18:	At what sort of institution would you be if you and members of your familia took directions from a lanista as you fought each other with rudēs in preparation for the lūdī?		LŪDUS (GLADIĀTŌRIUS) / GLADIATORIAL SCHOOL
@@ -324,11 +320,6 @@ B1:	Please give the English for the motto of Belize: sub umbrā flōreō.
 B2:	Please give the English for the motto of São Paulo: nōn dūcor, dūcō. 
 		I AM NOT LED, I LEAD (ACCEPT ANY VALID TRANSLATION)
 
-10:	What festival began on December 17 and celebrated the harvest god who supposedly ruled Italy during a golden age?	SATURNALIA
-[HAND OUT THE VISUAL]
-B1:	Take a moment to look over these Emoji descriptions of Roman holidays and festivals. Which letter best represents Lemūria?	A
-B2:	Which holiday is best represented by letter B?	LUPERCĀLIA
-(Other Holidays C - SATURNALIA; D - MĀTRŌNĀLIA; E - VĪNĀLIA)
 
 SCORE CHECK
 
@@ -348,8 +339,10 @@ B2:     	Of the nouns carcerēs, mappae, factiōnēs, mētae, and aurīgae, whic
 B1:	Name one of the islands to which the Zephyrs carried Aphrodite after she arose from the foam.	CYPRUS / CYTHERA
 B2:	Paphos was another location that became a center of worship for Aphrodite, where what craftsman famously prayed to her for a miracle?	PYGMALION
 
-15:	Following Terentilius Harsa’s suggestion to codify Roman law in 462 BC, what legislation was begun by the decemvirī in 451 BC?		(LAWS OF THE) TWELVE TABLES / DUODECIM TABULAE
-B1:	What woman was lusted after by Appius Claudius Crassus, the most prominent decemvir, and was killed by her father to protect her honor?	VERGINIA / VIRGINIA
+15:	Following Terentilius Harsa’s suggestion to codify Roman law in 462 BC, what legislation was begun by the decemvirī in 451 BC?		
+(LAWS OF THE) TWELVE TABLES / DUODECIM TABULAE
+B1:	What woman was lusted after by Appius Claudius Crassus, the most prominent decemvir, and was killed by her father to protect her honor?	
+VERGINIA / VIRGINIA
 B2:	The plebs seceded for the second time in Roman history due to their dissatisfaction with the Twelve Tables. Name either of the two consuls who ended the secession with legislation in 449 BC.	(L.) VALERIUS (POTITUS) / (L. VALERIUS) POTITUS and 
 		(M.) HORATIUS (BARBATUS) / (M. HORATIUS) BARBATUS
 
@@ -370,9 +363,12 @@ B1:	What would be the Latin title of the movie Red Notice, which refers to an an
 		LITTERAE RUBRAE
 B2:	Another recent movie was Everything, Everywhere, All At Once. Using tempus, say in Latin “at the same time.”	EŌDEM / QUŌDAM TEMPORE
 
-19:	Following a victory at the Frigidus River, what Roman emperor became the last to rule a united empire, ended the Olympic games, and closed all pagan temples? 		THEODOSIUS I / THE GREAT
-B1:	St. Ambrose demanded that Theodosius repent for the massacre of citizens at what city in Macedonia in 390 AD?	THESSALONICA / THESSALONIKI
-B2:	What previous eastern emperor, who was killed at the Battle of Adrianople, had Theodosius succeeded in 378 AD?	VALENS
+19:	Following a victory at the Frigidus River, what Roman emperor became the last to rule a united empire, ended the Olympic games, and closed all pagan temples? 		
+THEODOSIUS I / THE GREAT
+B1:	St. Ambrose demanded that Theodosius repent for the massacre of citizens at what city in Macedonia in 390 AD?	
+THESSALONICA / THESSALONIKI
+B2:	What previous eastern emperor, who was killed at the Battle of Adrianople, had Theodosius succeeded in 378 AD?	
+VALENS
 
 SCORE CHECK
 
@@ -388,9 +384,12 @@ ROUND ONE
 
 The study of the humanities often challenges us as we examine the full range of the human experience. This Certamen round contains mention of sexual assault and mass violence. As always, take care of yourselves and reach out to your chaperones and sponsors if you need to talk about the content.
 
-1:	What Gallic leader threatened the town of Clusium and later won a battle at Allia River before sacking Rome in 390 BC?	BRENNUS
-B1:	What city, which had previously hosted Tarquinius Superbus after he fled from Rome, gave refuge to the Vestal Virgins during Brennus’ occupation?	CAERE
-B2:	What conqueror of Veii and so-called “second founder of Rome” was said to have saved Rome from Brennus after a seven-month occupation?	(M. FURIUS) CAMILLUS
+1:	What Gallic leader threatened the town of Clusium and later won a battle at Allia River before sacking Rome in 390 BC?	
+BRENNUS
+B1:	What city, which had previously hosted Tarquinius Superbus after he fled from Rome, gave refuge to the Vestal Virgins during Brennus’ occupation?	
+CAERE
+B2:	What conqueror of Veii and so-called “second founder of Rome” was said to have saved Rome from Brennus after a seven-month occupation?	
+(M. FURIUS) CAMILLUS
 
 2:	Who was given several prods and nudges to travel to the Peloponnese by the disguised Athena to seek news of his father, who had been absent for 20 years from his home of Ithaca?	TELEMACHUS
 B1:	Name a person in whose form Athena speaks to Telemachus in order to encourage him.
@@ -450,9 +449,12 @@ SCORE CHECK
 B1:	Whom did Heracles wrestle in an attempt to make up for his thoughtless behavior at the house of Admetus?	THANATOS / DEATH
 B2:	Whom did Heracles throw from the walls of Tiryns after he asked Heracles about some mares Heracles had stolen?	IPHITUS
 
-12:	What modern country encompasses the territory that Romans at the time of Augustus would have called Achaea?	GREECE
-B1:	What region to the northeast of Achaea covered a large part of the Balkan peninsula and was governed as a Roman province from Thessalonica starting in 146 BC?		MACEDONIA
-B2:	What region to the immediate northwest of Achaea became its own province under later emperors and comprises parts of modern Greece and Albania?	EPIRUS
+12:	What modern country encompasses the territory that Romans at the time of Augustus would have called Achaea?
+	GREECE
+B1:	What region to the northeast of Achaea covered a large part of the Balkan peninsula and was governed as a Roman province from Thessalonica starting in 146 BC?		
+MACEDONIA
+B2:	What region to the immediate northwest of Achaea became its own province under later emperors and comprises parts of modern Greece and Albania?	
+EPIRUS
 
 13:	What use of the ablative case is seen in this sentence? Sī mea fīlia domum ante duodecimam hōram adveniet, timōre līberābor.	(ABLATIVE OF) SEPARATION / 
 		INDICATES WHAT THE SUBJECT IS FREED FROM (OR EQUIVALENT)
@@ -503,15 +505,7 @@ B2:	What other noun, with what meaning, lies at the root of “mural”?	MŪRUS 
 
 SCORE CHECK
 
-20:	What item of clothing is described in the Lexicon Recentis Latīnitātis as brevissimae brācae?	SHORTS / CAPRI PANTS
 
-[HAND OUT THE VISUAL] You now have 5 seconds to inspect the visual:
-B1:	Give the letter for what the Lexicon Recentis Latīnitātis describes as pilamalleus minūtus.	D
-B2:	Give the letter for what the Lexicon Recentis Latīnitātis describes as autocinētum locīs inīquīs aptum.	A
-
-2022 NJCL CERTAMEN
-INTERMEDIATE DIVISION
-FINALS
 
 The study of the humanities often challenges us as we examine the full range of the human experience. This Certamen round contains mention of suicide, abduction, and other violence. As always, take care of yourselves and reach out to your chaperones and sponsors if you need to talk about the content.
 
@@ -544,11 +538,6 @@ B2:	Of the words in the tossup: mālus, fūnis, rēmus, prōra, and nauta, which
 
 SCORE CHECK
 
-6:	[HAND OUT THE VISUAL] Open your visuals; you now have 5 seconds to inspect the visual:
-Given that “these bros” include Polyphontes and Maeon, what is the name of “this dude,” who was ambushed by 50 men on his way to Thebes and is also represented in the other picture as “Red-face man?”	TYDEUS
-B1:	Please identify “this fellow,” whom Tydeus has recently killed.	MELANIPPUS
-B2:	Please identify “this woman,” who had been considering helping Tydeus until his disgusting actions shortly after Melanippus was killed.	ATHENA / MINERVA
-
 7: 	Which of the following English words, if any, is not derived from the same Latin root as the others: cowardly, cauliflower, miscue, caudate.	CAULIFLOWER
 B1:	Give the Latin noun and its meaning at the root of “cowardly,” “miscue,” and “caudate.”
 		CAUDA, TAIL
@@ -578,16 +567,7 @@ SCORE CHECK
 B1:	Which of those nouns, līmen, lūmen, flūmen, nōmen, nūmen, is being described in this Latin sentence: Horatius Cocles in hoc insiluit post Pontem Sublicium defendit?		FLŪMEN
 B2:     	Which of those nouns, līmen, lūmen, flūmen, nōmen, nūmen, is being described in this Latin sentence: Hoc verbum plurālī numerō saepe oculī appellātur, quod oculī refulgentēs esse videntur.	LŪMEN
 
-12:	Translate these sentences from Latin to English: Eugepae! Quamquam cotidiē pluitque tonuitque, īram Iovis superāvimus.
-		HUZZAH / HOORAY! ALTHOUGH IT’S BEEN (BOTH) RAINING AND 
-		STORMING / THUNDERING EVERY DAY / DAILY, WE HAVE
-		SURVIVED / SURPASSED / OVERCOME THE WRATH / ANGER OF
-		JOVE / JUPITER (do NOT accept RAINY; STORMY)
-B1:	Translate from Latin to English: tandem nōs sole ardentī Apollōnis siccātī sumus.
-		FINALLY / AT LAST, WE HAVE BEEN / WERE DRIED (OFF) BY THE 
-		BLAZING / BURNING SUN OF APOLLO
-B2:	Translate from Latin to English: spērāmus nōs sub lūnae lūce suāviter dormītūrōs esse.	WE HOPE (THAT) WE WILL SLEEP / SLUMBER 
-		SWEETLY / SOFTLY UNDER / IN THE LIGHT OF THE MOON
+
 
 13:	What tribe on the northern border of Capua did the Samnites attack in 343 BC, causing the Capuans to appeal to Rome for help in what became the First Samnite War?
 		SIDICINI
@@ -635,9 +615,11 @@ B2:	Translate the motto of the University of Miami of Ohio: prōdesse quam cōns
 
 SCORE CHECK (CHECK FOR CHALLENGES)
 
-20:	Promoted to Augustus upon his father’s death, who governed Africa, Italy, and Illyricum before assuming control of the entire western empire in 340 AD by winning at Aquileia against his brother Constantine II?	CONSTANS (I)
+20:	Promoted to Augustus upon his father’s death, who governed Africa, Italy, and Illyricum before assuming control of the entire western empire in 340 AD by winning at Aquileia against his brother Constantine II?	
+CONSTANS (I)
 B1:	What officer of British and Frankish ancestry overthrew Constans in 350 AD?
 MAGNENTIUS
-B2:	What Persian king had Constantius II been fighting in the east before retreating to deal with Magnentius’ revolt in 351 AD?	SHAPUR II / THE GREAT
+B2:	What Persian king had Constantius II been fighting in the east before retreating to deal with Magnentius’ revolt in 351 AD?	
+SHAPUR II / THE GREAT
 
 

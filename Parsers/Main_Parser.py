@@ -12,7 +12,7 @@ st=st.replace("Β","\n\nB").replace("B1&B2","\n\nB1").replace("B1&2","\n\nB1").r
 st=st.replace("Tossup.","TU1:").replace("Bonus.","B1: ").replace("Bonus:","B1:").replace("*PAUSE FOR SCORE UPDATE*","").replace("**PAUSE FOR SCORE UPDATE**","").replace("***PAUSE FOR SCORE UPDATE***","").replace("TOSSUP","TU1").replace("BONUS","B1").replace("***PAUSE FOR SCORE CHECK***","").replace("**PAUSE FOR SCORE CHECK**","").replace("*PAUSE FOR SCORE CHECK*","")
 st=st.replace("\t","  ").replace("— [FINAL SCORE CHECK] —","").replace("— [SCORE CHECK] —","").replace(" B1","\nB1").replace(" B2","\nB2")
 st=st.replace("**SCORE CHECK**","").replace("SCORE CHECK","").replace("Score Check","").replace("LATIN LITERATURE","").replace("ROMAN HISTORY","").replace("EXTRA HISTORY","").replace("EXTRA MYTHOLOGY","").replace("History:","").replace("Myth:","").replace("Language:","").replace("Literature:","").replace("B3","B1").replace("B4","B2").replace("B5","B1").replace("B6","B2").replace("B7","B1").replace("B8","B2").replace("Bonus 1","B1").replace("Bonus 2","B2").replace("B1 & B2","B1").replace("B1 and\nB2","B1").replace("B1/2","B1").replace("B1/B2","B1").replace("________________","")
-st=st.replace("LANGUAGE", "").replace("newline","\n").replace("EXTRA QUESTIONS","").replace("Extra Questions","").replace("LATIN LITERATURE","").replace("newline","\n").replace(" and "," & ").replace(" or ", " | ").replace("(or","(|").replace("Prompt on","PROMPT ON").replace("prompt on","PROMPT ON").replace("do not accept","DO NOT ACCEPT").replace("accept equivalents","ACCEPT EQUIVALENTS").replace("Bonuses 1 & 2","B1").replace("B1+B2","B1").replace("B1+2","B1").replace("B1 ","B1. ").replace("B2 ","B2. ")
+st=st.replace("LANGUAGE", "").replace("newline","\n").replace("EXTRA QUESTIONS","").replace("Extra Questions","").replace("LATIN LITERATURE","").replace("newline","\n").replace(" and "," & ").replace(" or ", " | ").replace("(or","(|").replace("Prompt on","PROMPT ON").replace("prompt on","PROMPT ON").replace("do not accept","DO NOT ACCEPT").replace("accept equivalents","ACCEPT EQUIVALENTS").replace("Bonuses 1 & 2","B1").replace("B1+B2","B1").replace("B1+2","B1").replace("B1 ","B1: ").replace("B2 ","B2: ").replace("B:","B1:")
 st=st.replace("Advanced — Preliminary Round One","").replace("Round X","").replace("Advanced — Preliminary Round Two","").replace("Advanced — Preliminary Round Three","").replace("Advanced — Semifinals","").replace("Advanced — Finals","").replace("Advanced — Semis","").replace("Advanced — Round 1","").replace("Advanced — Round 2","").replace("Advanced — Round 3","").replace("ROUND ONE","").replace("ROUND TWO","").replace("ROUND THREE","").replace("Advanced – Semifinal Round","").replace("Advanced – Final Round","").replace("Advanced Division","").replace("Advanced Level","")
 st=st.replace("Intermediate — Preliminary Round One","").replace("Intermediate — Preliminary Round Two","").replace("Intermediate — Preliminary Round Three","").replace("Intermediate — Semifinals","").replace("Intermediate — Finals","").replace("Intermediate — Semis","").replace("Intermediate — Round 1","").replace("Intermediate — Round 2","").replace("Intermediate — Round 3","").replace("ROUND ONE","").replace("ROUND TWO","").replace("ROUND THREE","").replace("Intermediate – Semifinal Round","").replace("Intermediate – Final Round","").replace("Intermediate Division","").replace("Intermediate Level","")
 st=st.replace("Novice — Preliminary Round One","").replace("Novice — Preliminary Round Two","").replace("Novice — Preliminary Round Three","").replace("Novice — Semifinals","").replace("Novice — Finals","").replace("Novice — Semis","").replace("Novice — Round 1","").replace("Novice — Round 2","").replace("Novice — Round 3","").replace("ROUND ONE","").replace("ROUND TWO","").replace("ROUND THREE","").replace("Novice – Semifinal Round","").replace("Novice – Final Round","").replace("Novice Division","").replace("Novice Level","")
@@ -27,7 +27,7 @@ st=st.replace("4th", "4TH").replace("1st","1ST").replace("2nd","2ND").replace("3
 
 while "  " in st:st=st.replace("  "," ").replace("\n \n","\n")
 for num in range(1,21):
-    st=st.replace(str(num)+".",str(num)+". ").replace(" #"+str(num)," "+str(num)).replace("#"+str(num)," "+str(num)).replace(str(num)+")",str(num)+".")
+    st=st.replace(f"TU {num}","1").replace(f"TU{num}","1").replace(str(num)+".",str(num)+". ").replace(" #"+str(num)," "+str(num)).replace("#"+str(num)," "+str(num)).replace(str(num)+")",str(num)+".")
 
 #Ensure each bonus is on a separate line
 ind=0
@@ -118,6 +118,8 @@ st="\n"+st+"\n"
 while "\n\n" in st:
     st=st.replace("\n\n","\n")
 while "  " in st:st=st.replace("  "," ").replace("\n \n","\n")
+
+print(st)
 
 matches=re.findall(r"(?<=[^\w])\d?\d(?:\.|:).*?\n(?=(?:(?:TU )|TU)?\d?\d(?:\.|:)|$)",st,flags=re.S|re.UNICODE) #Extract the questions into a list (TU-B-B pairs)
 

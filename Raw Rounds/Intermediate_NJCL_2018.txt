@@ -35,11 +35,6 @@ B1: 	Quid Anglicē significat “nūper?”	RECENTLY
 B2: 	Quid Anglicē significat “aper?”	(WILD) BOAR
 
 
-7.	Which of the following sons of Zeus was also a son of Hera, at least by some reports: Hermes, Ares, Dionysus, Heracles?	ARES
-(HAND OUT PAGE 1 OF THE VISUAL) 
-B1:	You are looking at a mythological family tree.  Using the pictorial clues provided, identify the mythological figure represented by number 1.	LETO
-(HAND OUT PAGE 2 OF THE VISUAL)
-B2:	Identify by letter and name the mythological figure on page 2 that corresponds to number 2 on page 1.	B: ASCLEPIUS
 
 8.	Listen carefully to the following passage about the British queen Boudicca, or Boudicēa, which I shall read twice; then answer IN LATIN the question that follows:
 		Marītō interfectō, Boudicēa dīcēbātur fēminās Britannicās dūxisse et bellum contrā Rōmānōs gessisse. Quod erat etiam mīrābilius, rēgīna dīcēbātur, currum agēns, fīliās suās sēcum in proelium tulisse.  (repeat)
@@ -84,11 +79,13 @@ B2:	Now using the same verb, say, “by seeing the world, you can learn a lot.�
 			ASPICIENDŌ MUNDŌ / MUNDUM / ORBE / ORBEM (TERRĀRUM), 
 			POTES(TIS) DISCERE MULTUM/A
 
-15.	Which town in Italy did the Romans conquer after a ten-year siege that ended in 396 BC? 	VEII
+15.	Which town in Italy did the Romans conquer after a ten-year siege that ended in 396 BC? 	
+VEII
 B1:	One of the most famous episodes associated with the conflict against the Veians came when what 
 		Roman general slew the Veiian king Lars Tolumnius to win the second ever spolia opīma?
 			(A. CORNELIUS) COSSUS
-B2:	At what colony of Veii did this victory occur?	FIDENAE
+B2:	At what colony of Veii did this victory occur?	
+FIDENAE
 
 16.	Who, after killing an old-man at an intersection where three roads crossed each other, proceeded to answer the riddle of the Sphinx correctly?	OEDIPUS
 B1:	Who was the old man that Oedipus killed at this intersection?	(HIS BIRTH FATHER) LAÏUS
@@ -212,12 +209,6 @@ B1:	Now follow these instructions: omnēs, pōnite pollicēs in vestrās aurēs.
 B2:	Now follow these instructions: numerā Latīnē ab decem ad vīgintī.	ONE PLAYER SHOULD
 SAY, “DECEM, ŪNDECIM, DUODECIM, TREDECIM, QUATTUORDECIM, QUĪNDECIM, SĒDECIM, SEPTENDECIM, DUODĒVĪGINTĪ, ŪNDĒVĪGINTĪ, VĪGINTĪ”
 
-16.	Which of the following emperors did not build or contribute to the construction of an imperial forum: Otho, Domitian, Nerva, Trajan?	OTHO
-(HAND OUT THE VISUAL)
-B1:	Identify by number and name the building that was completed during the reign of Domitian.
-			1 – COLOSSEUM / FLAVIAN AMPHITHEATER / AMPHITHEATRUM FLAVIUM
-B2:	Numbers 2 and 3 are both bath complexes, who built each complex, respectively?
-			2 – TRAJAN, 3 - CARACALLA
 
 17.	Realizing that he could no longer eat or drink because of his newly acquired power, what king of Phrygia begged Dionysus to forgive him and take back his “golden touch”?	MIDAS
 B1:	In what river did Midas wash his hands, ridding himself of the “golden touch”?	PACTOLUS
@@ -227,9 +218,12 @@ B2:	Name Midas’ parents.	GORDIUS / GORDIAS & CYBELE
 B1: 	What Latin noun derived from fluō means “wave”?	FLUCTUS
 B2:	What is the Latin root and its meaning for “inflate”?	FLŌ – TO BLOW 
 
-19.	Give the Latin for the number expressed by the Roman numerals XL.	QUADRĀGINTĀ
-B1:	. . . CC.	DUCENTĪ /-AE / -A
-B2:	. . . MM.	DUO MĪLIA
+19.	Give the Latin for the number expressed by the Roman numerals XL.	
+QUADRĀGINTĀ
+B1:	. . . CC.	
+DUCENTĪ /-AE / -A
+B2:	. . . MM.	
+DUO MĪLIA
 
 20.	What Roman praenōmen was abbreviated S.?	SPURIUS / SERVIUS
 B1: 	What Roman praenōmen was abbreviated K.?	KAESŌ
@@ -342,11 +336,6 @@ B1:	At what city, which was then ruled by Laomedon, did the crew stop on the way
 			TROY / ILIUM / ILION
 B2:	Name Laomedon’s daughter, whom Heracles saved from a sea-monster.	HESIONE
 
-19.	Say in Latin, “on August 1st.”	KALENDĪS AUGUSTĪS
-(HAND OUT THE VISUAL)
-	You now have 15 seconds to inspect this burial plaque for Cosconia Callityche (wait 15 seconds)
-B1:	On what day did she die?	JULY 14
-B2:	Give the specific Latin noun form for which cos in line 5 is the abbreviation.	CŌNSULIBUS
 
 20.	Quid Anglicē significat:  idōneus?
 			SUITABLE / FIT / APT / CAPABLE / CONVENIENT / PROPER
@@ -372,11 +361,14 @@ B1:  What English derivative of a Latin verb meaning “to eat” means “very 
 B2:  What English derivative of a Latin verb meaning “to buy” means “performed at once”?	PROMPT
 
 4.	After defeating usurpers in battle near Frigidus River in 394 AD, what Roman became the last to 
-		rule over a unified empire? 	THEODOSIUS I / THE GREAT
+		rule over a unified empire? 	
+		THEODOSIUS I / THE GREAT
 B1:	Theodosius defeated what Frankish magister mīlitum, who had rebelled after Valentinian II’s 
-		suspicious suicide in 392 AD?	ARBOGAST
+		suspicious suicide in 392 AD?	
+		ARBOGAST
 B2:	Since Arbogast was of “barbarian” origin, he was unable to declare himself emperor. Instead what 
-teacher of Latin grammar and rhetoric did Arbogast proclaim as a puppet emperor after the death of Valentinian II?	(FLAVIUS) EUGENIUS
+teacher of Latin grammar and rhetoric did Arbogast proclaim as a puppet emperor after the death of Valentinian II?	
+(FLAVIUS) EUGENIUS
 
 5.	When you are recognized by the spotter, please perform the following commands:  surge et, ūnō pede stāns, fac sonum fēlis.
 			STUDENT SHOULD RISE & “MEOW” WHILE STANDING ON ONE FOOT
@@ -452,13 +444,6 @@ B1: 	Cūr erat perīculōsum puerīs in flūmine natāre ?
 B2: 	Quandō ursa piscēs rapere coepit?	PUERĪS TERRITĪS / POSTQUAM PUERĪ TERRITĪ
 			SUNT / ERANT / POSTQUAM URSA PUERŌS TERRUIT
 
-16.	(HAND OUT THE VISUAL)
-	You may now open your visual and examine it for five seconds. 
-	(give 5 seconds to inspect the visual)
-TU:	Identify by letter the image that does not have something to do with Roman baths.	B
-B1:	Give the term for and the use of the instrument labelled A.	STRIGIL(IS) – USED FOR 
-			SCRAPING OIL AND DIRT OFF THE SKIN (PROMPT ON “CLEANING”)
-B2:	Give the letter of the image that represents a hypocaust.	D
 
 17.	Translate the following sentence into English: Magister discipulōs monuit ut dīligenter ōrātiōnēs habērent.	THE TEACHER ADVISED / WARNED THE STUDENTS TO
 			DELIVER / GIVE THEIR SPEECHES CAREFULLY
@@ -504,8 +489,10 @@ B1:	To get Achilles’ attention, since the prophecy suggested he needed his hel
 B2:	How did Achilles, who had no medical training, end up healing Telephus of his wound?
 			SCRAPED RUST FROM HIS (ACHILLES’) SPEAR ONTO THE WOUND
 
-4.	What king of the Marcomanni was saved from an attack by the Roman forces under Tiberius when a timely outbreak of revolt in Pannonia and Illyricum distracted Tiberius’ attention from the Marcomanni in 6 AD?	MAROBODUUS
-B1:	What name was shared by the Dalmatian and Pannonian chieftains who led the revolt mentioned in the toss-up?	BATO
+4.	What king of the Marcomanni was saved from an attack by the Roman forces under Tiberius when a timely outbreak of revolt in Pannonia and Illyricum distracted Tiberius’ attention from the Marcomanni in 6 AD?	
+MAROBODUUS
+B1:	What name was shared by the Dalmatian and Pannonian chieftains who led the revolt mentioned in the toss-up?	
+BATO
 B2:	What Roman eventually defeated and forced the Dalmatian Bato to surrender in 9 AD?
 			GERMANICUS
 
@@ -531,13 +518,19 @@ B2:	What woman voluntarily sacrificed herself to save Athens when the oracle sai
 B1:	From that same list of Latin nouns, ancora, classis, nauta, puppis, and stīpendium, which am I describing now? pars nāvis est. saepe in aquā sedet et nāvem tenet nē erret. ferrō vel metallō aliō facta est.	ANCORA
 B2:	From that same list of Latin nouns, ancora, classis, nauta, puppis, and stīpendium, which am I describing now? quī mīlitārent id accipiēbant ut rēs emere possent.	STĪPENDIUM
 
-9. 	Using the port city of Athens, Piraeus, as a base, what general conquered most of southern Greece on behalf of Mithridates VI?	ARCHELAÜS
-B1:	Two pro-Mithridates philosophers that are often confused for one another led a rebellion in Athens, overthrowing the pro-Roman oligarchy. Name one of them. 	ARISTION / ATHENION
-B2:	After successfully seizing Athens, Sulla defeated Archelaus in two pitched battles in 86 BC. Where did the first of these battles occur?	CHAERONEIA
+9. 	Using the port city of Athens, Piraeus, as a base, what general conquered most of southern Greece on behalf of Mithridates VI?	
+ARCHELAÜS
+B1:	Two pro-Mithridates philosophers that are often confused for one another led a rebellion in Athens, overthrowing the pro-Roman oligarchy. Name one of them. 	
+ARISTION / ATHENION
+B2:	After successfully seizing Athens, Sulla defeated Archelaus in two pitched battles in 86 BC. Where did the first of these battles occur?	
+CHAERONEIA
 
-10.	What three-word Latin prepositional phrase meaning “never” literally means “On the Greek Kalends”?	AD KALENDĀS GRAECĀS
-B1:	Complete this Latin phrase, which means “between a rock and a hard place”: Ā fronte praecipitum…	Ā TERGŌ LUPĪ
-B2:	Now complete this Latin phrase, which means “a bird in the hand is worth two in the bush”: Ad praesēns ōva…	CRĀS PULLĪS SUNT MELIŌRA
+10.	What three-word Latin prepositional phrase meaning “never” literally means “On the Greek Kalends”?	
+AD KALENDĀS GRAECĀS
+B1:	Complete this Latin phrase, which means “between a rock and a hard place”: Ā fronte praecipitum…	
+Ā TERGŌ LUPĪ
+B2:	Now complete this Latin phrase, which means “a bird in the hand is worth two in the bush”: Ad praesēns ōva…	
+CRĀS PULLĪS SUNT MELIŌRA
 
 11.	In Ovid’s Metamorphoses, what fate was shared by Aconteus, Aglaurus, Anaxarete, Battus, and Niobe?	TURNED TO STONE / ROCK // PETRIFICATION
 B1:	Aconteus was accidentally turned to stone by the head of what monstrous woman?	MEDUSA
@@ -570,12 +563,6 @@ B1.	Translate this sentence: Centuriō mīlitēs callidissimōs ēlēgit ad vest
 B2.	Translate this sentence: Nēmō scīvit utrum vir manēret an iam effūgisset.
 NO ONE KNEW WHETHER THE MAN REMAINED OR HAD ALREADY ESCAPED
 
-16.	(HAND OUT THE VISUAL)
-	You may now open your visual and examine it for ten seconds. 
-	(give 10 seconds to inspect the visual)
-TU:	What hero of the Trojan War is depicted in the images marked A and D?	DIOMEDES
-B1:	Give the letter of the image in which Chryses appears.	B
-B2:	Identify the hero of the Trojan War depicted in the image marked C, who has returned home and sacrificed his son to fulfill a vow he made during a storm.	IDOMENEUS
 
 17.	Which of the following words, IF ANY, is NOT derived from the same Latin word as the others:  pace, spawn, passionate, expand, trespass?	PASSIONATE
 B1:	From what Latin verb, with what meaning, is “passionate” derived?
@@ -590,9 +577,12 @@ B2:	Same instructions: Since Romulus is king, let’s stay in Rome.
 			CUM RŌMULUS RĒX SIT, RŌMAE MANEĀMUS
 
 
-19.	Along the banks of what river in 477 BC was the Fabii clan nearly wiped out?	CREMERA
-B1:	What city, the last Etruscan stronghold in Latium, were the Romans attempting to seize when they suffered the defeat at the Cremera?	FIDENAE
-B2:	According to Livy, how many Fabii died in that battle?	306
+19.	Along the banks of what river in 477 BC was the Fabii clan nearly wiped out?	
+CREMERA
+B1:	What city, the last Etruscan stronghold in Latium, were the Romans attempting to seize when they suffered the defeat at the Cremera?	
+FIDENAE
+B2:	According to Livy, how many Fabii died in that battle?	
+THREE HUNDRED SIX
 
 20.	In mythology, what monsters, who included Aello and Ocypetes according to Hesiod, Podarge according to Homer, and Celaeno according to Vergil, were known as “the snatchers” and punished Phineus by continually stealing away his food?	HARPIES
 B1:	What goddess was the sister of the Harpies?	IRIS

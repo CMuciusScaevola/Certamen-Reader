@@ -91,15 +91,7 @@ B2:	What lieutenant of Lucullus was defeated at the Battle of Zela in 67 BC?
 B1:	The expedition of the Seven Against Thebes was able to take place because Polyneices had bribed which lady with the necklace of Harmonia?	ERIPHYLE
 B2:	What son of Parthenopaeüs and member of the Epigoni shares a name with Jason’s younger brother?	PROMACHUS
 
-15:	Please do not open the Visual until you are instructed to do so.
-	[HAND OUT THE VISUAL] You now have 10 seconds to inspect the Visual.
-	This is an example of Roman epigraphy and its abbreviated nature. To what group, abbreviated by DM at the top of the stone, is Albia Nereis commended?	
-		DĪS MĀNIBUS (SACRUM) // MĀNĒS // (THE SHADES OF THE) DEAD
-B1:	How old was Albia Nereis when she died?	60
-B2:	Provide the full Latin and English for one of the two phrases abbreviated at the bottom of the stone.	HĪC SEPULTA / SĪTA (EST), HERE (IS / LIES) BURIED //
-		SIT TIBI TERRA LEVIS, MAY THE EARTH LIE LIGHT UPON YOU
 
-SCORE CHECK (TELL ADVANCED PLAYERS TO GET OUT!!!)
 
 16:	Quāle animal est? Hoc animal per rūra campōsque volat, flōrēs petēns. Spīnā ācrī tē vulnerāre potest. nectar rapit et in mel dulce trānsfert.	APIS
 B1: 	Quāle animal est? Hoc animal minimum est. Eī cāseum cōnsūmere placet. Fēlēs magnopere hoc animal cōnsūmere vult.	MUS
@@ -200,10 +192,6 @@ SCORE CHECK
 B1:	Which Fury has a name similar to that of Heracles’ first wife?	MEGAERA
 B2:	Name either of the two remaining Furies.	ALLECTO OR TISIPHONE
 
-12:	What empire, which first rebuffed Roman invasion at a battle near modern-day Harran at the start of an on-and-off conflict lasting from 54 BC to 217 AD, primarily ruled from its capital of Ctesiphon?	PARTHIAN(S) / ARSACID(S)
-	[PLEASE HAND OUT THE VISUAL]
-B1:	This breastplate depicts the return of military standards lost to the Parthians when Crassus was defeated at Carrhae. Now housed at the Vatican, it can be found on a famous statue of which emperor?	AUGUSTUS / OCTAVIAN / (C.) OCTAVIUS
-B2:	The figure with the dog, shown as accepting the standards, may have been a depiction of which emperor, who had a hand in retrieving the lost standards and commissioned this statue in honor of Augustus?	TIBERIUS (CLAUDIUS NERO)
 
 13:	For the verb pellō, provide the second person singular, perfect, active, indicative form that means “you have pushed.”	PEPULISTĪ
 B1:	Keeping everything else the same, change pepulistī to the passive so that it means “you have been pushed.”	PULSUS/A/UM ES
@@ -305,11 +293,6 @@ B1:	What was the name of the special purple garment with gold embroidery that tr
 B2:	According to Plutarch, what man, who served as suffect consul with Brutus, celebrated the first triumph in Rome in 509 B.C. after his victory at the Battle of Silva Arsia?	
 		(P. VALERIUS) POPLICOLA / PUBLICOLA
 
-7: 	While everyone else was enjoying the entertainment, who burst into tears in the court of the Phaeacians at a song that recounted his struggles at Troy?	
-		ODYSSEUS / ULYSSES / ULIXES 
-	[PLEASE HAND OUT THE VISUAL]
-B1: 	Assuming the character labeled as “A” is Arete, who is identified by the letter “B”?		ALCINOÜS
-B2: 	Give both the identifying letter and the name of the bard in this visual.		D - DEMODOCUS 
 
 
 8:	Translate the following sentence from Latin to English: Audiāmus fābulam!
@@ -341,8 +324,10 @@ B2:	For the noun rēs, provide the nominative plural form so that it fits the se
 12:	Under commissions chaired by Appius Claudius and run by decemvirī, what body of work officially codified all previous Roman laws in 450 BC?	
 		TWELVE TABLE(T)S / DUODECIM TABULAE
 B1:	What law challenged the Twelve Tables by allowing for intermarriage between 
-	plebeians and patricians in 445 BC?	LĒX CANULĒIA 
-B2:	What law of 287 BC ended the fifth and final secession of the plebs and made the plebiscite binding on all citizens?	LĒX HORTENSIA
+	plebeians and patricians in 445 BC?	
+	LĒX CANULĒIA 
+B2:	What law of 287 BC ended the fifth and final secession of the plebs and made the plebiscite binding on all citizens?	
+LĒX HORTENSIA
 13: 	Aurelia’s story continues. Listen carefully to the following Latin passage, which I will read twice, then respond IN ENGLISH to the question which follows:  
 
 	Prīmō vīdit Aurēlia vestibulum pictūrīs mīrīs pictum.  Tam clārē pictae sunt ut 		hominēs ibi dēpictī vīvere vidērentur, ūnā cum rēbus ex aurō factīs, quae ā 		hominibus portābantur.  (REREAD)
@@ -507,12 +492,6 @@ B1:	Which of the following ancient provinces was NOT contained partially or comp
 B2:	Of Galatia, Bithynia, Cilicia, and Cappadocia, which is the landlocked province that includes Ancyra and was ruled by Deiotarus I?	GALATIA
 
 
-18: 	Respondē Anglicē: Quō dēbēs īre in Forō Rōmānō, sī vīs cōnsulem ōrātiōnem habentem ad populum audīre?	
-		(TO THE) SPEAKING PLATFORM / ROSTRUM / ROSTRA
-	[PLEASE HAND OUT THE VISUAL]
-B1:	Give the letter of the Roman architectural marvel being described in this Latin sentence: hoc dēscendit dē montibus ad urbem ut cīvēs ad bibendum satis aquae habeant.	C
-B2:	Give the letter of the Roman architectural marvel being described in this Latin sentence: Rōmānī hōc ūsī sunt in amphitheātrō Flaviō ut multum pondus sustinēret, sed nōn spectātōribus impedīret.	A
-
 19:  	Accounts of which man’s death include that he rashly boasted that he would kill all the  earth’s animals, leading Gaia to send a scorpion to sting him, or that Artemis mistook him for a random object in the sea and shot him with an arrow?	ORION
 B1: 	Another account says that Artemis killed Orion because he lay with which goddess, who was also Emathion’s mother by a lover who was transformed into a cicada?	EOS
 B2: 	Yet another account says that Artemis shot Orion after he raped the maiden Opis. Opis was a member of what northern people, with whom Apollo spent his winters?
@@ -641,13 +620,6 @@ B2:	Translate the following sentence from English to Latin: If that wild animal 
 B1:	What king of the Taphians had a similar golden hair that guaranteed his continued survival?	PTERELAÜS
 B2:	Name the daughters of Nisus and Pterelaüs respectively who cut off their fathers’ hair for love.	SCYLLA AND COMAETHO
 
-SCORE CHECK
-
-Please do not open the visual until instructed to do so. [PASS OUT THE VISUAL] 
-You may now open the visual. You have 5 seconds to examine it.
-16:	What is the Latin name of the objects pictured here? They were used in a variety of table games, some of which determined the arbiter bibendī at a convīvium and others that were simple gambling affairs.	TĀLUS / TĀLĪ
-B1: 	Look closely at the tālī. Assuming that the second tālus from the left has a value of one, what is the Latin name for this throw?	VENUS
-B2: 	What was the name of the cup or small box one could use either to store tālī or throw them?	FRITILLUS
 
 17:	This year, the TV show “The Age of Influence” was released on Hulu. From what Latin verb with what meaning does “influence” come?	
 		FLUŌ, FLUERE - TO FLOW, STREAM

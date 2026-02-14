@@ -13,8 +13,10 @@ B2:	Perform or describe the following commands: surgite et clāmāte Anglicē �
 		“WE HOPE (THAT) YOU’RE READY / PREPARED,
 		BECAUSE WE ARE COMING!”
 
-2:	Following the death of Severus II, who made himself Augustus in the western part of the empire in 307 AD, like his father Maximian before him, and was eventually defeated by Constantine at the Milvian Bridge in 312 AD?	MAXENTIUS
-B1:	Prior to the Battle of the Milvian Bridge, who was appointed Augustus in the west by Galerius to oppose Maxentius and later became Augustus of the east, jointly ruling with Constantine until 324 AD?	LICINIUS
+2:	Following the death of Severus II, who made himself Augustus in the western part of the empire in 307 AD, like his father Maximian before him, and was eventually defeated by Constantine at the Milvian Bridge in 312 AD?	
+MAXENTIUS
+B1:	Prior to the Battle of the Milvian Bridge, who was appointed Augustus in the west by Galerius to oppose Maxentius and later became Augustus of the east, jointly ruling with Constantine until 324 AD?	
+LICINIUS
 B2:	At what battle, also the site of a disastrous defeat to the Goths later in the century, did Constantine nearly defeat Licinius completely before taking final action at Chrysopolis?	
 		ADRIANOPLE / EDIRNE
 
@@ -83,12 +85,7 @@ B2:	From what Latin noun with what meaning is “morbidity” derived?
 
 SCORE CHECK
 
-[PASS OUT THE VISUAL] Please do not open the visual until instructed to do so;
-You may now open the visual, you have 10 seconds to examine it.
-11:	These memes represent scenes from the life of Heracles. Provide the numbers for the two scenes that did not take place in Greece, the region of Heracles’ birth and death.	1 AND 5
-B1:	Identify the character represented by the letter G, who did not survive his encounter with Heracles, who used an unconventional wrestling style.	ANTAEÜS
-B2:	Identify the person who delivered the “worst gift ever” to character E, Heracles, before being blamed for the result.	LICHAS
-Sources: Created on imgflip.com
+
 
 12:	For the verb frangō, give the nominative singular of the future active participle that means “about to break.”	FRĀCTŪRUS/A/UM
 B1:	Still using frangō, give the infinitive that means “to be broken.”	FRANGĪ
@@ -112,9 +109,12 @@ B2: 	Who was Niobe’s father, a son of Jupiter?	TANTALUS
 
 SCORE CHECK
 
-16:	Shortly after he arranged the execution of Flavius Clemens, what emperor was betrayed by Petronius Secundus and his own wife, leading to his death and damnātiō memoriae in 96 AD? 	DOMITIAN
-B1:	What butler, with the help of Petronius Secundus and Domitia, murdered Domitian with a knife hidden in an arm bandage?	STEPHANUS
-B2:	What commander of two legions at Moguntiacum attempted to proclaim himself emperor against Domitian years prior to his assassination, but was defeated by another Rhine commander, Lappius Maximus?	(L. ANTONIUS) SATURNINUS
+16:	Shortly after he arranged the execution of Flavius Clemens, what emperor was betrayed by Petronius Secundus and his own wife, leading to his death and damnātiō memoriae in 96 AD? 	
+DOMITIAN
+B1:	What butler, with the help of Petronius Secundus and Domitia, murdered Domitian with a knife hidden in an arm bandage?	
+STEPHANUS
+B2:	What commander of two legions at Moguntiacum attempted to proclaim himself emperor against Domitian years prior to his assassination, but was defeated by another Rhine commander, Lappius Maximus?	
+(L. ANTONIUS) SATURNINUS
 
 17:	Using the Latin noun spēs, give the form of “hope” in the sentence “They have nothing similar to hope.”	SPĒĪ
 B1:	Using the Latin words glaciēs and fruor, say in Latin “We enjoy the ice.”
@@ -135,19 +135,16 @@ SCORE CHECK
 
 
 
-20:	What foreign king helped to start the Third Mithridatic War when he bequeathed the kingdom of Bithynia to Rome in 74 BC?	NICOMEDES (IV PHILOPATOR)
+20:	What foreign king helped to start the Third Mithridatic War when he bequeathed the kingdom of Bithynia to Rome in 74 BC?	
+NICOMEDES (IV PHILOPATOR)
 B1:	At what opening battle of this war did Mithridates VI defeat Aurelius Cotta?
 CHALCEDON
-B2:	What foreign king gave the territory of Cyrene to Rome in 96 BC?	(PTOLEMY) APION
+B2:	What foreign king gave the territory of Cyrene to Rome in 96 BC?	
+(PTOLEMY) APION
 
 
 
 
-2024 NJCL CERTAMEN
-INTERMEDIATE DIVISION
-ROUND THREE
-
-The study of the humanities often challenges us as we examine the full range of the human experience. This Certamen round contains mention of violence and incest. As always, take care of yourselves and reach out to your chaperones and sponsors if you need to talk about the content.
 
 1:	Who oversaw lavish decorations in the Roman Forum and hired 320 pairs of gladiators with silver-tipped weapons as aedile in 65 BC, launching a political career that also included a consulship in 59 BC and an appointment as dictator for life in 44 BC that led to his eventual assassination?	(C.) JULIUS CAESAR
 B1:	What position in the cursus honōrum did Caesar hold in 62 BC when he tried to deny the staunch Optimātēs supporter Lutatius Catulus the honor of restoring the temple of Capitoline Jupiter?	PRAETOR(SHIP)
@@ -255,14 +252,7 @@ B1:	What consul of 200 BC, an ancestor of one of the emperors of 69 AD, proposed
 B2:	To gain support for Galba’s new declaration of war, the comitia declared that veterans of what contemporary general would be exempt from fighting against Philip?
 		(P. CORNELIUS) SCIPIO AFRICANUS (MAIOR)
 	
-19:	How should a patient take a medication with the abbreviation p.c. on the label?
-		AFTER / WITH MEALS / FOOD / DINNER
-[PASS OUT VISUAL] You now have 5 seconds to inspect the visual.
-B1:  	You are looking at a sample prescription order for a hospital patient with medications numbered 1-4. Give the number of the medication that should be taken “as needed at bedtime.”	3 
-B2:  	Give the Latin and the English for the abbreviation that indicates how often prescription  1 should be taken.	QUATER IN DIĒ - FOUR TIMES A DAY / EVERY SIX HOURS
-Sources: “Principles of Pharmacy” https://www.uobabylon.edu.iq/eprints/publication_3_30165_6264.pdf 
 
-SCORE CHECK
 
 20:	Who gave Odysseus the advice to walk past the king and appeal directly to the queen when entering the court of her parents, the hospitable rulers of the Phaeacians?
 		NAUSICAÄ
@@ -326,18 +316,24 @@ B1:	What Latin verb is the ultimate root of addition?
 B2: 	What English word for an operation in mathematics is derived from a Latin verb meaning “to fold?”	MULTIPLY / MULTIPLICATION
 
 
-8:	Following the death of Alexander Severus in 235 AD, what man from the Balkans, who once wrestled seven Roman soldiers in a row, took the throne and kicked off the period of the barracks emperors for the next 50 years?	MAXIMINUS THRAX
-B1:	If Maximinus Thrax was Rome’s largest emperor, his rival was perhaps its very oldest. Name this senator from Africa who briefly ruled jointly with his son of the same name in 238 AD.	GORDIAN I
-B2:	What 13-year-old emperor survived the year 238 AD to rule for six years supported by his praetorian prefect, Timesitheus? 	GORDIAN III
+8:	Following the death of Alexander Severus in 235 AD, what man from the Balkans, who once wrestled seven Roman soldiers in a row, took the throne and kicked off the period of the barracks emperors for the next 50 years?	
+MAXIMINUS THRAX
+B1:	If Maximinus Thrax was Rome’s largest emperor, his rival was perhaps its very oldest. Name this senator from Africa who briefly ruled jointly with his son of the same name in 238 AD.	
+GORDIAN I
+B2:	What 13-year-old emperor survived the year 238 AD to rule for six years supported by his praetorian prefect, Timesitheus? 	
+GORDIAN III
 
 9:	Which of the following words does NOT belong due to meaning: aqua, saxum, lac, oleum, vīnum?	SAXUM
 B1:	You could make a good comparison between this type of question and the New York Times’ mini-game “Connections. What category do the rest of the words from the toss-up fit under?	LIQUIDS / EDIBLES (ACCEPT SIMILAR)
 B2:	If the category to tie the following words together were ‘verbs to describe fire,’ what is a Latin word you could add to go with ārdeō, caleō, and ūrō?	
 		INCENDŌ / FERVEŌ / FLAMMŌ / AESTUŌ / TORREŌ / CREMŌ
 
-10:	Identify the use of the ablative case in the following Latin sentence: Caesare interfectō, senātus in tumultum mittitur.	ABLATIVE ABSOLUTE (or comparable description)
-B1:	Identify the use of the ablative case in the following sentence: senātōrēs rem magnā cum cūrā agere temptāvērunt.	MANNER (or comparable description)
-B2:	Identify the use of the ablative case in the following sentence: Calpurnia dolōre lacrimāre coepit.	CAUSE / MANNER / SOURCE (or comparable description)
+10:	Identify the use of the ablative case in the following Latin sentence: Caesare interfectō, senātus in tumultum mittitur.	
+ABLATIVE ABSOLUTE (OR COMPARABLE DESCRIPTION)
+B1:	Identify the use of the ablative case in the following sentence: senātōrēs rem magnā cum cūrā agere temptāvērunt.	
+MANNER (OR COMPARABLE DESCRIPTION)
+B2:	Identify the use of the ablative case in the following sentence: Calpurnia dolōre lacrimāre coepit.	
+CAUSE / MANNER / SOURCE (OR COMPARABLE DESCRIPTION)
 
 SCORE CHECK
 
@@ -364,20 +360,6 @@ B2:	At present, the worm in everybody’s ear is Sabrina Carpenter’s Espresso.
 B1: 	What was the name the gods used for the river Scamander?	XANTHUS
 B2:  	In the subsequent fight between the gods, which Olympian declines to fight Leto, learning from Hera’s treatment of Artemis that Zeus’ consorts seem to pack a punch?
 		HERMES
-
-SCORE CHECK
-
-16:	(Note to moderator: read Ti as T-I):
-	A Roman altar from the 1st century AD bears the inscription Ti Claudius Felix. What is the praenōmen of the individual named?	TIBERIUS
-[PASS OUT VISUAL] You now have 5 seconds to inspect the visual, which bears the full inscription from the altar.
-B1:	What is the relationship among the three people named on the inscription?
-		FATHER, MOTHER, AND (THEIR) SON / CHILD // 
-		HUSBAND, WIFE, AND (THEIR) SON / CHILD
-		(PROMPT ON “A FAMILY”)
-B2:	According to the inscription, to whom is this monument dedicated?	
-		(THE MOST SACRED) SUN (GOD) / 
-		SOL (SANCTISSIMUS) / SOLĪ (SANCTISSIMŌ)
-Sources: “Altar dedicated to the Sun and to the gods of Palmyra”, late 1st century AD, marble, courtesy of the Capitoline Museum, Galleria Lapidaria, inv. NCE2412 (article)
 
 17:	When a student successfully completes medical school and receives their degree, they are officially able to claim the title M.D. For what Latin phrase, with what English meaning, does M.D. stand?	MEDICĪNAE DOCTOR / DOCTRIX, DOCTOR OF MEDICINE
 B1:	Some students may choose to pursue a Ph.D. For what Latin phrase, with what English meaning, does Ph.D. stand?	
@@ -409,14 +391,6 @@ B2:	Quō cāsū est “pater”?	NŌMINĀTĪVŌ / NŌMINĀTĪVUS
 INTERMEDIATE DIVISION
 ROUND ONE
 
-The study of the humanities often challenges us as we examine the full range of the human experience. This Certamen round contains mention of violence and trafficking. As always, take care of yourselves and reach out to your chaperones and sponsors if you need to talk about the content.
-
-1:	Containing the Sporades and Cyclades islands, what arm of the Mediterranean Sea lies to the north of Crete, separating Asia Minor from Greece, and was named for the father of Theseus?	AEGEAN SEA / MARE AEGAEUM
-[PASS OUT VISUAL] You now have 5 seconds to inspect the visual.
-B1:	Which letter identifies the Hellespont, a critical shipping lane near the site of Troy where Helle fell while riding the Golden Ram to Colchis?	E
-B2:	Which letter identifies the Saronic Gulf, the location of the port that Theseus founded at Piraeus and the island of Salamis from where Telamonian Ajax hailed?	D
-Sources: Adapted from “Mapa del Medeterrani Oriental” by Mafoso, Public domain, via Wikimedia Commons
-	
 2:	In a touching scene that echoes an almost identical moment from Book 11 of Homer’s Odyssey, what man thrice attempts to embrace the ghost of his wife Creüsa while leaving Troy in Book 2 of Vergil’s Aeneid?	AENEAS
 B1: 	Which son of Aeneas and Creüsa travels with him on his journey to Italy?		ASCANIUS / IULUS
 B2: 	Whose ghost had appeared to Aeneas as the Greeks took the city, warning him to flee?
@@ -429,7 +403,8 @@ B2: 	A secant is a line that crosses a curve at two or more points. From what La
 
 4:	Agrippina the Younger and Drusus Caesar were among the descendants of what notable woman of the Julio-Claudian family, who was the only daughter of Augustus?
 JULIA (THE ELDER / MAIOR)
-B1:	Which children of Julia the Elder were designated as heirs to the throne ahead of Tiberius prior to their deaths in 2 AD and 4 AD?	GAIUS & LUCIUS CAESAR
+B1:	Which children of Julia the Elder were designated as heirs to the throne ahead of Tiberius prior to their deaths in 2 AD and 4 AD?	
+GAIUS & LUCIUS CAESAR
 B2:	What was the relationship between the emperor Caligula and Julia the Elder?
 JULIA THE ELDER WAS CALIGULA’S GRANDMOTHER
 
@@ -449,9 +424,12 @@ B2:	Which brother of Sisyphus was also in the Underworld, in his case for the cr
 B1:	Quae pārs ōrātiōnis est “laeta”?	ADIECTĪVUM
 B2:	Quae pārs ōrātiōnis est “erat”?	VERBUM
 
-8:	Against a fleet commanded by Hanno the Great, where did the Romans led by Lutatius Catulus effectively end the First Punic War in 241 BC?	AEGATES (ISLANDS)
-B1:	As part of the war indemnity imposed on the Carthaginians, what island was given entirely to Rome as its first province outside peninsular Italy?	SICILY
-B2:	In 238 BC, what Carthaginian man and father of Hannibal was given chief command of the Punic forces?	HAMILCAR (BARCA)
+8:	Against a fleet commanded by Hanno the Great, where did the Romans led by Lutatius Catulus effectively end the First Punic War in 241 BC?	
+AEGATES (ISLANDS)
+B1:	As part of the war indemnity imposed on the Carthaginians, what island was given entirely to Rome as its first province outside peninsular Italy?	
+SICILY
+B2:	In 238 BC, what Carthaginian man and father of Hannibal was given chief command of the Punic forces?	
+HAMILCAR (BARCA)
 
 
 9:	Quid Anglicē significat venēnum?	POISON / POTION / VENOM / DRUG
@@ -625,13 +603,6 @@ PALLANTIUM / PALLANTEUM
 B2: 	With what gift from the gods did Aeneas return from this trip?		
 (NEW) ARMS / ARMOR / SHIELD (FROM VULCAN)
 
-[PASS OUT THE VISUAL] Please do not open the visual until instructed to do so;
-You may now open the visual, you have 10 seconds to examine it.
-17:	These are portraits of Roman Emperors taken from gold coins of their era. What dynasty do these men represent, a group name argued by Machiavelli to have been earned due to their competent governance?	FIVE GOOD EMPERORS
-B1:	Identify by letter the emperor under whose reign the Roman Empire reached its greatest extent.	D (Trajan)
-B2:	Again by letter, order these five emperors chronologically from earliest to latest.
-C (Nerva), D (Trajan), B (Hadrian), E (Antoninus Pius), A (Marcus Aurelius)
-Sources: Roman Emperors Poster; Wikipedia
 
 
 18:	Listen carefully to the following passage, which I will read twice, then respondē Latīnē to the questions that follow:

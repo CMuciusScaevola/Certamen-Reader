@@ -87,11 +87,6 @@ FERŌCITER / PEDE (CELERĪ PATRIS URSĪ)
 --- SCORE CHECK ---
 
 
-11.	This question is a visual question. You will have 10 seconds to examine the visual once it is shared via Zoom. Please examine your visual now [WAIT 10 seconds]. 
-	Consider the following images labeled A through D. Which of these images depicts a scene from the story told by a native Arcadian to Aeneas in Book 8 of the Aeneid, when the hero reaches Pallanteum? 	A
-B1: 	At the beginning of Book 8, a certain river god appears to Aeneas in a dream to inform him that he has reached his home. Identify by letter the image which contains this episode as well as the name of the river god.	D - TIBER(INUS) / ALBULA
-B2: 	Letter C depicts the prophetic symbol of a sow that Aeneas will see to prove that he has finally reached his home. The coin is inaccurate, however—according to the Aeneid, what color should the sow be and how many piglets should she have? 
-WHITE (SOW) with 30 (PIGLETS)
 
 12.	Replacing an earlier format known as volūmen, parchment was cut into pages and bound in a form like a modern book. Give the Latin term for this book format. 	
 		CODEX / CAUDEX
@@ -121,9 +116,12 @@ B2:	Supply the correct form of doceo for this sentence: “If we had taught the 
 
 --- SCORE CHECK ---
 
-16.	At what battle did the Romans first encounter so-called “Lucanian oxen” under the direction of the Epirote general Pyrrhus in 280 BC?	HERACLEA
-B1:	While Pyrrhus fought the Romans with elephants, what Thessalian diplomat did he send to Rome more than once to negotiate peace?	CINEAS
-B2:	What Roman consul is celebrated in the Roman annals for rejecting more than one bribe from Pyrrhus?	(C.) FABRICIUS (LUSCINUS)
+16.	At what battle did the Romans first encounter so-called “Lucanian oxen” under the direction of the Epirote general Pyrrhus in 280 BC?
+	HERACLEA
+B1:	While Pyrrhus fought the Romans with elephants, what Thessalian diplomat did he send to Rome more than once to negotiate peace?
+	CINEAS
+B2:	What Roman consul is celebrated in the Roman annals for rejecting more than one bribe from Pyrrhus?	
+(C.) FABRICIUS (LUSCINUS)
 
 17.   What group of men, whose members included Thersander, Sthenelus, Euryalus, and     	Diomedes, marched on the city of Thebes to avenge their fathers’ deaths?     	EPIGONI
 B1:   Which of the Seven Against Thebes, who repelled an ambush of fifty men before the main siege, was Diomedes’ father?                                     	TYDEUS
@@ -255,15 +253,7 @@ B2:	What freedman gained ascendancy after championing Agrippina’s candidacy fo
 B1:	Answer this question with one Latin term: Quī vir an quae fēmina navem in marī perīte navigat?	GUBERNĀTOR / GUBERNĀTRIX/NAUTA
 B2:	Answer this question with one Latin term: Quī vir an quae fēmina voce suavī et musicā aliōs dēlectat?	CAN(TĀ)TOR / CAN(TĀ)TRIX 
 
-15.	This is a visual question. You will have 10 seconds to study the visual before the question begins. 
-	
-	TU:  I received a number of postcards from my dear friend who took social distancing to the extreme and moved to his own tropical island. Each of the items contains one postcard. Identify by letter the postcard that had the following message attached: Salvē, amīcē! Volō ut tū mē visitēs et insulam meam conspicias. Hīc habēmus nōn unum solum sed duo etiam loca aquīs cadentibus.
- D 
-B1:		Which of the postcards had this message attached: Hōdiē tam laetus fuī. Adeō gavīsus sum hōdiē ut aquam per florēs spargēns ambulābam.
-B
-B2:		Which of the postcards had this message attached: Eugē! Hodiē in lītore errābam ēsuriēns. Capere prandium meum cōnābar, et pistrem magnam et īrātissimam cēpī. Nātūra est tam magnifica ut pistris ad mare mihi reddenda esset. Etiam ēsuriō. Ēheu!
-E    
---- SCORE CHECK ---
+
 
 16.	Zeus turned what two creatures to stone in order to resolve a paradox between an inescapable pursuer and uncatchable prey?
 		LAELAPS and TEUMESSIAN VIXEN / FOX
@@ -394,11 +384,14 @@ B1:	Which Roman emperor renamed Judaea to Syria Palaestina?	HADRIAN
 B2:	Put the provinces Epirus, Galatia, Judaea, Numidia, and Raetia in order progressing from farthest west to farthest east. 	
 NUMIDIA, RAETIA, EPIRUS, GALATIA, JUDAEA
 
-15.	Complete the following analogy: conor : conārī :: intersum : [blank]	INTERESSE
-B1:	Complete the following analogy: conor : conātum esse :: frangō : [blank]	FREGISSE
-B2:	Complete the following analogy: conor : conāre :: ducō : [blank]	DUC
+15.	Complete the following analogy: conor : conārī :: intersum : [blank]?
+INTERESSE
+B1:	Complete the following analogy: conor : conātum esse :: frangō : [blank]?
+FREGISSE
+B2:	Complete the following analogy: conor : conāre :: ducō : [blank]?
+DUC
 
---- SCORE CHECK - CAMERAS ON
+
 
 16.	Respondē Latīnē: Cuius oculī in caudā pavōnis positī sunt ā Iūnōne?	
 (OCULĪ) ARGĪ (PANOPTIS)
@@ -429,7 +422,7 @@ B1:	Cūr lacerta ursam secūta est?	UT MAGNAM CĒNAM EDERET//
 VOLUIT / AVIDA (ERAT) EDERE MAGNAM CĒNAM/PLŪS CIBĪ 
 B2:	Quem nōn exspectābat lacerta?	PATREM / URSUM
 
---- SCORE CHECK -- - CAMERAS ON
+
 
 20.	According to Livy, what king’s reign included building projects, such as draining the area for the Forum and starting construction on the Circus Maximus, but ended in murder at the hands of his predecessor’s sons?	(L.) TARQUIN(IUS) PRISCUS’ // LUCUMO’S
 B1:	Who was Priscus’ wife who predicted his kingship and ensured the reign of his successor?	TANAQUIL
@@ -442,18 +435,9 @@ B2:	Who was this successor who brought the sons of Ancus Marcius to justice befo
 INTERMEDIATE DIVISION
 ROUND TWO
 
-REPLACEMENT PASSAGE FOR WISCONSIN
-17:	Listen to the following Latin story that involves whirlpools, vorāginēs, which I will read twice, and answer in ENGLISH the question that follows:
-	Multa perīcula nautīs impendent, sīcut saxa, quibus nāvēs franguntur, vorāginēs, in quās nāvēs dēmerguntur, et praedōnēs maritimī, quī nāvēs persequuntur ut mercēs et pecūniam rapiant nautāsque occīdant.  (reread)
-B1:  	For what two reasons do pirates chase ships?
-			TO TAKE MONEY / GOODS AND KILL THE SAILORS
-B2:	What problem is posed by rocks?	
-			SHIPS ARE BROKEN UP ON THEM / THEY DESTROY SHIPS
 
-=====================================================================
 
-Moderator says:  I will read one practice question now for no points. This question does not necessarily reflect the difficulty of questions found in this tournament.
-TU: What king of Thebes, the son of one of the Spartoi, succeeded Cadmus to the throne and was torn apart by his mother?
+1. What king of Thebes, the son of one of the Spartoi, succeeded Cadmus to the throne and was torn apart by his mother?
 PENTHEUS
 B1: Who was this mother of Pentheus who tore her son apart in a bacchic frenzy?
 AGAVE
@@ -490,7 +474,7 @@ B1:	Quō ambulāvit ursa?	DOMUM / AD URSULŌS
 B2:	Dīc Anglicē id quod ursa discēdēns lacertae maximae dīxit.
 (I WILL) SEE YOU LATER, ALLIGATOR / LIZARD
 
---- SCORE CHECK (CAMERAS ON) ---
+
 
 6.	Which two of the following words are derived from the same Latin root: present, imperfect, future, and imperative?	PRESENT & FUTURE
 B1:	Give the ultimate Latin root and its meaning of “present” and “future”?	SUM – TO BE
@@ -517,7 +501,7 @@ B2:	Now say in Latin, “I hear that you have many cats.”
 		AUDIŌ TĒ / VŌS MULTĀS FĒLĒS HABĒRE //
 		AUDIŌ TIBI / VŌBĪS MULTĀS FĒLĒS ESSE
 
---- SCORE CHECK (CAMERAS ON)---
+
 
 11.	Who, at a banquet thrown by Tantalus, obliviously ate a piece of Pelops’ shoulder, because she was still grieving the death of her daughter Persephone?	DEMETER 
 B1: 	Distraught, Demeter replaced Pelops’ shoulder with a new one, made from what material?	IVORY
@@ -548,7 +532,7 @@ B1: 	In Ovid’s account, Hyacinthus perished in a tragic accident, but some wri
 B2: 	In yet another version, what bard, the son of Philammon and the nymph Argiope, became the first man to love another man when he became infatuated with Hyacinthus?
 		THAMYRIS
 
---- SCORE CHECK (CAMERAS ON) ---
+
 
 16.	Respondē aut Anglicē aut Latīnē: Quī dux Rōmānus, duōbus in Hispāniā victīs Hasdrubālibus, ad Africam vectus est ad Hannibālem dēmum pugnandum Zamae?
 (P. CORNELIUS) SCĪPIO AFRICĀNUS (MĀIOR)
@@ -562,8 +546,10 @@ B1:	Give the Latin verb at the root of “Certamen” and its meaning.
 B2:	Give the Latin verb at the root of “deride” and its meaning.	
 		RĪDEŌ - LAUGH / SMILE
 
-18.	Complete the following geographical analogy: Bonōnia : Bologna :: Eborācum : [blank]	YORK
-B1:	What modern city was once called Aquincum? 	BUDAPEST
+18.	Complete the following geographical analogy: Bonōnia : Bologna :: Eborācum : [blank]?	
+YORK
+B1:	What modern city was once called Aquincum? 
+	BUDAPEST
 B2:	What modern city was once called Colōnia Claudia Ara Agrippinensium?	
 COLOGNE
 
@@ -572,7 +558,7 @@ B1: 	What is the Latin and English of v.s.? The phrase is found in citations whe
 B2: 	What abbreviation functions as the antonym of v.s. and means “look below?”	
 		V.I. (VIDĒ INFRĀ)
 
---- SCORE CHECK (CAMERAS ON) ---
+
 
 20.	When the Argonauts stopped in Mysia, whose youthful beauty led the nymphs at the spring of Pegae to kidnap him, and caused his lover, Heracles, to go mad?	HYLAS
 B1: 	What twin Argonautic brothers convinced the Argonauts to sail on without Hylas and Heracles?	ZETES AND CALAÏS // THE BOREADES
@@ -630,9 +616,12 @@ LOCATIVE
 B1: 	The locative case is typically found with the names of cities, towns, and small islands.  There are, however, a number of other words that have a locative form. Domus and rūs are the usual suspects. What feminine noun, meaning “ground” or “earth” also has a locative form?	HUMUS 
 B2: 	Although it is usually reckoned as an ablative of time, what third declension noun is literally translated in the locative as “in the evening?”	VESPERE / VESPERĪ
 
-8.	What gluttonous general lost favor with the people by proclaiming himself Germanicus Imperator and alienated much of the military by humiliating Otho’s defeated soldiers, thus leading to his swift downfall in 69 AD?	(A.) VITELLIUS
-B1:	Which of Vitellius’ commanders attempted to betray him but was deposed by his own troops at Hostilia?	(A.) CAECINA (ALIENUS)
-B2:	Where did a demoralized Vitellian army crumble before the Danubian troops of Antonius Primus?	(SECOND BATTLE OF) CREMONA / BEDRIACUM
+8.	What gluttonous general lost favor with the people by proclaiming himself Germanicus Imperator and alienated much of the military by humiliating Otho’s defeated soldiers, thus leading to his swift downfall in 69 AD?	
+(A.) VITELLIUS
+B1:	Which of Vitellius’ commanders attempted to betray him but was deposed by his own troops at Hostilia?	
+(A.) CAECINA (ALIENUS)
+B2:	Where did a demoralized Vitellian army crumble before the Danubian troops of Antonius Primus?	
+(SECOND BATTLE OF) CREMONA / BEDRIACUM
 
 9.	Respondē aut Anglicē aut Latīnē:  Quae fēmina sub arbore mōrī sē necāvit quod coniunx suus quoque est mortuus sub eādem arbore?	THISBĒ
 B1:	Respondē aut Anglicē aut Latīnē: Quis erat amātor Hērōis quī est mortuus 		natandō?	LĒANDER
@@ -647,9 +636,12 @@ MEDIA LEGIŌ SCIPIŌNIS INFIRMA ERAT
 	
 --- SCORE CHECK ---
 
-11.	The Valerio-Horatian laws, the Lex Hortensia, the Lex Canuleia, and the recognition of the tribunate were all results of what plebeian action that was probably their most powerful tool in securing rights from the patricians?	SECESSION
-B1:	How many plebeian secessions are recorded between 494 and 287 BC?	5
-B2:	In what year did the plebeians secede for the second time in protest of the abuses of the decemvirī?	449 BC
+11.	The Valerio-Horatian laws, the Lex Hortensia, the Lex Canuleia, and the recognition of the tribunate were all results of what plebeian action that was probably their most powerful tool in securing rights from the patricians?	
+SECESSION
+B1:	How many plebeian secessions are recorded between 494 and 287 BC?	
+FIVE
+B2:	In what year did the plebeians secede for the second time in protest of the abuses of the decemvirī?	
+449 BC
 
 12.	Listen carefully to the following Latin passage, that involves a lacerta or “lizard,” which I will read twice, then RESPONDĒ LATĪNĒ to the questions that follow.  
 	Ursa in rīpā flūminis lacertae maximae occurrit.  Lacerta, quae in flūmine natābat, famem habēbat – et dentēs maximōs et terrībilēs!  Dīxit lacerta ursae, “in flūmen intrā et natā mēcum.”  Ursa, timēns dentēs maximōs lacertae magnamque sapientiam habēns, recūsāvit.	REPEAT
@@ -663,9 +655,12 @@ LACERTA DENTĒS MAXIMŌS HABĒBAT
 B2:	Quālis erat ursa?	PRŪDĒNS / SAPIĒNS / VĪVA / TIMENS
 
 
-13.	What two word Latin phrase, often conjoined into a single English word, is used to describe a period in American history in the South prior to 1860?	ANTE BELLUM 
-B1: 	What two word Latin phrase is the title of a comic strip from 1992 similar to Far Side where individual strips do not necessarily follow one another in a cohesive narrative, but highlight an individual gag?	NŌN SEQUITUR
-B2: 	If, perhaps, you did not much care for the previous question, that is fine. There is no accounting for taste, after all. What Latin phrase means “there is no accounting for taste?”	DĒ GUSTIBUS NŌN (EST) DISPUTANDUM / DISPUTANDUM EST
+13.	What two word Latin phrase, often conjoined into a single English word, is used to describe a period in American history in the South prior to 1860?	
+ANTE BELLUM 
+B1: 	What two word Latin phrase is the title of a comic strip from 1992 similar to Far Side where individual strips do not necessarily follow one another in a cohesive narrative, but highlight an individual gag?	
+NŌN SEQUITUR
+B2: 	If, perhaps, you did not much care for the previous question, that is fine. There is no accounting for taste, after all. What Latin phrase means “there is no accounting for taste?”	
+DĒ GUSTIBUS NŌN (EST) DISPUTANDUM / DISPUTANDUM EST
 
 14.	Who, on the same day as he was born on Mount Cyllene, killed a tortoise to create the first seven-stringed lyre and stole his half-brother Apollo’s cattle?	HERMES
 B1:	What woman was Hermes’ mother?	MAIA
