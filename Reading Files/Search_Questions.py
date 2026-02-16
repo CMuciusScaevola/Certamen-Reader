@@ -32,11 +32,6 @@ def searchForQWindow(root,allQs):
 
     yearLvlFrm = ttk.Frame(sfQMainframe)
     lvlLbl=ttk.Label(yearLvlFrm,text="Level:")
-    #lvls = Listbox(yearLvlFrm,selectmode="multiple",height=3)
-    #lvls.insert(0,"Novice")
-    #lvls.insert(1,"Intermediate")
-    #lvls.insert(2,"Advanced")
-    #for i in range(3):lvls.selection_set(i)
     advCheckVar=IntVar()
     advCheckVar.set(1)
     intCheckVar=IntVar()
@@ -45,18 +40,23 @@ def searchForQWindow(root,allQs):
     noviceCheckVar.set(1)
     agonCheckVar=IntVar()
     agonCheckVar.set(1)
+    eliteCheckVar=IntVar()
+    eliteCheckVar.set(1)
     TTKITMS['advCheckVar']=advCheckVar
     TTKITMS['intCheckVar']=intCheckVar
     TTKITMS['noviceCheckVar']=noviceCheckVar
     TTKITMS['agonCheckVar']=agonCheckVar
+    TTKITMS['eliteCheckVar']=eliteCheckVar
     advancedCheck=ttk.Checkbutton(yearLvlFrm,text="Advanced",variable=advCheckVar)
-    advancedCheck.grid(row=0,column=1)
+    advancedCheck.grid(row=0,column=2)
     intermediateCheck=ttk.Checkbutton(yearLvlFrm,text="Intermediate",variable=intCheckVar)
-    intermediateCheck.grid(row=0,column=2)
+    intermediateCheck.grid(row=0,column=3)
     noviceCheck=ttk.Checkbutton(yearLvlFrm,text="Novice",variable=noviceCheckVar)
-    noviceCheck.grid(row=0,column=3)
+    noviceCheck.grid(row=0,column=4)
     agonCheck=ttk.Checkbutton(yearLvlFrm,text="Agon",variable=agonCheckVar)
-    agonCheck.grid(row=0,column=4)
+    agonCheck.grid(row=0,column=5)
+    eliteCheck=ttk.Checkbutton(yearLvlFrm,text="Elite",variable=eliteCheckVar)
+    eliteCheck.grid(row=0,column=1)
     lvlLbl.grid(row=0,column=0,sticky=W)
     #lvls.grid(row=0,column=1,sticky=W)
     yearLvlFrm.grid(row=1,column=0,sticky=W)
@@ -98,6 +98,7 @@ def searchForTerm(*args):
         if TTKITMS['intCheckVar'].get():lvlOptions.append("from Intermediate")
         if TTKITMS['noviceCheckVar'].get():lvlOptions.append("from Novice")
         if TTKITMS['agonCheckVar'].get():lvlOptions.append("from Agon")
+        if TTKITMS['eliteCheckVar'].get():lvlOptions.append("from Elite")
         #print(lvlOptions)
         for q in allQs:
             for itm in lvlOptions:

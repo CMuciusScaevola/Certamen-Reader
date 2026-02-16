@@ -3,6 +3,9 @@
 import sys;args=sys.argv[1:]
 import re
 lvl = args[0].split("_")[0]
+
+if lvl[-2:]=="dE" or lvl[-2:]=="eE":
+    lvl=lvl[:-1]
 st=open("Raw Rounds/"+args[0]+".txt",encoding='utf-8').read()
 #Remove common items that are undesirable
 st=st.replace("%", " ").replace("\t"," ")
