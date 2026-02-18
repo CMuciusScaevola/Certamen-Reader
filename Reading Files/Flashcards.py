@@ -1,5 +1,5 @@
 import sys; args=sys.argv[1:]
-import math, re, time, random
+import math, re, time, random, pathlib
 from threading import Thread
 import tkinter as tk
 import os
@@ -15,12 +15,15 @@ CARDS=[]
 GONEXT=[False]
 LBLS=[]
 
-p=(os.path.abspath("Flashcards.py"))
-p=p[:-13]
-if not "Reading Files/" in p: p=p+"Reading Files/"
+path=(os.path.abspath("Flashcards.py"))
+path=path[:-13]
+if not "Reading Files" in path: 
+    p=pathlib.Path(path) / "Reading Files"
+else:
+    p=pathlib.Path(path)
 
 def getDecks():
-    a= os.listdir(p+"Flashcard Decks")
+    a= os.listdir(str(p/"Flashcard Decks"))
     for i,itm in enumerate(a):
         a[i]=itm[:-4]
     return a
@@ -32,7 +35,7 @@ def makeCard(frontText,backText,selectedDeck,frontEntry,backEntry,errorLabel,car
         errorLabel.grid_remove()
         frontText.delete(0,'end')
         backText.delete(0,'end')
-        with open(p+"Flashcard Decks/"+deck+".txt","a") as output:
+        with open(str(p/"Flashcard Decks"/f"{deck}.txt"),"a") as output:
             date=datetime.datetime.now()
             string=front.replace("\n"," ")+"**REVERSE**"+back.replace("\n"," ")+"**LASTREVIEW**"+f"{date.year}-{date.month}-{date.day}-{date.hour}-{date.minute}"+"**LEARNINGSTAGE**0"+"\n"
             output.write(string)
@@ -45,7 +48,7 @@ def makeCard(frontText,backText,selectedDeck,frontEntry,backEntry,errorLabel,car
 
 def createDeck(deck,entryToClear,mfcMenu,selectedDeck):
     if deck and not deck in getDecks():
-        with open(p+"Flashcard Decks/"+deck+".txt","a") as output:
+        with open(str(p/"Flashcard Decks"/f"{deck}.txt"),"a") as output:
             entryToClear.delete(0,'end')
         print("Created!")
         DECKOPTIONS=sorted(getDecks())
@@ -124,7 +127,7 @@ def reviewDeck(deckfile,relevantFrames):
     window=relevantFrames[4]
     frontLbl,backLbl=relevantFrames[2],relevantFrames[3]
     relevantFrames[1].focus()
-    deck=open(p+"Flashcard Decks/"+deckfile+".txt").read().splitlines()
+    deck=open(str(p/"Flashcard Decks"/f"{deckfile}.txt")).read().splitlines()
     relevantFrames[0].grid_remove()
     relevantFrames[1].grid()
     toReview=[]
@@ -180,7 +183,7 @@ def reviewDeck(deckfile,relevantFrames):
     relevantFrames[7].grid()
 
 def saveDeck(toReview,dormant,deck):
-    with open(p+"Flashcard Decks/"+deck+".txt","w") as output:
+    with open(str(p/"Flashcard Decks"/f"{deck}.txt"),"w") as output:
         for itm in dormant:output.write(itm+"\n")
         for itm in toReview:output.write(itm[1]+"**LASTREVIEW**"+itm[3]+"**LEARNINGSTAGE**"+f"{itm[2]}"+"\n")
 

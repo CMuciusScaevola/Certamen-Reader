@@ -1,5 +1,5 @@
 import sys; args = sys.argv[1:]
-import math, re, time, random,os
+import math, re, time, random,os,pathlib
 from threading import Thread
 import tkinter as tk
 from tkinter import *
@@ -8,7 +8,7 @@ from Flashcards import flashCardWindow,reviewCardWindow
 from Search_Questions import searchForQWindow
 
 ROUNDNAMES=["Harvard","Yale","Princeton","VAFinals","Keartamen","VAKickoff","NJCL","Longhorn","MassWinter","FlintHill","Duke","Kagon",
-            "PCL","BostonElite","NJCL Agon","AMSA","BLA"]
+            "PCL","BostonElite","NJCL Agon","AMSA","BLA","BLS","Florida","FLGA"]
 LEVELS=["Novice","Intermediate","Advanced","AdvancedE","IntermediateE","NoviceE","Agon","Elite"]
 CATEGORIES=["History","Literature","Language","Mythology", "HistoryAE","LiteratureAE","LanguageAE","MythologyAE"]
 DCTYEARS={}
@@ -20,17 +20,23 @@ LASTSKIPP=[time.time()] #To ensure repeated skips don't come too often
 RD2PLAY=[""]
 ALLQUESTIONS=set()
 
-p=(os.path.abspath("Certamen.py"))
+path=(os.path.abspath("Certamen.py"))
+print(path)
 
-p=p[:-11]
-if not "Reading Files" in p: p+="Reading Files/"
-rnds = os.listdir(p+"Rounds/Advanced")+os.listdir(p+"Rounds/Intermediate")+os.listdir(p+"Rounds/Novice")+os.listdir(p+"Rounds/Agon")+os.listdir(p+"Rounds/Elite")
+
+path=path[:-11]
+if not "Reading Files" in path: 
+    p=pathlib.Path(path) / "Reading Files"
+else:
+    p=pathlib.Path(path)
+print(str(p))
+rnds = os.listdir(str(p/"Rounds"/"Advanced"))+os.listdir(str(p/"Rounds"/"Intermediate"))+os.listdir(str(p/"Rounds"/"Novice"))+os.listdir(str(p/"Rounds"/"Agon"))+os.listdir(str(p/"Rounds"/"Elite"))
 for rnd in rnds:
     lvling = rnd.split("_")[0]
     if lvling[-2:]=="dE" or lvling[-2:]=="eE":
         lvling=lvling[:-1]
     if not "Language.txt" in rnd and not "History.txt" in rnd and not "Literature.txt" in rnd and not "Mythology.txt" in rnd:
-        qs=open(p+f"Rounds/{lvling}/"+rnd,encoding='utf-8').read()
+        qs=open(str(p/f"Rounds"/f"{lvling}"/rnd),encoding='utf-8').read()
         rnd=rnd.replace("_"," ").replace("AdvancedE","Advanced").replace("NoviceE","Novice").replace("IntermediateE","Intermediate")
         while "  " in qs:
             qs=qs.replace("  "," ")
@@ -39,7 +45,7 @@ for rnd in rnds:
         for itm in qs:newQs+=itm.split("BONUS:")
         for itm in newQs:ALLQUESTIONS.add(itm+f" (from {rnd[:-11]})")
 
-DCTENG={*open(p+"CSW19.txt",encoding='utf-8').read().splitlines()} #to make reading speed better
+DCTENG={*open(str(p/"CSW19.txt"),encoding='utf-8').read().splitlines()} #to make reading speed better
 SORTING=[False] #If true allows sorting of questions into new categories
 SHOWINGCATS=[False] #Controls whether the option buttens for sorting are visible
 
@@ -79,8 +85,8 @@ def checkKeyBindings():
 
 
 def saveToHist(*args):
-    a={*open(p+f"Rounds/{CURLEVEL[0]}_History.txt",encoding='utf-8').read().splitlines()} #to ensure duplicate questions don't end up here
-    with open(p+f"Rounds/{CURLEVEL[0]}_History.txt","a",encoding='utf-8') as output:
+    a={*open(str(p/f"Rounds"/f"{CURLEVEL[0]}_History.txt"),encoding='utf-8').read().splitlines()} #to ensure duplicate questions don't end up here
+    with open(str(p/f"Rounds"/f"{CURLEVEL[0]}_History.txt"),"a",encoding='utf-8') as output:
         q2write=LASTEXTRACTED[0]
         if not q2write[:-1] in a:
             output.write(q2write)
@@ -92,8 +98,8 @@ def saveToHist(*args):
     root.unbind("m")
     SHOWINGCATS[0]=False
 def saveToLit(*args):
-    a={*open(p+f'Rounds/{CURLEVEL[0]}_Literature.txt',encoding='utf-8').read().splitlines()}
-    with open(p+f"Rounds/{CURLEVEL[0]}_Literature.txt","a",encoding='utf-8') as output:
+    a={*open(str(p/f'Rounds'/f"{CURLEVEL[0]}_Literature.txt"),encoding='utf-8').read().splitlines()}
+    with open(str(p/f"Rounds/"f"{CURLEVEL[0]}_Literature.txt"),"a",encoding='utf-8') as output:
         q2write=LASTEXTRACTED[0]
         if not q2write[:-1] in a:
             output.write(q2write)
@@ -105,8 +111,8 @@ def saveToLit(*args):
     root.unbind("m")
     SHOWINGCATS[0]=False
 def saveToLang(*args):
-    a={*open(p+f'Rounds/{CURLEVEL[0]}_Language.txt',encoding='utf-8').read().splitlines()}
-    with open(p+f"Rounds/{CURLEVEL[0]}_Language.txt","a",encoding='utf-8') as output:
+    a={*open(str(p/f'Rounds'/f'{CURLEVEL[0]}_Language.txt'),encoding='utf-8').read().splitlines()}
+    with open(str(p/f"Rounds"/f"{CURLEVEL[0]}_Language.txt"),"a",encoding='utf-8') as output:
         q2write=LASTEXTRACTED[0]
         if not q2write[:-1] in a:
             output.write(q2write)
@@ -118,8 +124,8 @@ def saveToLang(*args):
     root.unbind("m")
     SHOWINGCATS[0]=False
 def saveToMyth(*args):
-    a={*open(p+f'Rounds/{CURLEVEL[0]}_Mythology.txt',encoding='utf-8').read().splitlines()}
-    with open(p+f"Rounds/{CURLEVEL[0]}_Mythology.txt","a",encoding='utf-8') as output:
+    a={*open(str(p/f'Rounds'/f'{CURLEVEL[0]}_Mythology.txt'),encoding='utf-8').read().splitlines()}
+    with open(str(p/f"Rounds"/f"{CURLEVEL[0]}_Mythology.txt"),"a",encoding='utf-8') as output:
         q2write=LASTEXTRACTED[0]
         if not q2write[:-1] in a:
             output.write(q2write)
@@ -179,7 +185,7 @@ def saveFact(*args):
     entry = factSavetxt.get()
     factSave.delete(0,'end')
     if entry:
-        with open(p+"Fact.txt","a",encoding='utf-8') as output:
+        with open(str(p/"Fact.txt","a"),encoding='utf-8') as output:
             output.write(entry+"\n")
     root.unbind("<>") #Return
     root.bind("s",showCatsForSaving)
@@ -188,8 +194,8 @@ def saveFact(*args):
     mainframe.focus()
     
 def favoriteQuestion(*args):
-    a={*open(p+'Rounds/Favorites.txt',encoding='utf-8').read().splitlines()} #to ensure duplicate questions don't end up here
-    with open(p+"Rounds/Favorites.txt","a",encoding='utf-8') as output:
+    a={*open(str(p/'Rounds/Favorites.txt'),encoding='utf-8').read().splitlines()} #to ensure duplicate questions don't end up here
+    with open(str(p/"Rounds/Favorites.txt"),"a",encoding='utf-8') as output:
         q2write=LASTEXTRACTED[0]
         if not q2write[:-1] in a:
             output.write(q2write)
@@ -453,16 +459,16 @@ def loadSelectedFile():
     print(RD2PLAY[0])
     lvling=RD2PLAY[0].split("_")[0]
     if lvling[-2:]=="dE" or lvling[-2:]=="eE":lvling=lvling[:-1]
-    qs=open(p+f"Rounds/{lvling}/"+RD2PLAY[0],encoding='utf-8').read()
+    qs=open(str(p/f"Rounds"/{lvling}/RD2PLAY[0]),encoding='utf-8').read()
     while "  " in qs:
         qs=qs.replace("  "," ")
     qs=qs.splitlines()
     if "History" in RD2PLAY[0] or "Literature" in RD2PLAY[0] or "Language" in RD2PLAY[0] or "Mythology" in RD2PLAY[0]:
         SORTING[0]=False
     if SORTING[0]:
-        seen={*open(p+'Rounds/Faulty_Questions.txt',encoding='utf-8').read().splitlines()}|{*open(p+'Rounds/Advanced_History.txt',encoding='utf-8').read().splitlines()}|{*open(p+'Rounds/Advanced_Language.txt',encoding='utf-8').read().splitlines()}|{*open(p+'Rounds/Advanced_Literature.txt',encoding='utf-8').read().splitlines()}|{*open(p+'Rounds/Advanced_Mythology.txt',encoding='utf-8').read().splitlines()}
+        seen={*open(str(p/'Rounds'/'Faulty_Questions.txt'),encoding='utf-8').read().splitlines()}|{*open(str(p/'Rounds'/'Advanced_History.txt'),encoding='utf-8').read().splitlines()}|{*open(str(p/'Rounds'/'Advanced_Language.txt'),encoding='utf-8').read().splitlines()}|{*open(str(p/'Rounds'/'Advanced_Literature.txt'),encoding='utf-8').read().splitlines()}|{*open(str(p/'Rounds'/'Advanced_Mythology.txt'),encoding='utf-8').read().splitlines()}
     else:
-        seen={*open(p+'Rounds/Faulty_Questions.txt',encoding='utf-8').read().splitlines()}
+        seen={*open(str(p/'Rounds'/'Faulty_Questions.txt'),encoding='utf-8').read().splitlines()}
     qs={*qs}
     toRemove=set()
     for question in qs:
@@ -485,8 +491,8 @@ def loadSelectedFile():
     questionScreen()
 
 def recordFaultyQuestion():
-    a={*open(p+'Rounds/Faulty_Questions.txt',encoding='utf-8').read().splitlines()}
-    with open(p+"Rounds/Faulty_Questions.txt","a",encoding='utf-8') as output:
+    a={*open(str(p/'Rounds'/'Faulty_Questions.txt'),encoding='utf-8').read().splitlines()}
+    with open(str(p/"Rounds"/"Faulty_Questions.txt"),"a",encoding='utf-8') as output:
         toW=f"{RD2PLAY[0]} {LASTEXTRACTED[0]}"
         if not toW[:-1] in a:
             output.write(toW)
@@ -739,6 +745,12 @@ categoryLblElite.config(font=("Courier",15))
 catsElite=[ttk.Button(roundOptionsElite,text="History",command=lambda:setRoundName("History")),ttk.Button(roundOptionsElite,text="Language",command=lambda:setRoundName("Language")),ttk.Button(roundOptionsElite,text="Mythology",command=lambda:setRoundName("Mythology")),ttk.Button(roundOptionsElite,text="Literature",command=lambda:setRoundName("Literature"))]
 for i in range(len(catsElite)):  catsElite[i].grid(column=i,row=3,sticky=W)
 categoryLblElite.grid(column=0,row=2,columnspan=len(catsElite),sticky=W)
+
+categoryLblAgon=ttk.Label(roundOptionsAgon,text="\nOr choose a category:\n")
+categoryLblAgon.config(font=("Courier",15))
+catsAgon=[ttk.Button(roundOptionsAgon,text="History",command=lambda:setRoundName("History")),ttk.Button(roundOptionsAgon,text="Language",command=lambda:setRoundName("Language")),ttk.Button(roundOptionsAgon,text="Mythology",command=lambda:setRoundName("Mythology")),ttk.Button(roundOptionsAgon,text="Literature",command=lambda:setRoundName("Literature"))]
+for i in range(len(catsAgon)):  catsAgon[i].grid(column=i,row=3,sticky=W)
+categoryLblAgon.grid(column=0,row=2,columnspan=len(catsAgon),sticky=W)
 ######################################################################################################################################################################################################
 
 
@@ -750,7 +762,8 @@ rounds=[ttk.Button(roundOptionsAdvanced,text="Harvard",command=lambda:setRoundNa
         ttk.Button(roundOptionsAdvanced,text="Longhorn",command=lambda:setRoundName("Longhorn")),
         ttk.Button(roundOptionsAdvanced,text="Duke",command=lambda:setRoundName("Duke")),
         ttk.Button(roundOptionsAdvanced,text="VA State Finals",command=lambda:setRoundName("VAFinals")),
-        
+        ttk.Button(roundOptionsAdvanced,text="Florida",command=lambda:setRoundName("Florida")),
+        ttk.Button(roundOptionsAdvanced,text="Florida-Goergia",command=lambda:setRoundName("FLGA"))
         ]
 roundsAgon = [
     ttk.Button(roundOptionsAgon,text="Yale",command=lambda:setRoundName("Yale Agon")),
@@ -763,7 +776,8 @@ roundsAE=[
         ttk.Button(roundOptionsAdvancedE,text="Mass Winter",command=lambda:setRoundName("MassWinter")),
         ttk.Button(roundOptionsAdvancedE,text="Flint Hill",command=lambda:setRoundName("FlintHill")),
         ttk.Button(roundOptionsAdvancedE,text="AMSA (Mass)",command=lambda:setRoundName("AMSA")),
-         ttk.Button(roundOptionsAdvancedE,text="BLA",command=lambda:setRoundName("BLA"))
+         ttk.Button(roundOptionsAdvancedE,text="BLA",command=lambda:setRoundName("BLA")),
+         ttk.Button(roundOptionsAdvancedE,text="BLS",command=lambda:setRoundName("BLS")),
 ]
 roundsInt=[
         ttk.Button(roundOptionsIntermediate,text="Harvard",command=lambda:setRoundName("Harvard")),
@@ -788,14 +802,14 @@ roundsElite = [ttk.Button(roundOptionsElite,text="Keartamen",command=lambda:setR
 ]
 
 ###################################################################################################
-for i in range(len(rounds)): rounds[i].grid(column=i,row=1,sticky=W)
-for i in range(len(roundsAgon)): roundsAgon[i].grid(column=i,row=1,sticky=W)
-for i in range(len(roundsAE)): roundsAE[i].grid(column=i,row=1,sticky=W)
-for i in range(len(roundsInt)): roundsInt[i].grid(column=i,row=1,sticky=W)
-for i in range(len(roundsIntE)): roundsIntE[i].grid(column=i,row=1,sticky=W)
-for i in range(len(roundsNovice)): roundsNovice[i].grid(column=i,row=1,sticky=W)
-for i in range(len(roundsNoviceE)): roundsNoviceE[i].grid(column=i,row=1,sticky=W)
-for i in range(len(roundsElite)): roundsElite[i].grid(column=i,row=1,sticky=W)
+for i in range(len(rounds)): rounds[i].grid(column=i%10,row=(i//10)+1,sticky=W)
+for i in range(len(roundsAgon)): roundsAgon[i].grid(column=i%10,row=(i//10)+1,sticky=W)
+for i in range(len(roundsAE)): roundsAE[i].grid(column=i%10,row=(i//10)+1,sticky=W)
+for i in range(len(roundsInt)): roundsInt[i].grid(column=i%10,row=(i//10)+1,sticky=W)
+for i in range(len(roundsIntE)): roundsIntE[i].grid(column=i%10,row=(i//10)+1,sticky=W)
+for i in range(len(roundsNovice)): roundsNovice[i].grid(column=i%10,row=(i//10)+1,sticky=W)
+for i in range(len(roundsNoviceE)): roundsNoviceE[i].grid(column=i%10,row=(i//10)+1,sticky=W)
+for i in range(len(roundsElite)): roundsElite[i].grid(column=i%10,row=(i//10)+1,sticky=W)
 
 ###################################################################################################
 ###################################################################################################
@@ -853,6 +867,8 @@ NJCLYearsAdvanced=[y24, y23, y22, y21, y20, y19, y18, y17, y16, y15, y14, y13, y
 longhornYearsAdvanced=[y24, y22, y21]
 dukeYearsAdvanced=[y20, y19, y18]
 vaFinalsYearsAdvanced=[y23, y22, y21, y19, y18, y17]
+floridaYearsAdvanced=[y23,y22,y18,y14,y13,y12,y11,y10]
+flgaYearsAdvanced=[y19,y15,y14]
 ##############################################################################################################
 keartamenYearsAdvanced=[y24,  y23,  y22,  y21,  y20]
 pclYears=[y23,y21,y20]
@@ -864,6 +880,7 @@ massWinterYearsAdvanced = [y24,  y23,  y22]
 fhYearsAdvanced = [y15,  y14,  y13,  y12,  y11]
 AMSAYearsAdvanced = [y12,y11]
 BLAYearsAdvanced = [y14,y13,y12]
+BLSYearsAdvanced = [y24,y23,y21]
 #########################################################################################################
 yaleYearsAgon = [y20,y17]
 kagonYears = [y24,y22,y21]
@@ -889,6 +906,8 @@ DCTYEARS["Advanced_VAFinals_"]=vaFinalsYearsAdvanced
 DCTYEARS["Advanced_NJCL_"]=NJCLYearsAdvanced
 DCTYEARS["Advanced_Longhorn_"]=longhornYearsAdvanced
 DCTYEARS["Advanced_Duke_"]=dukeYearsAdvanced
+DCTYEARS['Advanced_Florida_']=floridaYearsAdvanced
+DCTYEARS['Advanced_FLGA_']=flgaYearsAdvanced
 #Advanced Easy 
 DCTYEARS['AdvancedE_VAKickoff_']=vaKickoffYearsAdvanced
 DCTYEARS["AdvancedE_VAFinals_"]=vaFinalsYearsAdvancedE
@@ -896,6 +915,7 @@ DCTYEARS['AdvancedE_FlintHill_'] = fhYearsAdvanced
 DCTYEARS['AdvancedE_MassWinter_'] = massWinterYearsAdvanced
 DCTYEARS['AdvancedE_AMSA_'] = AMSAYearsAdvanced
 DCTYEARS['AdvancedE_BLA_'] = BLAYearsAdvanced
+DCTYEARS['AdvancedE_BLS_'] = BLSYearsAdvanced
 #Intermediate Hard
 DCTYEARS["Intermediate_Yale_"]=yaleYearsAdvanced[:]
 DCTYEARS["Intermediate_Harvard_"]=harvardYearsAdvanced[:]
