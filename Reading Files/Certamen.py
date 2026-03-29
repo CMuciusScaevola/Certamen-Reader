@@ -30,6 +30,7 @@ else:
     p=pathlib.Path(path)
 print(str(p))
 rnds = os.listdir(str(p/"Rounds"/"Advanced"))+os.listdir(str(p/"Rounds"/"Intermediate"))+os.listdir(str(p/"Rounds"/"Novice"))+os.listdir(str(p/"Rounds"/"Agon"))+os.listdir(str(p/"Rounds"/"Elite"))
+totalqs = 0
 for rnd in rnds:
     lvling = rnd.split("_")[0]
     if lvling[-2:]=="dE" or lvling[-2:]=="eE":
@@ -43,6 +44,13 @@ for rnd in rnds:
         newQs=[]
         for itm in qs:newQs+=itm.split("BONUS:")
         for itm in newQs:ALLQUESTIONS.add(itm+f" (from {rnd[:-11]})")
+    else:
+        qs = open(str(p/f"Rounds"/f"{lvling}"/rnd),encoding='utf-8').read().splitlines()
+        print(f"{lvling}_{rnd}: ",len(qs))
+        totalqs+=len(qs)
+
+print("Total Questions:",totalqs)
+
 
 DCTENG={*open(str(p/"CSW19.txt"),encoding='utf-8').read().splitlines()} #to make reading speed better
 SORTING=[False] #If true allows sorting of questions into new categories
@@ -591,7 +599,7 @@ saveQFrame.grid_remove()
 
 saveFaultyFrame=ttk.Frame(mainframe)
 saveFaultyBtn=ttk.Button(saveFaultyFrame,text="Report Faulty Question",command=recordFaultyQuestion)
-saveFaultyBtn.grid(row=0,column=0,sticky=W)
+#saveFaultyBtn.grid(row=0,column=0,sticky=W)
 saveFaultyConf=ttk.Label(saveFaultyFrame,text="Reported")
 saveFaultyConf.grid(row=0,column=1,sticky=W)
 saveFaultyConf.grid_remove()
