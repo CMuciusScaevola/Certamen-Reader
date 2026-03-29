@@ -466,9 +466,12 @@ def back2Year():
 def loadSelectedFile():
     CURPOINT[0]="Tossup"
     print(RD2PLAY[0])
-    lvling=RD2PLAY[0].split("_")[0]
-    if lvling[-2:]=="dE" or lvling[-2:]=="eE":lvling=lvling[:-1]
-    qs=open(str(p/f"Rounds"/lvling/RD2PLAY[0]),encoding='utf-8').read()
+    if RD2PLAY[0]=='Favorites.txt':
+        qs=open(str(p/f"Rounds"/"Favorites.txt"),encoding='utf-8').read()
+    else:
+        lvling=RD2PLAY[0].split("_")[0]
+        if lvling[-2:]=="dE" or lvling[-2:]=="eE":lvling=lvling[:-1]
+        qs=open(str(p/f"Rounds"/lvling/RD2PLAY[0]),encoding='utf-8').read()
     while "  " in qs:
         qs=qs.replace("  "," ")
     qs=qs.splitlines()
