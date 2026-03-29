@@ -289,47 +289,48 @@ def reset(*args):
         displayRoundFinished()
 
 def displayAns(*args):
-    if SHOWINGCATS[0]:
-        root.bind("h",saveToHist)
-        root.bind("l",saveToLang)
-        root.bind("i",saveToLit)
-        root.bind("m",saveToMyth)
-    mainframe.focus()
-    root.unbind("<Return>") #Return
-    ansSubmission.config(command=doNothing)
-    ansGiven=ans.get()
-    gvAns.config(text=f"You gave: {ansGiven}")
-    CURQLABEL[0].config(text="\n"+" ".join(QUESTION[0]))
-    ansRevFrame.grid()
-    saveFaultyFrame.grid()
-    favoriteQuestionBtn.grid()
+    if CURSCREEN[0]=='Reading':
+        if SHOWINGCATS[0]:
+            root.bind("h",saveToHist)
+            root.bind("l",saveToLang)
+            root.bind("i",saveToLit)
+            root.bind("m",saveToMyth)
+        mainframe.focus()
+        root.unbind("<Return>") #Return
+        ansSubmission.config(command=doNothing)
+        ansGiven=ans.get()
+        gvAns.config(text=f"You gave: {ansGiven}")
+        CURQLABEL[0].config(text="\n"+" ".join(QUESTION[0]))
+        ansRevFrame.grid()
+        saveFaultyFrame.grid()
+        favoriteQuestionBtn.grid()
 
-    if CURPOINT[0]=="Tossup":
-        if BONUS1[0]:
-            q.config(text=" ".join(QUESTION[0])+"\nANS: "+ANSWER[0])
-            QUESTION[0]=BONUS1[0]
-            ANSWER[0]=BONUS1ANS[0]
-            CURPOINT[0]="B1"
-    elif CURPOINT[0]=="B1":
-        if BONUS2[0]:
-            qb1.config(text=" ".join(QUESTION[0])+"\nANS: "+ANSWER[0])
-            QUESTION[0]=BONUS2[0]
-            ANSWER[0]=BONUS2ANS[0]
-            CURPOINT[0]="B2"
+        if CURPOINT[0]=="Tossup":
+            if BONUS1[0]:
+                q.config(text=" ".join(QUESTION[0])+"\nANS: "+ANSWER[0])
+                QUESTION[0]=BONUS1[0]
+                ANSWER[0]=BONUS1ANS[0]
+                CURPOINT[0]="B1"
+        elif CURPOINT[0]=="B1":
+            if BONUS2[0]:
+                qb1.config(text=" ".join(QUESTION[0])+"\nANS: "+ANSWER[0])
+                QUESTION[0]=BONUS2[0]
+                ANSWER[0]=BONUS2ANS[0]
+                CURPOINT[0]="B2"
+            else:
+                qb1.config(text=" ".join(QUESTION[0])+"\nANS: "+ANSWER[0])
+                CURPOINT[0]="Tossup"
         else:
-            qb1.config(text=" ".join(QUESTION[0])+"\nANS: "+ANSWER[0])
+            qb2.config(text=" ".join(QUESTION[0])+"\nANS: "+ANSWER[0])
             CURPOINT[0]="Tossup"
-    else:
-        qb2.config(text=" ".join(QUESTION[0])+"\nANS: "+ANSWER[0])
-        CURPOINT[0]="Tossup"
-    #factSaveFrame.grid()
-    qb="Bonus"if not CURPOINT[0]=="Tossup" else "Question"
-    readNext.config(text=f"Read Next {qb}",command=reset)
-    if SORTING[0]:
-        saveQFrame.grid()
-        root.bind("s",showCatsForSaving)
-    root.bind("n",reset)
-    #root.bind("f",selectSaveFact)
+        #factSaveFrame.grid()
+        qb="Bonus"if not CURPOINT[0]=="Tossup" else "Question"
+        readNext.config(text=f"Read Next {qb}",command=reset)
+        if SORTING[0]:
+            saveQFrame.grid()
+            root.bind("s",showCatsForSaving)
+        root.bind("n",reset)
+        #root.bind("f",selectSaveFact)
 
 def displayRoundFinished():
     for itm in questionReadingItms:itm.grid_remove()
@@ -370,10 +371,11 @@ def readQuestion():
         QUESTION[0][wordind-1]+="*"
     else:QUESTION[0][-1]+="*"
     root.unbind("s")
-    ansSubmission.config(command=displayAns)
-    ansEntry.focus()
-    root.bind("<Return>",displayAns) #Return
-    ansFrame.grid()
+    if CURSCREEN[0]=='Reading':
+        ansSubmission.config(command=displayAns)
+        ansEntry.focus()
+        root.bind("<Return>",displayAns) #Return
+        ansFrame.grid()
 
 def playFavorites(*args):
     RD2PLAY[0]="Favorites.txt"
