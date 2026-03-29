@@ -1,14 +1,13 @@
 import sys; args = sys.argv[1:]
-import math, re, time, random,os,pathlib
+import time, random, os, pathlib
 from threading import Thread
-import tkinter as tk
 from tkinter import *
 from tkinter import ttk
 from Flashcards import flashCardWindow,reviewCardWindow
 from Search_Questions import searchForQWindow
 
 ROUNDNAMES=["Harvard","Yale","Princeton","VAFinals","Keartamen","VAKickoff","NJCL","Longhorn","MassWinter","FlintHill","Duke","Kagon",
-            "PCL","BostonElite","NJCL Agon","AMSA","BLA","BLS","Florida","FLGA"]
+            "PCL","BostonElite","NJCL Agon","AMSA","BLA","BLS","Florida","FLGA","MassJCL","EEL"]
 LEVELS=["Novice","Intermediate","Advanced","AdvancedE","IntermediateE","NoviceE","Agon","Elite"]
 CATEGORIES=["History","Literature","Language","Mythology", "HistoryAE","LiteratureAE","LanguageAE","MythologyAE"]
 DCTYEARS={}
@@ -384,16 +383,16 @@ def setRoundName(n):
                 SELECTEDLEVELRDOPTION[0]=roundOptionsNovice
             elif n=="NoviceE": 
                 CURLEVEL[0]='Novice/NoviceE'
-                roundOptionsNoviceE.grid()
-                SELECTEDLEVELRDOPTION[0]=roundOptionsNoviceE
+                #roundOptionsNoviceE.grid()
+                #SELECTEDLEVELRDOPTION[0]=roundOptionsNoviceE
             elif n=="Intermediate":
                 CURLEVEL[0]='Intermediate/Intermediate'
                 roundOptionsIntermediate.grid()
                 SELECTEDLEVELRDOPTION[0]=roundOptionsIntermediate
             elif n=="IntermediateE":
                 CURLEVEL[0]='Intermediate/IntermediateE'
-                roundOptionsIntermediateE.grid()
-                SELECTEDLEVELRDOPTION[0]=roundOptionsIntermediateE
+                #roundOptionsIntermediateE.grid()
+                #SELECTEDLEVELRDOPTION[0]=roundOptionsIntermediateE
             elif n=="Agon":
                 CURLEVEL[0]='Agon/Agon'
                 roundOptionsAgon.grid()
@@ -628,7 +627,7 @@ questionReadingItms.append(returnHomeBtn)
 #########################################################################################################################
 #########################################################################################################################
 #Create the homescreen: 
-welcomeText=ttk.Label(mainframe,text="Welcome! Please choose a round or category to play")
+welcomeText=ttk.Label(mainframe,text="Please choose a round or category to play")
 welcomeText.grid(column=0,row=0,sticky=EW)
 welcomeText.grid_remove()
 welcomeText.config(font=("Courier",20))
@@ -638,10 +637,10 @@ welcomeText.config(font=("Courier",20))
 difficultyOptions=ttk.Frame(mainframe)
 difficultyLabel=ttk.Label(difficultyOptions,text="\nChoose a level:\n")
 difficultyLabel.config(font=("Courier",15))
-difficulties=[ttk.Button(difficultyOptions,text="Novice - Hard",command=lambda:setRoundName("Novice")),
-              ttk.Button(difficultyOptions,text="Novice - Easy",command=lambda:setRoundName("NoviceE")),
-              ttk.Button(difficultyOptions,text="Intermediate - Hard",command=lambda:setRoundName("Intermediate")),
-              ttk.Button(difficultyOptions,text="Intermediate - Easy",command=lambda:setRoundName("IntermediateE")),
+difficulties=[ttk.Button(difficultyOptions,text="Novice",command=lambda:setRoundName("Novice")),
+              #ttk.Button(difficultyOptions,text="Novice - Easy",command=lambda:setRoundName("NoviceE")),
+              ttk.Button(difficultyOptions,text="Intermediate",command=lambda:setRoundName("Intermediate")),
+              #ttk.Button(difficultyOptions,text="Intermediate - Easy",command=lambda:setRoundName("IntermediateE")),
               ttk.Button(difficultyOptions,text="Advanced - Hard",command=lambda:setRoundName("Advanced")),
               ttk.Button(difficultyOptions,text="Advanced - Easy",command=lambda:setRoundName("AdvancedE")),
               ttk.Button(difficultyOptions,text="Elite",command=lambda:setRoundName("Elite")),
@@ -682,9 +681,9 @@ roundOptionsAdvanced=ttk.Frame(mainframe)
 roundOptionsAgon = ttk.Frame(mainframe)
 roundOptionsAdvancedE=ttk.Frame(mainframe)
 roundOptionsIntermediate=ttk.Frame(mainframe)
-roundOptionsIntermediateE = ttk.Frame(mainframe)
+#roundOptionsIntermediateE = ttk.Frame(mainframe)
 roundOptionsNovice=ttk.Frame(mainframe)
-roundOptionsNoviceE=ttk.Frame(mainframe)
+#roundOptionsNoviceE=ttk.Frame(mainframe)
 roundOptionsElite = ttk.Frame(mainframe)
 ######################################################################################################################################################################################################
 backButtonAdv=ttk.Button(roundOptionsAdvanced,text="Back",command=back2Difficulty)
@@ -695,12 +694,12 @@ backButtonAE=ttk.Button(roundOptionsAdvancedE,text="Back",command=back2Difficult
 backButtonAE.grid(column=0,row=8,sticky=W)
 backButtonInt=ttk.Button(roundOptionsIntermediate,text="Back",command=back2Difficulty)
 backButtonInt.grid(column=0,row=8,sticky=W)
-backButtonIntE=ttk.Button(roundOptionsIntermediateE,text="Back",command=back2Difficulty)
-backButtonIntE.grid(column=0,row=8,sticky=W)
+#backButtonIntE=ttk.Button(roundOptionsIntermediateE,text="Back",command=back2Difficulty)
+#backButtonIntE.grid(column=0,row=8,sticky=W)
 backButtonNovice=ttk.Button(roundOptionsNovice,text="Back",command=back2Difficulty)
 backButtonNovice.grid(column=0,row=8,sticky=W)
-backButtonNoviceE=ttk.Button(roundOptionsNoviceE,text="Back",command=back2Difficulty)
-backButtonNoviceE.grid(column=0,row=8,sticky=W)
+#backButtonNoviceE=ttk.Button(roundOptionsNoviceE,text="Back",command=back2Difficulty)
+#backButtonNoviceE.grid(column=0,row=8,sticky=W)
 backButtonElite=ttk.Button(roundOptionsElite,text="Back",command=back2Difficulty)
 backButtonElite.grid(column=0,row=9,sticky=W)
 ######################################################################################################################################################################################################
@@ -722,11 +721,11 @@ catsInt=[ttk.Button(roundOptionsIntermediate,text="History",command=lambda:setRo
 for i in range(len(catsInt)): catsInt[i].grid(column=i,row=3,sticky=W)
 categoryLblInt.grid(column=0,row=2,columnspan=len(catsInt),sticky=W)
 
-categoryLblIntE=ttk.Label(roundOptionsIntermediateE,text="\nOr choose a category:\n")
-categoryLblIntE.config(font=("Courier",15))
-catsIntE=[ttk.Button(roundOptionsIntermediateE,text="History",command=lambda:setRoundName("History")), ttk.Button(roundOptionsIntermediateE,text="Language",command=lambda:setRoundName("Language")), ttk.Button(roundOptionsIntermediateE,text="Mythology",command=lambda:setRoundName("Mythology"))]
-for i in range(len(catsIntE)): catsIntE[i].grid(column=i,row=3,sticky=W)
-categoryLblInt.grid(column=0,row=2,columnspan=len(catsIntE),sticky=W)
+#categoryLblIntE=ttk.Label(roundOptionsIntermediateE,text="\nOr choose a category:\n")
+#categoryLblIntE.config(font=("Courier",15))
+#catsIntE=[ttk.Button(roundOptionsIntermediateE,text="History",command=lambda:setRoundName("History")), ttk.Button(roundOptionsIntermediateE,text="Language",command=lambda:setRoundName("Language")), ttk.Button(roundOptionsIntermediateE,text="Mythology",command=lambda:setRoundName("Mythology"))]
+#for i in range(len(catsIntE)): catsIntE[i].grid(column=i,row=3,sticky=W)
+#categoryLblInt.grid(column=0,row=2,columnspan=len(catsIntE),sticky=W)
 
 categoryLblNovice=ttk.Label(roundOptionsNovice,text="\nOr choose a category:\n")
 categoryLblNovice.config(font=("Courier",15))
@@ -734,11 +733,11 @@ catsNovice=[ttk.Button(roundOptionsNovice,text="History",command=lambda:setRound
 for i in range(len(catsNovice)): catsNovice[i].grid(column=i,row=3,sticky=W)
 categoryLblNovice.grid(column=0,row=2,columnspan=len(catsNovice),sticky=W)
 
-categoryLblNoviceE=ttk.Label(roundOptionsNoviceE,text="\nOr choose a category:\n")
-categoryLblNoviceE.config(font=("Courier",15))
-catsNoviceE=[ttk.Button(roundOptionsNoviceE,text="History",command=lambda:setRoundName("History")),ttk.Button(roundOptionsNoviceE,text="Language",command=lambda:setRoundName("Language")),ttk.Button(roundOptionsNoviceE,text="Mythology",command=lambda:setRoundName("Mythology"))]
-for i in range(len(catsNoviceE)): catsNoviceE[i].grid(column=i,row=3,sticky=W)
-categoryLblNoviceE.grid(column=0,row=2,columnspan=len(catsNoviceE),sticky=W)
+#categoryLblNoviceE=ttk.Label(roundOptionsNoviceE,text="\nOr choose a category:\n")
+#categoryLblNoviceE.config(font=("Courier",15))
+#catsNoviceE=[ttk.Button(roundOptionsNoviceE,text="History",command=lambda:setRoundName("History")),ttk.Button(roundOptionsNoviceE,text="Language",command=lambda:setRoundName("Language")),ttk.Button(roundOptionsNoviceE,text="Mythology",command=lambda:setRoundName("Mythology"))]
+#for i in range(len(catsNoviceE)): catsNoviceE[i].grid(column=i,row=3,sticky=W)
+#categoryLblNoviceE.grid(column=0,row=2,columnspan=len(catsNoviceE),sticky=W)
 
 categoryLblElite=ttk.Label(roundOptionsElite,text="\nOr choose a category:\n")
 categoryLblElite.config(font=("Courier",15))
@@ -755,10 +754,11 @@ categoryLblAgon.grid(column=0,row=2,columnspan=len(catsAgon),sticky=W)
 
 
 
-rounds=[ttk.Button(roundOptionsAdvanced,text="Harvard",command=lambda:setRoundName("Harvard")),
+rounds=[
+        ttk.Button(roundOptionsAdvanced,text="NJCL Nats",command=lambda:setRoundName("NJCL")),
+        ttk.Button(roundOptionsAdvanced,text="Harvard",command=lambda:setRoundName("Harvard")),
         ttk.Button(roundOptionsAdvanced,text="Yale",command=lambda:setRoundName("Yale")),
         ttk.Button(roundOptionsAdvanced,text="Princeton",command=lambda:setRoundName("Princeton")),
-        ttk.Button(roundOptionsAdvanced,text="NJCL Nats",command=lambda:setRoundName("NJCL")),
         ttk.Button(roundOptionsAdvanced,text="Longhorn",command=lambda:setRoundName("Longhorn")),
         ttk.Button(roundOptionsAdvanced,text="Duke",command=lambda:setRoundName("Duke")),
         ttk.Button(roundOptionsAdvanced,text="VA State Finals",command=lambda:setRoundName("VAFinals")),
@@ -778,25 +778,34 @@ roundsAE=[
         ttk.Button(roundOptionsAdvancedE,text="AMSA (Mass)",command=lambda:setRoundName("AMSA")),
          ttk.Button(roundOptionsAdvancedE,text="BLA",command=lambda:setRoundName("BLA")),
          ttk.Button(roundOptionsAdvancedE,text="BLS",command=lambda:setRoundName("BLS")),
+         ttk.Button(roundOptionsAdvancedE,text="MassJCL",command=lambda:setRoundName("MassJCL")),
 ]
 roundsInt=[
+        ttk.Button(roundOptionsIntermediate,text="NJCL Nats",command=lambda:setRoundName("NJCL")),
         ttk.Button(roundOptionsIntermediate,text="Harvard",command=lambda:setRoundName("Harvard")),
         ttk.Button(roundOptionsIntermediate,text="Yale",command=lambda:setRoundName("Yale")),
         ttk.Button(roundOptionsIntermediate,text="Princeton",command=lambda:setRoundName("Princeton")),
+        ttk.Button(roundOptionsIntermediate,text="Longhorn",command=lambda:setRoundName("Longhorn")),
+        ttk.Button(roundOptionsIntermediate,text="Duke",command=lambda:setRoundName("Duke")),
         ttk.Button(roundOptionsIntermediate,text="VA State Finals",command=lambda:setRoundName("VAFinals")),
-        ttk.Button(roundOptionsIntermediate,text="NJCL Nats",command=lambda:setRoundName("NJCL")),
+        ttk.Button(roundOptionsIntermediate,text="MassJCL",command=lambda:setRoundName("MassJCL")),
 ]
 roundsIntE=[]
 roundsNovice=[
+        ttk.Button(roundOptionsNovice,text="NJCL Nats",command=lambda:setRoundName("NJCL")),
         ttk.Button(roundOptionsNovice,text="Harvard",command=lambda:setRoundName("Harvard")),
         ttk.Button(roundOptionsNovice,text="Yale",command=lambda:setRoundName("Yale")),
         ttk.Button(roundOptionsNovice,text="Princeton",command=lambda:setRoundName("Princeton")),
+        ttk.Button(roundOptionsNovice,text="Longhorn",command=lambda:setRoundName("Longhorn")),
+        ttk.Button(roundOptionsNovice,text="Duke",command=lambda:setRoundName("Duke")),
         ttk.Button(roundOptionsNovice,text="VA State Finals",command=lambda:setRoundName("VAFinals")),
+        ttk.Button(roundOptionsNovice,text="MassJCL",command=lambda:setRoundName("MassJCL")),
 ]
 roundsNoviceE=[]
 roundsElite = [ttk.Button(roundOptionsElite,text="Keartamen",command=lambda:setRoundName("Keartamen")),
                ttk.Button(roundOptionsElite,text="PCL",command=lambda:setRoundName("PCL")),
                ttk.Button(roundOptionsElite,text="Boston Elite",command=lambda:setRoundName("BostonElite")),
+               ttk.Button(roundOptionsElite,text="EEL",command=lambda:setRoundName("EEL"))
 
                
 ]
@@ -821,12 +830,12 @@ schoolLblAE=ttk.Label(roundOptionsAdvancedE,text="\nChoose a tournament:\n")
 schoolLblAE.config(font=("Courier",15))
 schoolLblInt=ttk.Label(roundOptionsIntermediate,text="\nChoose a tournament:\n")
 schoolLblInt.config(font=("Courier",15))
-schoolLblIntE=ttk.Label(roundOptionsIntermediateE,text="\nChoose a tournament:\n")
-schoolLblIntE.config(font=("Courier",15))
+#schoolLblIntE=ttk.Label(roundOptionsIntermediateE,text="\nChoose a tournament:\n")
+#schoolLblIntE.config(font=("Courier",15))
 schoolLblNovice=ttk.Label(roundOptionsNovice,text="\nChoose a tournament:\n")
 schoolLblNovice.config(font=("Courier",15))
-schoolLblNoviceE=ttk.Label(roundOptionsNoviceE,text="\nChoose a tournament:\n")
-schoolLblNoviceE.config(font=("Courier",15))
+#schoolLblNoviceE=ttk.Label(roundOptionsNoviceE,text="\nChoose a tournament:\n")
+#schoolLblNoviceE.config(font=("Courier",15))
 schoolLblElite = ttk.Label(roundOptionsElite,text="\nChoose a tournament:\n")
 schoolLblElite.config(font=("Courier",15))
 
@@ -841,7 +850,7 @@ schoolLblElite.grid(column=0,columnspan=len(roundsElite),row=0,sticky=W)
 
 ###################################################################################################
 ###################################################################################################
-roundOptions=[roundOptionsAdvanced,roundOptionsAdvancedE,roundOptionsAgon,roundOptionsElite,roundOptionsIntermediate,roundOptionsIntermediateE,roundOptionsNovice,roundOptionsNoviceE]
+roundOptions=[roundOptionsAdvanced,roundOptionsAdvancedE,roundOptionsAgon,roundOptionsElite,roundOptionsIntermediate,roundOptionsNovice]
 for itm in roundOptions: 
     itm.grid(row=1,column=0,sticky=W)
     itm.grid_remove()
@@ -857,22 +866,24 @@ backButton3=ttk.Button(selectYear,text="Back",command=back2School)
 backButton3.grid(row=8,column=0,sticky=W)
 
 ###################################################################################################
-y25,y24,y23,y22,y21,y20,y19,y18,y17 = ttk.Button(selectYear,text="2025",command=lambda:setRoundName("2025")),ttk.Button(selectYear,text="2024",command=lambda:setRoundName("2024")), ttk.Button(selectYear,text="2023",command=lambda:setRoundName("2023")),ttk.Button(selectYear,text="2022",command=lambda:setRoundName("2022")), ttk.Button(selectYear,text="2021",command=lambda:setRoundName("2021")),ttk.Button(selectYear,text="2020",command=lambda:setRoundName("2020")),ttk.Button(selectYear,text="2019",command=lambda:setRoundName("2019")), ttk.Button(selectYear,text="2018",command=lambda:setRoundName("2018")),     ttk.Button(selectYear,text="2017",command=lambda:setRoundName("2017"))
+y26, y25,y24,y23,y22,y21,y20,y19,y18,y17 = ttk.Button(selectYear,text="2026",command=lambda:setRoundName("2026")),ttk.Button(selectYear,text="2025",command=lambda:setRoundName("2025")),ttk.Button(selectYear,text="2024",command=lambda:setRoundName("2024")), ttk.Button(selectYear,text="2023",command=lambda:setRoundName("2023")),ttk.Button(selectYear,text="2022",command=lambda:setRoundName("2022")), ttk.Button(selectYear,text="2021",command=lambda:setRoundName("2021")),ttk.Button(selectYear,text="2020",command=lambda:setRoundName("2020")),ttk.Button(selectYear,text="2019",command=lambda:setRoundName("2019")), ttk.Button(selectYear,text="2018",command=lambda:setRoundName("2018")),     ttk.Button(selectYear,text="2017",command=lambda:setRoundName("2017"))
 y16,y15,y14,y13,y12,y11,y10,y09,y08=ttk.Button(selectYear,text="2016",command=lambda:setRoundName("2016")),ttk.Button(selectYear,text="2015",command=lambda:setRoundName("2015")),ttk.Button(selectYear,text="2014",command=lambda:setRoundName("2014")),ttk.Button(selectYear,text="2013",command=lambda:setRoundName("2013")),ttk.Button(selectYear,text="2012",command=lambda:setRoundName("2012")),ttk.Button(selectYear,text="2011",command=lambda:setRoundName("2011")),ttk.Button(selectYear,text="2010",command=lambda:setRoundName("2010")),ttk.Button(selectYear,text="2009",command=lambda:setRoundName("2008")),ttk.Button(selectYear,text="2008",command=lambda:setRoundName("2008"))
 
 harvardYearsAdvanced=[y25, y24, y23, y22, y21, y19, y18, y17, y15, y14, y13, y12]
 yaleYearsAdvanced=  [y24, y23, y22, y21, y20, y19, y18, y17, y16, y15, y14, y13, y12]
-princetonYearsAdvanced=[y25,  y22,  y21,  y20,  y19, y18,]
+princetonYearsAdvanced=[y26,y25,  y22,  y21,  y20,  y19, y18,]
 NJCLYearsAdvanced=[y24, y23, y22, y21, y20, y19, y18, y17, y16, y15, y14, y13, y12]
 longhornYearsAdvanced=[y24, y22, y21]
 dukeYearsAdvanced=[y20, y19, y18]
 vaFinalsYearsAdvanced=[y23, y22, y21, y19, y18, y17]
 floridaYearsAdvanced=[y23,y22,y18,y14,y13,y12,y11,y10]
 flgaYearsAdvanced=[y19,y15,y14]
+massJCLYearsAdvanced=[y25,y24,y23,y22,y20,y19,y18,y17,y16,y14,y13,y12,y11]
 ##############################################################################################################
 keartamenYearsAdvanced=[y24,  y23,  y22,  y21,  y20]
 pclYears=[y23,y21,y20]
 bostonEliteYears = [y21,y20,y19,y18,y17,y15,y14,y13]
+eelYears = [y22,y21]
 ##############################################################################################################
 vaFinalsYearsAdvancedE=[ttk.Button(selectYear,text="2017",command=lambda:setRoundName("2017_Lvl3"))]
 vaKickoffYearsAdvanced=[y24,  y23,  y22,  y21,  y20,  y19,  y18,  y17,  y15,  y14,  y13,  y12,  y11]
@@ -888,8 +899,14 @@ natsYearsAgon = [y25,y24,y23,y22,y21,y20]
 #########################################################################################################
 vaFinalsYearsIntermediate = [y23,y22,y21,y19,y18,y17,y16,y15,y14,y13,y12]
 NJCLYearsInt = [y25,y24,y23,y22,y20,y19,y18,y17,y16,y15,y14,y13,y12,y11,y10]
+massJCLYearsInt=[y23,y22,y20,y19,y18,y17,y16,y14,y13,y12,y11]
+floridaYearsInt = []
+dukeYearsInt=[y19,y18] 
 #########################################################################################################
 vaFinalsYearsNovice = [y23,y22,y21,y19,y18,y17,y16,y15,y14,y13,y12]
+massJCLYearsNovice=[y23,y22,y20,y19,y18,y17,y16,y14,y13,y12,y11]
+floridaYearsNovice = []
+dukeYearsNovice = [y19,y18]
 #Agon
 DCTYEARS["Agon_NJCL Agon_"]=natsYearsAgon
 DCTYEARS["Agon_Yale_"]=yaleYearsAgon
@@ -898,6 +915,7 @@ DCTYEARS["Agon_Kagon_"]=kagonYears
 DCTYEARS["Elite_Keartamen_"]=keartamenYearsAdvanced
 DCTYEARS["Elite_PCL_"]=pclYears
 DCTYEARS['Elite_BostonElite_']=bostonEliteYears
+DCTYEARS['Elite_EEL_']=eelYears
 #Advanced Hard
 DCTYEARS["Advanced_Yale_"]=yaleYearsAdvanced
 DCTYEARS["Advanced_Princeton_"]=princetonYearsAdvanced
@@ -922,17 +940,18 @@ DCTYEARS["Intermediate_Harvard_"]=harvardYearsAdvanced[:]
 DCTYEARS['Intermediate_Princeton_']=princetonYearsAdvanced
 DCTYEARS["Intermediate_VAFinals_"]=vaFinalsYearsIntermediate
 DCTYEARS["Intermediate_NJCL_"] = NJCLYearsInt
-DCTYEARS['Intermediate_Longhorn_']=longhornYearsAdvanced #not parsed
-DCTYEARS['Intermediate_Duke_'] = dukeYearsAdvanced #not parsed
+DCTYEARS['Intermediate_Longhorn_']=longhornYearsAdvanced 
+DCTYEARS['Intermediate_Duke_'] = dukeYearsInt
+DCTYEARS["Intermediate_MassJCL_"] = massJCLYearsInt
 #Novice Hard
 DCTYEARS["Novice_Yale_"]=yaleYearsAdvanced[:]
 DCTYEARS["Novice_Harvard_"]=harvardYearsAdvanced[:]
 DCTYEARS['Novice_Princeton_']=princetonYearsAdvanced
 DCTYEARS["Novice_VAFinals_"]=vaFinalsYearsNovice 
-DCTYEARS["Novice_NJCL_"] = NJCLYearsAdvanced #not parsed
-DCTYEARS['Novice_Longhorn_']=longhornYearsAdvanced #not parsed
-DCTYEARS['Novice_Duke_'] = dukeYearsAdvanced #not parsed
-
+DCTYEARS["Novice_NJCL_"] = NJCLYearsInt
+DCTYEARS['Novice_Longhorn_']=longhornYearsAdvanced 
+DCTYEARS['Novice_Duke_'] = dukeYearsNovice
+DCTYEARS['Novice_MassJCL_']=massJCLYearsNovice
 #######################################################################################################################
 #######################################################################################################################
 #######################################################################################################################

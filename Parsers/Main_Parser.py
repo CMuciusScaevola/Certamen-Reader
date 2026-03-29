@@ -9,11 +9,19 @@ if lvl[-2:]=="dE" or lvl[-2:]=="eE":
 st=open("Raw Rounds/"+args[0]+".txt",encoding='utf-8').read()
 #Remove common items that are undesirable
 st=st.replace("%", " ").replace("\t"," ")
-
+ind=0
+while ind<len(st):
+    match = re.search(r"\d\d?: *\n",st[ind:],flags=re.UNICODE)
+    if match:
+        st=st[:match.span()[0]+ind]+"\n"+st[match.span()[1]+ind:]
+        ind=match.span()[1]+ind
+        match=""
+    else:ind=len(st) #ends the loop if no more spots are found
+st=st.replace("TU:","TU#1: ")
 while "——" in st:st=st.replace("——","—").replace("*","")
 st=st.replace("Β","\n\nB").replace("B1&B2","\n\nB1").replace("B1&2","\n\nB1").replace("B1 & B2","\n\nB1").replace("B1.","\n\nB1:").replace("B2.","\n\nB2:").replace("B1 ","B1:").replace("B2 ","B2:")
 st=st.replace("Tossup.","TU1:").replace("Bonus.","B1: ").replace("Bonus:","B1:").replace("*PAUSE FOR SCORE UPDATE*","").replace("**PAUSE FOR SCORE UPDATE**","").replace("***PAUSE FOR SCORE UPDATE***","").replace("TOSSUP","TU1").replace("BONUS","B1").replace("***PAUSE FOR SCORE CHECK***","").replace("**PAUSE FOR SCORE CHECK**","").replace("*PAUSE FOR SCORE CHECK*","")
-st=st.replace("\t","  ").replace("— [FINAL SCORE CHECK] —","").replace("— [SCORE CHECK] —","").replace(" B1","\nB1").replace(" B2","\nB2")
+st=st.replace("\t","  ").replace("— [FINAL SCORE CHECK] —","").replace("— [SCORE CHECK] —","").replace("[SCORE CHECK]","").replace(" B1","\nB1").replace(" B2","\nB2")
 st=st.replace("**SCORE CHECK**","").replace("SCORE CHECK","").replace("Score Check","").replace("LATIN LITERATURE","").replace("ROMAN HISTORY","").replace("EXTRA HISTORY","").replace("EXTRA MYTHOLOGY","").replace("History:","").replace("Myth:","").replace("Language:","").replace("Literature:","").replace("B3","B1").replace("B4","B2").replace("B5","B1").replace("B6","B2").replace("B7","B1").replace("B8","B2").replace("Bonus 1","B1").replace("Bonus 2","B2").replace("B1 & B2","B1").replace("B1 and\nB2","B1").replace("B1/2","B1").replace("B1/B2","B1").replace("________________","")
 st=st.replace("LANGUAGE", "").replace("newline","\n").replace("EXTRA QUESTIONS","").replace("Extra Questions","").replace("LATIN LITERATURE","").replace("newline","\n").replace(" and "," & ").replace(" or ", " | ").replace("(or","(|").replace("Prompt on","PROMPT ON").replace("prompt on","PROMPT ON").replace("do not accept","DO NOT ACCEPT").replace("accept equivalents","ACCEPT EQUIVALENTS").replace("Bonuses 1 & 2","B1").replace("B1+B2","B1").replace("B1+2","B1").replace("B1 ","B1: ").replace("B2 ","B2: ").replace("B:","B1:")
 st=st.replace("Advanced — Preliminary Round One","").replace("Round X","").replace("Advanced — Preliminary Round Two","").replace("Advanced — Preliminary Round Three","").replace("Advanced — Semifinals","").replace("Advanced — Finals","").replace("Advanced — Semis","").replace("Advanced — Round 1","").replace("Advanced — Round 2","").replace("Advanced — Round 3","").replace("ROUND ONE","").replace("ROUND TWO","").replace("ROUND THREE","").replace("Advanced – Semifinal Round","").replace("Advanced – Final Round","").replace("Advanced Division","").replace("Advanced Level","")
@@ -31,6 +39,16 @@ st=st.replace("4th", "4TH").replace("1st","1ST").replace("2nd","2ND").replace("3
 while "  " in st:st=st.replace("  "," ").replace("\n \n","\n")
 for num in range(1,21):
     st=st.replace(f"TU {num}","1").replace(f"TU{num}","1").replace(str(num)+".",str(num)+". ").replace(" #"+str(num)," "+str(num)).replace("#"+str(num)," "+str(num)).replace(str(num)+")",str(num)+".")
+
+ind=0
+while ind<len(st):
+    match = re.search(r"(?<=(AD|BC)\?) (?!\n)",st[ind:],flags=re.UNICODE)
+    if match:
+        st=st[:match.span()[0]+ind]+"\n"+st[match.span()[1]+ind:]
+        ind=match.span()[1]+ind
+        match=""
+    else:ind=len(st) #ends the loop if no more spots are found
+
 
 #Ensure each bonus is on a separate line
 ind=0
@@ -68,6 +86,15 @@ while ind<len(st):
 ind=0
 while ind<len(st):
     match = re.search(r"\[.*?\]",st[ind:],flags=re.S|re.UNICODE)
+    if match:
+
+        st=st[:match.span()[0]+ind]+st[match.span()[0]+ind:match.span()[1]+ind].upper()+st[match.span()[1]+ind:]
+        ind=match.span()[1]+ind
+        match=""
+    else:ind=len(st) #ends the loop if no more spots are found
+ind=0
+while ind<len(st):
+    match = re.search(r"GRAMMAR\n|DERIVATIVES\n|VOCABULARY\n|MYTHOLOGY\n|LIFE\n|HISTORY\n",st[ind:],flags=re.S|re.UNICODE)
     if match:
 
         st=st[:match.span()[0]+ind]+st[match.span()[0]+ind:match.span()[1]+ind].upper()+st[match.span()[1]+ind:]
@@ -135,6 +162,7 @@ bonus2answers=[]
 lens = []
 with open(f"Reading Files/Rounds/{lvl}/" +args[0]+"_Parsed.txt",'w',encoding='utf-8') as output:
     for match in matches:
+
         lens.append((len(match),match))
         match=match.split("B1:") if "B1:" in match else match.split("B1.")
         tu=match[0]
@@ -169,4 +197,3 @@ with open(f"Reading Files/Rounds/{lvl}/" +args[0]+"_Parsed.txt",'w',encoding='ut
         stringToWrite=stringToWrite.replace("\n"," ").replace(" & "," and ").replace(" | ", " or ").replace("(|","(or")
         output.write(stringToWrite+"\n")
 print(len(matches))
-#print(max(lens))

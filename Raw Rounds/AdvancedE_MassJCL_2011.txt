@@ -1,0 +1,460 @@
+1:
+TU: 	Which of the following words, if any, is not derived from the same Latin root as the rest:
+		secure, sure, sequester, assure?	SEQUESTER
+B1: 	Which of the following words, if any, is not derived from the same Latin root as the rest:
+		moratorium, demur, memorial, remora?	MEMORIAL
+B2: 	Which of the following words, if any, is not derived from the same Latin root as the rest:
+		putative, account, amputate, contemplate?	CONTEMPLATE
+
+2:
+TU:	For the verb loquor, give the 2nd person plural, present imperative.	LOQUIMINĪ
+B1:	Change that loquiminī to the singular.	LOQUERE
+B2:	Change that loquere to the future.	LOQUITOR
+
+3:
+TU:  	Who told the story of Iphis and Anaxrete to convince a goddess to choose him over all 
+		the other suitors?	VERTUMNUS
+B1:  	To whom did he tell this story?	POMONA
+B2:  	The story had no effect on Pomona, but Vertumnus got the girl anyway.  How?
+			POMONA WAS TAKEN BY HIS BEAUTY
+
+4:
+TU:	What Roman poet was born in Mantua and is buried at Naples?
+			(P.) VERGIL(IUS MARO)
+B1:	Who enlisted Vergil to write Rome’s great epic?	AUGUSTUS
+B2:	After Vergil’s death, what did Augustus have Varius and Tucca do?
+			EDIT VERGIL’S MANUSCRIPT (FOR PUBLICATION)
+
+5:
+TU:	Who was the father of Caligula, who was intended as an heir to Tiberius? 
+			GERMANICUS 
+B1: 	Who was the wife of Germanicus?  	AGRIPPINA MAIOR / THE ELDER
+B2: 	What governor of Syria was accused of poisoning Germanicus at Antioch? 
+			(CN. CALPURNIUS) PISO
+
+6:
+TU:	Please translate the following sentence into Latin:  they believe that the prisoner has 
+		weapons.        	CRĒDUNT CAPTĪVUM ARMA HABĒRE
+B1:	…:  the centurion says that he (himself) has captured the town.       
+			CENTURIŌ DĪCIT SĒ OPPIDUM CĒPISSE
+B2:    	…:  I think that my neighbor is lying.
+                       	PUTŌ/ARBITROR/AESTIMŌ/COGITŌ/ (MEUM) VICĪNUM MENTĪRĪ
+
+7:
+TU: 	What race of men destroyed all but one of Odysseus’ ships and then speared and ate the 
+		men as if they were fish?	LAESTRYGONIANS
+B1: 	Who was the king of these Laestrygonians?	ANTIPHATES
+B2: 	What was Laestrygonian’s chief city, the name of which means “far stronghold”?
+TELEPYLUS
+8:
+TU: 	What English derivative of the Latin meaning “to become” means an “ultimate decree?”
+			FIAT
+B1: 	From what Latin verb with what meaning do we derive the English adjective “enviable?”
+			VIDEŌ – TO SEE
+B2: 	From what Latin verb with what meaning do we derive the English adjective 
+		“indubitable?”	DUBITŌ – TO HESITATE, DOUBT
+
+9:
+TU:  	Which step in the cursus honōrum qualified a Roman for entrance into the senate?	
+			QUAESTOR
+B1:  	Which step in the cursus honōrum qualified a Roman to be a governor of a province?
+			PRAETOR
+B2:  	Which step in the cursus honōrum qualified a Roman to be a governor of one of the ten 
+		most important provinces?	CŌNSUL
+
+10:
+TU:	Which of the following does not belong because of meaning:
+		ēgregius, īnsignis, singulāris, iūcundus, eximius?	IŪCUNDUS
+B1:	…:  ōra, rīpa, aura, lītus?	AURA
+B2:	…:  caeles, interitus, perniciēs, lābes?	CAELES
+
+11:
+TU:	What Silver Age poet came to Rome in 64 AD and wrote countless epigrams? 
+			(M. VALERIUS) MARTIAL
+B1: 	From what town in Spain did Martial hail? 	BILBLIS
+B2: 	What was the name of Martial’s first work, which commemorated the dedication of 
+		the Colosseum? 	LIBER SPECTĀCULŌRUM
+
+12:
+TU: 	Please translate the following sentence into English:  sī hoc fēcissēs, tē laudāvissem.       
+			IF YOU HAD DONE THIS, I WOULD HAVE PRAISED YOU
+B1: 	…:  sī sōlus adessēs, tamen alium mallem.  
+			IF YOU WERE THE ONLY ONE HERE, I WOULD STILL PREFER ANOTHER
+B2: 	…:  sī dignus amīcitiā sīs, tuus amīcus sim.    
+			IF YOU SHOULD BE WORTHY OF FRIENDSHIP,
+			I WOULD BE YOUR FRIEND
+
+1:
+TU:  	Who was crushed with a giant boulder by a jealous, lovesick Cyclops and became a 
+		stream?	ACIS
+B1:  	Who was this jealous Cyclops?	POLYPHEMUS
+B2:  	Who was the object of affection of both Acis and Polyphemus?	GALATEA
+
+2:
+TU:   	Change the verb form dūcimus to the subjunctive.                 	DŪCĀMUS
+B1:    	Change dūcāmus to the imperfect.	DŪCERĒMUS
+B2:	Change dūcerēmus to the pluperfect.	DŪXISSĒMUS
+
+3:
+TU:	Name the Roman poet who was born at the military colony of Venusia on December 8, 
+		65 BC.	(Q.) HORATIUS (FLACCCUS) / HORACE
+B1:	Which of Horace’s works consists of seventeen short poems and was published along
+		with his second book of Satires?	EPODES
+B2:	To whom did Horace dedicate his Satires?	MAECENAS
+
+4:
+TU:	What derivative of the Latin noun meaning “cause” means “to regard or judge with 
+		forgiveness”?	EXCUSE 
+B1: 	What derivative of the Latin verb meaning “to turn” means “to comment unfavorably or 
+		critically”?	ANIMADVERT
+B2: 	What derivative of the Latin adjective meaning “black” means “to speak damagingly of”?
+			DENIGRATE
+
+5:
+TU:	What emperor of 69 AD brought Verginius Rufus out of retirement to hold a second 
+		consulship?	OTHO
+B1:	Name one of Otho’s generals who advised him against fighting against the forces of 
+		Vitellius at Bedriacum.	
+			(SUETONIUS) PAULINUS / (ANNIUS) GALLUS / (MARIUS) CELSUS
+B2:	Name one of Otho’s supporters who advocated that the decisive battle against the 
+		Vitellian forces must take place before their troops could melt away, or before 
+		Vitellius himself could arrive.	(OTHO) TITIANUS / (LICINIUS) PROCULUS
+
+6: 
+TU:  	Using a gerundive, say in Latin, “They are coming to seek peace.”           
+			VENIUNT AD PĀCEM PETENDAM
+B1:  	Say in Latin using a gerundive, “We learn by reading many books.”            
+			DISCIMUS LIBRĪS MULTĪS LEGENDĪS
+B2:  	Say in Latin, “Seeing is believing.”                                   	VIDĒRE EST CRĒDERE
+
+
+7:
+TU:	What senator was responsible for leading the mob that killed Tiberius Gracchus?
+			                               SCIPIO NASICA
+B1:	What tribune did Tiberius Gracchus have removed from office because the tribune
+		continually exercised his veto power over Tiberius’ land laws?     	M. OCTAVIUS
+B2:	Name the two other men who comprised the original land commission set up 
+		by Tiberius Gracchus.  	APPIUS CLAUDIUS PULCHER & GAIUS GRACCHUS
+8:
+TU: 	Which of the following would you NOT typically do with your mēns:
+		dubitō, fruor, oblīvīscor, putō, facessō?	FACESSŌ
+B1:	Which of the following could you NOT do with your vōx:
+		polliceor, hortor, loquor, opīnor, mentior?	OPĪNOR
+B2:	Which of the following could you NOT do with īgnis:
+		dēmōlior, incendō, luō, vastō, inflammō?	LUŌ
+
+9:
+TU:	Which Roman author is known for his book on Epicurean philosophy, Dē Rērum 
+		Nātūrā?	(T.) LUCRETIUS (CARUS)
+B1:  	Into how many books was Lucretius’ Dē Rērum Nātūrā divided?	SIX
+B2:	What goddess was invoked by Lucretius at the beginning of Dē Rērum Nātūrā?	VENUS
+
+10:
+TU:	quid Anglicē significat:  quisquis?	WHOEVER
+B1:	quid Anglicē significant:  interim?	MEANWHILE
+B2:	quid Anglicē significat:  nēquīquam?	IN VAIN
+
+11:
+TU:  	Who in mythology is credited with bringing the alphabets to Greece?  	CADMUS
+B1:  	When he founded Thebes, what did Cadmus name the city originally?  	CADMEA
+B2:  	After whose wife was it named Thebes?  	ZETHUS’
+
+12:
+TU:	Listen to the following passage, which I shall read twice; then answer IN ENGLISH the 
+		question about it.
+		mī cārissime amīce multōrum annōrum, in tuā epistulā nūper lēgī tē dē ūnō ex 
+		potentissimīs virīs Rōmae male scrīpsisse. mihi graviter admonendus es. scīs id 
+		perīculōsissimum dē istīs male scrībere. facile offenduntur et tuās nūgās nōn 
+		leviter habēbunt. nisi cāvēris, occidēris.
+	The question:  How long have the letter writer and recipient been friends?            
+			MANY YEARS
+B1:   	Why is the letter writer concerned for his friend?     
+			HE HAS WRITTEN BADLY ABOUT ONE OF THE MOST POWERFUL 
+			MEN IN ROME
+B2:   	What does the writer fear will be the outcome?        	HIS FRIEND WILL BE KILLED
+
+1:
+TU:  	Please translate the following sentence into English:  audīmus lēgātum superātum 
+		provinciam vēnisse.
+			WE HEAR THAT THE COMMANDER CAME TO CONQUER / OVERPOWER 
+			THE PROVINCE
+B1:	…:  cīvēs sciant Rōmānum exercitum ā deō potentiōre Germanīs dūcī.
+        			(MAY) LET THE CITIZENS KNOW THAT THE ROMAN ARMY IS (BEING) 
+			LED BY A GOD MORE POWERFUL THAN THE GERMANS
+B2:	…:  nōn dubitō quīn imperātor mīlitēs mīserit quī provinciam vincerent. 
+ 			I DO NOT DOUBT (BUT) THAT THE EMPEROR / COMMANDER SENT 
+			(HIS) SOLDIERS TO CONQUER THE PROVINCE
+
+2:
+TU:	Identify the figure of speech, other than alliteration, illustrated by the sentence 
+		ōre locūta erat.     	PLEONASM
+B1:	… lūctus et cūrae cubicula posuērunt.  	PERSONIFICATION
+B2:	… quae mē cumque vocant terrae.	                                             TMESIS
+
+3:
+TU:	Which member of the Flavian household served as the praefectus urbī for the city of 
+		Rome during the reigns of Nero and Otho?	(FLAVIUS) SABINUS
+B1:	For how many years, in tōtō, did Sabinus serve as praefectus urbī of Rome?	12
+B2:	Where did Sabinus take refuge, albeit unsuccessfully, when the soldiers of Vitellius, not 
+		wanting their leader to negotiate with Vespasian, came looking for him?	
+			CAPITOL(INE)
+
+4:
+TU: 	Give the Latin word for “indeed”.	QUIDEM / VĒRŌ
+B1	Give the Latin word for “whenever”.	QUOTIĒNS
+B2	Give the Latin word for “how many”.	QUOT
+
+5:
+TU:  	What Lydian sailor saw his whole crew changed into sea-creatures by an angry Bacchus?
+			ACOETES
+B1:  	What had Acoetes’ crew done to deserve this fate?	TRIED TO KIDNAP BACCHUS
+B2:  	According to Ovid, to what king did Acoetes tell this story in an unsuccessful attempt to 
+		make him fear the god?	PENTHEUS
+
+6:
+TU: 	Which of the following, if any, is not derived from the same Latin root as the others:
+		marital, meretricious, emeritus, demerit?	MARITAL
+B1: 	…:  doubt, dozen, indubitable, redoubtable?	DOZEN
+B2: 	…:  contaminate, contagious, attain, contact?	ALL FROM THE SAME LATIN ROOT
+
+7:
+TU:	What Roman elegiac poet’s first work is a single volumn collection of poems 
+		addressed to his mistress Cynthia?	          PROPERTIUS’
+B1:	According to Apuleius, what was Cynthia’s true name?	         HOSTIA
+B2:	Propertius thought of himself as a Roman version of what Hellenistic scholar
+		and poet of the third century BC?	       CALLIMACHUS
+
+8:
+TU:  	Under what queen of Lydia did Heracles serve as a servant in punishment for one of his 
+		crimes?  	OMPHALE
+B1:  	For the murder of whom did Heracles have to serve this sentence?  	IPHITUS
+B2:  	Who was the sister of Iphitus that Heracles desired to marry?  	IOLE 
+
+9:
+TU: 	Give the supine forms of videō.                	VĪSUM, VĪSŪ
+B1:	For what purpose is the accusative supine used?      
+			EXPRESS PURPOSE AFTER VERBS OF MOTION
+B2: 	For what purpose is the ablative supine used?       	SPECIFICATION / RESPECT
+
+10:
+TU:	What law of 180 BC established the term limit interval for holding curule offices?
+   			                                                     LĒX VĪLLIA ANNĀLIS
+B1:	What law of 139 BC established the secret ballot?	                     LĒX GABINIA
+B2:	What law of 122 BC authorized the establishment of a colony on the site of Carthage?
+			                                  LĒX RUBRIA
+11:
+TU: 	From what Latin verb with what meaning do we derive the name “Miranda”?
+			MĪROR – TO ADMIRE, WONDER AT, MARVEL AT
+B1: 	From what Latin verb with what meaning do we derive the English adjective 
+		“fructiferous”?	FRUOR – TO ENJOY
+B2: 	From what Latin verb with what meaning do we derive the English word “lapse”?
+			LABOR – TO SLIP, FALL
+
+12:
+TU:	Give the English meaning for the Latin phrase in diēs.	DAILY 
+B1:	Give the English meaning for the Latin phrase tantī est.	IT IS WORTHWHILE
+B2:	Give the English meaning for the Latin phrase ad multam noctem.
+			UNTIL LATE AT NIGHT
+
+1:
+TU:	What Roman author, born at Como in 61 or 62 AD, wrote a collection of epistulae
+		in ten books?	                              PLINY THE YOUNGER
+B1:	What book of Pliny’s letters contains both private and official letters to the emperor 
+		Trajan?                    	BOOK X
+B2:	Where was Pliny serving as governor during the composition of a majority 	of 
+		correspondence with Trajan?	                            BITHYNIA
+
+2:
+TU:	From what Latin verb with what meaning do we derive the English word “sample”?
+			EMŌ – TO BUY
+B1: 	From what Latin noun with what meaning do we derive the English word “initiative”?
+			INITIUM - BEGINNING
+B2: 	From what Latin noun with what meaning do we derive the English word “curtsy”?
+			COHORS – COHORT
+
+3:
+TU:  	Who intentionally disobeyed Creon’s decree not to bury Polyneices?	ANTIGONE
+B1:  	What son of Creon was Antigone’s betrothed?	HAEMON
+B2:  	Who was Haemon’s mother, who killed herself when she learned of Antigone’s and 
+		Haemon’s suicides?	EURYDICE
+
+4:
+TU:	Listen to the following passage, which I shall read twice; then answer the question that 
+		follows in English:
+		multās mensēs  fēmina exspectābat nūntium, verēns nē suus coniunx in proeliō 
+		periisset. ūnō diē ancilla vēnit ad fēminam dormientem in cubiculō et 
+		vehementer exclāmāvit.
+	The question:  What did the woman fear?                                       
+			THAT HER HUSBAND HAD DIED IN BATTLE
+B1:	The story continues:  ancilla exclāmāvit, “ōrīre, domina!  prō certō habeō nostrum 
+	dominum vīvere! omnia propter adventum dominī sunt paranda!” 
+	The question:  What did the slave-girl say they must do?               
+			PREPARE EVERYTHING FOR HIS ARRIVAL
+B2:	The story concludes:  “ Nōlī mē dēcipere!” inquit fēmina. “quōmodō hoc scīs?” 
+	ancilla respondit, “ego ipsa eum in forō conspexī, oscula tuae sorōrī dantem!”
+	The question:  How did the slave-girl know the woman’s husband was alive?
+      			SHE SAW HIM KISSING HER SISTER IN THE FORUM
+
+5:
+TU:	What emperor’s full name was Gaius Iulius Caesar Germanicus?            	CALIGULA’S
+B1:	Who were the parents of Caligula?	        GERMANICUS & AGRIPPINA THE ELDER
+B2:	What tribune of the Praetorian Guard led the plot to assassinate Caligula in 41 AD?
+			                       CASSIUS CHAEREA
+
+6:
+TU:	What Roman author was the first to write in dactylic hexameter? 	(Q.) ENNIUS
+B1:	Which work of Ennius chronicled the history of Rome in either 15 or 18 books?
+			ANNĀLĒS
+B2:	Which Roman general , about whom he wrote a fābula praetexta entitled Ambracia, did 
+		Ennius accompany to Greece in 189 BC? 	(M. FULVIUS) NOBILIOR
+
+7:
+TU:  	Whom does the ghost of Achilles demand as a sacrifice before the Greeks sail home from 
+		Troy?	POLYXENA
+B1:  	The murder of which of her other children did Hecuba learn about in a dream shortly 
+		after the demand of Achilles’ ghost?	POLYDORUS
+B2:  	After the death of so many of her children, into what was Hecuba transformed?
+			A (FEMALE) DOG (WITH EYES OF FIRE) / A HELL HOUND
+
+8:
+TU:	Please translate the following into Latin using the verb sciō:  	I know that I have offended 
+		the emperor.            	SCIŌ MĒ IMPERĀTŌREM OFFENDISSE.
+B1:    	Using intellegō, say in Latin:  we understand what we must do.      
+			INTELLEGIMUS QUID NŌBĪS AGENDUM SIT
+B2:    	Please translate into Latin:  I fear that the prisoner has escaped.   
+			TIMEŌ / VEREOR / METUŌ NĒ CAPTĪVUS EFFŪGERIT
+
+9:
+TU: 	quid Anglice significat:  locuplēs?	RICH, WEALTHY
+B1:	quid Anglice significat:  obsēs?	HOSTAGE
+B2:	quid Anglice significat:  vīcus?	VILLAGE, CANTON
+
+10:
+TU:	What Roman war was concluded by the Treaty of Dardanus in 85 BC?
+           			FIRST MITHRIDATIC WAR
+B1:	Name one of the two battles of 86 BC in which Sulla defeated the forces of Mithridates
+		in Greece.	            CHAERONEIA & ORCHOMENUS
+B2:	Who held the chief command of the Pontic armies at these battles? 	           ARCHELAUS
+
+11:
+TU:	Please change the verb form faciō to the present subjunctive.	FACIAM
+B1:	Please change faciam to the passive.	FIAM
+B2:	Please change fiam to the perfect tense.	FACTUS SIM
+
+12:
+TU:	What follower of Artemis was turned into a subterranean spring to escape the advances of 
+		a river god?  	ARETHUSA
+B1:  	Who was the river god?  	ALPHEUS
+B2:  	Where in Sicily did the stream Arethusa surface?   	SYRACUSE
+
+13:
+TU 	Give an antonym for discō.	DOCEŌ, ĒRUDIŌ
+B1	Give an antonym for supplex.  	SUPERBUS
+B2	Give an antonym for praemium.	SUPPLICIUM
+
+14:
+TU:	Which of his poems describes Ovid’s suffering in exile?	TRĪSTIA
+B1:	Which is in the form of fictitious letter by mythological women addressed to their absent 
+	lovers?	HEROIDĒS
+B2:	Which describes how to get and retain a loved one?	ARS AMĀTŌRIA
+	         
+15:
+TU:	What Mauretanian by birth became the first prīnceps without prior membership in the 
+		Senate to reach the throne?	MACRINUS
+B1:	In what capacity did Macrinus serve Caracalla?	PRAETORIAN PREFECT
+B2:	To affiliate himself to the Severan dynasty, Macrinus adopted the name of Severus and 
+		bestowed that of Caracalla upon his son.  What was the name of Macrinus’ son?
+			DIADUMENIANUS
+
+16:
+TU:  	Which class of people wore the mulleus?	PATRICIANS / SENATORS
+B1:  	Who wore the caligae?	SOLDIERS
+B2:  	Which shoes were worn only in the house?	SOLEAE
+						                        BARBER / DENTIST
+17:
+TU:	According to Ovid, into what was Daphnis, an Idaean shepherd-boy, transformed?
+			STONE
+B1:	Into what was Celmis transformed, according to Ovid?	(LUMP OF) STEEL
+B2:	Who, according to Ovid, became indeterminate of gender, now a man, now a woman?
+			SITHON
+			
+18:
+TU: 	Which of the following, if any, is not derived from the same Latin root as the others:
+		affinity, paraffin, finance, finale?	ALL ARE FROM THE SAME ROOT
+B1: 	Which of the following, if any, is not derived from the same Latin root as the others:
+		veterinarian, veteran, introvert, inveterate?	INTROVERT
+B2: 	Which of the following, if any, is not derived from the same Latin root as the others?
+		armadillo, arms, alarm, armoire?	ALL ARE FROM THE SAME ROOT
+
+19:
+TU:	What unfaithful mistress does Tibullus address in Books I of his elegies?	DELIA
+B1:	Whom does he addresses in Book II who adds greed to faithlessness as well?	NEMESIS
+B2:  	Whose literary patronage benefited Tibullus?	MESSALLA CORVINUS’
+									                 SULPICIA
+20:
+TU:  	What type of subjunctive clause is in the following sentence:  utinam rēx vīvus esset?
+			OPTATIVE
+B1:	Please translate this sentence into English:  mīlitēs gaudeant dum mereant.                     
+			LET THE SOLDIERS REJOICE SO LONG AS  / PROVIDED THAT 
+B2:	What type of clause is in the previous sentence?             	PROVISO
+
+GRAMMAR
+TU: 	Please translate the following into Latin:  If I were to persuade you, you would do this.     
+			SĪ TIBI SUĀDĒREM, HOC FACERĒS (AGERĒS)
+B1: 	…:  If he had betrayed you, he would have died.       
+			SĪ TĒ PRODIDISSET, MORTUUS ESSET
+B2: 	…:  If you kill him, we will rejoice.         
+			SĪ EUM NECĀVERIS / NECĀBIS, GAUDĒBIMUS
+
+DERIVATIVES
+TU: 	From which Latin word with what meaning do we derive the English word 
+		“simultaneous”?	SIMUL - AT THE SAME TIME
+B1:	From which Latin word with what meaning do we derive the English word 
+		“incorrigible”?	REGŌ – TO RULE
+B2: 	From which Latin word with what meaning do we derive the English word 
+		“malfeasance?”	FACIŌ – TO MAKE, DO
+
+VOCABULARY
+TU:	quid Anglicē significant:  paulātim?	GRADUALLY
+B1:	quid Anglicē significat:  paulō?	A LITTLE
+B2:	quid Anglicē significat:  partim?	PARTLY
+
+MYTHOLOGY
+TU:  	What son of Mercury and Herse received as a gift a hound that could catch anything?
+			CEPHALUS
+B1:  	Who gave him this gift?	(HIS WIFE) PROCRIS
+B2:  	What other gift came with the hound?	A SPEAR THAT NEVER MISSED ITS MARK
+
+HISTORY – EMPIRE
+TU:	What woman, in an attempt to strengthen the arm of civil government in controlling the 
+		unruly and mutinous armies, set up a council of sixteen prominent senators to serve 
+		as regents and advisors to her son Severus Alexander?	JULIA MAMAEA
+B1:	What distinguished jurist was the preatorian prefect at this time?	
+			(DOMITIUS) ULPIAN(US)
+B2:	What leader of the new Iranian regime waged war against Rome circa 227 AD?
+			ARDASHIR (I)
+
+HISTORY – MONARCHY & REPUBLIC
+TU:	Name one of the two battles which Julius Caesar lost in his brilliant military career?
+			SEE BELOW FOR ANSWERS		                              
+B1:	Name the other.  DYRRACHIUM / GERGOVIA
+B2:	Give the names of both the enemy commanders at Dyrrachium & Gergovia and the 
+		years in which they defeated Caesar.           
+			DYRRACHIUM - POMPEY, 48 BC // GERGOVIA - VERCINGETORIX, 52 BC
+
+LIFE
+TU:  	What is a comissātiō?	DRINKING PARTY
+B1:  	Who was the master of the comissātiō?	RĒX / MAGISTER BIBENDĪ
+B2:  	What was one of the duties of the rēx bibendī?	
+			DETERMINE RATIO OF WATER TO WINE / RULES FOR DRINKING / 
+			IMPOSE PENALTIES FOR BREAKING RULES
+
+LITERATURE
+TU:	What work of Vergil is composed of ten short poems, published in 37 BC, and describe 
+		incidents in the lives of Vergil and his friends?	
+		SEE BELOW FOR ANSWER	
+B1:	By what other name are these known? 	
+ECLOGUES / BUCOLICS
+B2:  	Whose Idyls are they imitating?	
+THEOCRITUS’
+			

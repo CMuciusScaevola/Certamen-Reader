@@ -1,0 +1,824 @@
+1:
+TU:	How many kings ruled Rome, according to most traditions?	
+SEVEN
+B1:	Which of the kings of Rome were of Sabine origin?	
+NUMA POMPILIUS & ANCUS MARCIUS
+(PROMPT IF ONLY ONE IS GIVEN)
+B2:	Which of the kings of Rome were of Etruscan origin? 
+TARQUINIUS PRISCUS, SERVIUS TULLIUS, & TARQUINIUS SUPERBUS
+(PROMPT IF ONLY ONE IS GIVEN)
+
+2:
+TU:	Complete the following analogy:  cōnsūmō : cōnsūmēbat :: pugnō : _____.	
+PUGNĀBAT
+B1:	…:  cōnsūmō : cōnsūmēbat :: audiō : _____.	
+			AUDIĒBAT	:
+B2:	…:  cōnsūmō : cōnsūmēbat :: sum : _____.	
+ERAT
+
+3:
+TU:	What Titan was the youngest son of Uranus and castrated him?	
+CRONUS
+B1:	With what Titaness did Cronus father the Olympian gods?	
+RHEA
+B2:	Why did Cronus eat his children?
+			A PROPHECY SAID THAT ONE OF HIS 
+CHILDREN WOULD DEPOSE HIM
+
+4:
+TU:	Give an antonym of āmittō.	
+INVENIŌ, REPERIŌ
+B1:	Give an antonym of mortuus.	
+VĪVUS
+B2:	Give an antonym of timor.	
+VIRTŪS, FORTITŪDŌ
+
+[SCORE CHECK]
+
+5:
+TU: 	Give the Latin root and its meaning from which we derive the English word “exempt.”	
+			EMŌ – TO BUY
+B1: 	… “realistic.”	
+RĒS – THING
+B2: 	… “deter.”	
+TERREŌ – TO FRIGHTEN
+
+6:
+TU:	Translate the following sentence into English:  gladiātōrēs ā puerīs in amphitheātrō incitātī erant.
+			THE GLADIATORS HAD BEEN ENCOURAGED/URGED ON/INCITED
+ BY THE BOYS IN THE AMPHITHEATER
+B1:	Translate into English:  nūntiī canēs per viās agent.
+			THE MESSENGERS WILL CHASE/DRIVE/HUNT 
+THE DOGS THROUGH THE STREETS
+B2:	Translate into English:  leōnēs multa parva animalia in silvā edērunt.
+			THE LIONS ATE / HAVE EATEN MANY SMALL ANIMALS 
+IN THE FOREST / WOODS
+
+7:
+TU:	Who went on a long boat ride with a group of heroes to find the Golden Fleece?	
+JASON
+B1:	What was the name of thier ship?	
+ARGO
+B2:	Where was the location of the Golden Fleece?	
+COLCHIS
+
+8:
+TU:	What is the Latin term for a slave who has been manumitted?	
+LĪBERT(ĪN)US
+B1:	What is the Latin term for slaves born into the household?	
+VERNA(E)
+B2:	What is the Latin term for slaves acquired as babies or small children?	
+ALUMNUS / ALUMNĪ
+
+[SCORE CHECK]
+
+9:
+TU:	Quid Anglicē significat:  mox?	
+SOON
+B1:	Quid Anglicē significat:  aut…aut?	
+EITHER…OR
+B2:	Quid Anglicē significat:  non iam?	
+NO LONGER
+
+10:
+TU:	Vestricius Spurinna and Annius Gallus lost the 1st Battle of Cremona.  On behalf of which emperor were 
+	they fighting?	
+OTHO’S
+B1:	In what manner did Otho die?	
+SUICIDE
+B2:	According to many Latin authors, for what reason did Otho choose to commit suicide?
+			IN ORDER TO PREVENT CIVIL WAR
+
+11:
+TU:	What use of the dative case can be found in the following sentence:  ūnus fīlius est patrī?
+			POSSESSION
+B1:	What use of the dative case can be found in the following sentence:  fīlius est cārus patrī?
+			WITH (SPECIAL) ADJECTIVE (CĀRUS)
+B2:	What use of the dative case can be found in the following sentence:  fīlius servīs praeest?
+			WITH COMPOUND / SPECIAL VERB (PRAESUM)
+12:
+TU:	What warrior at Troy, the husband of Andromache, killed Patroclus and was later killed by Achilles?	
+HECTOR
+B1:	What was the name of Hector's son?	
+ASTYANAX/SCAMANDRIUS
+B2:	What happened to Astyanax during the sack of Troy?	
+THROWN OVER THE WALLS OF TROY 
+			(BY NEOPTOLEMUS)
+
+[FINAL SCORE]
+
+
+EXTRA QUESTIONS
+
+MYTHOLOGY:
+Name the wife of Creon who killed herself after learning that her son is dead.
+EURYDICE
+B1:	Who was Creon’s and Eurydice’s son?
+HAEMON
+B2: 	Why did Haemon kill himself?
+AFTER HE LEARNED THAT HIS FIANCE ANTIGONE IS DEAD
+
+HISTORY/CULTURE:
+What political alliance was ratified by the Lex Titia?
+SECOND TRIUMVIRATE
+B1:	In what year was this law passed?
+43 BC
+B2:	Who were the members of the 2nd triumvirate?
+MARK ANTONY, OCTAVIAN, LEPIDUS
+
+LANGUAGE:
+Change monemur to the perfect tense.
+MONITI (AE,A) SUNT
+B1: 	Change moniti sunt to the active.
+MONUERUNT
+B2:	Change monuerunt to the future.
+MONEBUNT
+
+
+
+
+
+
+
+1:
+TU: 	Which of the following, if any, is not derived from the same Latin root as the others? 
+	“impugn, pug, pugnacious, pugilist”	
+ALL FROM SAME ROOT
+B1: 	Give the Latin root and its meaning that lies at the root of the words in the toss-up.	
+PUGNŌ – TO FIGHT
+B2: 	What English word, also derived from pugno, means “unacceptable or extremely distasteful?”	
+			REPUGNANT
+
+2:
+TU:	To which king did the citizens of Tarentum appeal when they believed Rome had violated their sea trade treaty?
+	PYRRHUS
+B1:	Who was the silver-tongued envoy of Pyrrhus that attempted to persuade the Roman Senate to make peace with him?	
+CINEAS
+B2:	Which old Roman senator convinced the Senate that they could not make peace with Pyrrhus and needed to continue to fight until he was defeated?	
+APPIUS CLAUDIUS (CAECUS)
+
+3:
+TU:	Give the accusative singular and plural forms for gladius.	
+GLADIUM, GLADIŌS
+B1:	Give the accusative singular and plural forms for pēs.	
+PEDEM, PEDĒS
+B2:	Give the accusative singular and plural forms for spectāculum.	
+SPECTĀCULUM, SPECTĀCULA
+
+4:
+TU:	What was Heracles’s first labor?	
+TO KILL THE NEMEAN LION
+B1:	What was special about the Nemean Lion?	
+IMPENETRABLE SKIN
+B2:	What did Heracles use to skin the Nemean Lion?	
+BY USING ITS OWN CLAWS
+
+[SCORE CHECK]
+
+5:
+TU:	Give a synonym of imperium.	
+POTESTĀS, REGNUM
+B1:	Give a synonym of aequus.	
+PĀR
+B2:	Give a synonym of autem.	
+TAMEN
+
+6:
+TU:	What god was in charge of the Maenads, theater, and wine?	
+DIONYSUS / BACCHUS 
+B1:	Into what did he turn the pirates who kidnapped him?	
+DOLPHINS
+B2:	Whom did Dionysus have ripped apart by the victim’s female relatives for not believing him to be divine?	
+PENTHEUS 
+
+7:
+TU:	Please give the comparative and superlative forms for amicus.	
+AMICIOR, AMICISSIMUS
+B1:	Please give the comparative and superlative forms for miser.	
+MISERIOR, MISERRIMUS
+B2:	Please give the comparative and superlative forms for facilis.	
+			FACILIOR, FACILLIMUS 	
+
+8:
+TU:	What political rival and grandson of Augustus did Tiberius have killed at the beginning of his reign?
+			AGRIPPA POSTUMUS
+B1:	To what island had Tiberius chosen to exile himself in 6 BC because he was being overlooked by Augustus?
+	RHODES
+B2:	To where in 26 AD did Tiberius choose to retire?	
+CAPRI / CAPREAE
+
+[SCORE CHECK]
+
+9:
+TU:	Who commanded his daughters to kill their husbands on their wedding night?	
+DANAUS
+B1:	Which daughter disobeyed Danaus because she was truly in love with her groom?	
+HYPERM(N)ESTRA
+B2:	Who was this lucky groom?	
+LYNCEUS
+
+10:
+TU:	Differentiate in meaning between necō and negō.	
+NECŌ – TO KILL / NEGŌ – TO DENY
+B1:	Differentiate in meaning between tuus and tum.	
+TUUS - YOUR(S) / TUM - THEN
+B2:	Differentiate in meaning among portō, porta, and portus.
+			PORTŌ – TO CARRY / / PORTA – GATE, ENTRANCE, DOOR(WAY) / /
+			PORTUS – HARBOR, PORT
+
+11:
+TU: 	Give the Latin root and its meaning from which we derive the English word “abrogate.” 	
+			ROGŌ – TO ASK
+B1: 	… canary. 	
+CANIS - DOG
+B2: 	… majority	
+MAIOR – LARGER/GREATER 
+or MAGNUS – LARGE/BIG
+
+12:
+TU:	The branches of what type of tree were used to let people know that there has been a death in the family?	
+CYPRESS / PINE 
+B1:	Name two types of food items that were used as common offerings for the dead.
+			EGGS, BEANS, LENTILS, FLOUR, WINE
+B2:	With respect to Roman funerals, who or what were the praeficae?	
+HIRED MOURNERS
+
+[FINAL SCORE]
+
+
+
+EXTRA QUESTIONS
+
+MYTHOLOGY:
+Which lover of Zeus had a son named Arcas?
+CALLISTO
+B1:	How did Zeus seduce Callisto?
+DISGUISED AS ARTEMIS
+B2: 	How was Callisto punished for her affair with Zeus?
+TURNED INTO A BEAR
+
+HISTORY/CULTURE:
+Where did the Romans win their first naval battle against the Carthaginians during the First Punic War?
+			MYLAE
+B1:	Who was the Roman commander that secured this naval victory against Carthage?	
+GAIUS DUILIUS
+B2:	What was the name of the gangplank used by the Romans throughout the First Punic War that allowed them to board Carthaginian ships?	
+CORVUS
+
+LANGUAGE:
+For the verb tango, tangere, give the 3rd person singular imperfect passive indicative.
+TANGEBATUR
+B1: 	Change tangebatur to the future.
+TANGETUR
+B2:	Change tangetur to the pluperfect.
+TACTUS (A,UM) ERAT
+
+
+
+
+
+
+
+
+1:
+Differentiate in meaning among heri, hodiē, and crās.	
+YESTERDAY, TODAY, TOMORROW
+B1:	Differentiate in meaning between templum and tempus.	
+TEMPLUM – TEMPLE // TEMPUS - TIME
+B2:	Differentiate in meaning between terra and terreō.	
+TERRA – LAND, EARTH, GROUND // 
+			TERREŌ – TO SCARE, FRIGHTEN
+
+2:
+TU:	Which general commanded over the Carthaginian military during the First Punic War and famously never lost a battle because he would only engage in quick guerilla attacks?
+			HAMILCAR (BARCA)	 
+B1:	Who was the son of this general that would go on to surpass his father’s military legacy?
+			HANNIBAL (BARCA)
+B2:	Who were the other two sons of Hamilcar Barca that would fight alongside their brother in the 2nd Punic War?	
+HASDRUBAL AND MAGO
+
+3:
+TU: 	Give the Latin root and its meaning from which we derive the English word “sylvan”.	
+SILVA – WOODS
+B1: 	… journal.	
+DIĒS – DAY
+B2:	Give the two Latin roots and their meanings from which we derive “medieval”. 
+		MEDIUS – MIDDLE &/ AEVUM – AGE
+
+4:
+TU:	Zeus had many affairs with mortal women. To whom did he appear as a bull?	
+EUROPA
+B1:	What woman did he turn into a cow to hide his affair?	
+IO
+B2:	To whom did he appear to as a swan?	
+LEDA
+
+[SCORE CHECK]
+
+5:
+TU:	What Latin word, related to the adjective ācer, means “battleline”?	
+ACIĒS
+B1:	What Latin word, related to the verb faciō, means “opportunity”?	
+FACULTĀS
+B2:	What are the definitions of the following Latin words:  secundus, quartus, sextus, octāvus, decimus?
+			2nd, 4th, 6th, 8th, 10th
+
+6:
+TU:	Give the dative singular of the phrase illa pulchra domus.	
+ILLĪ PULCHRAE DOMUĪ (or DOMŌ)
+B1:	Give the ablative singular of the phrase illud perīculōsum mare.	
+ILLŌ PERĪCULŌSŌ MARĪ
+B2:	Give the genitive singular of the phrase ille stultus mīles.	
+ILLĪUS STULTĪ MĪLITIS
+
+7:
+TU:	Whom did Perseus find chained to a rock?	
+ANDROMEDA
+B1:	Who was her mother?	
+CASSIOPEIA
+B2:	What was to eat Andromada?	
+A SEA MONSTER / CETUS
+
+8:
+TU:	Whose revolt occurred in 61 AD during the reign of Nero?	
+BOUDICCA’S
+B1:	Not long after this revolt, which of his wives did Nero exile?	
+OCTAVIA
+B2:	Nero got rid of Octavia so that he could marry whom?	
+POPPAEA SABINA
+
+[SCORE CHECK]
+
+9: 
+TU:	What Latin term refers to the appetizer course of a cēna?	
+			GUSTĀTIŌ / GUSTUS / PRŌMULSIS / ANTĒCĒNA
+B1:	What Latin term refers to the dessert course of a cēna?	
+SECUNDA MĒNSA
+B2:	What Latin phrase describes the progress from gustātiō to secunda mēnsa?
+			AB OVŌ (USQUE) AD MALA
+
+10:
+TU:	Translate into English:  lupus ferus per portam intrābat.	
+			THE FIERCE / FEROCIOUS WOLF WAS ENTERING / ENTERED 
+THROUGH THE GATE / ENTRANCE / DOOR
+B1:	Translate into English:  canēs fortissimī viro magnōs dentēs ostendēbant.
+			THE VERY BRAVE / BRAVEST DOGS WERE SHOWING / SHOWED 
+THE(IR) BIG TEETH TO THE MAN
+B2:	Translate into English:  fēlēs timidissmae in medium hortum current.
+			THE VERY SCARED / TIMID CATS WILL RUN INTO 
+THE MIDDLE OF THE GARDEN
+
+11:
+TU:	What evil king tried to have Perseus killed by sending him on an impossible task?	
+POLYDECTES
+B1:	Who was the decent and kind brother of Polydectes?	
+DICTYS
+B2:	What eventually happened to Polydectes?	
+TURNED INTO STONE
+
+12:
+TU:	For the verb facio, facere, give the 2nd person plural future active indicative.	
+FACIETIS
+B1:	Make facietis perfect.
+			FECISTIS
+B2:	Make fecistis passive.	
+FACTI (AE,A) ESTIS
+
+
+
+EXTRA QUESTIONS
+
+MYTHOLOGY:
+Who were the parents of Electra, Iphigenia, and Orestes?
+AGAMEMNON and CLYTEMNESTRA
+B1:	Who was their paternal grandfather?
+ATREUS
+B2: 	Who was their maternal grandfather?
+TYNDAREUS
+
+HISTORY/CULTURE:
+Who was the first emperor to have a co-Augustus?
+MARCUS AURELIUS
+B1:	Who was this co-Augustus with Marcus Aurelius?
+LUCIUS VERUS
+B2:	In what year did Lucius Verus die?
+169 AD
+
+LANGUAGE:
+Give the form of the adjective malus that agrees with the noun form fratrum.
+MALORUM
+B1: 	Give the form of the adjective malus that agrees with cornu.
+MALO
+B2:	Give the form of the adjective malus that agrees with pace
+MALĀ
+
+1:
+TU:	What part of your body is the bracchium?	
+ARM
+B1:	What part of your body is the collum?	
+NECK
+B2:	What part of your body is the gena?	
+CHEEK
+
+2:
+TU:	The rēgīna viārum is the nickname for what Roman road?	
+VIA APPIA / APPIAN WAY
+B1:	Name both the original and the final ending point of the Via Appia.
+			ORIGINAL – CAPUA / FINAL - BRUNDISIUM
+B2:	Which Roman road went from Rome to Umbria?	
+VIA FLAMINIA
+
+3:
+TU:	Please listen to the following passage, which I shall read twice; then answer the question that follows in Latin:
+		ōlim, multī leōnēs per tōtam silvam currēbant.  subitō, senem cōnspexērunt et petīvērunt.  
+		senex tamen ferōciter pugnābat et ē silvā ruēbat.  euge!  (repeat)
+
+	The question:  quid leōnēs agēbant ubi senem cōnspexērunt?	
+CURRĒBANT
+B1:	quōmodō senex pugnābat?	
+FERŌCITER
+B2:	unde senex ruēbat?	
+Ē SILVĀ
+
+4:
+TU:	Which Roman admiral famously said, “since they won’t eat, let them drink.”  before kicking the sacred chickens into the sea because they refused to eat before battle?	
+CLAUDIUS PULCHER
+B1:	Before what battle in 249 BC did Claudius Pulcher perform this atrocious act, which is why many Romans believed they lost this battle?	
+DREPANA
+B2:	Who was the Carthaginian admiral that was victorious over Claudius Pulcher at Drepana? 	
+ADHERBAL
+
+[SCORE CHECK]
+
+5:
+TU:	What god got between his parents during an argument and was thrown from Mt. Olympus as a result?
+			HEPHAESTUS / VULCAN
+B1:	Who was his wife?	
+APHRODITE / VENUS
+B2:	With what god did Aphrodite have an affair and was trapped with him in a net for all the gods to see?
+			ARES
+
+6:
+TU: 	What English word, derived from the Latin word meaning “all”, means “knowing everything?” 
+			OMNISCIENT
+B1: 	What English word, derived from the same root, means “eating food of both plant and animal origin?” 	
+			OMNIVORE
+B2: 	What English word, derived from the same root, means “a long motor vehicle for carrying passengers?”	
+BUS
+
+7:
+TU:	What creature with golden hooves was the objective of Heracles’s third labor?
+			CERYNEAN / CERYNITIAN HIND
+B1:	Using a pair of bronze castanets given to him by Athena, what was Heracles’s sixth labor?
+			STYMPHALIAN BIRDS
+B2:	Whose cattle did Heracles have to retrieve as his tenth labor?	
+GERYON’S
+
+8:
+TU:	For the verb dūcō, give the 2nd person singular present passive indicative.	
+DŪCERIS
+B1:	Change dūceris to the future.	
+DŪCĒRIS	
+B2:	Change dūcēris to the plural.	
+DŪCĒMINĪ
+
+[SCORE CHECK]
+
+9:
+TU:	Quid Anglicē significat:  capillus?	
+HAIR
+B1:	Quid Anglicē significat:  nāsus?	
+NOSE
+B2:	Quid Anglicē significat:  tergum?	
+BACK
+
+10: 
+TU: 	Give the one of the basic Latin verbs and its meaning from which we derive the English word “laser”.
+			MITTŌ – TO SEND or FACIŌ – TO MAKE, DO
+B1: 	What English word derived from mittō means “a representative sent on a mission or errand?”
+			EMISSARY
+B2: 	What English word from the same root means “a declaration of something that will be done”	
+PROMISE
+
+11:
+TU:	The Circus Maximus was famous for being the venue for what type of entertainment?
+			CHARIOT RACES
+B1:	What large area in Rome was used for athletic exercises and military training?	
+CAMPUS MARTIUS
+B2:	Who built the first permanent theater in Rome in 55 BC?	
+POMPEY (THE GREAT)
+
+12:
+TU:	Who was carried off by Zeus because of his beauty?	
+GANYMEDE(S)
+B1:	In what form did Zeus abduct this Trojan youth?	
+EAGLE / WHIRLWIND
+B2:	What did Ganymede’s father receive as a recompense for his son’s abduction?	
+			DIVINE HORSE / GOLDEN VINE
+
+
+[FINAL SCORE]
+	
+
+EXTRA QUESTIONS
+
+MYTHOLOGY:
+Which son of Tantalus was fed to the gods?
+PELOPS
+B1:	Which deity took a bite of Pelops?
+DEMETER/CERES
+B2: 	Which material was used to replaced Pelops’ missing shoulder?
+IVORY
+
+HISTORY/CULTURE:
+After the expulsion of Tarquinius Superbus, the Republic began and two consuls were elected annually. Who were the first two consuls of Rome?
+COLLATINUS and BRUTUS
+B1:	Who was the first praetor?
+SpURIUS FURIUS CAMILLUS
+B2:	How many praetors were elected annually?
+8
+
+LANGUAGE:
+Translate brother in the following sentence into Latin: I gave my brother’s friend money.
+FRATRIS
+B1: 	Translate brother in the following sentence into Latin: He says that my brother is here.
+FRATREM
+B2:	Translate brother in the following sentence into Latin: That man is taller than my brother.
+FRATER or FRATRE
+
+1:
+TU:	Give the comparative and superlative forms for the adjective celere.	
+CELERIUS, CELERRIMUM
+B1:	… humilis.	
+HUMILIOR, HUMILLIMUS
+B2:	… parvus.	
+MINOR, MINIMUS
+
+2:
+TU: 	What English word, derived from the Latin word meaning “blood” means “cheerfully optimistic, hopeful or  confident?”	
+SANGUINE
+B1: 	What English word, derived from the Latin word meaning “to kill” means “causing insidious harm or ruin”?
+	PERNICIOUS
+B2: 	What English word, derived from the Latin word for “good” means “a source of great and sudden wealth or luck” or “a rich deposit of mineral ore?”	BONANZA
+
+3:
+TU:	Which Roman general and statesman served as consul on seven different occasions?	
+MARIUS
+B1:	Name the seven different years that Marius served as consul.	
+			107, 104, 103, 102, 101, 100, 86 (BC)			
+B2:	From what town in Italy was the novus homō Marius from?	
+ARPINUM
+
+4:
+TU:	What follower of Artemis was turned into a subterranean spring to escape the advances of a river god?
+			ARETHUSA
+B1:	Who was this river god?	
+ALPHEUS
+B2:	Where on Sicily did the stream of Arethusa surface?	
+SYRACUSE
+
+5:
+TU:	Give an antonym of dexter.	
+SINISTER
+B1:	Give a synonym of perficiō.	
+CŌNFICIŌ
+B2:	Differentiate in meaning among equus, eques, and equitātus.
+			EQUUS – HORSE / EQUES – HORSEMAN, KNIGHT / EQUITĀTUS – CAVALRY
+
+[SCORE CHECK]
+
+6:
+TU:	Whose eyes did Hera put on the peacock?	
+ARGUS’
+B1:	Juno had appointed Argus to guard what lover of Jupiter?	
+IO
+B2:	What epithet did Mercury receive for slaying Argus?	
+ARGEIPHONTES
+
+7:
+TU:	Using the verb credō, say in Latin:  the Roman soldiers will trust the barbarians.
+			MĪLITĒS RŌMĀNĪ BARBARĪS CREDENT
+B1:	Change credent to the perfect tense.	
+CREDĒRUNT
+B2:	Using an ablative absolute, say in Latin:  After the city was captured, the Roman soldiers rejoiced.
+			URBE CAPTĀ, MĪLITĒS RŌMĀNĪ GAUDĒBANT / GĀVĪSĪ SUNT
+
+8:
+TU:	Name two types of gladiators who were considered to be heavy-armed.
+			SAMNITE/SAMNĪS, MURMILLŌ, HOPLOMACHUS, SECŪTOR, GAUL
+B1:	Name three types of gladiators who were considered to be light-armed.
+			RĒTIĀRIUS, THRACIAN/THRĀX, BESTIĀRIUS, DIMACHAERUS, LAQUEĀTOR
+B2:	What Latin term referred to successful gladiators who had become the affection of Roman women?
+			SUSPIRIUM PUELLĀRUM
+
+9:
+TU:	Listen to the following passage, which I shall read twice; then answer the question that follows in Latin:
+		Multī hospitēs in triclīniō cēnam exspectābant.  Coquus ē culīnā ambulābat et cibum portābat.  
+		hospitēs, postquam cibum spectāvērunt, erant īrātissimī et coquō cibum ēmīsērunt.  (repeat)
+	
+	The question:  quid coquus portābat?	
+CIBUM
+B1:	quālēs erant hospitēs postquam cibum spectāvērunt?	
+ĪRĀTISSIMĪ
+B2:	cui hospitēs cibum ēmīsērunt?	
+COQUŌ
+
+10:
+TU:	According to one version of the story, who was the divine father of Theseus?	
+POSEIDON
+B1:	Who was his mortal father?	
+AEGEUS
+B2:	How did Theseus cause his father’s death?	
+FORGOT TO CHANGE SAIL FROM BLACK TO WHITE
+			(OR FROM RED TO WHITE)
+
+[SCORE CHECK]
+
+11:
+TU:	Translate the following sentence into Latin:  The very brave gladiator will show the biggest swords to the citizens.
+			GLADIĀTOR FORTISSIMUS CĪVIBUS MAXIMŌS GLADIŌS 
+OSTENDET/MONSTRABIT 
+B1:	…:  The very happy sailors handed over the prettiest togas to the girl.
+			NAUTAE LAETISSIMĪ PUELLAE TOGĀS PULCHERRIMĀS 
+TRĀDIDĒRUNT / TRĀDĒBANT 
+B2:	…:  The very good boys have given food and wine to the saddest man.
+			PUERĪ OPTIMĪ VIRO TRĪSTISSIMŌ / MISERRIMŌ CIBUM ET VĪNUM 
+DEDERUNT/DONAVERUNT
+
+12:
+TU:	Who served for a short time as joint heir to the throne with Caligula?	
+TIBERIUS GEMELLUS
+B1:	What praetorian prefect was put to death along with Tiberius Gemellus in 38 AD?	
+			MACRO		 
+B2:	Which sister of Caligula died and was deified the same year?	
+DRUSILLA 
+
+13:
+TU:	Give the Latin and the English for the motto of Maine.	
+DĪRIGŌ – I POINT THE WAY
+B1:	Give the Latin and the English for the motto of Oklahoma.	
+LABOR OMNIA VINCIT – 
+			WORK CONQUERS ALL/EVERYTHING // TOIL OVERCOMES ALL OBSTACLES
+B2:	Give the Latin and the English for the motto of Arkansas.
+			RĒGNAT POPULUS – THE PEOPLE RULE
+
+14:
+TU:	What deity killed his best friend Hyacinthus with a discus?	
+APOLLO 
+B1:	What deity killed her best friend Pallas? 	
+ATHENA / MINERVA
+B2:	What deity tried to stop the goring of her lover Adonis?	
+APHRODITE/VENUS
+
+15:
+TU:	Give the Latin roots and their meanings from which “equilateral” is derived.	
+			AEQUUS – EVEN, EQUAL & LATUS - SIDE
+B1:	Give the Latin roots and their meanings from which “horticulture” is derived.	
+			HORTUS – GARDEN & COLŌ – TO CULTIVATE, TILL
+B2:	Give the Latin roots and their meanings from which “dismal” is derived.
+			DIĒS – DAY & MALUS – BAD
+
+[SCORE CHECK]
+
+16:
+TU:	With respect to election practices in the town of Pompeii, give the Latin term for the group of people who would hold processions through the streets declaring their support for a certain candidate.
+			FAUTŌRĒS
+B1:	What Latin term refers specifically to a group of neighbors who lived near a certain candidate who would support him in an election?	
+VICĪNĪ
+B2:	What special official might be appointed by an emperor to run a town’s government if the town’s officials were  not able to maintain law and order on their own?	
+PRAEFECTUS
+
+17:
+TU: 	What use of the genitive case can be found in the following sentence:  magistrī semper cāritātem discipulōrum habent?	
+OBJECTIVE
+B1:	…:  magistrī semper sunt virī maximae scientiae?	
+DESCRIPTION
+B2:	…:  magistrī satis pecūniae numquam habent?	
+PARTITIVE / GENITIVE OF THE WHOLE
+
+18:
+TU:	What Amazon queen brought her warriors to fight alongside the Trojans during Trojan War?	
+			PENTHESILEA
+B1:	Who killed her and fell in love with her lifeless body?	
+ACHILLES
+B2:	Who mocked Achilles and was killed as a result?	
+THERSITES
+
+19:
+TU:	Who served as consul in 217 BC and died fighting against Hannibal’s forces at the battle of Lake Trasimene?	
+GAIUS FLAMINIUS
+B1:	Who served as co-consul with Flaminius in 217 BC?	
+			GNAEUS SERVILIUS GEMINUS			
+B2:	Who was the Gaul that personally killed Flaminius during the battle of Lake Trasimene?	
+DUCARIUS 
+
+[SCORE CHECK]
+
+20:
+TU:	 When you are recognized, perform the actions: surge et da pecūniam spectātōribus.
+			A STUDENT GETS UP THEN GIVES MONEY TO SPECTATORS
+B1:	…:  Ostendite spectātōribus linguās.
+			STUDENTS SHOW THEIR TONGUES TO THE CROWD 			
+B2:	…:  Surgite et clamate  moderātōrī Anglicē “fēlīcem diem nātālem”.
+			STUDENTS RISE THEN SHOUT “HAPPY BIRTHDAY” TO THE MODERATOR
+
+[FINAL SCORE]
+
+
+ 
+
+
+GRAMMAR
+TU:	
+Change vult to the perfect tense.	
+VOLUIT
+B1:	Change it to the perfect tense.	
+IIT/IVIT
+B2:	Change offert to the perfect tense.	
+OBTULIT
+
+
+TU:	
+Complete the following analogy:  leō : leōnem :: vis : _____.	
+VIM
+B1:	…:  leō : leōnī :: senex : _____.	
+SENĪ
+B2:	…:  leō : leōnī :: ego : _____.	
+MIHI
+
+TU: 	
+Which of the following, if any, is not derived from the same root as the others? “conifer, defer, ferry, translate”	
+ALL FROM SAME ROOT
+B1: 	Give the Latin root of the words in the toss-up.	
+FERO
+B2: 	What English word derived from fero means “a body of rock that can contain or transmit groundwater?”
+			AQUIFER
+
+TU:	
+Give an antonym of labōrō.	
+LŪDŌ
+B1:	Give an antonym of beneficium.	
+INIŪRIA
+B2:	Give an antonym of multī.	
+PAUCĪ
+
+TU:	
+Quid Anglicē significat:  porticus?	
+COLONNADE
+B1:	Quid Anglicē significat:  lambō?	
+TO LICK
+B2:	Quid Anglicē significat:  callidus?	
+CLEVER, SMART
+
+TU:	
+Please give the comparative and superlative forms for bene.	
+MELIUS, OPTIMĒ
+B1:	Please give the comparative and superlative forms for multī.	
+PLŪRĒS, PLŪRIMĪ
+B2:	Please give the comparative and superlative forms for diū.
+DIŪTIUS, DIŪTISSIMĒ
+	
+MYTHOLOGY
+TU:	
+What was Heracles’s fourth labor?	
+ERYMANTHIAN BOAR
+B1:	What was Eurystheus’ response to the boar?	
+HID IN A POT
+B2:	What was Heracles’s fifth labor?	
+AUGEAN STABLES 
+
+TU:	
+What daughter of Tantalus and wife of Amphion boasted that she is luckier than Leto?	
+NIOBE
+B1:	What special skill did Niobe’s husband Amphion posses?	
+MUSIC
+B2:	The walls of which city did Amphion build using his music?	
+THEBES
+
+HISTORY/CULTURE
+
+TU:	
+Name two of the tribes that Marcus Aurelius fought during the Marcomannic Wars.
+			SEE BELOW
+B1:	Name another.
+MARCOMANNI, QUADI, CHATTI, IAZYGES
+B2:	How did Marcus Aurelius finance the Marcomannic Wars?	
+			SOLD IMPERIAL JEWELS / TREASURE
+
+TU:	
+Which emperor was responsible for the distribution of cash to the people of Rome in 99, 102, and 107 AD?	
+TRAJAN
+B1:	How did Trajan enter the city of Rome in 99 AD?	
+ON FOOT / WEARING A CIVILIAN TOGA
+B2:	Where in Spain was Trajan born?	
+ITALICA
+
+
+TU:	What was a manūmissiō?	
+THE ACT OF FREEING A SLAVE
+B1:	What was the minimum age requirement for a slave to be manumitted?	
+THIRTY
+B2:	What happened to run away slaves who were captured?	
+HAD FUG OR F BRANDED
+			ON THEIR FOREHEAD
+

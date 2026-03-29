@@ -1,0 +1,548 @@
+1:
+TU:	Which Emperor had a nose for finding opportunities to advance the finances of the Empire, as evidenced 
+		by his pursuit of a tax on urine, rationalized by the quote “money does not stink”?	VESPASIAN
+B1:	Whom did Vespasian appoint as his commander of the praetorian guards?	TITUS 
+B2:	On his deathbed, Vespasian was said to have exclaimed what Latin phrase?	VAE PUTŌ DEUS FIŌ
+
+2:
+TU: 	Identify the case and usage of the Latin word for “help” as it is used in the following sentence:
+	 	imperātor mīlitēs mīsit auxiliō suīs comitibus.             	DATIVE OF PURPOSE
+B1:   	...:  incolae agrōrum Gallōrum dignī auxiliō sunt.        
+			ABLATIVE OF RESPECT / SPECIFICATION / WITH SPECIAL ADJECTIVE DIGNUS
+B2:   	...:  mīlitēs spērābant auxilium mox adventūrum esse.    
+			ACCUSATIVE SUBJECT of INDIRECT STATEMENT
+
+3:
+TU:  	Who was chased from Mycenae to Athens by avenging Furies after killing his mother?	ORESTES
+B1:  	Who was Orestes’ mother whom he murdered?	CLYTEM(N)ESTRA
+B2:  	Whom did Orestes kill along with Clytemestra?	AEGISTHUS
+
+4:
+TU:	Who used a native Italian meter for his translation of Homer’s Odyssey?	(LIVIUS) ANDRONICUS
+B1:	What meter did he use?	SATURNIAN
+B2:	What group of Italian goddesses did Andronicus identify with the muses so that he could invoke one at 
+		the start of the poem?	CAMENAE
+
+5:
+TU: 	What derivative of the Latin word meaning “to mourn” means “mournful?”	LUGUBRIOUS
+B1: 	What derivative of the Latin word meaning “jealousy” means ” calculated to create ill will or 
+		resentment?”	INVIDIOUS
+B2: 	What derivative of the Latin word meaning “to pretend” means ” a representation or image?”	
+EFFIGY / SIMULACRUM
+
+SCORE CHECK
+6:
+TU:	Whose instructions on beekeeping included the story of the mythical beekeeper Aristaeus in book 4 of 
+		his Georgics?	
+		(P.) VERGIL(IUS MARO)’S
+B1:	The story of what couple is also told in Georgics book 4?	
+ORPHEUS AND EURYDICE
+B2:	What Greek writer does Vergil claim as the inspiration for his Georgics?	
+HESIOD
+
+7:
+TU:  	Who, according to Euripides, the son of Echion, hid in a tree on Mt. Cithaeron in an attempt to witness Bacchic rites?
+			PENTHEUS
+B1:  	What happened when the Maenads discovered Pentheus?	THEY KILLED HIM (RIPPED HIM APART)
+B2:  	Who brought Pentheus’ head down from the mountain to show the Thebans what she thought was the 
+		head of a beast she had slain?	AGAVE (prompt on Pentheus’ mother)
+
+
+8:
+TU:	What type of conditional sentence can be found in the following sentence:  nisi dīligentissimē 
+		studuissēs, respondēre nōn potuissēs?	PAST CONTRARY-TO-FACT
+B1:	Please translate the sentence in the toss-up into English.
+			UNLESS YOU HAD STUDIED / IF YOU HAD NOT STUDIED VERY DILIGENTLY, 
+			YOU WOULD NOT HAVE BEEN ABLETO RESPOND
+B2:	Please give, in Latin, the two changes necessary to make that conditional into a present contrary-to-fact 
+		condition.	STUDĒRĒS & POSSĒS
+
+9:
+TU:	Give the Latin word for “soft”.	MOLLIS 
+B1:	Give the Latin word for “pluck”	CARPŌ / VELLŌ
+B2:	Give the Latin word for “seem”. 	VIDEOR
+
+10:
+TU:	Which tribune, a supporter of Marius, was first elected in 103 BC, but suffered a violent death at the 
+		hands of a vengeful mob in 100 BC?	
+		SATURNINUS
+B1:	How exactly did Saturninus die?	
+CRUSHED WITH ROOF TILES (IN SENATE BUILDING)
+B2:	Which praetor of 100 BC had secured the electoral victory of Saturninus, and suffered condemnation 
+		along with Saturninus?	
+		GLAUCIA
+
+SCORE CHECK
+11:
+TU:	Please listen to the following passage about Publius Cornelius Scipio, which I shall read twice, then 
+		answer the question that follows in Latin:
+		Pūblius Cornēlis Scipiō, nōndum annōs pueritiae ēgressus patrem servāvit.  cum pater 
+		Scipiōnis, pūgnā apud Tīcīnum contrā Hannibalem commissā, graviter vulnerātus in hostium 
+		manūs iam ventūrus esset, Scipiō, interiectō corpore, Poenīs inruentibus sē opposuit et patrem 
+		perīculō līberāvit.  (repeat)
+	The question:  ubi pater Scipiōnis vulnerātus est?	APUD TĪCĪNUM
+B1:	quālis erat Scipiō ubi patrem servāvit?	
+			PUER / NŌNDUM ANNŌS PUERĪTIAE ĒGRESSUS (EST) / IUVENIS
+B2:	quō cōnsiliō Scipiō Poenīs inruentibus sē opposuit?	INTERIECTŌ CORPORE
+
+12:
+TU:	Complete the following analogy:  iungō : iūnctī essent :: offerō : _____.
+OBLĀTĪ ESSENT
+B1:	Change oblātī essent to the active.	
+OBTULISSENT
+B2:	Give the 2nd person plural, perfect active and passive subjunctive forms for the verb offerō.	
+OBTULERĪTIS, OBLĀTĪ (-AE, -A) SĪTIS
+
+
+
+1:
+TU: 	Complete the following analogy: dō : profīcīscor :: dētis : _______	
+PROFĪCĪSCĀMINĪ
+B1: 	… dētis : profīcīscāminī :: darētis : ______	
+PROFĪCĪSCERĒMINĪ
+B2: 	… darētis : profīcīscerēminī :: dederītis : ______	
+PROFECTĪ SĪTIS
+
+2:
+TU:	In Book 2 of the Aeneid, whom does Aeneas tell to follow behind him on the way out of Troy, causing 
+		her to get lost and die in the sack of Troy?	CREUSA
+B1:  	When Aeneas goes back to look for Creusa, how does he find out that she is dead?	
+			HER GHOST TELLS HIM
+B2:  	Who was Creusa’s father?	 PRIAM
+
+3:
+TU:	What city was finally starved into unconditional surrender by Scipio Aemilianus in 133 BC?
+			NUMANTIA
+B1:	The city of Numantia was a stronghold for what group of foreigners?	CELTIBERIANS
+B2:	What Roman commander had earlier signed a treaty with the Numantines after he saw his army of 
+		20,000 caught in an ambush by 4,000 Celtiberians?	(C. HOSTILIUS) MANCINUS
+
+4:
+TU:	What does the Latin idiom “auxiliō esse” mean?	TO BE OF HELP/ BE HELPFUL
+B1:	What does the Latin idiom “opus est” mean?	THERE IS NEED
+B2:	What does the Latin coordinate “nec…nec” mean?	NEITHER…NOR
+
+5:
+TU: 	Identify the author and the work which begins with the following lines: In nova fert animus mutātās dīcere formās corpora”.	OVID’S METAMORPHOSES
+B1: 	In which of Ovid’s works would the following lines be found:  Lūna regit mēnsēs: huius quoque 
+		tempora mēnsis / fīnit Aventīnō Lūna colenda iugō.	FASTĪ
+B2: 	In which of Ovid’s works would the following lines be found:  Parve—nec invideō—sine mē, liber, 
+		ībis in urbem: / ei mihi, quod dominō nōn licet īre tuō! 	TRĪSTIA
+
+SCORE CHECK
+6:
+TU: 		Give the Latin verb and its meaning at the root of the following words: sassafras, osprey, suffrage,
+			infringe, fraction.	FRANGŌ, TO BREAK
+B1: 	Give the other Latin root and its meaning for “osprey.” 		OS, BONE
+B2: 	What English word, also derived from frangō, means “a noisy disturbance or fight”? 	FRACAS
+
+7:
+TU: 	Translate the following English sentence into Latin: “I want to become a teacher of the Latin language.”	 
+			MAGISTER / GRAMMATICUS LINGUAE LATĪNAE FIERĪ VŌLŌ
+B1: 	Translate the following English sentence into Latin: “After many years, the boys became men.”
+			POST MULTŌS ANNŌS / MULTĪS POST ANNĪS, PUERĪ VIRĪ FACTĪ SUNT
+B2:	Translate the following English sentence into Latin: “I know that you will become a great soldier.”
+			SCIŌ TĒ MAGNUM MĪLITEM FACTUM ĪRĪ 
+
+
+8:
+TU: 	Whose Latin love elegy is littered with claims of being a slave of his mistress, that love is his life's 
+		occupation, and citations of figures and events from mythology as "romantic standards?"	
+			PROPERTIUS
+B1: 	What modern city claims for itself to be the birthplace of Propertius?	ASSISI
+B2: 	Propertius' lady love interest was known by what name in his written work?	CYNTHIA
+
+9:
+TU:	Which of the Five Good Emperors reorganized the cursus pūblicus by placing at its head an equestrian 
+		praefectus vehiculōrum, an act out of many that earned him the title of Optimus Prīnceps?	
+			TRAJAN
+B1:	What is the Latin term for the public distribution of money that Trajan made on three successive 
+		occasions?	CŌNGIĀRIA / CŌNGIĀRIUM /ALIMENTA
+B2:	
+	Trajan extended the Via Appia by building the Via Troiana, which ran from Capua to which city?
+	BRUNDISIUM
+
+10:
+TU: 	Listen to the following passage, which I shall read twice.  Then answer the question that follows in 
+		English:
+		ōlim pauper mūnus ignōtum humī repperit. diū mīrābātur quid inesset. pauper sibi dīxit, 
+		“opēs! dīvitiās! velim quidquid insit!” socius pauperī suādēre temptāvit ut mūnus aperīret.
+		dēmum, pauper sociō respondit, “nōn opus est aperiendō.  dōnec mūnus intēgrum sit, 
+		mūnus vērum semper erit spēs.” (repeat)
+	The question: What did the poor man find on the ground?	AN UNKNOWN GIFT
+B1: 	Name something that the poor man thought might be inside his gift.	WEALTH / RICHES
+B2: 	What did the poor man think the “real gift” was?	HOPE
+
+SCORE CHECK
+11:
+TU:  	Who intentionally disobeyed Creon’s decree not to bury Polyneices?	ANTIGONE
+B1:  	What son of Creon was Antigone’s betrothed?	HAEMON
+B2:  	Who was Haemon’s mother, who killed herself when she learned of Antigone’s and Haemon’s suicides?
+			EURYDICE
+	
+12:
+TU:	What two-word Latin legal phrase is used to refer to an argument derived from an earlier event?
+			Ā PRIŌRĪ
+B1:	What two-word Latin legal phrase is used to refer to a person, a document, or a statute that no longer has 
+		legal authority because its original legal purpose has already been fulfilled?	FŪNCTUS OFFICIŌ
+B2:	What two-word Latin legal phrase refers to the concept in contract law that specifies all parties involved 
+		must act with the utmost faith?	ŪBERRIMA FĪDĒS
+
+
+1:
+TU:  	Complete the following analogy:  scrībō : stilus :: vinciō: _____.	
+FUNIS / VINCULUM / CATĒNA / RESTIS
+B1:  	...:  flūmen : amnis :: stella : _____	
+SIDUS / ASTRUM
+B2:  	...:  mare : aequor :: fax:  _____	
+TAEDA
+
+2:
+TU: 	Who passed the law that allowed intermarriage between patricians and plebeians?	
+(C.) CANULEIUS
+B1&B2: 	For 5 points each, give the names of the two tribunes who passed landmark legislation in 367 BC 
+		hat mandated that at least one consul be plebeian 	
+		(C.) LICINIUS (STOLO) & (L.) SEXTIUS
+
+3:
+TU:	Which friend of Hector, born on the same day as he, advises him to call back the Trojans and regroup in 
+		Book 13 of Homer’s Iliad?	POLYDAMAS
+B1:	How does Hector respond to this advice?	HE IGNORES IT AND LEADS A CHARGE 
+			AGAINST THE GREEKS
+B2:	Which brother of Polydamas is the first to wound Patroclus with his spear eight books later? 
+			EUPHORBUS
+
+4:
+TU:	Please translate into English:  omnēs gladiātōrēs cupīditāte vincendī incitentur.
+			LET ALL THE GLADIATORS BE ENCOURAGED BY THE DESIRE FOR WINNING
+B1:	…:  multīs bestiīs interficiendīs, gladiātor notissimus omnium fiet.
+			BY KILLING MANY BEASTS, HE WILL BECOME THE MOST FAMOUS 
+			GLADIATOR OF ALL
+B2:	…:  volumus reperīre quam prīmum locum idōneum quiescendō.
+			WE WANT TO FIND A PLACE SUITABLE FOR RESTING AS SOON AS POSSIBLE
+5:
+TU:	What ally of Caesar and governor of Africa wrote historical monographs on Roman historical topics?
+			(C.) SALLUST(IUS CRISPUS)
+B1:	What was the topic of Sallust’s first monograph?	THE CATILINARIAN CONSPIRACY
+B2:	From what more traditional history of Sallust do we only have the speeches?	HISTORIAE
+
+SCORE CHECK
+6:
+TU:	Give the Latin and the English for the motto of Amherst College.
+			TERRĀS IRRĀDIENT – LET THEM ENLIGHTEN THE LANDS
+B1:	Give the Latin and the English for the motto of College of Holy Cross, the alma mater of the now 
+		famous Dr. Anthony Fauci.	IN HŌC SIGNŌ VINCĒS – IN THIS SIGN YOU SHALL CONQUER
+B2:	Give the Latin and the English for the motto of Tufts University.	PĀX ET LŪX – PEACE & LIGHT
+
+7:
+TU:	In the Aeneid, as the Rutulians attempt to burn them, which goddess saves the Trojan ships?	CYBELE
+B1:	Why does Cybele save the ships?	THE SHIPS ARE MADE OF HER SACRED TREES
+B2:	How does Cybele save the ships?	SHE TURNS THEM INTO SEA NYMPHS
+
+
+
+8:
+TU: 	Listen to the passage about Hercules, which I will read twice.  Then answer the question that follows IN 
+		LATIN.
+		Narrātur Herculem fuisse validissimum.  Dea Iūnō temptāvit Herculem interficere propter 
+		odium eius mātris. Ut interficeret puerum Herculem, Iūnō serpentibus ūsa est.  Dēnique 
+		serpentēs oppressī manibus Herculis interfectī sunt. (repeat)
+	The question:  Cūr Iūnō voluit Herculem interficere?   	PROPTER ODIUM EIUS MATRIS
+B1: 	Quomodo Iūnō puerum Herculem interficere temptāvit? 	SERPENTIBUS (USA EST)
+B2:	Quibus Hercules serpentēs interfēcit?   	MANIBUS 
+
+9:
+TU:	Which Roman author was vehemently against Greek influences on Rome, appreciating instead the 
+		simple virtues of the early Romans, and wrote in seven books the first Roman history in Latin prose?
+			(M. PORCIUS) CATO THE ELDER
+B1:	What was the Latin title of this seven book history?	 ORIGINES
+B2:	Where was Cato the Elder born?	 TUSCULUM
+
+10:
+TU:	Give the Latin verb root and its  meaning for the English word “fiction.”	FINGŌ - TO PRETEND
+B1: 	Give the Latin noun root and its meaning for the English word “disheveled.”	CAPILLUS - HAIR
+B2: 	Give the Latin verb root and its meaning for the English word “florescent” which means budding.	
+FLOREŌ - TO FLOURISH
+
+SCORE CHECK
+11:	
+TU:	Whom did Didius Julianus outbid for the imperial throne?	SULPICIANUS
+B1:	How much money did Didius Julianus promise to each praetorian guard that won him 
+		the auction?	25,000 SESTERCES
+B2:	How was Sulpicianus related to the predecessor of Didius Julianus?	FATHER-IN-LAW
+
+
+12:	
+TU:	What use of the ablative case can be found in the following sentence:  castigābiminī neglegentiā?
+			CAUSE
+B1:	…:  nunc sequitur genitās Pandiōne?	ORIGIN/SOURCE 
+B2:	…:  Antōnius rēgna addixit pecūniā?	PRICE
+
+
+
+
+
+1:
+TU:	novēnī and dēnī are both examples of what type of numerals in Latin?	DISTRIBUTIVES
+B1: 	Complete the following analogy THEN identify the group of numbers to which duplus belongs: 
+		duo : duplus :: octo : _______.	OCTUPLUS , PROPORTIONAL
+B2:	The numerals bīnārius and ternārius are known as what type of numerals?	PARTITIVES
+
+2:
+TU: 	Credited with writing the Dē cōnsulātū et dē Rēbus Gestīs Suīs and for introducing into Latin poetry 
+		epigrams of Greek type, what man of wide culture was better known for being the consular 
+		colleague of Gaius Marius in 102 BC?	
+		(Q.) LUTATIUS CATULUS
+B1: 	Among the poets who shared the same literary interests as Lutatius Catulus, which wrote a translation in hexameters of the Iliad and also created a new literary genre new to the Latins, known as miniambs?
+MATIUS
+B2: 	Who was the author of Dē poētīs, a fragment of which, in iambic senarii, provides the rankings of Latin 
+		comic writers?	
+		VOLCACIUS SEDIGITUS
+
+3:
+TU:	Which Roman emperor, whose 15 year reign was the longest since Septimius Severus, reformed the
+	Roman army by adding strengthening cavalry units to make the army more mobile during his rule
+	from 253 AD - 268 AD?	
+	GALLIENUS
+B1:	What was the name for the heavily armored Roman cavalry deployed to counter the heavily armored
+		Parthian cavalry on the Eastern front?	
+		CATAPHRACTARII
+B2:	In addition to reforming the Roman cavalry, Gallienus also excluded which group from all high army 
+		commands and replaced them with equestrian prefects?	
+		SENATORS
+
+4:
+TU:	What Rhodian demons were said to be able to cause weather phenomena and invented the art of making 
+		statues of gods?	TELCHINES
+B1: 	According to some accounts, what infant did Rhea place in the care of the Telchines to protect him from 
+		his father’s cannibalism? 	POSEIDON
+B2: 	According to Ovid, Jupiter killed the Telchines because of the trouble they were causing with their gift 
+		of the evil eye. How did he succeed in doing so?	 DROWNED THEM IN THE GREAT FLOOD
+
+5:
+TU:  	Quid Anglicē significat:  culmen?	ROOF / TOP / PILLAR / COLUMN / HEIGHT
+B1:	Quid Anglicē significat:  amārus?	BITTER
+B2:  	Quid Anglicē significat:  roscidus?	DEWEY
+
+SCORE CHECK
+6:
+TU:	Which dictator during the First Punic War became the first to lead Roman troops out of the Italian 
+		mainland?	(A. ATILIUS) CALATINUS
+B1:	After which Roman naval defeat was Calatinus made dictator?	DREPANA
+B2:	On what island did Calatinus command Roman troops?	SICILY
+
+
+7:
+TU:	What first century historian and biographer was the author of a ten-book history on the life 
+		of Alexander the Great?	(Q.) CURTIUS RUFUS
+B1:	The conquests of Alexander the Great were recounted in Book 7 of which Sicilian 
+		historian’s Bibliothēca Historica?	DIODORUS SICULUS
+B2:	What Greek historian and biographer from Chaeronea devoted a large portion of his 
+		Parallel Lives on the personal aspirations of Alexander the Great?	PLUTARCH
+
+8:
+TU:	Identify the use of the verb meaning “to raise” in the following sentence:
+			HISTORICAL INFINITIVE - MANY RAISED / WERE RAISING (THEIR) HANDS TO THE 
+			GODS
+B1:	Identify the use of the verb meaning “to see” in the following quotation from Cicero:  hoc nōn vidēre, 
+		cuius generis onus nāvis vehat, id ad gubernātōris artem nihil pertinēre.	
+			INFINITIVE OF EXCLAMATION
+B2:	Identify the use of the verb meaning “to see” in the following quotation from Terence and translate the 
+		quotation into English:  fīlius intrō iit vidēre quid agat.
+			INFINITIVE OF PURPOSE
+
+9:
+TU: 	Whom did Juturna disguise herself as in order to call the Rutulians to war and prevent her brother’s duel 
+		with Aeneas?	CAMERS
+B1: 	Who was the first Rutulian to take up the call of the disguised Juturna and throw a spear at the Trojans?
+			TOLUMNIUS
+B2: 	What other disguise did Juturna adopt during the battle?	METISCUS
+
+10:
+TU:	Where should a medication be applied if it is labeled with the abbreviation o.u.?	BOTH EYES
+B1:	Give the medical Latin phrase that is abbreviated u.d., which means “as directed”.	UT DICTUM
+B2:	How often should a medication be taken if it is labeled with the abbreviation q.o.d.?	
+			EVERY OTHER DAY / ALTERNATE DAYS
+
+SCORE CHECK
+11:
+TU: 	What Latin term refers to the period of time a Roman woman needed to spend away from her husband 
+		every year in order to remain in the manus of her pater familias?		TRINOCTIUM
+B1: 	What Latin phrase would have been used to announce a divorce?
+TUĀS RĒS TIBI HABĒTŌ
+B2:	What else could announce a Roman divorce?	ASKING FOR THE RETURN OF THE HOUSE KEYS
+
+
+12:
+TU:	Who, the half brother of Hector, was also his final charioteer and was killed by Patroclus in Book 16 of 
+		the Iliad?	CEBRIONES
+B1:      Who was Hector’s first charioteer, boldly taking Diomedes’ deadly spear throw for Hector in Book 8?
+			ENIOPEUS
+B2:	After Eniopeus’ untimely death, which brave son of Iphitus volunteered to drive Hector’s chariot, until 
+		his own death only a few hundred lines later in Book 8?	ARCHEPTOLEMUS
+
+13:
+TU: 	Plautus’ “quī sēsē excrūciārī meam vicem possit patī” and Livy’s “līberōrum capitum virīle secus 
+		ad decem mīlia capta” both contain what use of the accusative case?	ADVERBIAL
+B1: 	Give the case and usage common in Catullus’ “ō beātī mihi nūntiī” and Plautus’ “ō mercis malae” .
+			GENITIVE OF EXCLAMATION 
+B2: 	Cicero’s “virtūtēs continentiae, gravitātis iūstitiae, fideī” is an example of what special use of the 
+		genitive that is used in imitation of Greek, sometimes called “appositional genitive” or “genitive of 
+		explanation”?	EPEXEGETICAL GENITIVE
+
+14:
+TU:	In what speech did Cicero beg for clemency from Caesar for one of the consuls who had demanded 
+		Caesar return from Gaul to stand trial in 49 BC?	
+		PRŌ MARCELLŌ
+B1:	What speech did Cicero deliver as consul in 63 BC against a land law?
+			CONTRA RŪLLUM / DĒ LĒGE AGRĀRIA
+B2:	What was the name of the speech Cicero gave in order to win the privilege of prosecuting Verres?
+			DĪVINĀTIŌ IN CAECILIUM
+
+15:
+TU:	Listen to the following sentences, which I shall read twice, and answer the question about it in Latin:
+		Ubique circum nōs invidia metusque sunt, socī. Minandō familiās et vītās nostrās,  
+		imperātor nōs omnēs similis tyrannō in scelestā manū tenet. (repeat)
+	The question:  Quō cōnsiliō imperātor omnēs tenet?          	MINANDŌ FAMILIĀS ET VĪTĀS
+B1:  	The passage continues:
+		Sī quis insidiās ad imperātōrem occīdendum agat, tōta cīvitās gaudeat. Nōbīs cum cōnsulēs 
+		sumus occāsiō carpenda est. Hāc nocte iste sōlus cēnābit et mē invitāvit.  
+	The question:  Quis gaudeat sī sint insidiae imperātōris occīdendī causā?	TŌTA CĪVITĀS
+B2: 	Quae erit occasiō imperātōrem occīdendī?          	UBI IMPERĀTOR SŌLUS CĒNĀBIT
+
+
+SCORE CHECK
+16:
+TU:	Where did Lucius Cornelius Scipio, the consul of 259 BC, lead a successful expedition against Punic 
+		forces when he captured the city of Aleria on this island? 	CORSICA
+B1:	What Punic fortress on Sardinia did Lucius Cornelius Scipio fail to take?	OLBIA
+B2:	What successor of Lucius Cornelius Scipio defeated the Carthaginian fleet of Sulci and won Rome’s 
+		second naval victory?	(C.) SULPICIUS (PATERCULUS)
+
+
+17:
+TU:	Which son of Oenops was the first suitor to try stringing Odysseus’ bow?	LEODES
+B1:	Who had given Odysseus that bow?	IPHITUS
+B2:	Who slyly suggested to put off the bow contest until the next day since he could not string it? 	
+			ANTINOUS
+
+18:
+TU:	Say in Latin using the future imperative:  She shall not go to the countryside tomorrow so that she may 
+		study more diligently.	NĒ RŪS CRĀS ĪTŌ QUŌ / UT EŌ DĪLIGENTIUS STUDEAT
+B1:	Say in Latin:  She said that, if nobody should follow, he would still go to Rome.
+			DĪXIT / DĪCĒBAT SĒ, SĪ NĒMŌ SEQUĀTUR, RŌMAM ITŪRAM ESSE
+B2:	Say in Latin:  He said that, if the soldiers had not arrived, he would have been killed.
+			DĪXIT SĒ, NISI MĪLITĒS PERVĒNISSENT / ADVĒNISSENT, FUTŪRUM FUISSE UT 
+			NECĀRĒTUR / INTERFICERĒTUR / CAEDERĒTUR
+
+19:
+TU:	What Christian author’s professional experience as a lawyer in Carthage mixed with his combative style led to his notable career as the first major Latin Christian apologist and gave him such nicknames as a “barbarizing Tacitus” and a “Christian Juvenal”?	TERTULLIAN
+B1:	As an apologist, Tertullian wrote many works defending Christians. Name the work which addressed the governor of Africa Proconsularis who was conducting a large campaign against the Christians.
+	AD SCAPULAM
+B2:	Name 2 of the 3 compositions that were written by Tertullian in 197 AD to defend Christianity from the attacks of the pagans?	AD NĀTIŌNĒS, APOLOGĒTICUM / APOLOGĒTICUS, 
+			DĒ TESTIMŌNIŌ ANIMAE
+
+SCORE CHECK
+
+20:
+TU: 		What derivative of the verb meditor is an adjective that means “planned in advance”? 	
+				PREMEDITATED
+B1: 		What English adjective, meaning “lacking desire or willingness” is derived from clīnātus, a perfect 
+			participle meaning “bent”?	DISINCLINED 
+B2: 	What derivative of the Latin word meaning “to sow” is an adjective that means “happening at regular 
+		intervals”?	SEASONAL
+
+
+TU:	Complete this analogy:  respiciō : respectī essēmus :: fallō : _____.	FALSĪ ESSĒMUS
+B1:	Change falsī essēmus to the active.	FEFELLISSĒMUS
+B2:	Change fefellissēmus to the perfect tense.	FEFELLERĪMUS
+
+TU:	Please translate into English:  timeō nē mīlitēs vincere nōn possint.
+			I AM AFRAID / I FEAR THAT THE SOLDIERS CAN’T / ARE NOT ABLE TO WIN
+B1:	...:  timēbāsne nē mīlitēs imperātōrem interfēcissent.
+			WERE YOU AFRAID THAT THE SOLDIERS HAD KILLED THE EMPEROR
+B2:	...:  magister metuit ut bene doceat.	THE TEACHER FEARS THAT HE IS NOT TEACHING WELL
+
+
+
+TU: What derivative of the Latin word meaning “to deserve” means “deserving praise?”
+	MERITORIOUS
+B1: What derivative of the Latin word meaning “to set up” means “to establish?”
+	INSTITUTE
+B2: What derivative of the Latin word meaning “fire” means “used for setting property on fire?”
+	INCENDIARY
+
+TU: Give the Latin root and its meaning for the English word “approbate.”
+	“PROBO,” MEANING “TO PROVE”
+B1: Give the Latin root and its meaning for the English word “society.”
+	“SOCIUS,” MEANING “COMPANION”
+B2: Give the Latin root and its meaning for the English word “assuage.”
+	“SUADEO,” MEANING “TO ADVISE” ; SUAVIS – SWEET 
+
+TU:	Give an antonym for nusquam	
+USQUAM / UBIQUE
+B1:	Give an antonym for foedus	
+PULCHER / AMOENUS
+B2:	Give an antonym for ūmidus	
+SICCUS
+
+TU:	quid Anglice significat quisquis	
+WHOEVER
+B1:	quid Anglice significat interim	
+MEANWHILE
+B2:	quid Anglice significat nēquīquam	
+IN VAIN
+
+MYTHOLOGY
+TU:  	What descendant of Aeneas appears to him in the underworld as a young child?	
+  MARCELLUS
+B1:  	Why does Marcellus appear as a child?	
+  HE DIED YOUNG
+B2:  	Who tells Aeneas about the fate of Marcellus?	
+  ANCHISES
+
+TU:  	Who ambushes and kills Neoptolemus at Delphi?	
+  ORESTES
+B1:  	Orestes treacherously killed Neoptolemus over what woman who had been promised to both of them?
+			
+  HERMIONE
+B2:  	Who was Hermione’s father who promised her first to Orestes and then to Neoptolemus?	
+  MENELAÜS
+
+
+Who, supposedly encouraged by the empress Faustina Minor, made a claim to the throne while governor of Syria following his successes in L. Verus' war against Parthia? C. Avidius Cassius 
+B1: What capital of the Parthian Empire had Cassius captured in 164 AD? Ctesiphon
+B2: Besides plunder, what else did Roman soldiers returning from the Parthian campaign bring with them? plague (smallpox) 
+
+Which of the Five Good Emperors was nicknamed Graeculus and brought wearing a beard back into fashion? Hadrian
+B1: Who led Judaea into rebellion in 132 AD? Simon Bar Kokhba
+B2: What Bithynian youth and favorite of Hadrian had a city founded near the spot he drowned in the Nile? Antinous
+
+TU:	Which pretender to the throne of Pergamon faced the Romans in 133 BC, killing the consul P. Licinius Crassus?		ARISTONICUS
+B1:	By what title did Aristonicus style himself?	EUMENES III
+B2:	Which able Roman commander was dispatched to quell the insurrection?	MARCUS PERPERNA
+
+TU:	The Romans suffered a preemptive defeat against the Germans in 112 BC at what site, several years before another engagement would be fought against the Cimbri and Teutones?	NOREIA
+B1:	In which quiet Danube province, which is roughly analogous to modern Austria, was this particular battle fought?	NORICUM
+B2:	What was the name of the Roman consul who suffered this defeat?	CARBO
+
+LE
+TU:	Which style of atrium, with a name similar to that of a military formation, was characterized by having 
+		no opening through which water could flow?	TESTIDUINATUM
+B1:	Which style of atrium was characterized by having a sloped surface down which water could flow?
+			DISPLUVATIUM
+B2:	What was the term for this opening in the roof?	COMPLUVIUM
+
+TU:  	Which class of people wore the mulleus?	PATRICIANS/SENATORES
+B1:  	Who wore the caligae?	SOLDIERS
+B2:  	Which shoes were worn only in the house?	SOLEAE
+
+LITERATURE
+What Roman elegiac poet owned an estate at Pedum and died shortly after Vergil in 19 B.C.?
+TIBULLUS
+Who patroned Tibullus along with his friend Ovid? MESSALLA CORVINUS
+Tibullus wrote love elegies to Delia. What was her real name? PLANIA
+
+TU: In which book of the Aeneid appears a description of a set of armor forged by Vulcan and given to Aeneas by Venus?			BOOK 8
+B1: In what book of the Aeneid is Mezentius slain?	BOOK 11
+B2: What is the name of the Volscian warrior, who is slain in Book 12?									CAMILLA

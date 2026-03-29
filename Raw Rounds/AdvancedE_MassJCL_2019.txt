@@ -1,0 +1,505 @@
+1:
+TU:	Please complete the following analogy:  amō : amāverim :: sequor : _____	
+SECŪTUS SIM
+B1:	Change secūtus sim to the present tense.	
+SEQUAR
+B2:	Change sequar to the imperfect tense.	
+SEQUERER
+
+2:
+TU:	In the Iliad, during the duel of which two men did Aphrodite interfere?	MENELAUS AND PARIS
+B1:	How did Aphrodite save Paris?
+			SHE SNAPPED THE CHINSTRAP OF PARIS’ HELMET, FREEING HIM
+			 FROM MENELAUS’ GRIP
+B2:	Which woman curses out Aphrodite for her interference?	HELEN
+
+3:
+TU:	Quid Anglicē significat:  senectūs?	OLD AGE, EXTREME AGE, SENILITY
+B1:	Quid Anglicē significat:  tēlum?	(OFFENSIVE) WEAPON, MISSILE
+B2:	Quid Anglicē significat:  cumba?	BOAT
+
+4:
+TU:	Using an accusative gerundive, say in Latin:  The girls were hurrying to watch the actors.
+			PUELLAE FESTĪNĀBANT / CONTENDĒBANT / PROPERĀBANT 
+			AD ĀCTŌRĒS SPECTĀNDŌS
+B1:	Now, translate the expression of purpose from that sentence using a genitive gerundive.	
+			ĀCTŌRUM SPECTANDŌRUM GRĀTIĀ / CAUSĀ
+B2:	Now, translate the same expression of purpose using a genitive gerund.
+			ĀCTŌRĒS SPECTANDĪ GRĀTIĀ / CAUSĀ
+
+5:
+TU:	Which Roman author was born at Patavium and completed a 142 book history of Rome?	LIVY
+B1:	What was the name of this work?	AB URBE CONDITĀ
+B2:	What event ends the Ab Urbe Conditā?	THE DEATH OF DRUSUS
+
+6:
+TU:	Whom did Vespasian appoint as governor of Britannia in 71 AD to deal with the rebellion of the 
+		Brigantes?	(PETILLIUS) CEREALIS
+B1:	Which legate of the 20th Legion Valeria Victrix assisted Cerealis in defeating Venutius, the divorced 
+		husband of Cartimandua, a client queen of the Romans?	(CN. IULIUS) AGRICOLA
+B2:	Which chieftain of the Catuvellauni tribe had Cartimandua betrayed and handed over to the Roman 
+		govern Ostorius Scapula? 	CARATACUS
+
+7:
+TU:	Please listen to the following sentences, which I shall read twice, and answer the question that follows in 
+		Latin:
+		mōnstrō victō, vir quīdam fīlō viam, quā vēnerat, celeriter repetīvit.  deinde puellam 
+		pulcherrimam, metū trementem, conspēxit.  vir cum puellā et comitibus ad īnsulam 
+		nāvigāvērunt hostium vītandōrum causā.  (repeat)
+	The question:  quō modō vir viam repetīvit?	CELERITER
+B1:	quandō vir viam repetīvit?	MŌNSTRŌ VICTŌ / POSTQUAM MŌNSTRUM VĪCIT
+B2:	quō cōnsiliō omnēs ad īnsulam nāvigāvērunt?	HOSTIUM VĪTANDŌRUM CAUSĀ
+
+8:
+TU:	Who, born in Gallia Cisalpina, wrote Dē Virīs Illustribus?	CORNELIUS NEPOS
+B1:	To whom was the work dedicated?	ATTICUS
+B2:	Which work of Cornelius Nepos was a 3-book universal history?	CHRONICA
+
+9:
+TU:	In the Odyssey, what piece of furniture was Penelope talking about when Odysseus got angry at her?	
+			MARRIAGE BED
+B1:	What makes moving their marriage bed so difficult?	
+			ONE OF THE BEDPOSTS IS A TREE TRUNK / IT WAS BUILT OUT OF A TREE TRUNK
+B2:	Who made Odysseus and Penelope’s marriage bed?	ODYSSEUS
+
+10:
+TU:	What is the meaning of the idiom vītam agere?	TO LIVE A LIFE
+B1:	What is the meaning of the idiom proelium committere?	TO BEGIN OR JOIN BATTLE
+B2:	What is the meaning of the idiom sē recipere?	TO RETREAT
+
+11:
+TU:	Where did the Romans win a naval victory in 255 BC?	
+CAPE HERMAEUM
+B1:	The Roman fleet that defeated the Carthaginians at Cape Hermaeum had been sent to rescue the Roman 
+		forces who were holed up in what garrison? 	
+		ASPIS
+B2:	What happened to the victorious Roman fleet shortly after the victory at Cape Hermaeum as they 
+		approached Sicily?	
+		RAN INTO A STORM THAT WRECKED MANY OF THE SHIPS
+
+12:
+TU: 	Identify the type of conditional in the following sentence: 
+		sī mittar, nūntius sim.	 FUTURE LESS VIVID 
+B1: 	Identify the type of conditional in the following sentence AND translate the sentence into English:	
+		sī volāre possēs, avis essēs 
+			PRESENT CONTRARY TO FACT – IF YOU COULD / WERE ABLE TO FLY, 
+			YOU WOULD BE A BIRD
+B2:	Identify the type of conditional in the following sentence AND translate the sentence into English: 
+ 		sī dīligenter studueris, vincēs.
+			FUTURE MORE VIVID – IF YOU STUDY HARD / DILIGENTLY, YOU WILL WIN
+
+1:
+TU:	What is the meaning of the Latin noun from which we derive “chivalry”?	HORSE
+B1:	What is the meaning of the Latin verb from which we derive “windmill”?	TO GRIND
+B2:	What is the meaning of the Latin verb from which we derive “camouflage”?	TO BE WARM, GLOW
+		
+2:
+TU:	Which author, meeting his end in AD 79, created a 37 book encyclopedic work that sought to cover all 	
+		of the natural world?	PLINY THE ELDER
+B1:	Where was Pliny stationed as the Roman fleet commander when Vesuvius erupted?	MISENUM
+B2:	From which author do we have the account of Pliny the Elder’s final hours?	PLINY THE YOUNGER
+
+3:
+TU:	What personification of darkness was born from Chaos and was the husband of Nyx?	EREBUS
+B1:	Name a child of Erebus and Nyx.
+			AETHER, HEMERA, HESPERIDES, HYPNOS, MOIRAI, STYX, CHARON, THANATOS
+B2:	Name all the other children of Chaos excluding Erebus & Nyx.	TARTARUS, EROS, GAIA
+
+4:
+TU:	Translate into English:  timēbāsne ut rēx interfectus esset.
+			WERE YOU AFRAID THAT THE KING HAD NOT BEEN KILLED?
+B1:	Translate into Latin using a deponent verb: Are you afraid that the master is going to punish you?”
+			VERĒRIS(NE) NĒ DOMINUS TĒ/VŌS PŪNITŪRUS SIT?
+B2:	Translate into Latin using an idiom:  They fear that the emperor has been informed.
+			VERENTUR / TIMENT / METUUNT NĒ IMPERĀTOR CERTIOR FACTUS SIT 
+
+5:
+TU:	What Praetorian Prefect of Nero convinced the emperor to sentence many of his trusted advisors to 
+		death including Seneca, and C. Petronius?	TIGELLINUS
+B1:	What was the death sentence that these advisors received? (How were they supposed to be killed)	
+			FORCED TO COMMIT SUICIDE
+B2:	To whom did Tigellinus shift his allegiance once Nero’s downfall was imminent?	GALBA
+
+6:
+TU:	What use of the independent subjunctive is in the following:  etiamne eam salūtem?	DELIBERATIVE
+B1:	Say in Latin using a deliberative subjunctive:  What am I to say?	QUID DĪCAM / LOQUAR
+B2:	…:  What were we to do?	QUID FACERĒMUS / AGERĒMUS
+
+7:
+TU:	At whose funeral games did Epeius win the boxing match in Book 23 of the Iliad?	PATROCLUS
+B1:	Who won the foot race at these games?	ODYSSEUS
+B2:	Who won the archery contest at these games?	MERIONES
+
+
+8:
+TU:	Which Roman poet told his friends Furius and Aurelius to deliver nōn bona dicta to his girl Lesbia?
+			(C. VALERIUS) CATULLUS
+B1:	Give the name of the Roman lady with whom Lesbia is identified.	CLODIA (METELLI)
+B2:	In which book of his Apologia does the author Apuelius identify Lesbia with Clodia?	BOOK 10
+
+9:
+TU:	Differentiate in meaning between flūmen and fulmen.
+			FLŪMEN – RIVER // FULMEN - THUNDERBOLT
+B1:	Differentiate in meaning between mēnsis and mēnsor.	
+			MĒNSIS – MONTH // MĒNSOR – MEASURER, SURVEYOR, ARCHITECT
+B2:	Differentiate in meaning between tūs and sūs.	TŪS – INCENSE / SŪS – PIG
+
+10:
+TU:	What city on Sicily was the site of the first pitched battle of the First Punic War and the first large-scale 
+		military confrontation between Carthage and Rome?	AGRIGENTUM
+B1:	Where did Gaius Duilius win Rome’s first naval victory of this war in 260 B.C.?	MYLAE
+B2:	What grappling-device helped the Romans turn later naval battles into pitched land battles?	CORVUS
+
+11:
+TU:	What use of the dative case is in the following sentence:  mihi dēlīberātum et cōnstitūtum est?
+			AGENT
+B1:	…:  laudāvit mihi frātrem?	REFERENCE
+B2:	…:  at tibi repente venit mihi Canīnius?	ETHICAL / REFERENCE
+
+12:
+TU:	Listen to the following passage, which I shall read twice, and answer the question that follows in Latin:
+		ōlim erant trēs adulescentēs, quī vēnērunt omnēs Rōmam hostēs superātum.  hostēs 
+		plēnī fortitūdinis et ingeniī erant.  adulescentēs, tamen, quibus quoque erant ingenium et
+		fortitūdō, nōn timēbant.  (repeat).
+	The question:  quō cōnsiliō adulescentēs Rōmam vēnērunt?	(OMNĒS) HOSTĒS SUPERĀTUM
+B1:	quālēs erant hostēs?	(ERANT) PLĒNĪ FORTITŪDINIS ET INGENIĪ /
+			FORTĒS ET INGENIŌSĪ
+B2:	cūr adulescentēs nōn timēbant?	EĪS QUOQUE INGENIUM ET FORTITŪDŌ / 		ERANT FORTĒS ET INGENIŌSĪ QUOQUE
+
+
+1:
+TU:  	Please listen to the following letter from Cicero to Marcellus, which I shall read twice, and answer the 
+		question that follows in English:
+		tē et pietātis in tuōs et animī in rem pūblicam et clārissimī atque optimī cōnsulātūs frūctum 
+		cēpisse vehementer gaudeō.  nōn dubitō quid praesentēs sentiant; nōs quidem longinquī et ā 
+		tē ipsō missī in ultimās gentēs ad caelum tē tollimus vērissimīs laudibus.  (repeat)
+	The question: Name one of the reasons for which Marcellus has received an award.
+			(HIS) DUTIFULNESS/DEVOTION TO HIS FAMILY / PATRIOTISM / EXCELLENT
+			CONSULSHIP
+B1:	About what does Cicero have no doubt?	HOW PEOPLE FEEL ABOUT MARCELLUS
+B2:	What are people from faraway places doing with respect to Marcellus?	PRAISING HIM
+		
+2:
+TU:	Which Roman author, born in Brundisium in 220 BC, was the nephew of Ennius?	(M.) PACUVIUS
+B1:	Which work of Pacuvius is a specific episode from the Odyssey where Eurycleia washes Ulysses’ feet?
+			NIPTRA
+B2:	Which work of Pacuvius is a fābula praetexta that celebrates the victor of Pydna in 168 BC?
+			PAULLUS
+
+3:
+TU:	Quid Anglicē significat:  vagor?	TO WANDER
+B1:	Quid Anglicē significat:  phōca?	SEAL
+B2:	Quid Anglicē significat:  erus?	MASTER
+
+4:
+TU:	In Book 8 of the Iliad, which two goddesses attempted to arm for battle but were stopped by Zeus’ 
+		command?	HERA AND ATHENA
+B1:	Whom had Zeus sent to tell the goddesses to stop arming themselves?	IRIS
+B2:	According to Zeus, what needs to happen for Hector to retreat from the battlefield?
+			THE APPEARANCE OF ACHILLES (ON THE BATTLEFIELD)
+
+5:
+TU: 	Which Julio-Claudian emperor survived several assassination attempts, including most notably the 
+		conspiracy of Calpurnius Piso?	NERO
+B1:	Between which two hills was Nero’s Domus Aurea located?	PALATINE & ESQUILINE
+B2:	During Nero’s concert tour of Greece in 66 AD, an alleged plot was discovered at Beneventum.  Which 
+		general was implicated in this plot and forced to commit suicide?	(DOMITIUS) CORBULO
+
+6:
+TU:	Which of the following, if any, is NOT derived from the same Latin root as the others:
+		carrion, cartilage, carnage, incarnate, carnation?	CARTILAGE
+B1:	What Latin noun, with what meaning, is the root of the other words in the toss-up?	
+			CARŌ – FLESH, MEAT
+B2:	What Latin noun, with what meaning, is the root of “cartilage”?
+			CARTILĀGŌ – CARTILAGE, GRISTLE
+	
+7:
+TU:	Which son of Hermes and Herse was loved by Eos and accidentally killed his wife Procris?	CEPHALUS
+B1:	What two items had Procris given to Cephalus?	LAELAPS & A JAVELIN/SPEAR THAT NEVER
+			MISSED ITS MARK
+B2:	From whom had Procris received these objects?	ARTEMIS
+
+8: 
+TU:	At what battle did Rome finally defeat Antiochus the Great in 190 BC?	
+MAGNESIA
+B1:	Where was the peace treaty with Antiochus the Great signed in 188 BC?	
+APAMEA
+B2:	What king of Asia Minor benefited the most from the Treaty of Apamea?	
+PERGAMUM
+
+9:
+TU:	Change the phrase altera pulchra dea to the genitive.	ALTERĪUS PULCHRAE DEAE
+B1:	Change alterīus pulchrae deae to the dative.	ALTERĪ PULCHRAE DEAE
+B2:	Change alterī pulchrae deae to the plural.	ALTERĪS PULCHRĪS DEĀBUS
+
+10:
+TU:	“He saw lots of thunder and lightning” is an example of what figure of speech?	ZEUGMA
+B1:	When Lord Byron wrote in his Don Juan “Pleasure’s a sin, and sometimes sin’s a pleasure”, what figure 
+		of speech was he using?	CHIASMUS
+B2:	Other than alliteration, what rhetorical device is in “nōn haec sine nūmine dīvum ēveniunt”?
+LITOTES
+		
+11:
+TU:	Identify the use of the accusative case in the following sentence:  mendīcus virum dīvitem pecūniam 
+		rogāvit.	DOUBLE ACCUSATIVE / ACCUSATIVE WITH SECONDARY OBJECT
+B1:	Translate that sentence into English.	THE BEGGAR ASKED THE RICH MAN FOR MONEY
+B2:	Identify the use of the accusative case in this fragment from the Twelve Tables:  sī servōs fūrtum faxit 
+		noxiamve noxit.	COGNATE / KINDRED SPECIFICATION
+
+12:
+TU:	For the verb audiō, give the third person plural, future active imperative.	AUDIUNTŌ
+B1:	Change audiuntō to the second person.	AUDĪTŌTE
+B2:	Translate the form audītōte into English.	Y’ALL / THOU SHALL LISTEN
+
+
+
+
+1:
+TU:	What use of the subjunctive is in the following sentence:  accidit ut mē vidēret?
+			SUBSTANTIVE CLAUSE OF RESULT
+B1:	What use of the subjunctive is in the following sentence:  rogat ut moveāmus?	
+			INDIRECT COMMAND / SUBSTANTIVE CLAUSE OF PURPOSE
+B2:	Say in Latin:  He ran faster in order to catch the thieves more easily.
+			CELERIUS CUCURRIT QUŌ / UT EŌ FŪRĒS FACILIUS CAPERET
+		
+2:
+TU:	Titus Vinius served as the military adviser to which of the emperors of 69 AD?	
+GALBA
+B1:	On April 2, 68 AD, in what city did Galba declare himself the personal representative of the senate and 
+		the Roman people?	
+		CARTHĀGŌ NOVA
+B2:	Whom did Galba appoint as prefect of the praetorian guards?	
+(CORNELIUS) LACO
+
+3:
+TU:	Translate the following sentence into Latin using a supine:  The senators went to the palace to hear the 
+		king.
+			SENĀTŌRĒS AD AULAM ĪVĒRUNT / ĪĒRUNT AUDĪTUM RĒGEM
+B1:	Translate into Latin:  She is the type of girl who prefers to sing.
+			(EA) EST PUELLA QUAE CANTĀRE MĀLIT
+B2:	Translate into Latin:  The slave-girls are being sent to the forum to buy more food.
+			ANCILLAE AD FORUM MITTUNTUR QUAE PLŪS CIBI EMANT
+
+4:
+TU:	What Italian god was originally a prince of Athens named Hippolytus?	VIRBIUS
+B1:	To what water nymph did Virbius relate the story of his death?	EGERIA
+B2:	Who revived Hippolytus as Virbius?	AESCULAPIUS
+
+5:
+TU:	By increasing the element of cantica to about two-thirds of each play, which Roman writer of comedies 
+		from Sarsina was able to transform his plays into musical comedies?	(T. MACCIUS) PLAUTUS
+B1:	In which of Plautus’ comedies do the characters Plesidippus and Palaestra find happiness in the end after 
+		the star Arcturus spoke the prologue and created a storm that wrecked the ship on which Palaestra 
+		was carried?	RUDĒNS
+B2:	In which Plautine comedy does Cleostrata, the wife of Lysidamas, dress up her slave Chalinus as a bride 
+		in order to deceive her husband?	CASINA
+
+SCORE  CHECK
+6:
+TU:	What European city has the Latin motto estō perpetua?	VENICE
+B1:	What European city has the Latin motto fluctuat nec mergitur?	PARIS
+B2:	What European city has the Latin motto līlia sōla rēgunt lūnam undās castra leōnem?	BORDEAUX
+7:
+TU:	In Book 5 of the Aeneid, which goddess is sent down to cause mischief among the Trojan women?	IRIS
+B1:	Whose guise does Iris assume to speak to the Trojan women?	BEROE
+B2:	Who does Iris tell the Trojan women came to her in a dream, saying to burn the ships?	
+			(THE GHOST OF) CASSANDRA
+
+8:
+TU:	The sentences ō sī angullus ille accēdat and falsus utinam vātēs sim all contain what use of the 
+		independent subjunctive?	OPTATIVE
+B1:	What use of the independent subjunctive can be found in forsitan temerē fēcerim?	POTENTIAL
+B2:	What use of the independent subjunctive can be found in fuerit aliīs, tibi quandō esse coepit?
+			CONCESSIVE / HORTATORY / JUSSIVE
+
+9:
+TU:  	What Sabine chieftain, in 460 BC, burst through the pomerium with a band of slaves and seized the 
+		Capitoline in hopes of providing debt relief to the common people?	APPIUS HERDONIUS
+B1: 	The uprising of Herdonius was suppressed when Rome received reinforcements from what neighboring 
+		city?	TUSCULUM
+B2: 	What tribune of 462 BC had made a strong push for the standard codification of Roman law – a proposal 
+		which was strongly considered after the rebellion of Herdonius?	TERENTILIUS HARSA
+
+10:
+TU:	Who dedicated to the emperor Vespasian his epic poem about the quest for the golden fleece?
+				(VALERIUS) FLACCUS
+B1:	Name the poet who wrote an epic entitled Thebaid about the feud between the sons of Oedipus.	
+				(P. PAPINIUS) STATIUS
+B2:	What was the Latin title of Statius’ collection of five books of verses in various meters?	SILVAE
+
+SCORE  CHECK
+
+11:
+TU:	Who would have won the footrace at the funeral games of Anchises if he hadn’t been tripped?	SALIUS
+B1:	Who would have won the archery contest if Acestes’ arrow hadn’t caught fire?	EURYTION
+B2:	Who would have won the boat race if he hadn’t crashed his ship on the rock that marked the turning 
+		point?	SERGESTUS
+
+
+12:
+TU:	Please listen to the following passage that compares Caesar and Cato, which I shall read twice, and 
+		answer the question that follows in English:
+		Caesar beneficiīs ac mūnificentiā magnus habēbātur, integritāte vītae Catō.  ille mānsuētūdine 
+		et misericordiā clārus factus, huic sevēritās dignitātem addiderat.  Caesar dandō, sublevandō, 
+		ignōscendō, Catō nihil largiendō, glōriam adeptus est.  (repeat)
+	The question:  Why was Cato considered great?	HIS INTEGRITY / UPRIGHTNESS OF HIS LIFE
+B1:	How did Caesar become famous?	WITH HIS CLEMENCY & MERCY
+B2:	With what three actions did Caesar achieve fame?	BY GIVING, ASSISTING, & PARDONING
+
+13:
+TU:	Who was the first Roman commander to force his way into Carthage itself early in 147 BC shortly 
+		before Scipio Aemilianus’ return to Africa?	(L. HOSTILIUS) MANCINUS
+B1:	Under what consul of 148 BC did Mancinus serve as legate?	(L.) CALPURNIUS PISO CAESONINUS
+B2:	Name the consul of 149 BC who had commanded the fleet in an ill-fated attack on Carthage.
+			(L. MARCIUS) CENSORINUS
+
+14:
+TU:	Give the Latin verb and its meaning from which we derive “fail”.	FALLŌ – TO DECEIVE
+B1:	Give the Latin verb and its meaning from which we derive “challenge”.	CALVOR – TO DECEIVE
+B2:	Give the Latin adverb and its meaning from which we derive “denizen”.	INTUS - WITHIN
+
+15:
+TU:	In which speech of Cicero did he end up having to carefully accuse Chrysogonus without bringing the 
+		wrath of Sulla down on himself?	PRŌ ROSCIŌ AMERINŌ
+B1:	Which work of Cicero, considered by some as his masterpiece of philosophy, is divided into 5 books 
+		where he discusses Epicurean theory, refutes it, compares Stoic theory with Academic and 
+		Peripatetic theories, and finally expounds the eclectic theory of Antiochus of Ascalon?
+			DĒ FĪNIBUS BONŌRUM ET MALŌRUM
+B2:	Which of Cicero’s works is a series of five books written around 45 BC in an attempt to popularize 
+		Greek philosophy in Rome? 	TUSCULĀNAE DISPŪTĀTIŌNĒS / TUSCULAN DISPUTATIONS
+
+SCORE  CHECK
+
+16:
+TU: 	According to Sophocles, whom, the son of Heracles, does Deianeira send to find him she is concerned 
+		over prophecies about her mighty husband?	HYLLUS
+B1:	After Hyllus sets off, a messenger arrives and informs Deianeira that Heracles is currently making 
+		offerings at what location?	CAPE CENAEUM
+B2:	What herald brings in a procession of captives and tells Deianeira a false story about why Heracles had 
+		laid siege to the city of Oechalia?	LICHAS
+
+
+17:
+TU:	For the verb soleō, give the 3rd person plural, pluperfect subjunctive.	SOLITĪ (-AE, -A) ESSENT
+B1:	Give the same form for gaudeō.	GĀVĪSĪ (-AE, -A) ESSENT
+B2:	Give the same form for tondeō.	TOTONDISSENT
+
+18:
+TU:	What Roman admiral disembarked a small Roman force in 214 BC on the Illyrian coast to keep Philip V 
+		of Macedon occupied while Rome continued in her war against Carthage?	
+			(VALERIUS) LAEVINUS
+B1:	With what king of Pergamum did Valerius Laevinus negotiate an alliance?	ATTALUS I
+B2:	Who led the Roman reinforcements against Philip V but brought an end to the First Macedonian War by 
+		negotiating with Philip V?	SEMPRONIUS TUDITANUS
+
+19:
+TU:	Quid Angelicē significat “incolumis”.		UNHARMED/ SAFE
+B1:	Quid Angelicē significat “tenuis”.			THIN/ HUMBLE
+B2:	Quid Angelicē significat “aditus”			APPROACH
+
+
+SCORE  CHECK
+
+20:
+TU:	Which Roman poet, whose use of subtle irony was referred to as curiosa fēlīcitās by the later writer 
+	Petronius, was known for being beaten by his teacher Orbilius during his recitation of Livius 
+	Andronicus’ Odussia?	(Q.) HORATIUS (FLACCUS) / HORACE
+B1:	Which of Horace’s works was commissioned by the emperor Augustus in 17 BC?
+			CARMEN SAECULĀRE
+B2:	Which of Horace’s works takes the form of a letter of advice on the pursuit of literature, addressed to a 
+		father and two sons?	ARS POĒTICA / EPISTULA AD PISŌNĒS
+
+FINAL SCORE  CHECK
+
+
+GRAMMAR
+TU:	For the verb taceō, give the masculine, dative, singular gerundive.	TACENDŌ
+B1:	Change tacendō to the genitive plural feminine.	TACENDĀRUM
+B2:	What form of taceō would be used in place of the nonexistent nominative gerund?	TACĒRE
+
+
+TU:	What use of the subjunctive is found in the following sentence: domus erat tam pulchra ut omnēs laudārēnt.
+	RESULT
+B1:	Translate this sentence.	THE HOUSE WAS SO BEAUTIFUL THAT EVERYONE PRAISED IT
+
+B2:	Say in Latin: The birds are flying so high that we are not able to see them.	
+	AVĒS VOLANT TAM ALTE UT NON (EĀS) VIDĒRE POSSIMUS
+
+DERIVATIVES
+TU:	Give the Latin noun and its meaning from which auricle is derived.	AURIS – EAR
+B1:	…acrid is derived.	ĀCER – SHARP
+B2:	… constituent is derived.	CŌNSTITUŌ – DECIDE
+
+TU:	Give the Latin word and its meaning from which age, eternal, and longevity are derived.	
+			AETĀS – AGE
+B1:	… injustice and jurisprudence are derived.	IŪS – RIGHT, LAW
+B2:	… arboreal is derived.	ARBOR – TREE
+
+VOCABULARY
+TU:	What is the meaning of the Latin idiom fāmae meae servīre?	
+			TO HAVE REGARD FOR MY REPUTATION
+B1:	What is the meaning of the Latin idiom ūnā ex parte?	ON ONE SIDE
+B2:	What is the meaning of the Latin idiom fortūnā secundā ūtī?	TO ENJOY GOOD LUCK
+
+TU:	Define “discrīmen”.								    DIVIDING LINE/ CRISIS
+B1:	Define “polliceor”.										TO PROMISE
+B2:	Define “commendō”.								           	TO RECOMMEND
+
+
+MYTHOLOGY
+TU:  What three warriors visit Achilles and plead for him to return to battle?
+BIG / GREAT / TELAMONIAN AJAX, ODYSSEUS, AND PHOENIX
+B1:  Which of them tells the story of Meleager?	PHOENIX
+B2:  Which of them stays the night after Achilles refuses?	PHOENIX
+
+TU:  Whose help got Odysseus almost home until he was foiled by his men’s greed?	AEOLUS’
+B1:  What had Aeolus given Odysseus?	A BAG WITH ALL THE WINDS BUT ZEPHYRUS
+B2:  Where did the winds blow Odysseus’ ship when his men opened the bag?	BACK TO AEOLIA
+
+HISTORY – EMPIRE
+TU:	Vespasian used the death of Nero to suspend his commission to end the rebellion in Jerusalem, which gave the insurgents a year off.  What came to preoccupy Vespasian thus giving them a second year’s reprieve?  
+				HIS MARCH TOWARDS ROME/AGAINST VITELLIUS
+B1  How did the rebels use these two years to prepare for the resumption of war?
+				REBUILT FORITIFICATIONS AROUND JERUSALEM/
+				HEALED INTERNAL DIVISIONS
+B2  Vespasian sent his son Titus to finish the job.  How long did the siege take before Jerusalem was completely conquered?										    6 MONTHS
+
+
+TU  Name the first emperor to bind himself to an oath not to put a senator to death without a free trial.  				NERVA
+B1  What is the meaning of the abbreviation v.c. which since Hadrian an emperor could append to his name.			VIR CLARISSIMUS
+B2  Who, upon his assumption of the consulship in 100, delivered his Panegyricus which praised the leadership of Trajan as opposed to the domination of Domitian?
+				PLINY THE YOUNGER
+
+HISTORY – MONARCHY & REPUBLIC
+TU:	What consul started the First Punic War by advocating and then leading the effort to relieve Messana?
+			APPIUS CLAUDIUS (CAUDEX)
+B1:	What two enemies brought armies to retake Messana?	CARTHAGE AND SYRACUSE
+B2:	What inhabitants of Messana had requested Rome’s aid?	MAMERTINES
+
+TU:	Who defeated Pyrrhus at Beneventum?	(M’ CURIUS) DENTATUS
+B1:	What consul did Pyrrhus try unsuccessfully to bribe?	(C.) FABRICIUS (LUSCINUS)
+B2:	Where did Pyrrhus go to fight between his victory at Asculum and his defeat at Beneventum?	SICILY
+
+LIFE
+TU: Which type of marriage takes its name from a sacred cake? 				   CONFARREATIO
+B1. What is the Latin name for the grain from which this ceremony takes place? 				   FAR
+B1: What is the two word Latin term for this type marriage which emphasizes the bride
+   Being passed over into the control of her new husband? 						 CUM MANU
+
+TU: What was the prospective bride given at the Sponsalia (in addition to gift)?		    A RING/ANULUS 
+B1: On what hand and finger was the ring worn? 		          MIDDLE FINGER OF THE LEFT HAND
+B2: What was the reason why Romans put the ring on this finger?
+     ROMANS BELIEVED THAT A NERVE FROM THE MIDDLE FINGER TO THE HEART
+
+LITERATURE 
+TU:	What office did Cicero hold in 75 BC in Sicily?	
+QUAESTOR
+B1:	What was the next office he held in 69 BC?	
+AEDILE
+B2:	In what year was Cicero praetor?	
+66 BC
+
+TU:	What author’s De Virīs Illustribus was made up of pairs of books about similar figures, one book about Romans and one about foreigners?	(CORNELIUS) NEPOS
+B1:	What is the topic of the only extant book of Nepos’ De Virīs Illustribus?	FOREIGN GENERALS
+B2:	Two other biographies by Nepos survive besides the book on foreign generals.  Name the subject of one of them.	(M. PORCIUS) CATO THE ELDER / (T. POMPONIUS) ATTICUS
+

@@ -1,0 +1,494 @@
+1:
+TU:	Complete this analogy:  portō : portābit :: mittō : _____.	MITTET
+B1:	Change mittet to the passive.	MITTĒTUR
+B2:	Change mittētur to the perfect tense.	MISSUS (-A, -UM) EST
+	
+2:
+TU: 	What son of Althaea gathered a huge group of men to hunt a giant boar ravaging the kingdom of 
+		Calydon?	MELEAGER
+B1: 	Who was Meleager's father?	OENEUS / ARES
+B2: 	Who was Meleager's sister who eventually married Heracles?	DEIANEIRA
+
+3:
+TU:	During the reign of which king of Rome did the ancile fall from the sky?	NUMA POMPILIUS
+B1:	Numa’s reign also featured other significant events like the addition of two new moths to the Roman 
+		calendar and the introduction of a new, two-faced god.  Who was this new Roman god?	JANUS
+B2:	Numa would also go on to be the grandfather of what future king of Rome?	ANCUS MARCIUS
+
+4:
+TU:	Give the Latin for the part of your corpus that you would use to vidēre something.	OCULUS
+B1:	Give the Latin for the part of your corpus that you would use to point to something.	DIGITUS
+B2:	Give the Latin for the part of your corpus that you would brush at least twice per day in order for them 
+		to remain cavity-free.	DĒNS
+
+5:
+TU:	What type of events took place in the Circus Maximus?	CHARIOT RACES
+B1:	A race in the circus was usually comprised of how many laps?	7 LAPS
+B2:	What type of events took place in an amphitheātrum?
+			GLADIATORIAL COMBATS / MOCK NAVAL BATTLES / WILD BEAST HUNTS
+
+6:
+TU:	Which of the following does NOT belong grammatically:  sine, prae, cōram, propter, ex?	PROPTER
+B1:	Say in Latin using a synonym of propter:  because of the wars.	OB BELLA
+B2:	Say in Latin:  in the presence of the king’s companions.	CŌRAM COMITIBUS RĒGIS
+*accept rēgum if given as an answer unless you distinguished/specified between king’s / kings’
+
+7:
+TU:	In the Odyssey, what deity spots Odysseus heading toward the Phaeacians and send a massive storm in 
+		an attempt to kill him?	POSEIDON
+B1:	In the land of what people had Poseidon previously been feasting? 	ETHIOPIANS
+B2:	Why was Poseidon so angry with Odysseus?	ODYSSEUS BLINDED HIS SON POLYPHEMUS
+
+8:
+TU:	Which of the following, if any, is NOT derived from the same Latin root as the others:
+		terrible, deter, terrific, bioterrorism, terrestrial?	TERRESTRIAL
+B1:	…:  remain, manipulate, mansion, perm, remnant?	MANIPULATE 
+B2:	…:  factory, defeat, affect, efficient, clarify?	THEY ARE ALL FROM THE SAME ROOT
+9: 
+TU:	Who, even though he belonged to an old senatorial family, had little talent for practical politics and was 
+		too old to learn how to govern well when he came to the throne in his early seventies in 68 AD?
+			(SERVIUS SULPICIUS) GALBA
+B1:	How did Galba alienate the Praetorian Guards?	HE FAILED TO PAY THE PROMISED DONATIVE
+B2:	Galba also alienated the armies in the Rhine region when he recalled which beloved commander and 
+		replaced him with Hordeonius Flaccus?	VERGINIUS RUFUS
+
+10:
+TU:	Please listen to the following sentences, which I shall read twice, then answer the question that follows 
+		in Latin:
+		ōlim, cum dominus dormīret, servī inter sē colloquium habēbant.  ūnus ē servīs dīxit,“dominus 
+		est stultus.  nesciēbat ubi librī essent.”  alius servus rīsit et dīxit, “ita!  dominus est 		stultissimus!  nōn modo nesciēbat ubi librī essent, sed etiam quō modō librī legerentur!” 
+		(repeat)
+	The question:  quandō servī inter sē colloquium habēbant?	CUM DOMINUS DORMĪRET /
+			UBI DOMINUS DORMIĒBAT
+B1:	prō prīmō servō, quid dominus nesciēbat?	UBI LIBRĪ ESSENT
+B2:	prō secundō servō, cūr dominus erat stultissimus?	QUOD NESCIĒBAT QUŌ MODŌ LIBRĪ
+			LEGERENTUR
+
+11:
+TU: 	What king of Colchis posed impossible tasks for the hero Jason before he could take the golden fleece?
+			AEETES
+B1: 	Name one of the tasks that Aeetes set for Jason.
+			YOKE FIRE-BREATHING BULLS / SOW FIELD WITH DRAGONS TEETH
+B2: 	Name one item given to Jason by Medea to help him in his quest
+			MAGIC OINTMENT / DRUGS FOR THE SERPENT
+
+12:
+TU:	Please translate into English:  cum servī ē vīllā exīerant, fūr subitō intrāvit.
+			WHEN THE SLAVES HAD LEFT/DEPARTED/EXITED FROM THE HOUSE, A THIEF
+			SUDDENLY ENTERED
+B1:	…:  cum mīles captīvōs vituperābat, hostēs carcerem oppugnābant.
+			WHEN THE SOLDIER WAS CURSING THE CAPTIVES, THE ENEMIES WERE ATTACKING 
+			/ ATTACKED THE PRISON
+B2:	Please translate into Latin:  since the horsemen had abandoned their leader, the bold slave formed a 
+		plan immediately.	CUM EQUITĒS DŪCEM DĒSERUISSENT / RELIQUISSENT, SERVUS
+			AUDĀX STATIM / PRŌTINUS CŌNSILIUM CĒPIT
+
+
+
+
+1:
+TU:	Which of the following men was not part of the embassy sent to Achilles:  Menelaus, Phoenix, 
+		Odysseus, Ajax Telamon?	MENELAUS
+B1:	What was Phoenix’s relationship to Achilles?	HIS OLD TUTOR/GUARDIAN
+B2:	What was the purpose of this embassy?	
+			TO CONVINCE ACHILLES TO RETURN TO FIGHTING IN THE WAR
+
+2:
+TU:	Please listen carefully to the following sentences, which I shall read twice, and answer the question that 
+		follows in English:
+		Caesar, cum in Galliam rediiset, barbarōs, quī Rhēnum trānsierant, magnā cum caede 
+		superāvit.  tum ipse, ut barbarōs terrēret, mīrā celeritāte pontem fēcit Rhēnumque cum 
+		exercitū trānsiit.  (repeat)
+	The question:  When did Caesar defeat the barbarians who had crossed the Rhine?	
+			WHEN HE HAD RETURNED TO GAUL
+B1:	Why did Caesar build a bridge across the Rhine?	IN ORDER TO FRIGHTEN THE BARBARIANS
+B2:	How did Caesar build this bridge?	WITH MIRACULOUS / MARVELOUS SPEED
+
+3:
+TU:	When the praetorian prefect Casperius Aelianus demanded the execution of his fellow prefect that was 
+		involved in the assassination of Domitian, who immediately recognized that he needed someone 
+		with military experience to succeed him?	(M. COCCEIUS) NERVA
+B1:	What was unique about Nerva’s accession to the imperial throne?
+			HE WAS (THE FIRST TO BE) CHOSEN BY THE SENATE
+B2:	Who was the praetorian prefect who had been involved in the plot to assassinate Domitian?
+			PETRONIUS SECUNDUS
+
+4:
+TU:	Quid Anglicē significat:  audācia?	BOLDNESS, AUDACITY
+B1:	Quid Anglicē significat:  mora?	DELAY
+B2:	Quid Anglicē significat:  haudquāquam?	NOT AT ALL
+
+5:
+TU: 	Which of the following, if any, does not belong according to derivation:  
+		sue, suite, consequence, persecute, sequin?	        SEQUIN
+B1:  	What root do the other three words from the toss-up share?	       SEQUOR
+B2:  	What derivative of sequor means “suited for carrying out plans or duties”?	EXECUTIVE
+
+6:
+TU: 	What group of bird-like women sang captivating songs that often led sailors to their death?	SIRENS
+B1:	What did Odysseus order his men to do so he could hear the Sirens’ song?	TIE HIM TO THE MAST
+B2:	What did the rest of the crew do to keep from falling into the Sirens’ trap?	
+ 	STUFFED BEESWAX INTO THEIR EARS
+
+
+7:
+TU:	Please translate into English:  mihi nōn clāmandum est.	I MUST NOT SHOUT
+B1:	…:  captīvīs nōn effugiendum est.	THE CAPTIVES MUST NOT ESCAPE
+B2:	…:  lēgātō ā mē nōn crēdendum est.	
+			I MUST NOT TRUST THE COMMANDER / ENVOY / LEGATE / AMBASSADOR
+
+8:
+TU:	How many cohorts were there in a Roman legion?	TEN
+B1:	What Latin term refers to the standard bearer of the legion?	AQUILIFER
+B2:	Give the Latin term for the place in the Roman camp where the standard of the legion was kept.
+			SACELLUM
+
+9:
+TU:	Which of the following, if any, is NOT derived from the same Latin root as the others:
+		fortitude, fortune, comfort, effort, force?	FORTUNE
+B1:	…:  ascribe, scribble, prescription, describe, sculpture?	SCULPTURE
+B2:	…:  transport, import, rapport, export?	ALL ARE DERIVED
+
+10:
+TU: 	What daughter of the river Peneus was pursued by Apollo?	DAPHNE
+B1: 	Why had Cupid caused Apollo to fall in love with Daphne?	APOLLO MOCKED CUPID'S ARROWS
+B2: 	Into what type of tree did Daphne change, remaining a virgin forever?	LAUREL
+
+11:
+TU:	Distinguish in meaning between incendō and incēdō.	
+			INCENDŌ – TO BURN, SET ON FIRE // INCĒDŌ – TO MARCH
+B1:	Distinguish in meaning between audeō and ardeō.	
+			AUDEŌ – TO DARE // ARDEŌ – TO BE ON FIRE, BURN
+B2:	Distinguish in meaning between tantus and quantus.
+			TANTUS  - SO GREAT, SO BIG, SO MUCH // QUANTUS – HOW GREAT, HOW BIG
+
+12:
+TU:	Which King of Rome twice refused to purchase the Sibylline Books and only decided to buy them after 
+		the sibyl started to destroy them?	TARQUINIUS SUPERBUS
+B1:	How many of the original nine books did Tarquinius Superbus end up purchasing?	3
+B2:	Under which building were the remaining Sibylline Books stored for consultation?
+			TEMPLE OF JUPITER OPTIMUS CAPITOLINUS
+
+
+
+
+1:
+TU:	Please listen carefully to the following sentences about Phaethon, which I shall read twice, and answer 
+		the question that follows in Latin:
+		Phaethon, Sōlis fīlius, ā patre ōlim petīvit ut sibi licēret ūnum diem sōlis currum per caelum 
+		agere.  quod cum ab illō concessum esset, magnō cum gaudiō puer currum ascendit.  
+		gravissimās tamen poenās audāciae persolvere coāctus est.  (repeat)
+	The question:  quis erat pater Phaethontis?	SŌL
+B1:	quō cōnsiliō Phaethon ā patre petīvit?	UT SIBI LICĒRET (ŪNUM DIEM) SŌLIS CURRUM 
+			(PER CAELUM) AGERE
+B2:	quālēs poenās Phaethon persolvere coāctus est?	GRAVISSIMĀS
+
+2:
+TU:	Roman tombs were often monuments shaped like altars, temples, and houses that had sepulchral 
+		chambers for the remains of the dead.  In cases where there were no sepulchral chambers, why 
+		would there be a tube or pipe of lead that ran from the underground receptacle of the remains to the 
+		surface?	SO THAT OFFERINGS (MILK, WINE, ETC.) COULD BE POURED
+B1:	What was often used as substitute for blood, the favorite drink of the dead?	WINE
+B2:	Why was it important to bury the dead properly?	SO THAT THEY WOULD NOT HAUNT THE
+			LIVING
+
+3:
+TU:	What use of the ablative case can be found in the following sentence:  poēta versūs suōs paulō 
+		vehementius quam anteā recitābat?	DEGREE OF DIFFERENCE
+B1:	…:  omnēs cīvēs timōre fūgērunt?	CAUSE
+B2:	…:  Iūlia Caesare nāta erat?	ORIGIN / SOURCE
+
+4:
+TU:	From what priest of Apollo did Odysseus obtain twelve jars of very good wine?	MARON
+B1:	Among what group of people did Maron live?	CICONES
+B2:	What did Maron receive in return for the wine?	PROTECTION FOR HIM AND HIS FAMILY
+
+5:
+TU:	What is the Latin phrase and its abbreviation that is commonly used in footnotes to document the 
+		source from which information is drawn for a research paper?	
+		OP. CIT. – OPERE CITĀTŌ
+B1:	What is the Latin phrase and its abbreviation that is commonly found on medical prescriptions?
+			RX. - RECIPE
+B2:	What is the Latin word and its abbreviation when a student is asked to make a comparison?	
+			CF. - CONFER
+
+6:
+TU:	Which of the following does NOT belong because of meaning:  arbitror, putō, exīstimō, cogitō, 
+		proficīscor?	PROFICĪSCOR
+B1:	What does proficīscor mean?	TO SET OUT
+B2:	What meaning is shared by the other words in the toss-up?	TO THINK
+
+
+7:
+TU:	What Theban seer kept his prophetic powers even after death?	TEIRESIAS
+B1:	Who granted him this privilege?	PERSEPHONE
+B2:	When Odysseus travelled to the Underworld to visit Teiresias, what did the shades have to do to speak 
+	with him?
+  	DRINK (RAM’S) BLOOD
+
+8:
+TU:	At the urging of Memmius and due to his attack on Cirta and killing of Italian businessmen, the 
+		Senate declared war on Jugurtha and sent what consul of 112 BC to fight him?
+(L. CALPURNIUS) BESTIA
+B1:	After coming to peace terms with Bestia, Jugurtha traveled to Rome briefly, but soon returned to 	
+		Numidia where the war resumed and started to go poorly for what replacement of Bestia?
+			(S.) POSTUMIUS ALBINUS
+B2:	After Postumius capitulated, there was an outcry of senatorial corruption.  This led to the election of 
+		what man as consul in 109 BC, who was unable to bring the war to an end although he had great 
+		success on the battlefield against Jurgurtha?	(Q.) CAECILLIUS METELLUS (NUMIDICUS)
+
+9:
+TU:	Please translate into English:  dux, ā barbarīs comprehēnsus, nescīvit ubi legiō sua latēret.
+			THE LEADER, (HAVING BEEN) ARRESTED BY THE BARBARIANS, DIDN’T KNOW 
+			WHERE HIS (OWN) LEGION WAS HIDING / LYING HIDDEN
+B1:	…:  omnēs scīmus quid nōbīs agendum sit.
+			WE ALL KNOW WHAT WE MUST DO / WHAT MUST BE DONE BY US
+B2:	…:  servī fūgērunt nē ā dominō caperentur.
+			THE SLAVES FLED IN ORDER NOT TO BE CAPTURED BY THE MASTER /
+			SO THAT THEY MIGHT NOT BE CAPTURED BY THE MASTER
+
+10:
+TU:	Into what type of plant was Philemon transformed?	OAK TREE
+B1:	Into what type of plant was Menthe transformed?	MINT
+B2:	Into what type of plant was Leucothoe transformed?	FRANKINCENSE
+
+11:
+TU: 	Which of the following, if any, does NOT belong according to derivation:  
+		address, regent, correct, register, rail?	   REGISTER
+B1: 	Which word does not belong according to derivation:  
+		retain, detention, tenement, tenet, attain?	    ATTAIN
+B2: 	Which word does not belong, according to derivation:  
+		subdue, predicate, educate, reduce, deduct?	PREDICATE
+
+12:
+TU:	The Roman governor of Egypt, Tiberius Alexander, supported which man’s claim to the imperial throne 
+		in 69 AD?	
+		VESPASIAN’S
+B1:	Which governor of Syria also supported Vespasian’s claim to the throne?	
+MUCIANUS
+B2:	Which general won the Second Battle of Cremona for Vespasian and secured his path to 
+		Rome?	
+		ANTONIUS PRIMUS
+
+
+1:
+TU:	What use of the subjunctive can be found in the following sentence:  servī conveniēbant ut 
+		labōrārent?	(ADVERBIAL) PURPOSE CLAUSE
+B1:	Translate that sentence into English.	THE SLAVES GATHERED / WERE GATHERING (IN ORDER)
+			TO WORK / SO THAT THEY MIGHT WORK
+B2:	Please make the necessary change if conveniēbant were changed to conveniunt.	
+			LABŌRĀRENT WOULD CHANGE TO LABŌRENT
+
+2:
+TU: 	At whom did Ctessipus throw a cow hoof during his fight against Penelope’s suitors?	ODYSSEUS
+B1: 	Who killed Ctessipus? 	TELEMACHUS
+B2: 	After the fight, what were the disloyal maids ordered to do regarding the suitors’ corpses?
+			DRAG THEM OUT OF THE HALL
+
+3:
+TU:	Who, most likely a Christian, used her influence as the emperor’s mistress and persuaded Commodus to 
+		adopt a policy in favor of Christians?	MARCIA
+B1:	Marcia had been the mistress of which of Commodus’ cousins, who was executed because he was 
+		involved in a failed plot to assassinate the emperor in 182 AD?	(M. UMMIDIUS) QUADRATUS 
+			(ANNIANUS)
+B2:	Which sister of Commodus was executed along with Quadratus for her involvement in the same plot?
+			LUCILLA
+
+4:
+TU:	Please translate into Latin using interficiō:  I heard that the emperor had been killed by the soldiers.
+			AUDĪVĪ / AUDIĒBAM IMPERĀTŌREM Ā MĪLITIBUS INTERFECTUM ESSE
+B1:	Please translate into Latin using ūtor:  The soldiers, having used their swords, attacked with great speed.
+			MĪLITĒS, GLADIĪS (SUĪS) ŪSĪ, MAGNĀ CUM CELERITĀTE OPPUGNĀVĒRUNT /
+			OPPUGNĀBANT / AGGRESSĪ SUNT / AGGREDIĒBANTUR
+B2:	Please translate into Latin:  We believe that the children returned home yesterday.
+			CRĒDIMUS LĪBERŌS DOMUM HERI REVĒNISSE
+
+5:
+TU:	Which of the following, if any, does NOT have the same Latin root as the others:
+		nuisance, obnoxious, ninny, nocive, innoculate?	INNOCULATE
+B1:	What is the Latin root and its meaning of “innoculate”?	OCULUS – EYE
+B2:	What is the Latin root of the other words in the toss-up?	NOCEŌ
+
+6:
+TU:	Who temporarily gifted Diomedes with the ability to see immortals on the battlefield?	ATHENA
+B1: 	Which two deities did Diomedes wound in Book V of The Iliad? 	ARES AND APHRODITE
+B2:	What flowed from Aphrodite’s veins when she was wounded?	ICHOR
+
+
+7:
+TU:	Give the Latin term for the type of siege engine, usually 50 to 180 feet high, that could be moved 	
+		forward on wheels or rollers up to the town and could carry archers, slingers, legionary soldiers, and 
+		artillery in its upper stories and battering rams in the lower stories.	TURRIS AMBULĀTŌRIA
+B1:	Give the Latin term for the type of siege engine that shot darts.	SCORPIŌ
+B2:	Give the Latin term for the wall hooks with which stones could be dislodged from the wall.
+			FALX (MŪRĀLIS) / FALCĒS (MŪRĀLĒS)
+
+8:
+TU:	Quid Anglicē significat:  mollis?	SOFT
+B1:	Quid Anglicē significat:  blandus?	FLATTERING
+B2:	Quid Anglicē significat:  fraus?	TRICK
+
+9:
+TU:	The Romans, recalling the love affair between Marc Antony and Cleopatra, greatly showed their 
+		disapproval of the love affair between Titus and which Jewish princess?	BERENICE
+B1:	Which pro-Roman king of Judaea was the brother of Berenice?	HEROD AGRIPPA (II)
+B2:	Who was the daughter and the only child of Titus and his second wife Marcia Furnilla?
+			JULIA (FLAVIA)
+
+10:
+TU:	Please listen carefully to the following sentences, which I shall read twice, and answer the question that 
+		follows in English: 
+		ōlim equus cum asinō per viās iter faciēbat.  asinus tantum onus portābat ut paene in terram 
+		imprimerētur.  equus tamen nihil nisi sua ornamenta portābat.  itaque asinus equum ōrābat ut 
+		sē iuvāret et partem oneris portāret.  equus tamen tam superbus erat ut recūsāret.  ēheu!  
+		(repeat)
+	The question:  Why did the donkey almost fall to the ground?	IT / HE WAS CARRYING 
+			(SUCH) GREAT BURDEN / LOAD / WEIGHT
+B1:	What did the donkey beg the horse to do?	TO HELP HIM / TO CARRY PART OF THE LOAD
+B2:	How did the horse react and why?	HE REFUSED BECAUSE HE WAS (SO) ARROGANT / PROUD
+
+11:
+TU:	What derivative of the Latin verb meaning “to untie” means “to reduce to liquid form?”   	DISSOLVE 
+B1:	What derivative of the Latin word meaning “joke” means “peril”?	JEOPARDY
+B2:	What derivative of the Latin word meaning “hand” or “a band of men” means “to free from restraint”?
+			EMANCIPATE
+
+12:
+TU:	What two daughters of Neaera and Helios guard the cattle of Helios?	LAMPETIA AND PHAETHUSA
+B1:	On what island were these cattle kept?	THRINACIA
+B2:	After leaving Thrinacia, how did Odysseus save himself from falling into Charybdis?	
+			HELD ONTO A FIG TREE BRANCH
+
+
+13:
+TU:	Consider the sentence:  pecūnia mihi invenienda erit.  What is the best translation of the phrase 
+		“invenienda erit”?	
+		WILL HAVE TO BE DISCOVERED / FOUND *ASK THE STUDENT TO EXPLAIN IF “WILL HAVE TO DISCOVER/FIND” IS GIVEN
+B1:	Please translate into English if the sentence in the toss-up were changed to “pecūnia mihi invenienda 
+		erat”.	
+		I HAD TO FIND THE MONEY / THE MONEY HAD TO BE FOUND BY ME
+B2:	Please translate into Latin using parcō:  I will have to save money.
+			PECŪNIAE Ā MĒ PARCENDUM ERIT
+
+14:
+TU: 	What king of the Lapiths did Theseus accompany to the underworld to find a bride?	PIRITHOUS
+B1: 	What bride did Theseus kidnap for himself?	HELEN
+B2: 	Who rescued Helen from the village where Theseus had hidden her?	CASTOR & POLLUX
+
+15:
+TU:	Who, with his knowledge of the mountain glens and winding paths in Lusitania, led 10,000 guerrilla
+		soldiers in resisting the Romans for eight years?	VIRIATHUS
+B1:	After a decisive victory over the Romans, from what Roman consul did Viriathus procure favorable
+		peace terms and the status of an ally of the Roman people?	(FABIUS MAXIMUS) SERVILIANUS
+B2:	What successor of Servilianus persuaded the Roman senate to break the treaty and renew hostility 
+		against Viriathus?	([QUINTUS – OCD 2/ GNAEUS – OCD 3] SERVILIUS) CAEPIO
+
+16:
+TU:	Change quīdam fortis exercitus to the accusative.	QUENDAM FORTEM EXERCITUM
+B1:	Change quendam fortem exercitum to the plural.	QUŌSDAM FORTĒS EXERCITŪS
+B2:	Change quōsdam fortēs exercitūs to the genitive.	QUŌRUNDAM FORTIUM EXERCITUUM
+
+17:
+TU:  	The Romans, by using siege engines and the strategy of circumvallation, captured what capital city of 
+		Dacia in 106 AD?	
+		SARMIZEGETHUSA
+B1:	How did Decebalus commit suicide after the Romans captured Sarmizegethusa?
+			SLASHED HIS OWN THROAT
+B2:	What city did the Romans build to replace Sarmizegethusa as the capital of the new Roman province of 
+		Dacia?	
+		COLONIA ULPIA TRĀIĀNA
+
+18:
+TU: 	Give the Latin verb root and its meaning from which we derive “account”.	PUTŌ – TO THINK
+B1:	Give the Latin root and its meaning from which we derive “jewel”.	IOCUS – JOKE
+B2:	Give the Latin root and its meaning from which we derive “cement”.	CAEDŌ – TO CUT
+
+19:
+TU:	Distinguish in meaning between tōtus and tūtus.	TŌTUS – WHOLE // TŪTUS - SAFE
+B1:	Distinguish in meaning between appellō and pellō.	
+			APPELLŌ – TO NAME // PELLŌ – TO PUSH, DRIVE, BANISH, STRIKE
+B2:	Distinguish in meaning between ventus and venter.	VENTUS – WIND // VENTER - STOMACH
+
+
+20:
+TU: 	Who, the wife of king Proetus of Tiryns, fell in love with Bellerophon and was rejected by him?
+			STHENEBOEA/ ANTEIA
+B1: 	As a result of her rejection, how did she take revenge on Bellerophon?
+			LIED TO HER HUSBAND / TOLD HER HUSBAND BELLEROPHON TRIED 
+			TO SEDUCE HER
+B2: 	Proetus then sent Bellerophon to Iobates, who was related to king Proetus in what way?
+			HIS FATHER-IN-LAW
+
+LANGUAGE SKILLS
+
+TU:	Please translate into Latin using imperō:  The king was ordering his heirs to untie the chain.
+			RĒX HĒRĒDIBUS IMPERĀBAT UT CATĒNAM / VINCULUM SOLVERENT
+B1:	Please translate the same sentence into Latin using iubeō.
+			RĒX IUBĒBAT HĒRĒDĒS CATĒNAM / VINCULUM SOLVERE
+B2:	Please translate into Latin using rogō:  The king was so terrified that he asked the soldiers not to move.
+			RĒX TAM PERTERRITUS ERAT UT MĪLITĒS ROGĀRET NĒ MOVĒRENT
+
+TU:	Which of the following does NOT belong grammatically:  decet, oportet, taedet, paenitet, licet?
+			LICET
+B1:	Say in Latin using an impersonal verb:  I will never be tired of certamen.
+			NUMQUAM MĒ TAEDĒBIT CERTĀMINIS
+B2:	Say in Latin using impersonal verbs:  I pity the dogs because it is snowing.
+			MĒ MISERET CANUM QUOD NINGIT / CUM NINGAT
+
+TU:	Give the Latin root and its meaning from which we derive the English word “revelry”.
+		 BELLUM – WAR
+B1:	Give the Latin root and its meaning from which we derive “fealty”.	FIDĒS – LOYALTY, FAITH
+B2:	What derivative of the Latin word meaning “province” means “narrow-minded”?	PROVINCIAL
+
+TU: 	Quid Anglicē significat intereā?	MEANWHILE
+B1: 	Quid Anglicē significat nusquam?	NOWHERE
+B2: 	Quid Anglicē significat humī?	ON THE GROUND
+
+MYTHOLOGY
+
+TU:	Which of the following did Odysseus not see in the Underworld?
+			TANTALUS, SISYPHUS, TITYUS, PROMETHEUS 
+B1:	In the Underworld, what Greek commander refused to speak to Odysseus?	
+ 	 		AJAX TELAMON/AJAX THE GREATER
+B2:	Why was he so upset with Odysseus?	ODYSSEUS WON ACHILLES’ ARMOR, AND HE DIDN’T
+
+
+TU:	What king of Aeolia gifted Odysseus with a bag of winds?	AEOLUS
+B1:	Which wind pushed Odysseus’ ships homeward from Aeolia?	WEST WIND
+B2:	What did Odysseus’ crew think was in the bag Aeolus gave him?	GOLD AND SILVER/TREASURE
+
+
+
+HISTORY & LIFE
+
+TU:	Who wore the breastplate of Alexander the Great and rode his favorite horse across the Bay of Baiae on 
+		a bridge made of boats?	CALIGULA / GAIUS
+B1:	What was the name of Caligula’s favorite horse?	INCITATUS
+B2:	In what town was Caligula born on August 31, 12 AD?	ANTIUM
+
+TU:	Who, while standing outside of the imperial palace, shouted out the winning bid for the imperial throne 
+		in 193 AD?	
+DIDIUS JULIANUS 
+B1:	Name the person whom Didius Julianus outbid in this imperial auction AND the position that this person 
+		was serving when he was bidding against Didius Julianus.	
+SULPICIANUS – PRAEFECTUS URBĪ / CITY PREFECT OF ROME
+B2:	What was the winning bid shouted out by Didius Julianus?	
+25,000 SESTERCES PER PRAETORIAN
+
+TU:	Who led a revolt and marched on Rome in 77 BC in an attempt to overthrow the Sullan constitution,
+		only to be defeated by his consular colleague of the previous year?	(M. AEMILIUS) LEPIDUS
+B1:	Who was Lepidus’ consular colleague in 78 BC who defeated Lepidus in Italy?
+			(Q. LUTATIUS) CATULUS
+B2:	What other agitator did many of Lepidus’ supporters join after Lepidus’ defeat?	(Q.) SERTORIUS
+
+
+TU:	What Roman victory first showed the superiority of the Roman legion over the Macedonian phalanx in 
+		197 BC?	CYNOSCEPHALAE
+B1:	Who was the Roman commander at that battle?	(T. QUINCTIUS) FLAMININUS
+B2:	During what war was the battle of Cynoscephalae fought?	SECOND MACEDONIAN WAR
+
+
+TU: 	What is the 8-man section in a barracks building called?				CONTUBERNIUM
+B1:  	What was the ditch called that surrounded a Roman fortress?				    VALLUM
+B2:  	What was the great hall called where the commander worked with his officers in the Roman fortress?														BASILICA
+
