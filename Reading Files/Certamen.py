@@ -380,7 +380,14 @@ def readQuestion():
 def playFavorites(*args):
     RD2PLAY[0]="Favorites.txt"
     for itm in homeScreenItms:itm.grid_remove()
+    removeFavoriteFrm.grid()
     loadSelectedFile()
+
+def removeFavorite():
+    qs= {*open(str(p/f"Rounds"/"Favorites.txt"),encoding='utf-8').read().splitlines()} - {LASTEXTRACTED[0][:-1]} 
+    with open(str(p/f"Rounds"/"Favorites.txt"),'w',encoding='utf-8') as out:
+        out.write("\n".join(qs))
+
 def setRoundName(n):
     playFavoritesBtn.grid_remove()
     if not "Parsed" in RD2PLAY[0]:
@@ -619,7 +626,16 @@ questionReadingItms=[questionFrame,ansRevFrame,ansFrame,factSaveFrame,saveQFrame
 
 favoriteQuestionBtn = ttk.Button(mainframe,text="Save Question as Favorite",command=favoriteQuestion)
 favoriteQuestionBtn.grid(row=19,column=0,sticky=SW)
+
+removeFavoriteFrm = ttk.Frame(mainframe)
+ttk.Label(removeFavoriteFrm,text="\n\n").grid(row=0,column=0)
+removeFavoriteQuestionBtn=ttk.Button(removeFavoriteFrm,text="Remove from Favorites",command=removeFavorite)
+removeFavoriteQuestionBtn.grid(row=1,column=0,sticky=SW)
+removeFavoriteFrm.grid(row=9,column=0,sticky=SW)
+removeFavoriteFrm.grid_remove()
+questionReadingItms.append(removeFavoriteFrm)
 questionReadingItms.append(favoriteQuestionBtn)
+
 
 readingSpeedFrm = ttk.Frame(mainframe)
 var=DoubleVar()
