@@ -384,9 +384,7 @@ def playFavorites(*args):
     loadSelectedFile()
 
 def removeFavorite():
-    qs= {*open(str(p/f"Rounds"/"Favorites.txt"),encoding='utf-8').read().splitlines()} - {LASTEXTRACTED[0][:-1]} 
-    with open(str(p/f"Rounds"/"Favorites.txt"),'w',encoding='utf-8') as out:
-        out.write("\n".join(qs))
+    with open(str(p/f"Rounds"/"Favorites.txt"),'w',encoding='utf-8') as out: out.write("\n".join({*open(str(p/f"Rounds"/"Favorites.txt"),encoding='utf-8').read().splitlines()} - {LASTEXTRACTED[0][:-1]} ))
 
 def setRoundName(n):
     playFavoritesBtn.grid_remove()
