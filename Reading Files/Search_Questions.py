@@ -6,8 +6,10 @@ CURRESULTIDX=[1]
 TTKITMS = {}
 ALLQS=[]
 TOPRANGE=[0]
-BOOLS=['And','Or']
+BOOLS=['And','Or','And not']
 
+def removePunct(sent):
+    return sent[:].replace("!","").replace(",","").replace("?","").replace(".","").replace('"','').replace("'s","").replace("(","").replace(")","")
 
 def searchForQWindow(root,allQs):
     ALLQS.append(allQs)
@@ -21,6 +23,10 @@ def searchForQWindow(root,allQs):
     searchWindow.bind("<Return>",searchForTerm)
     
     searchBarFrm = ttk.Frame(sfQMainframe)
+    initBool = StringVar()
+    TTKITMS['ib'] = initBool
+    initBoolSelect = ttk.OptionMenu(searchBarFrm,initBool, "Has",*["Has","Has not"])
+    initBoolSelect.grid(row=0,column=0,sticky=W)
     searchTerm = StringVar()
     TTKITMS["searchTerm"]=searchTerm
     searchEntry = ttk.Entry(searchBarFrm,width=30,textvariable=searchTerm)
@@ -29,6 +35,19 @@ def searchForQWindow(root,allQs):
     searchBool1 = ttk.OptionMenu(searchBarFrm,sb1,BOOLS[0],*BOOLS)
     searchTerm1 = StringVar()
     TTKITMS["searchTerm1"]=searchTerm1
+    searchEntry1 = ttk.Entry(searchBarFrm,width=30,textvariable=searchTerm1)
+    searchBtn = ttk.Button(searchBarFrm,text="Search",command=searchForTerm)
+    searchEntry.grid(row=0,column=1,sticky=W)
+    searchEntry.focus()
+    searchBool1.grid(row=0,column=2,sticky=W)
+    searchEntry1.grid(row=0,column=3,sticky=W)
+    searchBtn.grid(row=0,column=4,sticky=W)
+    wvs = StringVar()
+    TTKITMS['wvs'] = wvs
+    wordVsStr = ttk.OptionMenu(searchBarFrm,wvs,"Any Match",*["Any match","Full word"])
+    wordVsStr.grid(row=0,column=5,sticky=W)
+
+    searchBarFrm.grid(row=0,column=0,sticky=W)
 
     yearLvlFrm = ttk.Frame(sfQMainframe)
     lvlLbl=ttk.Label(yearLvlFrm,text="Level:")
@@ -61,15 +80,6 @@ def searchForQWindow(root,allQs):
     #lvls.grid(row=0,column=1,sticky=W)
     yearLvlFrm.grid(row=1,column=0,sticky=W)
 
-    searchEntry1 = ttk.Entry(searchBarFrm,width=30,textvariable=searchTerm1)
-    searchBtn = ttk.Button(searchBarFrm,text="Search",command=searchForTerm)
-    searchEntry.grid(row=0,column=0,sticky=W)
-    searchEntry.focus()
-    searchBool1.grid(row=0,column=1,sticky=W)
-    searchEntry1.grid(row=0,column=2,sticky=W)
-    searchBtn.grid(row=0,column=3,sticky=W)
-    searchBarFrm.grid(row=0,column=0,sticky=W)
-
     showResultsfrm = ttk.Frame(sfQMainframe)
     showResultslbl = ttk.Label(showResultsfrm,font = ("Calibri", 17),text="",wraplength=800)
     showResultslbl.grid(row = 0,column = 0,sticky = W)
@@ -92,6 +102,10 @@ def searchForTerm(*args):
     TOPRANGE[0]=0
     term = TTKITMS['searchTerm'].get()
     term1=TTKITMS['searchTerm1'].get()
+    wordStr = {'Any Match':1}.get(TTKITMS['wvs'].get(),0)
+    curbool = TTKITMS['sb1'].get()
+    initbool = {'Has':1}.get(TTKITMS['ib'].get(),0)
+    print(wordStr, initbool)
     if term:
         lvlOptions = []
         if TTKITMS["advCheckVar"].get():lvlOptions.append("from Advanced")
@@ -100,18 +114,44 @@ def searchForTerm(*args):
         if TTKITMS['agonCheckVar'].get():lvlOptions.append("from Agon")
         if TTKITMS['eliteCheckVar'].get():lvlOptions.append("from Elite")
         #print(lvlOptions)
-        for q in allQs:
+        for a in allQs:
+            q=removePunct(a)
             for itm in lvlOptions:
                 if itm in q:
-                    if term.lower() in q.lower(): 
-                        if term1 and TTKITMS['sb1'].get()=="And":
-                            if term1.lower() in q.lower():
-                                SEARCHRESULTS.append(q)
-                        else:
-                            SEARCHRESULTS.append(q)
-                    elif term1 and TTKITMS['sb1'].get()=="Or":
-                        if term1.lower() in q.lower():
-                            SEARCHRESULTS.append(q)
+                    if initbool:
+                        if (wordStr and (term.lower() in q.lower())) or (term.lower() in q.lower().split()): 
+                            if term1 and curbool=="And":
+                                print("hi")
+                                if (wordStr and (term1.lower() in q.lower())) or (term1.lower() in q.lower().split()):
+                                    SEARCHRESULTS.append(a)
+                            elif curbool=="Or":
+                                SEARCHRESULTS.append(a)
+                            elif term1 and curbool=="And not": 
+                                if not ((wordStr and (term1.lower() in q.lower())) or (term1.lower() in q.lower().split())):
+                                    SEARCHRESULTS.append(a)
+                            else:
+                                SEARCHRESULTS.append(a)
+                        elif term1 and TTKITMS['sb1'].get()=="Or":
+                            if (wordStr and (term1.lower() in q.lower())) or (term1.lower() in q.lower().split()):
+                                SEARCHRESULTS.append(a)
+                    else:
+                        if not (wordStr and (term.lower() in q.lower())) or (term.lower() in q.lower().split()): 
+                            if term1 and curbool=="And":
+                                if (wordStr and (term1.lower() in q.lower())) or (term1.lower() in q.lower().split()):
+                                    SEARCHRESULTS.append(a)
+                            elif curbool=="Or":
+                                SEARCHRESULTS.append(a)
+                            elif term1 and curbool=="And not": 
+                                if not ((wordStr and (term1.lower() in q.lower())) or (term1.lower() in q.lower().split())):
+                                    SEARCHRESULTS.append(a)
+                            else: SEARCHRESULTS.append(a)
+                        elif  term1 and TTKITMS['sb1'].get()=="Or":
+                            if not (wordStr and (term1.lower() in q.lower())) or (term1.lower() in q.lower().split()):
+                                SEARCHRESULTS.append(a)
+
+
+
+                    
         lbl = TTKITMS['showResultslbl']
         displayResultslbl=TTKITMS['displayResultslbl']
         moveResultsRight=TTKITMS['moveResultsRight']

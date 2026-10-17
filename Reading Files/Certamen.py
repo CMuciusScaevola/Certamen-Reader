@@ -372,6 +372,10 @@ def readQuestion():
     else:QUESTION[0][-1]+="*"
     root.unbind("s")
     if CURSCREEN[0]=='Reading':
+        print("Hi")
+        if hideOnBuzz.get(): 
+            temp = [" "*len(word) for word in CURQ]
+            CURQLABEL[0].config(text = "\n"+"".join(temp))
         ansSubmission.config(command=displayAns)
         ansEntry.focus()
         root.bind("<Return>",displayAns) #Return
@@ -384,7 +388,9 @@ def playFavorites(*args):
     loadSelectedFile()
 
 def removeFavorite():
-    with open(str(p/f"Rounds"/"Favorites.txt"),'w',encoding='utf-8') as out: out.write("\n".join({*open(str(p/f"Rounds"/"Favorites.txt"),encoding='utf-8').read().splitlines()} - {LASTEXTRACTED[0][:-1]} ))
+    curFavorites = {*open(str(p/f"Rounds"/"Favorites.txt"),encoding='utf-8').read().splitlines()}
+    with open(str(p/f"Rounds"/"Favorites.txt"),'w',encoding='utf-8') as out: 
+        out.write("\n".join(curFavorites-{LASTEXTRACTED[0][:-1]}))
 
 def setRoundName(n):
     playFavoritesBtn.grid_remove()
@@ -533,9 +539,13 @@ readNext=ttk.Button(topFrm, text="Read Question", command=reset)
 readNext.grid(column=0, row=0, sticky=W)
 skipQuestionBtn=ttk.Button(topFrm,text="Skip Question",command=skipQuestion)
 skipQuestionBtn.grid(column=1,row=0,sticky=W)
+hideOnBuzz = IntVar()
+hideOnBuzz.set(0)
+hideOnBuzzChk = ttk.Checkbutton(topFrm,text="Hide question on buzz", variable=hideOnBuzz)
+hideOnBuzzChk.grid(column=2,row=0, sticky=W)
 topFrm.grid(row=0,column=0,sticky=W)
 q=ttk.Label(questionFrame,text=CURQ,wraplength=990)
-q.grid(row=1,column=0,sticky=(EW))
+q.grid(row=1,column=0,sticky=(W))
 q.config(font=("Courier",16))
 questionFrame.grid(row=0,column=0,sticky=W)
 questionFrame.grid_remove()
